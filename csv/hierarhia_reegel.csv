@@ -1,0 +1,3969 @@
+id,sona,hierarhia_id,sort
+1,(?) Kaevul kosija,8,2
+2,Kaeval kosija,8,2
+3,Kaevul,8,2
+4,Kaevul kosija,8,2
+5,Kaevul kosilane,8,2
+6,Kaevul kosija (NB!),8,2
+7,Kaevul kosimine,8,2
+8,Kaevul kosja,8,2
+9,(?)Salme,127,2
+10,Salme,127,2
+11,Loomine,123,2
+12,Loomise laul,123,2
+13,Harja otsimine,124,2
+14,Harja otsimine.,124,2
+15,Ilma tütar,128,2
+16,Ilma neitsi,128,2
+17,Ilmaneiu,128,2
+18,Ilma neiu,128,2
+19,Ilus tütar ilma veere peal,128,2
+20,Ilmatütar,128,2
+21,Kuldnaine,129,2
+22,Loomiselaul,123,2
+23,Loomislaul,123,2
+24,Mõõk,125,2
+25,Mõõk - sõda,156,2
+26,Mõõk meres,125,2
+27,Kadri l.,202,2
+28,Kadri laul,202,2
+29,Kadri mangumine,203,2
+31,Kadrisandi l.,202,2
+32,Kadrisandi laul,202,2
+33,Kadrisant,203,2
+34,Kadrisantide l,202,2
+35,Kadrisantide laul,202,2
+36,Kadrisantide tänamine,204,2
+37,Kadri minemise laul,204,2
+38,Kadrina kuningas,252,2
+39,Kadrilaul,202,2
+40,Kiigele jooksmine,265,2
+41,Mõõk merest,125,2
+42,Kiige kidisemine,288,2
+43,Kiige kiunumine,288,2
+44,Kiige katsumine,267,2
+45,Kiigele mune,258,2
+46,(Suur härg?),126,2
+47,Suur härg,126,2
+48,Kiik kidiseb - tahab andeid,288,2
+49,Kiik kidiseb - tahab kindaid,288,2
+50,Kiik kidiseb (tahab kindaid),288,2
+51,Suu härg,126,2
+52,Kiigele kartlik,270,2
+53,Suur härg.,126,2
+54,Kiigele tooja ei too mune,259,2
+55,Kiigele tulejal ei ole muna,259,2
+56,Kiigele tuleja ilma külakostita,259,2
+57,Suur härg - härja tapp,126,2
+58,Kiik kiunub,288,2
+59,Suur tamm,134,2
+60,(?) Tamm,134,2
+61,Tamm,134,2
+62,Mardi laul,190,2
+63,Mardialul,190,2
+64,Mardil.,190,2
+65,Mardilau,192,2
+66,Mardilaul,190,2
+67,Mardisandi l.,190,2
+68,Mardisandi laul,190,2
+69,Mardisandilaul,190,2
+70,Mardisantide laul,190,2
+71,Karskuse õpetus,327,2
+72,Meri - tamm,279,2
+73,Karskuseõpetus neiule,327,2
+74,Ollest tamm,134,2
+75,Saar tamm,134,2
+76,Suur tamm.,134,2
+77,Tähemõrsja,127,2
+78,Karskuseõpetus,327,2
+79,Venna otsija,130,2
+80,Venna otsimine,130,2
+81,Venna otsija/Uppunud vend,130,2
+82,Uppunud vend (venna otsija),130,2
+83,Karske neiu.,334,2
+84,Karske neiu,334,2
+85,Uppund vend,130,2
+87,Uppunud vend,130,2
+88,Ristitud mets,141,2
+89,Kolm kotkast,184,2
+90,3 kotkast,184,2
+91,Kee pada,339,2
+92,Keeda putru,342,2
+93,Ketilaul - Onnimanni,326,2
+94,Kett,343,2
+95,Kits karja,343,2
+96,Kiri kits,343,2
+98,Kits kile karja,343,2
+99,Kits - krapp,347,2
+100,Kits (krapp),347,2
+101,"Kits, karja",343,2
+102,Karja-kits,349,2
+103,Karjakits,349,2
+104,Kits,347,2
+105,Kits ja perenaine,349,2
+106,Kits kilu karja,343,2
+107,Kits metsa,343,2
+108,Kits tahab heinu,349,2
+109,Kits teile karja,343,2
+110,Kits-krapp,347,2
+111,"Kits, krapp",347,2
+112,Kitse krapp,347,2
+113,Üks pole ühte,351,2
+114,Kallis kiik,297,2
+115,Kallis neiu kiigel,270,2
+116,Kehvad kiigesepad,304,2
+117,Kiiga katsumine,267,2
+118,Kiige all kenad poisid,260,2
+119,Kiige katsumine - kiik kitsas,175,2
+120,Kiige kiitmine,296,2
+121,Kiige kiitus,298,2
+122,Kiige laul,255,2
+123,Kiige tegemine,304,2
+124,Kiige toomine,294,2
+125,Kiige ärasaatmine,316,2
+126,Kiigel kartlik,270,2
+127,Arg kosilane,144,2
+128,Kiigelaul,255,2
+129,Kiigele ehtimine,261,2
+130,Kiigele kutse,257,2
+131,Arg kosilane - püssil,144,2
+132,Arg kosija,144,2
+133,Arg kosilane ?,144,2
+134,Arg peig,144,2
+135,Kiik halval kohal,304,2
+136,Arg peiu,144,2
+137,Arg poiss,144,2
+138,Kiigelekutse,258,2
+139,Kiigemaa otsimine,358,2
+140,Ema müüs tütreid,159,2
+141,Hiie noormees,135,2
+142,Hiie noorem poeg,135,2
+143,Hiie noorem peeg,135,2
+144,Hiie noorem vend,135,2
+146,Hiie kaudu,135,2
+147,Hiie poeg,135,2
+148,Hiielaul,135,2
+149,Kosilane kaevul,8,2
+150,Kosilane kaevul.,8,2
+151,Kosilased kaevul,8,2
+152,Kiigepäevad mööda,315,2
+153,Lunastatatav neiu,142,2
+154,Küsimused,360,2
+155,Lunastatav naine,142,2
+156,Lunastatav neiu,142,2
+157,Lunastatav neiu - sõjast,142,2
+158,Kolm metsa,352,2
+159,Kiigutage tasa,286,2
+160,Kiigutaja palk,284,2
+161,Lunastatav neiu (C),159,2
+162,Lunastatav neiu.,145,2
+163,Kiik aita,314,2
+164,Lunastatav õde,142,2
+165,Lunastetav neiu,142,2
+166,Mareta,140,2
+167,Mareta laps,140,2
+168,Mareta laul,140,2
+169,Mareta poeg,140,2
+170,Maretalaul,140,2
+171,Liiri lõõri,363,2
+172,Liiri-lõõri,363,2
+173,Liiri- lõõri,363,2
+174,Liiri-lõõri lõokene,363,2
+175,"Liiri, lõõri",363,2
+176,"Liiri, lõõri lõokene",363,2
+177,Mehetapja,149,2
+178,Mehetapja Mai,149,2
+179,Maie,149,2
+180,Maie l,149,2
+182,Maie l.,149,2
+183,Maie laul,149,2
+184,Maielaul,149,2
+185,4 metsa,364,2
+186,Mis mees merest tõuseb,131,2
+187,Kuldmees,131,2
+188,"Kuld-, hõbe- jne. mees",131,2
+189,"Kuld, hõbe jne. mees",131,2
+190,Müüdud neiu,145,2
+191,Miks müüsid tütreid,159,2
+192,Naisetapja,148,2
+193,Naisetapja Toomas,148,2
+194,Toomas naisetapja,148,2
+195,Tooma laul,148,2
+196,Toomalaul,148,2
+197,Nuttev tamm,133,2
+198,Nuttev tamm.,133,2
+199,Nõmme poeg,137,2
+200,Nõmmepoeg,137,2
+201,Pea piiramine,139,2
+202,Pea pesemine,139,2
+203,Peapiiraja,139,2
+204,Pea piiraja,139,2
+205,Peiu laev,143,2
+206,Kalmuneid,371,2
+207,Kalmuneiu,371,2
+208,Kalmumine,371,2
+209,Roo robina,138,2
+210,Roos robin,138,2
+211,Suisa suud,136,2
+212,Tütar vette,158,2
+213,Tütar vette!,158,2
+214,Ema ei viinud vette,158,2
+215,Tütart vette,158,2
+216,Tütred vette,146,2
+217,Tütarde tapja,146,2
+219,Ehted kadunud,173,2
+220,Ehted riisutud,174,2
+221,Ehted kadunud (riisutud),173,2
+222,Ehted katki,175,2
+223,Ehted riisutud.,174,2
+224,Ehted röövitud,176,2
+225,Ehted varastatud,176,2
+226,"Neiu kodu kaebamas, et ehted katki",175,2
+227,Sõrmus kadunud,372,2
+228,Sõrmus varastatud,372,2
+229,Haned kadunud,168,2
+230,Kas hani nägite,168,2
+231,Haned kadund,168,2
+232,Hobune murtud,171,2
+233,Hobune varastatud,170,2
+234,Hobune kadund,373,2
+235,Hobune kadunud,373,2
+236,Hobune varastet,170,2
+237,Varastatud hobune,170,2
+238,Hobuse ostjad,186,2
+239,Hobu varastatud,170,2
+240,Hobuse ostja,186,2
+241,Kari kadunud,167,2
+242,Kari kadunud / arul,167,2
+243,Kari kadunud.,167,2
+244,Karja kauplejad,166,2
+245,Karja kaupleja,166,2
+246,Kari kadund,167,2
+247,Karja (müümine) kauplemine,166,2
+248,Teomees ja kubjas -,179,2
+249,Laevapuu,164,2
+250,Laevapuu ostmine,164,2
+251,Laevapuu otsimine,164,2
+252,Neiu põld,178,2
+253,Neiu küsib vennalt maad,178,2
+254,Neiu palub vennalt maad,178,2
+255,Õde palub vennalt maad,178,2
+256,Osmi haigus,160,2
+257,Põll põrmune,172,2
+258,Põll põrmus,172,2
+259,Püha putke lõikaja,163,2
+260,Veeteele viibinud,165,2
+261,Kaua veeteel viibinud,165,2
+262,Veeteel viibinud,165,2
+263,Veetooja,165,2
+265,Veetoomine.,165,2
+266,Veetoomine,165,2
+267,Venna kirvehaav,161,2
+268,Venna kirvehaav - ei saa kustki abi,161,2
+269,Vikat haavab venna,162,2
+270,Vikati sajatus,162,2
+271,Viru sepp,187,2
+272,Venna sõjalugu,153,2
+273,Venna sõja laul,153,2
+274,Venna sõjal.,153,2
+275,Venna sõjalaul,153,2
+276,Venna sõjalaul?,153,2
+277,Jeesuse surm,181,2
+278,Jeesuse näljasurm,182,2
+279,Maarja otsib poega,183,2
+280,Maarja otsib Jeesust,183,2
+281,Ori taevas,180,2
+282,Ori taevas.,180,2
+283,Võõras palub luba laulda,154,2
+284,Paista päev,322,2
+285,Paista päev!,322,2
+286,Palav rikub palge,325,2
+287,Päevad palavad,325,2
+288,"Paista, päev!",322,2
+289,Päev soeb sulaste päid,366,2
+290,Kolm järve,375,2
+291,Kolm õunapuud,365,2
+292,Õunapuu,365,2
+293,Õunapuu õues,365,2
+294,Õunapuud,365,2
+295,Kosjahobune,361,2
+296,Mõistatus,377,2
+297,Mõistatus - kuu,377,2
+298,Mõistatus viljadest,377,2
+299,Mõistatus viljast,377,2
+300,Mõistatus: mesilane,377,2
+301,Mõistatus.,377,2
+302,Mõistatuse laul,377,2
+303,Mõistatused,377,2
+304,Mõistatused vilja kohta,377,2
+305,Mõistatuselaul,377,2
+306,Mõistatusi,377,2
+307,"Mõistatusl. - jänes, orav jne.",377,2
+308,Mõistatusl.: Kes haaviku emand,377,2
+309,Mõistatuslaul,377,2
+310,Mõistatuste laul,377,2
+311,Puude mõistatus,377,2
+312,Vikerkaari mõistatus,377,2
+313,Viljade mõistatus,377,2
+314,Viljamõistatus,377,2
+315,Kada ajamine,222,2
+316,Liugu laskma,215,2
+317,Liugu laskmas.,215,2
+318,Liugulaskmise l.,215,2
+319,Liulaskmise laul,213,2
+320,Liulaskmiselaul,213,2
+321,Liulaskmislaul,213,2
+322,Vastlal,217,2
+324,Vastlamäng,217,2
+325,Kulla kulumine,283,2
+326,Ei ole kiigele mune tuua,259,2
+327,Ei ole muna kiigele tuua,259,2
+328,Ei too muna kiigesepale,259,2
+329,Pole muna kiigele toonud,259,2
+330,Pole muna kiigele tuua,259,2
+331,Pole muna toonud kiigesepale,259,2
+332,Pole muna toonud kiigele,259,2
+333,Pole muna kiigele viia,259,2
+334,Ilus neiu kiigel,272,2
+335,Ilus neiu kiigel juukseid lõikamas,272,2
+336,Kingitused kiige sepale,284,2
+337,Kingitused kiigele,284,2
+338,Kingitused kiigesepale,284,2
+339,Kingitused kiigeseppadele,284,2
+340,Kirp kiigel,313,2
+341,Kirp kiigele,312,2
+342,Kullad ei kulu kiigel - sepp kodus,283,2
+343,Pole ehteid kiigele minna,263,2
+344,Tore neiu kiigel,272,2
+345,Neiu ehib kiigele,261,2
+346,Kutse kiigele,257,2
+347,Mis kiigelt näha,275,2
+348,Kiik kitsas,305,2
+349,Kitsas kiik,305,2
+350,Kiik hääl kohal,303,2
+351,Kiik heal kohal,303,2
+352,Kiik kõrgele,273,2
+353,Kiik kidiseb,289,2
+354,Kiik kiiksub,289,2
+355,Jaanitulele,228,2
+356,Jaanitulele kutse,228,2
+357,Kutse jaanikule,228,2
+358,Kutse jaanitulele,228,2
+359,Jaanipäeva ootamine,227,2
+360,Mardi sõim,190,2
+361,Hingesantide laul,189,2
+362,Nääride laul,207,2
+363,Tabani hobu,206,2
+364,Tabani laul,206,2
+365,Jõuaks jõulud,209,2
+366,"Jõudke, jõulud",209,2
+367,"Jõudke, jõulud!",209,2
+368,"Jõudke, jõulukesed",209,2
+369,Jõulude igatsus,209,2
+370,Jõulude ootamine,209,2
+371,Jõulude ootus,209,2
+372,Jõululaul,210,2
+373,Jõululaupäeva tööd,210,2
+374,Sulane igatseb jõuluid,209,2
+375,Pühad teevad särgid mustaks,247,2
+376,Püha lehe lõikamisest haige,163,2
+377,Püha lehe lõikamisest haige.,163,2
+378,Pühade ootamine,225,2
+379,Pühade ootus,209,2
+380,Ära pühal püüa naist,378,2
+381,Ära kosi pühal,378,2
+382,Ära püüa pühal naist,378,2
+383,Ära võta pühal naist,378,2
+384,Ära püüa pühal ja mõisanaist.,378,2
+385,Ära pühal püüa naist.,378,2
+386,Ära kosi pühal naist,378,2
+387,Nõelamäng,367,2
+388,Nõela mäng,367,2
+389,Pajamäng,338,2
+390,Pajamäng.,338,2
+391,(?) Leigeri mäng,379,2
+392,Aia mäng,380,2
+393,Aiamäng,380,2
+394,Haavamäng,381,2
+395,Hanemäng,382,2
+396,Hobuse mäng,383,2
+397,Hobusemäng,383,2
+398,Hobusemäng?,383,2
+399,Hobuse otsija mäng,383,2
+400,Hobuseotsija mäng,383,2
+401,Hundi ja lamba mäng,384,2
+402,Hundimäng,384,2
+403,Jänese mäng,380,2
+404,Kandlitegemise mäng,385,2
+405,Karu mäng,386,2
+406,Karumäng,386,2
+407,Kassi mäng,387,2
+408,Kassimäng,387,2
+409,Kaubamäng,388,2
+410,Kaubaostmise mäng,388,2
+411,Kindel ait - aiamäng,384,2
+412,Kootskulli mäng,389,2
+413,Kosjamäng,390,2
+414,Kulli mäng,389,2
+415,Kullimäng,389,2
+416,Kullimängulaul,389,2
+417,Kuninga mäng,391,2
+418,Kuningamäng,391,2
+419,Kuutskulli mäng,389,2
+420,Kuutskullimäng,389,2
+421,Kõveriku mäng,392,2
+422,Kündja mäng,393,2
+423,Laeva mäng,394,2
+424,Laevamäng,394,2
+425,Lamba mäng,384,2
+426,Lambamäng,384,2
+427,Leigari mäng,379,2
+428,Leigarimäng,379,2
+429,Leikari mäng,379,2
+430,Leikarimäng,379,2
+431,Leikarite mäng.,379,2
+432,Lekkeri mäng,379,2
+433,Leina mäng,395,2
+434,Leinamäng,395,2
+435,Linna mäng,388,2
+436,Linnamäng,388,2
+437,Linnu mäng,380,2
+438,Linnumäng,380,2
+439,Lotsmanimäng,396,2
+441,Lõikajate mäng,379,2
+443,Läbikäimise mäng,397,2
+444,Läbipugemise mäng,397,2
+445,Midrilinnu mäng,380,2
+446,Midrilinnumäng,380,2
+447,Mu õekese mäng,398,2
+448,Mäng: Suur lammas,400,2
+449,Naeri mäng,401,2
+450,Naerimäng,401,2
+451,Naerivargamäng,401,2
+452,Nairi mäng,401,2
+453,Nuku mäng,395,2
+455,Nukumäng,395,2
+456,Neiu sõrmehaava mäng,381,2
+457,Oldermani mäng,399,2
+458,Oldermanimäng,399,2
+459,Oldermanni mäng,399,2
+460,Oldermanni ringmäng,399,2
+461,Oldermannimäng,399,2
+462,Ollermanni mäng,399,2
+463,Paja laenamise mäng,338,2
+464,Paja mäng,338,2
+465,Pandi mäng,391,2
+466,Pandimäng,391,2
+467,Pruudi ehtimise mäng,399,2
+468,Peiu ja pruudi mäng,402,2
+469,Neiu valimise mäng,403,2
+470,Pruudi valimise mäng,403,2
+471,Pruudi ja peigmehe mäng,402,2
+472,Rikka ja vaese mäng,404,2
+473,Rikka ja vaese mäng (Vouli),404,2
+474,Pime kukke mäng,405,2
+475,Pulmamäng,404,2
+476,Rebasemäng,406,2
+477,Rongimäng,407,2
+478,Seamäng,408,2
+479,Seatapmise mäng,408,2
+480,Sergeri mäng,379,2
+481,Siamäng,408,2
+482,Siimani mäng,407,2
+483,Siimanimäng,407,2
+484,Siimanni selli mäng,407,2
+485,Siimu mäng,407,2
+486,Siimu sulase mäng,407,2
+488,Siimusulase mäng,407,2
+489,Siimusulasemäng,407,2
+490,Sikamäng,409,2
+491,Sõela mäng,410,2
+492,Sõelalaenamise mäng,410,2
+493,Sõelamäng,410,2
+494,Sõelumise mäng,410,2
+495,Sõjamäng,411,2
+496,Telutegemise mäng,411,2
+497,"Tii, tii tigane - mäng",412,2
+498,Vasikamäng,396,2
+499,Vile mäng,413,2
+500,Vilemängija,413,2
+501,Värava mäng,414,2
+502,Väravamäng,414,2
+503,Ätse mäng,415,2
+504,Ätsemäng,415,2
+505,Ätsese mäng,415,2
+506,"Laisad tüdrukud, nobedad tantsima.",416,2
+507,Laisk ketraja - nobe tantsima,416,2
+508,Laisk neiu - nobe tantsima,416,2
+509,Laisk neiu (tööl ja tantsul),416,2
+510,Laisk peretütar - nobe tantsima,416,2
+511,Laisk tööl - nobe tantsule,416,2
+512,"Laisk tööle, nobe tantsima",416,2
+513,Laisk tüdruk nobe tantsima,416,2
+514,Laisk tüdruk tööl ja tantsul,416,2
+515,Neiu tantsul ja tööl,416,2
+516,Neiu tööl ja tantsul,416,2
+517,"Nobe tantsija, aga laisk neiu",416,2
+518,Nobe tantsima - muidu laisk,416,2
+519,"Nobe tantsima, laisk tööle",416,2
+520,Nurka noormehed - vend tuleb tantsima,417,2
+521,"Nurka noormehed, vend tuleb tantsima",417,2
+522,Vend tuleb tantsima,417,2
+523,Ristitants,418,2
+524,Ristitantsulaul,418,2
+525,Tamm läheb tantsima,419,2
+526,Tamm tantsib,419,2
+527,Tamm tantsima,419,2
+528,Tamme tantsimine,419,2
+529,Imed: taevas tantsib,420,2
+530,Taevas tantsib,420,2
+531,Taevas tantsima,420,2
+532,Taevas tantsis,420,2
+533,Tantsi tammekene,419,2
+534,Taevas tantsis.,420,2
+535,Tantsulaul Siimu sulane.,407,2
+536,Ei ole tantsijat,422,2
+537,Ei ole tantsitajat,422,2
+538,Tantsige tasa,424,2
+539,"Tantsi, ära määri ehteid",426,2
+540,Tantsitage tasa,424,2
+541,Tantsi tasa,424,2
+542,Tantsin pillitagi,428,2
+543,Põrand tahab tantsimist,434,2
+544,Tantsule kutse,437,2
+545,Tasa tantsitage,424,2
+547,Tantsu luba küsimine,443,2
+548,Tänu söögi eest,453,2
+549,Talguliste tänu söögist,453,2
+550,Tänu söögi eest?,453,2
+551,Koka kiitus,454,2
+552,Koka kiitus.,454,2
+553,Pidu lõpeb,456,2
+554,Pidu otsas,456,2
+555,Peolt koju,455,2
+556,Küla ütles,458,2
+557,Ei laula rahata,459,2
+558,3 metsa,352,2
+559,Laula laps,465,2
+560,Arg laulik,466,2
+561,Arg laulik - kardab kodu,466,2
+562,Arg laulik - karda mõisat,466,2
+563,Arg laulik - kardab küla,466,2
+564,Arg laulik - kardab mõisat,466,2
+565,Arg laulik kardab mõisat,466,2
+566,Arglik laulik,466,2
+567,Ahellaul:Memm läks aita,468,2
+568,Ei laula teie vastu,469,2
+569,Ei ole lauljat hulgas,472,2
+570,Ei ole hulgas lauljaid,472,2
+572,Ei ole hulgast lauljat,472,2
+573,Ei ole hulgas lauljat,472,2
+576,Ei tohi laulda sakste pärast,466,2
+577,Halb ja hää laulja,476,2
+578,Halb laulik,476,2
+579,Halb laulja,476,2
+583,Ei ole lauljat,471,2
+584,Ei ole lauljaid hulgas,471,2
+585,Imelik laulik,491,2
+586,Endine hääl,494,2
+587,2 vaestlast,515,2
+588,Hea hääl,494,2
+590,Hää hääl,494,2
+591,Hääle ostmine,517,2
+592,Hääl ära viidud,519,2
+593,Hääle otsimine,519,2
+594,Ostetud hääl,517,2
+595,Tore tants,419,2
+596,Telu tegemine,411,2
+597,Tees-telu,411,2
+598,Telutegemine,411,2
+599,Teestelu,411,2
+600,Pill ei toida peret,529,2
+601,Pill ei toida,529,2
+602,Puhu pilli,532,2
+603,Pill hele pedajane,534,2
+604,Pillisepp,539,2
+605,Karjase pühapäev,555,2
+606,Viibisin vilet ajama,413,2
+607,"Veere, päev",251,2
+608,Tütarte tapja,146,2
+609,Tütarde tapmine,146,2
+610,Taar hapnema,580,2
+611,Taar - Õlu,580,2
+612,Taari laul,580,2
+613,Taar õlleks,580,2
+614,Taari tegemine,580,2
+615,Taar,580,2
+616,Orja pühapäev,584,2
+617,Nädalapäevad,602,2
+618,Meie ja teiste poisid jaanipäeval,604,2
+619,Meie ja teie poisid jaanipäeval,604,2
+620,Meie ja muude poisid jaanipäeval,604,2
+621,Laupäeva õhtu,606,2
+622,Igapäev peksa,607,2
+623,Joodiku nädalapäevad,608,2
+624,Joodiku nädalapäevad.,608,2
+625,Kuu,611,2
+626,Kuu tõuseb Kuura jõest,321,2
+627,Kuu teretamine,611,2
+628,Sada vihm,621,2
+629,3 kingad,623,2
+630,3 kubja tütart,624,2
+631,3 kupja tütart,624,2
+632,3 aita,568,2
+633,3 hälli,625,2
+634,3 kätkit,625,2
+635,3 halba,626,2
+636,Ilm udune,636,2
+637,Ilm udune tülidest,636,2
+638,Ilm udune tülist.,636,2
+639,"Ilm udune, et sugulased taplevad",636,2
+640,"Ilm udune, et suguvõsa riidleb",636,2
+641,Ilm udune tülist,636,2
+642,Pere tülitseb - ilm udune,636,2
+643,Taevas udune tülist,636,2
+644,Roostetanud kurk,497,2
+645,Üle vihm vaesestlapsest,618,2
+646,Üle vihm vaesest lapsest,618,2
+647,"Tuul, ära puhu",645,2
+648,Tuulest hobu,657,2
+649,Tuulest hobune,657,2
+654,Kevad,691,2
+655,Kevade,691,2
+656,Helise mets,696,2
+657,Helise metsa,696,2
+658,Hiir metsa,713,2
+659,Hiire metsa,713,2
+660,Ilus metsas elada,717,2
+661,Kilk (~ hiir) metsa,713,2
+662,Kari metsa,715,2
+663,Kosilased metsast,728,2
+664,Kuldne mets,717,2
+665,Lauldes läbi metsa,730,2
+666,Mehed kui metsapullid,733,2
+667,Metsa murd,495,2
+668,Metsas pulmad,355,2
+669,Metsast mehele,355,2
+670,Neiu kutsub poisi metsa,756,2
+671,Neiu kutsub poisid metsa,756,2
+672,Neiu kutsub poisse metsa,756,2
+673,Neiu meelitab poisid metsa,756,2
+674,Neiu kutsub poissa metsa,756,2
+675,Neiu meelitab poisse metsa,756,2
+676,Neiu kutsub poissi metsa,756,2
+678,Petis poiss kutsub neiu metsa,332,2
+679,Pulmad metsas,355,2
+680,Tüdruk kutsub poisi metsa,756,2
+681,Tüdruk kutsub poisid metsa,756,2
+682,Tüdruk kutsub poisse metsa,756,2
+683,Võine mets,767,2
+684,Õllest mets,674,2
+685,Õllekann metsa visatud,674,2
+686,Vitsast mets,674,2
+687,(?) Sõõrumäele,773,2
+688,Sõidaksin Sõõrumäele,773,2
+689,Sõõrumäele,773,2
+690,Puud ei ole ühepikad,714,2
+691,Tarbepuude raiumine,362,2
+692,Kased kasvama,744,2
+693,Odra ja kaera sajatus,780,2
+694,Odra ja kaera tüli,780,2
+695,Oksad oravaid täis,723,2
+696,Peiu kündmas - neiu marjul,790,2
+697,"Peiu kündmas, neiu marjul",790,2
+698,Peiu künnab - neiu marjul,790,2
+699,Neiu viib poisile marju,790,2
+700,"Poiss künnab, neiu marjul",790,2
+701,"Poiss künnab, tüdruk karjas, korjab marju.",790,2
+702,Tütar ilus - ema marju söönud,786,2
+703,Tütar madal - ema marju söönud,787,2
+704,"Tütar madal, ema marju söönud",787,2
+705,Härjad murtud,169,2
+706,3 õuna,791,2
+708,Ladvad lindudele,776,2
+709,Lind lohutamas,794,2
+710,Lind poegi haudumas,796,2
+711,Värav,414,2
+712,Värav katki,414,2
+713,Kull kutsumata,797,2
+714,Kootskull,389,2
+715,Kull,389,2
+716,Kuuts kull,389,2
+717,Kuutskull,389,2
+718,Kuutskull (Liiri-lõõri),363,2
+719,Lobi - kullipesa,363,2
+720,Kolm kägu,800,2
+721,Mõistu küsimused,351,2
+722,Sulane lahkub,703,2
+723,Sulane lähab ära,703,2
+724,Sulane läheb ära,703,2
+725,Sulane läheb ära - Sulane lahkub,703,2
+726,Sulane läheb ära.,703,2
+727,Hollandi sulane,639,2
+728,Hollandi sulane (?),639,2
+729,Hollandi sulane.,639,2
+730,Hollandi sulase,639,2
+731,Joodiku hobune,510,2
+732,Joodiku hobu,510,2
+733,Eksinud: must naine,542,2
+734,Must naine,542,2
+735,Must naine (rumal naine),542,2
+736,Must naine sipelgapesas,542,2
+737,Must naine sipelgapessa,542,2
+738,Must naine.,542,2
+739,Musta naise tapmine,542,2
+740,Must ja rumal naine,542,2
+741,Musta naise pesemine,542,2
+742,Mustad meremehed,809,2
+743,2 musta naist,542,2
+744,Vara tõusis varaseke / Varane vaenelaps,810,2
+745,Pisike punane põrsas,811,2
+746,Pisike punane porsas,811,2
+747,Pisike põrsas,811,2
+748,Pisikene põrsas,811,2
+749,Hällülaul,255,2
+750,Hällilaul,815,2
+751,Hälli laul,815,2
+752,Hällilaul härra pojale,815,2
+753,Kuhu pean mina minema,576,2
+754,Kuhu pean mina minema?,576,2
+755,Kuhu pean minema,576,2
+756,Kuhu pean minema?,576,2
+757,Kuhu pean minema.,576,2
+758,Kuhu pian minema,576,2
+759,Kuhu pean pesa tegema,774,2
+760,Kägu kukub,793,2
+761,Kägu,793,2
+762,Kägu kukub karjasele,793,2
+763,Käokiri,804,2
+764,Käo laul,504,2
+765,Käo saamine,504,2
+766,Käo kiri,804,2
+767,Aia auk,820,2
+768,Aia-auk,820,2
+769,Ahell.: Teter Mats,326,2
+770,"Ani, ani valge",382,2
+771,4 neiut,518,2
+772,4 neidu,518,2
+773,4 neida,518,2
+774,4 neidu.,518,2
+775,4 neitsit,518,2
+776,4 neidu - ait,518,2
+777,Rikas hüüab reeks,835,2
+778,Rikas ütleb reeks,835,2
+779,Rikas ütleb reerks,835,2
+780,Rikas sõimab reeks,835,2
+781,Kurb laulik,839,2
+782,Kus istun - iken,761,2
+783,Kus istun - iken.,761,2
+784,Kosjahobu söötmine,819,2
+785,Kosjahoba söötmine,819,2
+786,Kosjahobu söötmine - kosja,819,2
+787,Kosjahobuse söötmine,819,2
+788,Kosjahobu söötmine.,819,2
+789,Kosjahobu söötmine (Kosjateel),819,2
+790,Kosjahobu söötmine?,819,2
+791,Kosja hobu söötmas,819,2
+792,Ahellaul,841,2
+793,Asjata kasvatus,875,2
+794,Asjatu kasvatus,875,2
+795,Kasvatus asjata,875,2
+796,Eide kasvatus asjata,875,2
+797,Ema kasvatus asjata,875,2
+798,Kasvatus asjata.,875,2
+799,Kasvatus asjatu,875,2
+800,Palju peetud neiud,450,2
+801,Peetud neiu,450,2
+802,Peetud neiud,450,2
+803,Ema haual,473,2
+804,Ema haual.,473,2
+805,Kaks vaestlast ühes,515,2
+806,Kaks vaeslast,515,2
+807,Kaks vaeslast?,515,2
+808,Kaks vaestlast,515,2
+809,Kaks pulli - kaks vaestlast,515,2
+810,Sõja l,153,2
+812,Sõja l.,153,2
+813,Sõja laul,153,2
+814,Sõjalaul,153,2
+815,(Ilus neiu) Mesi meeste meelest ?,877,2
+816,Mesi meeste meelest,877,2
+817,Varese munad,796,2
+818,Vares vaakus,796,2
+819,Vares ootab hobuse surma,962,2
+820,Vares muneb,796,2
+821,Vares ootab hobu surma,962,2
+822,Vares ootab hobuse surma.,962,2
+823,Tänu kokale,454,2
+824,Koka kiitmine,454,2
+825,Rõõmus nekrut,852,2
+826,Mere kündmine,704,2
+827,Unes mere kündmine,704,2
+828,Miks ei mullu tulnud,711,2
+829,Miks mullu ei tulnud,711,2
+830,Miks ei mullu tulnud?,711,2
+831,Miks ei mullu tulnud.,711,2
+832,Oleks mullu tulnud,711,2
+833,Imetegija,825,2
+834,Imetegija?,825,2
+835,Nuttev tamm?,133,2
+836,Imed,552,2
+837,Imed.,552,2
+838,Neiu küla - imed,552,2
+839,Palve sakstele,862,2
+840,Orja palve,770,2
+841,Palve kupjale,369,2
+842,Palve kupjale: lase lapsed lõunale,369,2
+843,Palve kubjale,369,2
+844,Palve saksteke,862,2
+845,Palve sakstele.,862,2
+846,Palved sakstele,862,2
+847,Palve kupjale: lase lapsed lõunale!,369,2
+848,Palve sakstele - kättemaks sakstele,862,2
+849,Palve,862,2
+850,Tõbine naine,861,2
+851,Hiie laul,135,2
+852,Isa hoidis lastele hiiesid,722,2
+853,Sala läbi Hiie õue,135,2
+854,Hiielt sala läbi,135,2
+855,Kättemaks,474,2
+856,Kättemaks sakstele,474,2
+857,Kättemaks sakstele.,474,2
+858,Kättemaksmine sakstele,474,2
+859,Kättemaksmine saksele,474,2
+860,Kättemaksmine,474,2
+861,Kättemaks sakstele (saksad santima),474,2
+862,Kubjas mõõtis suure tüki,912,2
+863,Saks ei luba naist,888,2
+864,Küla ütleb paljusööjaks,889,2
+865,Suur sööja,889,2
+866,Liigasööja,889,2
+867,Liigasööja sulane,889,2
+868,Paljusööja,889,2
+869,Palju sööja,927,2
+870,Süüdistatakse paljusööjaks,889,2
+871,Üteldakse liigasööjaks,889,2
+872,Paljusööja.,889,2
+873,Liigsööja,889,2
+874,Külla sööja,927,2
+875,Liia sööja,927,2
+876,Liiasööja,927,2
+877,Liiga sööja,889,2
+878,Tilluke teopoiss,891,2
+879,Tilluke teomees,891,2
+880,Tillukene teomees,891,2
+881,Tillukene teopoiss,891,2
+882,Vaene varblane,944,2
+883,Varblane,944,2
+884,Varblane teiste tüliks,944,2
+885,Varblase laul,944,2
+886,Kodu jääb tütart nutma,572,2
+887,Odavad neiud,967,2
+888,Odav neiu hind,967,2
+889,Memme vaev,817,2
+890,Pisut sain memme piima,817,2
+891,Humal,763,2
+892,Tee ilu,970,2
+894,Hea laulda õhtul?,746,2
+895,Ilus õhtul,746,2
+896,Ilus õhtul laulda,746,2
+897,Õhtul ilus laulda,746,2
+898,Õhtul hea laulda,746,2
+899,Õhtul ilu,746,2
+900,Õhtul laulmine,746,2
+901,Õhtu ilu,746,2
+902,Õhtu ilu (?),746,2
+903,Õhtul ilu.,746,2
+904,Püssil püüd,12,2
+905,Püssil,12,2
+906,(Neid pole püssil püütav),12,2
+907,Püssi ja paeltega neiusid püüdmas,982,2
+908,Vanapoiste pilge,914,2
+909,Ketra Liisu,985,2
+910,"Ketra, Liisu",985,2
+911,"Ketra, Liisu!",985,2
+912,"Ketra, tütar!",985,2
+913,Ketra Liisi,985,2
+914,Ketra tütar,985,2
+915,Varesele valu,461,2
+916,Tore sõit,826,2
+917,Midrilind,380,2
+918,Imelik maja,647,2
+919,Imelik linn,647,2
+920,Imelik linn (maja),647,2
+921,Neiu (imelik) linn,647,2
+922,Imelik maja (~ linn),647,2
+923,Imelik maja (linn),647,2
+924,Neiu linn,647,2
+925,Rannas saab värsket kala,848,2
+926,Rannanaised söövad head kala,848,2
+927,Täid kaladeks,559,2
+928,Täidest kalad,559,2
+929,Täid - kaladeks,559,2
+930,Täid kalad,559,2
+931,Täid kaladeks.,559,2
+932,Kalamehe naine,993,2
+933,Kalajõgi,514,2
+934,Oleks,915,2
+936,Oleks see mees minul,915,2
+937,Oleks see mees,915,2
+938,Oleks see mees minu,915,2
+939,Oleks see mees meil,915,2
+940,Oleks see mees minul.,915,2
+941,Oleks sa mullu mulle tulnud,711,2
+942,Oleks sa mullu tulnud,711,2
+943,Oleks see mees minula,915,2
+944,Oleks see mees minulla,915,2
+945,Oleks see mees minule,915,2
+947,Oleks see neiu minu,333,2
+948,Oleks see neiu minul,333,2
+949,Oleks see näio minu,333,2
+950,Oleks see neid minu,333,2
+951,Soome sild - oleks see mees minu,915,2
+952,Soome sild - oleks see mees minul,915,2
+953,Pane see tütar mehele,994,2
+954,Pane see tütar minule,994,2
+955,Naine Narvast sureb teel,995,2
+956,Naine suri Narva teele,995,2
+957,Naine Narvast,996,2
+958,Naine kaugelt Narvast,996,2
+959,Narvast naine,996,2
+960,Võtan naise Narvast,996,2
+961,Kaugelt Narvast naine,996,2
+962,Narva neiud,996,2
+963,Narvast naist tooma,996,2
+964,Pisikene naine Narvast,996,2
+965,Mere pühkimine,998,2
+966,Merepühkimine,998,2
+967,Nutust järv,838,2
+968,Pisarate järv,838,2
+969,Pisaratest järv,838,2
+970,Tiik / Nutust järv,838,2
+971,Pisaratest kalajärv,838,2
+972,Kolm välja,376,2
+973,Kosilane korratus talus,999,2
+974,Kosilane laisa talus,999,2
+975,Kosilane laisas peres,999,2
+976,Kosilane laisas talus,999,2
+977,Kubjas ahju,642,2
+978,Siga rikkus Riia,1000,2
+979,Meri - luust sõrmus,571,2
+980,Luust sõrmus,571,2
+981,Meri-luust sõrmus,571,2
+982,Meri-neiu-luust sõrmus,571,2
+983,Meriluust sõrmus,571,2
+984,Meri - sõrmus,571,2
+985,Meri-luust sõrmus.,571,2
+986,"Meri- neiu, luust sõrmus",571,2
+988,"Meri - neiu, luust sõrmus",571,2
+989,Meri - kalaluust sõrmus,571,2
+990,Meri - puu - sõrmus,571,2
+991,Meri - tamm - sõrmus,571,2
+992,"Meri, tamm, kalaluust sõrmus",571,2
+993,Sõrmus,571,2
+994,Kalaluust sõrmus,571,2
+995,Meri ja luust sõlg,571,2
+996,Meri - sõlg,571,2
+997,Meri õue all,1002,2
+998,Meri õues,1002,2
+999,Aidavõti,880,2
+1000,Tütar läheb aita ehtima,880,2
+1001,Aita ehtima,880,2
+1002,Memm läks aita,344,2
+1003,Neiuhulk laiali,673,2
+1004,Neiuhulk laiali.,673,2
+1005,Neiuhulk viidud mehele,673,2
+1006,Neiuhulka laiali,673,2
+1007,Neiuhulk viidud ja kasvamas,673,2
+1008,Neiuhulk kadunud,673,2
+1009,Sirbiviskamine,907,2
+1010,"Sirbiviskamine - Sirise, sirbike",907,2
+1011,Sirise  sirbikene,907,2
+1012,Sirise sirbike,907,2
+1013,Sirise sirbike!,907,2
+1014,Sirise sirbikene,907,2
+1015,"Sirise, sirbike",907,2
+1016,"Sirise, sirbike!",907,2
+1017,"Sirise, sirbikene",907,2
+1018,"Sirise, sirbikene!",907,2
+1019,Hoiatus mõisanaise eest,1004,2
+1020,Hoiatus mõisanaise eest.,1004,2
+1021,Hoiatus mõisanaisest,1004,2
+1022,Hoiatus linna- ja mõisanaisest,1003,2
+1023,Ema ja naise hoolel,1005,2
+1024,Ema ja naise kodus,1005,2
+1025,Parmu matus,516,2
+1026,Neiu ja poisi matus,887,2
+1027,Neiu ja peiu matus,887,2
+1028,Neiu ja vanapoisi matus,983,2
+1029,Neiu matus - peiu matus,887,2
+1030,Neiu matus ja poisi matus,887,2
+1031,Parmumatus,516,2
+1032,Poisi ja neiu matus,887,2
+1033,Peiu matus - neiu matus,887,2
+1034,Peiu ja neiu matus,887,2
+1035,Poisi matus - neiu matus,887,2
+1036,Vanatüdruku ja vanapoisi matus,983,2
+1037,Vanapoisi ja -tüdruku matus,983,2
+1038,Peiu matus,887,2
+1039,Poisi matus,887,2
+1040,Poiste matus,887,2
+1041,Vanapoisi ja vanatüdruku matus,983,2
+1042,Neiu ja peiu matmine,887,2
+1043,Neiu ja poisi matmine,887,2
+1044,Meie ja teie poisid,604,2
+1045,Meie ja teie noored mehed,604,2
+1046,Meie ja teie poisid kirikuteel,604,2
+1047,Meie ja teie küla poisid,604,2
+1048,Meie ja teie noored poisid,604,2
+1049,Meie ja teie mehed,604,2
+1050,Meie ja teie nooredmehed,604,2
+1051,Meie ja teie peiud,604,2
+1052,Teng,858,2
+1053,Teng - hobu,858,2
+1054,Teng - hobu - naine,858,2
+1055,Teng - hobu - naine.,858,2
+1056,"Teng - hobu, naine",858,2
+1057,Teng - hobune - naine,858,2
+1058,Teng-hobu-naine,858,2
+1059,"Teng- hobu, naine",858,2
+1060,Tenga leidsin,858,2
+1061,"Teng-hobu, naine",858,2
+1062,"Teng, hobu, naine",858,2
+1063,"Teng, hobu, sadul",858,2
+1064,"Teng, naine, hobu",858,2
+1065,Küla ütel peksa naine,847,2
+1066,Pere käseb naist peksa,847,2
+1067,Pere ütel peksa naine,847,2
+1068,"Pere ütel, peksa naine",847,2
+1069,"Pere ütel, peksa naist",847,2
+1071,Pere ütles peksa naine,847,2
+1072,Pere ütles peksa naist,847,2
+1073,"Pere ütles, peksa naine",847,2
+1074,"Pere ütles, peksa naist",847,2
+1075,Pere ütles: peksa naist,847,2
+1076,Peksa naist!,847,2
+1077,Peksa naist,847,2
+1078,Tule koju,1009,2
+1079,Põdra tapja,537,2
+1080,Põdratapja,537,2
+1081,Põdra tapmine,537,2
+1082,"Hää mees, kuri mees",545,2
+1083,Kuri ja hää mees,545,2
+1084,Orja palk,770,2
+1085,Laulik tahab palka,459,2
+1086,Lauliku palk,459,2
+1087,Laulikule palka,459,2
+1088,Laulja tahab palka,459,2
+1089,Orja palk.,770,2
+1090,Tütar ei saa tööst palka,1018,2
+1091,Miks poisse põlgate,828,2
+1092,Uhkus,831,2
+1093,"Poiste uhkus lõpeb, kui naise võtavad",1019,2
+1094,Näljavöö,833,2
+1095,"Kubjas, lase lõunale",369,2
+1097,Lase lapsed lõunale,369,2
+1099,Küla ütel - suude sulg,458,2
+1100,Suude sulg,458,2
+1101,Lauliku soost - suude sulg,458,2
+1102,Suude sulg ?,458,2
+1103,Ei ole suu sulgejat,980,2
+1104,Nüüd pole suul sulgejat,980,2
+1105,Pole suu sulgejaid,980,2
+1106,Pole suu sulgejat,980,2
+1107,Pole suu sulgujat,980,2
+1109,Lauliku sõim,476,2
+1110,Kubja sõim,370,2
+1111,Lauliku sõimamine,476,2
+1112,Lauliku sõimusõnad,476,2
+1113,Laulikute sõim,476,2
+1114,Sõimulaul,1023,2
+1115,Sõimu l.,1023,2
+1116,Sõim,1023,2
+1117,Rikas sõimab,835,2
+1118,Sõima suu,1023,2
+1119,Rikas sõimab.,835,2
+1120,Sõim - halb laulik,1023,2
+1121,Sõim ?,1023,2
+1122,Sõimajale,1023,2
+1123,Surma sõimamine,759,2
+1124,Sõimu laul,1023,2
+1126,Rikkas sõimab reeks,835,2
+1127,Surma sõim,759,2
+1128,Sõimu sõna,1023,2
+1129,Sõimusõnad,1023,2
+1130,Hoiatus pika naise eest,1027,2
+1131,Hoiatus pikast naisest,1027,2
+1132,Hoiatus lese naise eest,1028,2
+1133,Hoiatus lese eest,1028,2
+1134,Hoiatus lesenaise eest,1028,2
+1135,Hoiatus lesest naisest,1028,2
+1136,Hoiatus lesknaise eest,1028,2
+1137,Hoiatus lesknaisest,1028,2
+1138,Hoiatus lesenaise eest.,1028,2
+1139,Hoiatus suure ja pika naise eest,1027,2
+1141,Hoiatus suurest naisest,1027,2
+1142,Teohobuse söök,939,2
+1143,Teohobuse kiitus,973,2
+1144,Teohobuse kiitmine,973,2
+1145,Ori läheb ära,703,2
+1146,Ori lahkub,703,2
+1147,Suur siga,1042,2
+1148,Seatapmine,1042,2
+1150,Seatapp,1042,2
+1151,Kuld jälgedes,1039,2
+1152,Kuld jälje peal,1039,2
+1153,Kuld jälje sees,1039,2
+1154,Kuld põleb,1043,2
+1155,Kuld (põleb) / Kulla põlemine,1043,2
+1156,Kuld põlema,1043,2
+1157,Kuld põleb ja Pisar pilves,1043,2
+1158,Orjade rada,485,2
+1159,Orjade tee,485,2
+1160,Halb neiu kaup,967,2
+1161,Kallis neiu kaup,930,2
+1162,Kallis neiukaup,930,2
+1163,Odav neiu kaup,967,2
+1164,Miks põllepõli parem,1045,2
+1165,Põllepõli,1046,2
+1166,Tütart oodatakse koju,845,2
+1167,Neidu oodatakse koju,845,2
+1168,Oodatakse koju tööd tegema,845,2
+1169,Oodatakse koju tööle,845,2
+1170,Ikka peab ori olema,628,2
+1171,Ikka pean ori olema,628,2
+1172,Hunt Anne hammustanud,1047,2
+1173,Hunt hammustanud,1047,2
+1174,Must mees,1048,2
+1175,Must naine (mees),1048,2
+1176,Must poiss,542,2
+1177,Must mees (=naine),1048,2
+1178,Musta poisi pesemine,1049,2
+1179,Must poiss (põõsa alt),1049,2
+1180,Musta mehe pesemine,1048,2
+1181,Hallitanud poiss,1049,2
+1182,Leiab hallitanud poisi metsast,1049,2
+1183,Leiab metsast hallitanud poisi,1049,2
+1184,Neiu leiab hallitanud poisi,1049,2
+1185,Hallitanud hein,939,2
+1186,Võitegemiselaul,1053,2
+1187,Võitegemise sõnad,1053,2
+1188,Võitegemise laul,1053,2
+1190,"Kokku, koorekene!",1053,2
+1191,Kokku kooreke,1053,2
+1192,Kokku koorekene,1053,2
+1193,Kokku - kooruke,1053,2
+1194,Kokkusaamine,1054,2
+1195,Kes aias,1,2
+1196,Vahelt vaene,538,2
+1197,Põgenemas,1058,2
+1198,Põgenemine,1058,2
+1199,"Saksa lapsed, talupoja lapsed",1059,2
+1200,Saksa lapsed - sandid lapsed,1059,2
+1201,Kullad kiikumas,268,2
+1202,Kardab kullad kuluvat,283,2
+1203,Kardavad kullad kuluvat,283,2
+1204,"Kardavad, kullad kuluvad",283,2
+1205,Kullade kulumine,283,2
+1206,Kui kullad kokku saame,1064,2
+1207,Kullad kokku,1064,2
+1208,Kullad koos,1064,2
+1209,Kunas kullad kokku saame,1064,2
+1210,Kunas kullad kokku saame?,1064,2
+1211,Kus kullad kokku saame,1064,2
+1212,Kõik kullad koju lähevad,1065,2
+1213,Kodu kaugel,666,2
+1214,(Kodu kaugel),1,2
+1215,Ei saa palka,1018,2
+1216,Palka laulikule,459,2
+1217,Tütar ei saa palka,1018,2
+1218,Tütar ei saa palka taadi rehepeksu eest,1018,2
+1219,Tütar ei saa töö eest palka,1018,2
+1220,Öösel üksi,449,2
+1221,Õhtul üksi,449,2
+1222,Öösi üksi,449,2
+1223,Öösel üksi (?),449,2
+1224,Öösel üksinda,449,2
+1225,Öösi üksinda,449,2
+1226,Põlatud laps,560,2
+1227,Põlatud laps - mutiks mätta alla,1067,2
+1228,Kasvatus asjata - kangekaelne,830,2
+1229,Kasvatus asjata - nekrutiks,1069,2
+1230,Kasvatus asjata - soldatiks,1069,2
+1231,"Kasvatus asjata, soldatiks",1069,2
+1232,Jänese õhkamine,1071,2
+1233,Jänese ohkamine,1071,2
+1234,Vanapoiss,1075,2
+1235,Oldermann,399,2
+1236,(Oldermanni) Keti laul,326,2
+1237,(?) Oldermann,326,2
+1238,Kuke õlu,1080,2
+1239,Lindude õlu,752,2
+1240,Õlu,1081,2
+1241,Tihase õlu,752,2
+1242,"Õlut joome, teist teeme",1082,2
+1243,(Humal) mehed mütsita müravad,764,2
+1244,"Miks, kiigeke, kidised?",288,2
+1245,Mis sa kiigeke kidised,288,2
+1246,Noormehed uhked (ei saa naist),831,2
+1252,Külm välja võtnud,906,2
+1253,Külm vilja võtnud - poisid norus,906,2
+1254,Külm vilja võtnud,906,2
+1255,Külm vilja võtnud - poisid kurvad,906,2
+1256,Pole isa olnudki,655,2
+1257,"Pole isa, kõrts õpetab",1095,2
+1258,"Pole isa, ema - kõrtsilaud õpetaja",1095,2
+1259,Pole isa - kõrts õpetaja,1095,2
+1260,Pole isa olnudki - ema haual,655,2
+1261,Halb kündja,1097,2
+1262,Tore neiu,969,2
+1263,Tore peiu,1108,2
+1264,Tore poiss,1108,2
+1265,3 rätikut,1109,2
+1266,3 rätti,1109,2
+1267,3 põldu,376,2
+1268,Imelik tore poiss,1108,2
+1269,Tore sõitja,826,2
+1270,Hundisõnad,738,2
+1271,Minija meelevald,919,2
+1272,Minijapõli,919,2
+1273,Minija vald,919,2
+1274,Minija põli,919,2
+1275,Minija palk,1112,2
+1276,Minija mehe kodus,1113,2
+1277,"Arvalt orja kiidetakse, miniat ei iialgi",629,2
+1278,Minia ei saa tööst palka,1112,2
+1279,Minia ei saa tööst tasu,1112,2
+1280,Minia meelevald,919,2
+1281,Minia palk,1112,2
+1282,Minia põli,1115,2
+1283,Minia põlv,919,2
+1284,Minia kurb põli,1112,2
+1285,Miniapõlv,919,2
+1286,Miniat ei kiideta iial,629,2
+1287,Tuim neiu,1117,2
+1288,Tunnen tuima,1117,2
+1289,Tuima neiu tundemärgid,1117,2
+1290,Tuimad neiud,1117,2
+1291,Tunne tuima,1117,2
+1292,Tunneb tuima neiu,1117,2
+1293,Tunneb tuima,1117,2
+1294,Tunned tuima,1117,2
+1295,Viin ja tubakas,1121,2
+1296,Viin,1122,2
+1297,Viinalaul,1122,2
+1298,Viinake,1122,2
+1299,Vilu vilja viinud,1123,2
+1300,Viina joomine,1122,2
+1301,Videvikus viinad,1122,2
+1302,Suuril viinul,1124,2
+1305,Peig jootis viina,1122,2
+1306,Ema ei viinud vesile,158,2
+1307,Ema ei viind vette,158,2
+1309,Ema ei viind vesile,158,2
+1310,Õitsilekutse,1127,2
+1312,Õitsile kutse,1127,2
+1313,Õitselekutse,1127,2
+1314,Õitsipaik,1128,2
+1315,Õitsiliste pilge,1129,2
+1316,Õitsiliste laul,1130,2
+1317,Õitsilaul,1130,2
+1318,Õitsil,1131,2
+1319,Õitsile oodatakse,1127,2
+1320,Õitsileminek,1132,2
+1321,Õitsi laul,1130,2
+1322,Õitseliste laul.,1134,2
+1323,Õitseliste laul,1130,2
+1324,Õitsele,1127,2
+1325,Õitselaul.,1130,2
+1326,Õitselaul,1130,2
+1327,Õitsel nuga kadunud,771,2
+1328,Õitsel,1127,2
+1329,Õitsekoha mälestus,1132,2
+1330,Õitse laul,1130,2
+1331,Saksad sõitsid saaniga,1136,2
+1332,Pole hobu õitsile minna,1133,2
+1333,"Neiu õitsel, lehmad lüpsmata",1135,2
+1334,Neiu tahab õitsele,1135,2
+1335,Mälestus õitseajast,886,2
+1336,Teotatud teonaine,1144,2
+1337,Teotatud teotüdruk,1144,2
+1338,Kupja kolm tütart,624,2
+1339,Kupja kolm tütart?,999,2
+1340,Kupja kolm tütart.,624,2
+1341,Kupja kolm tütärt,624,2
+1342,Kupja 3 tütart,624,2
+1345,"Poisid kurvad, vilu vilja viinud",906,2
+1346,Hall vilja viinud,906,2
+1347,Ilus hein,846,2
+1348,Öised orjad,1172,2
+1349,Öised orjad märjad,1172,2
+1350,Palju sõnu,610,2
+1351,Palju sõnu.,610,2
+1352,Neiul palju sõnu,610,2
+1353,Kõrtsinaise tütar,909,2
+1354,Kõrtsinaise ilus tütar,909,2
+1355,"Kõrtsinaine, hoia tütar",909,2
+1356,Kõrtsimehe ilus tütar,909,2
+1357,Kõrtsimehe tütar,909,2
+1362,Kõrtsipink kasvataja,1095,2
+1363,Kõrtsilaud kasvatajaks,1095,2
+1364,Kõrtsilaud - õpetaja,1095,2
+1365,Kõrtsi teretamine,864,2
+1366,Kõrtsi teretus,864,2
+1367,Kõrtsi tervitus,864,2
+1368,Kõrtsis,864,2
+1369,Neiu kõrtsis,1179,2
+1370,Poissmees kõrtsis,1179,2
+1371,Naised kõrtsis,1179,2
+1372,Kupja naine kõrtsis,1179,2
+1373,Kõrtsinaine,1179,2
+1374,Kosilane kõrtsis,1179,2
+1375,Meie poisid kõrtsis,1179,2
+1376,Teomehed kõrtsis,1179,2
+1377,Kõrtsilaul,1180,2
+1378,Kõrtsi laul,1180,2
+1379,Kõrtsimäng,1182,2
+1380,Kopik kõrtsi,948,2
+1381,Kes käskis kõrtsis kõnelda,1185,2
+1382,Kõrtside loetelu,1186,2
+1383,Kõrtsist koju kutse,950,2
+1384,Kõrtsist koju kutsumine,950,2
+1385,Sillavoori ajal kõrtsides käija,1186,2
+1386,Mitu kosilast kõrtsis tantsul,1187,2
+1387,Joodik mees,1191,2
+1388,Hoiatus joodiku mehe eest,1192,2
+1389,Hoiatus joodiku eest,1192,2
+1390,Joodikule,1191,2
+1391,Joodik,1193,2
+1392,Joodikul mehel,1191,2
+1393,Ära jookse joodikule,1194,2
+1394,Joodiku laul,1193,2
+1398,Joodiku naine,1191,2
+1399,Joodiku kojukutse,950,2
+1400,Joodiku kodukutse,950,2
+1402,Joodikut kutsutakse koju,950,2
+1405,Ilus vaene - inetu rikas,1196,2
+1406,Inetu rikas - ilus vaene,1196,2
+1407,"Inetu rikas, ilus vaene",1196,2
+1408,"Inetu rikas, ilus vaenelaps",1196,2
+1409,Mõis rikas valla vaevast,1197,2
+1410,Mõisa rikas vaeste tööst,1197,2
+1411,Mõisa rikas valla vaevast,1197,2
+1412,"Rikas - inetu, vaene - ilus",1196,2
+1413,Joodikul mehel.,1191,2
+1414,Oleks isa ilmarikas,1198,2
+1415,Rikas ?,404,2
+1416,Rikas ei maeta rahasse ?,1198,2
+1418,"Rikas inetu, vaene ilus",1196,2
+1419,"Rikas härg, vaese vares",1199,2
+1420,Rikas ei panda rahasse,1198,2
+1421,Joodikul.,1191,2
+1422,Joodikule mehele,1192,2
+1423,Hoidku joodikule saamast,1192,2
+1424,Hoidu joodikust,1192,2
+1425,Hoidku joodikust,1192,2
+1426,Jamal loonud rikaste risuks,1195,2
+1427,Jumal loonud rikaste risuks,1195,2
+1428,Rikas nutab surres,1200,2
+1429,Tõmba taeva rikaste teelt,1201,2
+1430,Võta ära rikaste teelt,1201,2
+1431,Võta taevasse rikaste teelt,1201,2
+1432,Tõmba taevasse rikaste teelt,1201,2
+1433,Võta taeva rikaste teelt,1201,2
+1434,Saks rikas valla vaevast,1197,2
+1435,Rikaste risuks,1201,2
+1436,Rikaste teel,1201,2
+1437,"Rikas sõimab, võta taevasse",1201,2
+1438,Rikas kardab surma,1200,2
+1439,Kuud kuulama,612,2
+1440,Neiud öösel kuud kuulamas,612,2
+1441,Tulge kuud kummardama,612,2
+1442,Imemaa,353,2
+1443,Riia rikkumine,1202,2
+1444,Riia rikkumine?,1202,2
+1445,Riia rikkumine.,1202,2
+1446,Riia rikkumisest,1202,2
+1447,Sõda Riia all,1203,2
+1448,Riias ristitud,1204,2
+1449,Riia ehitamine,1205,2
+1450,Riia linna tegemine,1205,2
+1451,Riia linna tegemise ära näinud,1205,2
+1452,Riia tegemine,1205,2
+1455,Riia soola tuua,1206,2
+1456,Soome sild,916,2
+1457,Meie mehed joodikud,1193,2
+1458,Kurjal joodikul mehel,1191,2
+1459,Tore sõit (Soome sild),916,2
+1460,Tore sõit?,826,2
+1461,Kuulus kuhjalooja,637,2
+1462,Kuulus kuhja looja,637,2
+1463,Kuulus kuhja tegija,637,2
+1464,Kuulus kuhjategija,637,2
+1465,Palju püütad kuulus kuhjalooja,637,2
+1466,Palju püütud kuulus kuhjalooja,637,2
+1467,Paljupüütud kuulus kuhjalooja,637,2
+1468,Uni anna uuta kuube,1158,2
+1469,Uni ei anna uuta kuube,1158,2
+1470,Uni ei anna uute kuube,1158,2
+1471,Uni ei uuta kuube,1158,2
+1472,Vaikne kuu,1,2
+1473,Joodiku laul (Täied toobid),1207,2
+1474,Joodik naine,1193,2
+1475,Neiu kuuvalul käimas,614,2
+1476,Kuukummardamine,611,2
+1477,Halva kuulsusega neiu,1119,2
+1478,Halva kuulsusega neiu kosinud,1119,2
+1479,Halva kuulsusega neiud,1119,2
+1480,Halva kuulsusega neiut kosinud,1119,2
+1481,Halva kuulsusega pruut,1119,2
+1482,Halva kuulsusega tüdrukud,1119,2
+1483,Mustad munderisse,1208,2
+1484,Mustad mundrisse,1208,2
+1485,Täna kuld - homme muld,1198,2
+1486,"Täna kuld, homme - muld",1198,2
+1487,"Täna kuld, homme muld",1198,2
+1488,Päike ohjasid arutama,593,2
+1489,Päike ohjasid hoidma,593,2
+1490,Päike ohjasid päästma,593,2
+1491,Päike ohje päästma,593,2
+1492,Poiss ja päike tõusevad,1209,2
+1493,Poiss tõuseb kui päike,1209,2
+1494,Poiss tõuseb nagu päike,1209,2
+1495,Poiss tõuseb ühes päikesega,1209,2
+1496,Poiss tõuseb nagu päike - neidude juurest,1209,2
+1497,Poiss tõuseb päikesega,1209,2
+1498,"Poiss tõuseb, nagu päike",1209,2
+1499,Päike ja poiss tõusemas,1209,2
+1500,Vend nagu päike tõusmas,1209,2
+1501,Vend tõuseb päikesega,1209,2
+1502,Vend tõuseb päikesega - neidude juurest,1209,2
+1503,Päikene ohjasid päästma,593,2
+1505,Munasõlm,825,2
+1506,Muna sõlm,825,2
+1507,Munast sõlm,825,2
+1508,Joodiku kojukutsumine,950,2
+1509,Neiul rauad kaasas,1212,2
+1510,Kuhja looja,637,2
+1511,Looja heinamaal,1213,2
+1512,Looja heinamaale,1213,2
+1513,Looja heinategu,1213,2
+1514,Looja heinateol,1213,2
+1515,Looja heinateol - 4 neidu,1213,2
+1516,Loojal lool,1213,2
+1517,Loojale loole,1213,2
+1518,Looja tee,485,2
+1519,Saksa asemel joodikule,1006,2
+1520,Vana joodik mees,1006,2
+1521,Sõimusõna joodikust,1193,2
+1522,Joodikud mehed,1193,2
+1523,Joodikud,1193,2
+1524,Joodiku lori,1218,2
+1525,Ilus mees joodik,1191,2
+1526,Suvel,691,2
+1527,Suvelaul,691,2
+1529,Laost - 4 neidu,1221,2
+1530,Laost kaare alt,1221,2
+1531,Laost kaare alt - neli neidu,1221,2
+1532,Ei joonud naist maha,1223,2
+1533,Joon mullust raha,1224,2
+1534,Joojate soost,1225,2
+1535,Ei õpetanud õlut jooma,1226,2
+1536,"Õlu, millest lind üle lendanud",1227,2
+1537,Vahune õlu,1228,2
+1538,Teeks õlut,1229,2
+1539,Teeksin õlut,1229,2
+1540,"Teeks õlut, kuid kardab",1229,2
+1541,Saar (õllest),674,2
+1543,Taadi karjas,1018,2
+1544,Õlle tegemine,1229,2
+1545,Tihase õlletegu,752,2
+1546,Laulab õlleta,1231,2
+1547,Kana õlletegu,1036,2
+1548,Kuke õlletegu,1036,2
+1549,Tänu õllesepale,1230,2
+1550,Olgu terved õllesepad,1237,2
+1551,Õllelaul,1081,2
+1552,Õlle asemel tütrele helmeid,1184,2
+1553,Laar õllest,674,2
+1554,Õllest saar,674,2
+1555,Õllest tamm,674,2
+1556,Hõiskan muude õlle pääle,1081,2
+1558,Õlletegemine,1229,2
+1559,Õllepruul?,1225,2
+1560,Õllemeister?,1225,2
+1561,Õllel.,1081,2
+1562,Õllel ilu,1238,2
+1563,Õlle laul,764,2
+1564,Õlle joomine,1081,2
+1565,Seni rahu kui toobis tilgake,1217,2
+1566,Seni sõbrad kui toobis tilgake,1217,2
+1567,"Seni sõbrad, kui toobis tilgake",1217,2
+1568,Puude teretus,1247,2
+1569,Talguliste tänu,603,2
+1570,Lahkuja tänu,1248,2
+1571,Sakste tänu - talguliste tänu,603,2
+1572,Pidulise tänu,963,2
+1573,Tänulaul talgutel,603,2
+1574,Tänulaul mõisa talgustel,603,2
+1575,Tänu mõisa talgutel,603,2
+1576,Tänu kutse eest,963,2
+1577,Tänu kiigesepale,284,2
+1578,Kiigeliste tänu,284,2
+1579,Igal ajal pidu,1249,2
+1580,Loomade pidu,536,2
+1581,Kolm külla,1250,2
+1582,Kolm külla kodus,1251,2
+1583,Küllakutse,1252,2
+1584,Mitu külla,1250,2
+1585,Küllane,1250,2
+1586,Kolm aita,568,2
+1587,Vihmkass (? peoleo),1,2
+1588,Peoleolaul,1,2
+1589,Peoleo laul,1,2
+1590,Peoleo,1,2
+1591,(peoleo),1,2
+1592,Kümme kosilast,1254,2
+1594,Kutsuti koduväiks,898,2
+1595,Koduväiks kutsuti,898,2
+1596,Koduväiks kutsutud,898,2
+1597,Mind ei kutsutud,1255,2
+1598,Ajage kari siia,1256,2
+1600,"Ajage kari siia, õitselised",1256,2
+1601,Aja kari siia - helletus,1256,2
+1602,Aja kari siia,1256,2
+1603,"Ajage kari siia, muidu ta kadugu",1256,2
+1604,Aagem kari ühte,1256,2
+1605,Ajage kari meile,1256,2
+1606,Ajage kari kokku,1257,2
+1607,Kari,1259,2
+1608,Kari ei ole kadunud,724,2
+1610,Kari kodu,1261,2
+1611,Kari koju,1261,2
+1612,Kari koju!,1261,2
+1613,Kari kutsutakse koju,1261,2
+1614,Kari siia!,1256,2
+1615,"Kari, koju!",1261,2
+1616,Kari sööb,716,2
+1617,"Söö, kari!",716,2
+1618,"Söö, kari",716,2
+1619,Söö kari!,716,2
+1620,Söö kari,716,2
+1621,"Vanamees valetab, et kari kaugel",724,2
+1622,"Vanamees valetab, et kari kadunud",724,2
+1623,"Vana naine valetab, et kari kadunud",724,2
+1624,"Valetab, et kari kadunud",724,2
+1625,"Valetab, et kari kadund",724,2
+1626,"Valelik ütleb, et kari kadunud",724,2
+1627,"Valelik ütleb, et kari kadund",724,2
+1628,"Valelik valetab, et kari kaugel",724,2
+1629,"Valelik valetab, et kari kadunud",724,2
+1630,"Valelik valetab, et kari kadund",724,2
+1631,Saada kari kaugele,1262,2
+1632,Nõiutud kari,1263,2
+1633,Müü kari ära,1264,2
+1634,Müüme kari ära,1264,2
+1635,Kirju kari,1265,2
+1636,Kari üles,1266,2
+1637,Kari viljas,1029,2
+1638,Kari kaugele,1110,2
+1639,Kari ei tule koju,1261,2
+1640,Karja söötmine,716,2
+1641,Karjase laul,1267,2
+1642,Ei kasva karjas,1268,2
+1643,Ei lähe karjasele,1269,2
+1644,Hanekarjase laul,168,2
+1645,Karjasepõli,346,2
+1646,Karjasepõlv,346,2
+1647,Hilinenud karjane,1270,2
+1648,Karjaste pilge,1271,2
+1649,Karjaste poli,346,2
+1650,Hunt ja karjane,1272,2
+1651,Hunt karja jälil,1273,2
+1652,Hunt karja järel,1274,2
+1653,Hunt karjas,1275,2
+1654,Hunt käib karjase järel,1274,2
+1655,Karjasöötja,1276,2
+1656,Karjastelaul.,1278,2
+1657,Karjastelaul,1278,2
+1658,Karjaste laul,1278,2
+1659,Karjaselaul,1278,2
+1660,Kaval karjane,1279,2
+1661,Kavalad karjased,1279,2
+1662,Kaua karjas käinud,557,2
+1663,Kaua karjas,557,2
+1664,Karjaste sõim,1280,2
+1665,Kuts karja,1015,2
+1666,Karja oodatakse koju,1261,2
+1667,Karja sajatus,1281,2
+1668,Karja ehtimine,1282,2
+1669,Karja väljalaskmise l.,1259,2
+1670,Karja väljalaskmine,1259,2
+1671,Karjalaul,1278,2
+1672,Karjane kaotas karja,1282,2
+1673,Karjane palub võileiba,1283,2
+1674,Laisk karjane,1270,2
+1675,Karja kaitsmine,726,2
+1676,Karja kasvama pandud,1268,2
+1677,Karja saatmine,1262,2
+1678,Kari ja karjased,1278,2
+1679,Karja meid saadeti,1278,2
+1680,Kiriku ajal karjas,555,2
+1681,Karjas kasvanud,1268,2
+1682,Karjase põli,346,2
+1683,Karjase põlv,346,2
+1684,Karjase kuri põlv,346,2
+1685,Karja Tõnu,555,2
+1686,Karja riisujad,1286,2
+1687,Karja Tõnu kaebus,555,2
+1688,Karja Tõnu õnnetused,555,2
+1689,Karja-Tõnu,555,2
+1690,Karja-sõnad,1288,2
+1691,Karjalask,1290,2
+1692,Karjane,1291,2
+1693,Karjane ajab karja metsa,715,2
+1694,Karjane ajab karja sügavasse metsa,715,2
+1695,Karjane hundile,1275,2
+1696,Karjane kaku kaotanud,1282,2
+1697,Karjane kodus,1292,2
+1698,Karjane külmetab,346,2
+1699,Karjane magama jäänud,1029,2
+1700,Karjane palub leivakotti,1283,2
+1701,Karjane palub pätsikest,1294,2
+1702,Karjane pühal,555,2
+1703,Karjane tahab koju,1292,2
+1704,Karjane tahab süüa,1283,2
+1705,Karjane tuleb kodu,1292,2
+1706,Karjane tuleb koju,1292,2
+1707,Karjane tuleb koju.,1292,2
+1708,Karjapõli,346,2
+1709,Karjane äratab lüpsma,1262,2
+1710,Karjaneiu ja kaupmehed,166,2
+1711,Karjasarv,1,2
+1712,Karjase huikamine,1267,2
+1713,Karjase kodutulek,1292,2
+1714,Karjase kojutulek,1278,2
+1715,Karjase kaebus,346,2
+1716,Karjase kuri põli,346,2
+1717,Karjase l.,1278,2
+1718,Karjase laul kaarnale,1258,2
+1719,Karjase laul rongale,1258,2
+1720,Karjase matuselaul,1295,2
+1721,Karjase palk,1296,2
+1722,Karjase poli,346,2
+1723,Karjase põli.,346,2
+1724,Karjase leivakott,557,2
+1725,Karjase sajatus,1281,2
+1726,Karjase söök,1283,2
+1727,Karjase söötmine,1276,2
+1729,Karjase uni,1029,2
+1730,Karjased kadunud,1297,2
+1731,Karjased looma tapnud,1271,2
+1732,"Vanamees valetab, et karjane maganud",724,2
+1733,"Valelik, ütleb karja kadunud",724,2
+1734,Vaene karja Tõnu,555,2
+1735,Valelik ütleb karjase magavat,724,2
+1736,Valelik ütleb karja kadunud,724,2
+1737,Valelik - ütleb karja kadunud,724,2
+1738,"Teised kirikus, mina karjas",555,2
+1739,Võõrasema annab karjasele leiva asemel kivi,725,2
+1740,Söö karja,716,2
+1741,Karjased suure härja ära tapnud,1271,2
+1742,Surma sajatus,759,2
+1743,Surma noomimine,759,2
+1744,Surma sajatamine,759,2
+1745,Surma noomine,759,2
+1746,Surma sõitlemine,759,2
+1747,Neiu pealtnäha ilus,1299,2
+1748,Hans,1301,2
+1749,Hans ei arvata meheks,1301,2
+1750,"Hans pole mees, haug - kala",1301,2
+1751,Hans ei arvatud meheks,1301,2
+1752,Hanssu ei arvatud meheks,1301,2
+1753,Haug ei ole kala - Hans ei ole mees,1301,2
+1754,Äratam. - karja saatma,1262,2
+1755,Virk karjane,724,2
+1756,Vihane karjane kutsub hunti karja sööma,1275,2
+1757,Targad karjapoisid,1279,2
+1758,Pühkmed karjaaida,1302,2
+1759,Pühkmed karjaaega,1302,2
+1760,Pühkmed karjaaeda,1302,2
+1761,Peretütre ja karjase kudumine,1303,2
+1762,"Poiss künnab, neiu karjas",790,2
+1763,"Peiu künnab, neiu karjas marjal",790,2
+1764,"Peiu künnab, neiu karjas",790,2
+1765,"Peiu kündmas, neiu karjas",790,2
+1766,Parem karjas kui kütisel,1304,2
+1767,Parem karjas kui kodus,1304,2
+1768,Karjased tulevad koju,1305,2
+1769,Karjased tulevad kodu,1305,2
+1770,Karjased tulevad,1305,2
+1771,Kuts läks karja,1015,2
+1772,Karjased kuduvad laisa peretütre kangast,1303,2
+1773,Karjasele kõik kurjad,555,2
+1774,"Laisk tütar, karjased kuduvad kanga",1303,2
+1775,Karjapoiss kuningas,1306,2
+1776,Merepühkmed karjaaeda,1302,2
+1777,Karjasel loomi puudu,1282,2
+1778,"Muud kirikus, mina karjas",555,2
+1779,"Muud kirikus, vaenelaps karjas",555,2
+1780,Ema hoiatab õitsi eest,1135,2
+1781,Ema hoiatab õitse eest,1135,2
+1782,Ema hoiatus õitsi eest,1135,2
+1783,"Ema nutab, et tütar õitsele lähab",1135,2
+1784,Hoiatus õitse eest,1135,2
+1785,Ei saa hobust õitsele minna,1133,2
+1786,Tall taeva all,670,2
+1787,Memme karjas,384,2
+1788,Laps laulab karjas,1278,2
+1789,Hääd karjad endisel isal,1308,2
+1790,Linnulaul - ehk karjaselaul,1278,2
+1791,Karjateel,1278,2
+1792,Laulupaeltega seob karja,1278,2
+1793,"Kavalad mehed, vikat niidab, mees vilistab",1309,2
+1794,Vikat niidab - vilistan,1309,2
+1795,Hea niitja,1,2
+1796,Heinaniitja,1309,2
+1800,Lamba niitmise sõnad,1312,2
+1801,Kuhjaloomine,637,2
+1802,Kuhjategemine,577,2
+1803,Heinast hobu,657,2
+1804,Ema viis hälli heinamaale,1236,2
+1805,Halb hein,939,2
+1806,Halvad heinad,939,2
+1807,Heinast hobune,657,2
+1808,Heinast pulmahobu,657,2
+1809,Heinast jobune,657,2
+1810,Heinaajal palju tööd,1315,2
+1811,Heinast hobu ja unine naine,657,2
+1812,Heinast hobu pulma minna,657,2
+1813,"Heinast hobu, sugu põlgab",657,2
+1814,Tooja heinateol,1221,2
+1815,Pisikene naine uppub heina,675,2
+1816,Oleks heinast eideke,1316,2
+1817,Niidetud hein ja oja,782,2
+1818,Hää hein,846,2
+1819,Heinateolaul,1317,2
+1820,Heinateo laul,1318,2
+1821,Heinateo l.,846,2
+1822,Heinaliste laul,1318,2
+1823,Heinaaeg,1318,2
+1824,Heinal,1318,2
+1825,Heinale,637,2
+1826,Heinale minek,637,2
+1827,Heinalise laul,1318,2
+1828,Heinalised tänavad hää ilma eest,1321,2
+1829,Heinaliste tänu kuiva ilma eest,1321,2
+1830,Heinaliste l.,637,2
+1831,Heinateo l,1318,2
+1832,Heinategemise laul,1318,2
+1833,"Küde, kütismaa",1322,2
+1834,Kütise laul,1322,2
+1835,Kütismaa kündmine,1323,2
+1836,Kütisetegija,1325,2
+1837,Kurg kündmas,685,2
+1838,Kure künd,685,2
+1839,Kure kündmine,685,2
+1840,Härjad kündmas,1327,2
+1841,Laisk kündja,1093,2
+1842,"Vend kündmas, õde marjal",594,2
+1843,Neiud kündmas,1328,2
+1844,Veli kündis - õde marjal,594,2
+1845,Neiu kündmas,1153,2
+1846,Hää kündja,1323,2
+1847,Kürg kündmas,685,2
+1848,Mere ääre kündmine.,704,2
+1849,Mereääre kündmine,704,2
+1850,Mereääre kündmine.,704,2
+1851,Mere ääre kündmine,704,2
+1852,Mere kündja,704,2
+1853,Virgad kündjad neiud,1153,2
+1854,Orus odrad pole ilusad,1329,2
+1855,Kündja ja marjakorjaja,594,2
+1856,Halb kündja teomees,1097,2
+1857,Halb kündja mõisa põllul,1097,2
+1858,Halb kündja kündnud,1097,2
+1859,Halvad kündjad,1097,2
+1860,Halb kündja ja teomees,1097,2
+1861,Halb kündja põgenemas,1097,2
+1862,Kägu kukub kündjale,793,2
+1863,Kägu kukub kündijale,793,2
+1864,Kündja halval maal,1323,2
+1865,Hea kündja,1096,2
+1866,Kaval sulane kündmas,1096,2
+1867,Head härjad,1308,2
+1868,Härjad ootavad pühi,1330,2
+1869,Hobuse ja härja riid,1331,2
+1870,Hobuse ja härja tüli,1331,2
+1871,Härjad kadunud,169,2
+1872,Härjad murtud (?),169,2
+1873,Härjad pusklemas,1308,2
+1874,Härjad söödud,169,2
+1875,Härjad möirates mäele,1308,2
+1876,"Härjatapja, koerad leiavad soolikad",1271,2
+1877,Hääd härjad,1308,2
+1878,"Maad märjad, härjad kehvad",1332,2
+1879,Parmud härja kallal,1326,2
+1880,Isa härjad toitnud,1333,2
+1881,Äti härjad toitnud,1333,2
+1882,Unenägu - härjad,1153,2
+1883,Suured härjad,1308,2
+1884,Teomehe härjad,1308,2
+1885,Hunt,738,2
+1886,Hunt ja kits,1335,2
+1887,Hunt ja hobune,1336,2
+1888,Hunt ja jänes,1337,2
+1889,Hunt kukele,1338,2
+1890,Hunt magamas,1339,2
+1891,Hunt õpetab poega,1340,2
+1892,Kits ja hunt,1335,2
+1893,Kukk ja hunt,1338,2
+1894,Kits - hunt,1335,2
+1895,"Urjuh, hunt",1275,2
+1896,Hiir hüppas,1,2
+1897,Hiire pulmad,986,2
+1898,Hiire pulmad.,986,2
+1899,Hiire pulm,986,2
+1900,Hiire seljas teole,588,2
+1901,Hiire seljas teole.,588,2
+1902,Hiir kassile,1342,2
+1903,Hiire nutt,1343,2
+1904,"Hiir nutab, - kass pojad söönud",1343,2
+1905,Hiir nuttis,1343,2
+1906,Hiir nutab poegi,1343,2
+1907,Kass ja hiir,1342,2
+1908,"Tere, hiir",713,2
+1909,Hiir,713,2
+1910,Hiir ikeb,1343,2
+1911,Kass-hiir,1342,2
+1912,Hiir ja kass,1342,2
+1913,Hiir parastab,1342,2
+1914,"Kus sa lähed, hiirekene",713,2
+1915,Kus sa lähed hiirekene?,713,2
+1916,"Kuhu lähed, hiir?",713,2
+1917,Hiir naerab,1342,2
+1918,(?) Hiire pulm,986,2
+1919,Hiir (kusiraudsik),713,2
+1920,Kusiraudsik (Hiir),713,2
+1921,Hiirepoegade imetaja,1270,2
+1922,Isa loomad toidavad,1333,2
+1923,Isa loomad toitnud,1333,2
+1924,Isa loomad on toitnud,1333,2
+1925,Kündja loomad väsinud,1334,2
+1926,(?) Loomad kõnelevad,1344,2
+1927,Hea loomadele,1093,2
+1928,Loomad igatsevad pühi,1330,2
+1929,Loomad ootavad pühi,1330,2
+1930,Loomad tööl,823,2
+1931,Loomad põllutööl,823,2
+1932,Loomad kaera söönud,536,2
+1933,Loomad vilja söönud,536,2
+1934,Loomad söövad vilja,536,2
+1935,Loomad põllutöös,823,2
+1936,Loomad kodutöödes,823,2
+1937,Loomad töös,823,2
+1938,Loomad vilja söömas,536,2
+1939,Loomad viljas,536,2
+1940,Loomad vilja läinud,536,2
+1941,Loomad teol,821,2
+1942,Loomade tapmine,1344,2
+1943,Teoloomad ootavad pühi,1330,2
+1944,Teomehe loomad ootavad pühi,1330,2
+1945,Teomehe loomad igatsevad pühi,1330,2
+1946,Küsimused loomade kohta,1345,2
+1947,Loomad kõnelevad,1344,2
+1948,Loomade tapmine pulmadeks,1344,2
+1949,Loomade töö tähendused,823,2
+1950,Teomehe härja luikamine,1346,2
+1951,Mehed kui härjad,733,2
+1952,Härja-röövel,1286,2
+1953,Loomad ootavad pühi.,1330,2
+1954,omalooming,1347,2
+1955,omalooming?,1347,2
+1956,Isa loomad onude hoolde,1348,2
+1957,Isa loomad onude käes,1348,2
+1958,Isa loomad võõraste käes,1348,2
+1959,Isa loomad onudele,1348,2
+1960,Loomad onude hooleks,1348,2
+1961,Vanemate loomad võõraste käes,1348,2
+1962,Vanemate loomad sugulaste käes,1348,2
+1963,Osalt omalooming,438,2
+1964,Loomine (?),123,2
+1965,Loomade nõiduja,1263,2
+1966,Kass,1350,2
+1967,Kass kaevus,350,2
+1968,Kass kaevus?,350,2
+1969,Kass kudus kangast,1351,2
+1970,Kass mõisakööki,585,2
+1971,Kassi hääl,1350,2
+1972,Kassi jaht,585,2
+1973,Kassi l,1350,2
+1974,Kassi l.,1350,2
+1975,Kassi laul,1350,2
+1976,Kassi nahast kasukas,1092,2
+1977,Kassi pojad ahjus,1352,2
+1978,Kassi tapmine,1353,2
+1979,Kassi-jaht,585,2
+1980,Kassijaht,585,2
+1981,Kassilaul,1350,2
+1982,Kassilaul lastele,1350,2
+1983,Kassile,1349,2
+1984,Kassinahast kasukas,1353,2
+1985,Kassipojad põlenud,1352,2
+1986,Kassitapja,1353,2
+1987,Perenaine peksis kassi,1354,2
+1988,Mõisa kassijaht,585,2
+1989,Mis kassi nahast sai,1092,2
+1991,Mida rotinahast tehti,1092,2
+1992,Roti pulm.,986,2
+1993,Roti pulmad,986,2
+1994,Roti laul,986,2
+1995,Roti pulm,986,2
+1996,Valge jänes,1071,2
+1997,Jänes,1071,2
+1998,Põdra laskja,537,2
+1999,Põdra laskmine,537,2
+2000,Põdra laskmine ?,537,2
+2001,Põdralaskja,537,2
+2002,Karusõnad,1355,2
+2003,Karujahimehed,1,2
+2004,Karu vilja söönud,536,2
+2005,Karu tapja,537,2
+2006,Karu,1355,2
+2007,Karu kiskus,1047,2
+2008,Karu laskja,537,2
+2009,Karu sõnad,1355,2
+2010,Hülge hüüab,775,2
+2011,Hülged hüüavad,775,2
+2012,Hülged hüüdsid,775,2
+2013,Hülged hüüavad merest,775,2
+2014,Mehed laulvad nagu hülged,775,2
+2015,Poisid laulsid nagu hülged,775,2
+2016,Kukk ja kana,1357,2
+2017,Kukk ja kana siblimas,1036,2
+2018,Kana ja kukk,1357,2
+2020,Pime kukk,405,2
+2021,Tapa kukk,1362,2
+2022,Hiljuke,665,2
+2023,Hiljuks,665,2
+2024,Hiljuk,665,2
+2025,Hiljukene,665,2
+2026,Ema haual: Hiljuke,665,2
+2027,Kala,1356,2
+2028,Kalajõgi - selg,514,2
+2029,Kalajärv,1365,2
+2030,Kalajõgi.,514,2
+2031,Kalad kudevad,1366,2
+2032,Kuidas kalad kudevad,1366,2
+2033,Kalad kodus,1368,2
+2034,Luust laev,1364,2
+2035,Sarvest laev,1364,2
+2036,Kaubalaev,1369,2
+2037,Kaubalaevad,1369,2
+2038,Kaubalaeva,1369,2
+2039,Laevahukk,664,2
+2040,Hukkaläinud laev,664,2
+2041,Hukka läinud laev,664,2
+2042,"Kiigu, liigu laevakene",353,2
+2043,Kolm laeva,1369,2
+2044,Laev,1369,2
+2045,Laev tormi käes,661,2
+2046,Laeva sõit,1373,2
+2047,Laeva tegemine,1364,2
+2048,Laevaga,1374,2
+2049,Laevaga kaupa ostma,664,2
+2050,Laevaga linna alla,1364,2
+2051,Laevasõit,1373,2
+2052,Laevasõit.,1373,2
+2053,Luine laev,1364,2
+2054,Luigeluust laev,1364,2
+2055,Luigeluist laev,1364,2
+2056,Laevategemine,1364,2
+2057,Sõua laeva,394,2
+2058,Viiburi linna sõit laevaga,661,2
+2059,Lutsu laev,1375,2
+2060,Laevasepp,1376,2
+2061,Luust laevaga kaugele,1364,2
+2062,Laevasoit,1373,2
+2063,Neiu laevasõit,1373,2
+2064,Lauldud - laev,1373,2
+2065,Purjelaevaga merel,1373,2
+2066,Venna laev hukka läinud,664,2
+2067,Rahalaev,1372,2
+2068,Neiu laev,1372,2
+2069,Meri õues - laevad sõidavad,1002,2
+2070,Laevategu,1373,2
+2071,Laevaga kosja,1379,2
+2072,Laevaga kosima,1379,2
+2073,Laevaga kosija,1379,2
+2074,Laevaga kosilane,1379,2
+2075,Laevaga hääd meest otsima,1379,2
+2076,Laeva ehitus,1376,2
+2077,Kosjasõit laevaga,1379,2
+2078,Kalapüük,1380,2
+2079,Kalapüük - hää müük?,1380,2
+2080,Kalapüügilaul,1380,2
+2081,Kalajõgi (pooleli),514,2
+2082,Kalapüük kupjale,1380,2
+2083,Kalapüük külalistele,1380,2
+2084,Kalaluust kannel,385,2
+2085,Kalaluust,571,2
+2086,Kalapüüdmise sõnad,1381,2
+2087,Sillad soile,659,2
+2088,Sillad soodel,659,2
+2089,Sillad soodele,659,2
+2090,Sillad soole,659,2
+2091,Soo sillad,659,2
+2092,Soodele sillad,659,2
+2093,Soodel sillad,659,2
+2094,Soode sillad,659,2
+2095,Kala kutsub noodale,1382,2
+2096,Kalamehe poeg uputab kaaslase,1383,2
+2097,Lauldud kalajärv,1365,2
+2098,Ei söö vana kala,848,2
+2099,Jõgi - kalad,514,2
+2100,Kala kupjale,1382,2
+2101,Kala kõneleb,1385,2
+2102,Kalad,1386,2
+2103,Kalad - meri,1002,2
+2104,Kalade müük.,1387,2
+2105,Kalale,1385,2
+2106,Kalamees,1388,2
+2107,Kalamehelaul,1390,2
+2108,Kalameri,1002,2
+2109,Kalapüügile kutse,1380,2
+2110,Kalapüük - Hää müük,1380,2
+2111,Kalapüük mõisale,1380,2
+2112,Kalapüük mõisa tarvis,1380,2
+2113,Kaugele kalale,1390,2
+2114,Kutse kalapüügile,1380,2
+2115,Laisa kalamehe tapmine,993,2
+2116,Laisk kalamees - Kalamehe naine,993,2
+2117,Naine tahab kala süüa,1148,2
+2118,Kalapüüdmine pühal,1392,2
+2119,Pühal kala püüdma,1392,2
+2120,Värske kala,1356,2
+2121,Tikalaul,1393,2
+2122,Tikkalaul,1393,2
+2123,Mõrrad mõisa poole,1394,2
+2124,Mõistan mõrrad teha,1394,2
+2125,"Tulge meile laulma, kala järv õues",1002,2
+2131,Kurg ja vares,1171,2
+2132,Kurg ja vares vaidlevad,1171,2
+2133,Rikka härg ja vaese vares,1199,2
+2134,"Rikka härg, vaese vares",1199,2
+2135,Vares ja ronk,1171,2
+2136,Vares,1398,2
+2137,Vares rõõmustab tütarlaste üle,1171,2
+2138,Vares toob surma sõnumid,1399,2
+2139,Vares toob sõna omakste surmast,1399,2
+2140,Vares vaeslapseks,669,2
+2141,Vares vaga linnuke,1400,2
+2142,Vares vaga linnukene,1400,2
+2143,Vares vana asja mäletab,1398,2
+2146,Varese varrud,797,2
+2147,Varesele,1398,2
+2148,Varesetapja,1199,2
+2149,Teder,1402,2
+2150,Teder munemas,1402,2
+2151,Teder otsib pesakohta,1402,2
+2152,Teder puus - mina maas,1402,2
+2153,Käopoeg,1063,2
+2154,Käopojad,1063,2
+2155,Käo pojad,1063,2
+2156,Käo poeg,1063,2
+2157,Karjane ja käopoeg,1063,2
+2158,Käo sünd,504,2
+2159,Surnud tütar käona,504,2
+2160,Tapetud tütar käona,504,2
+2161,Vaenelaps käona,504,2
+2162,Vaenelaps käoks ?,504,2
+2163,Vaenelaps käoks,504,2
+2164,Käopoja l.,504,2
+2165,Tütar käoks,504,2
+2166,Kuku käoke,793,2
+2167,Kuku käokene,793,2
+2168,Käo kukkumine,793,2
+2169,Käo poegade varas,1063,2
+2170,Käokukkumine,793,2
+2171,Hea jahikoer,1405,2
+2172,Hea koer,1405,2
+2173,Hää koer,1405,2
+2174,Hääd koerad,1405,2
+2175,Kaks koera,1406,2
+2176,Kaks koera ja poega,1406,2
+2177,Kaks koerakest,1406,2
+2178,Kas koerad kodu?,1338,2
+2179,Keelake koerad,1407,2
+2180,Keelge koerad,1407,2
+2181,"Kodu kaebamas, et koerad kiige söönud",300,2
+2182,"Ust, koer haukumast!",1407,2
+2183,Susi söögu koerad,1408,2
+2184,Tütar palub koeri kosilase eest kaitseks,1408,2
+2185,Susi söögu koer - ööhulkuja soov,1408,2
+2186,Koer,1409,2
+2187,Koerad,1409,2
+2188,Koera mäng,1410,2
+2189,Koeranahkne kasukas,1353,2
+2190,Koerad lehmad murdnud,1412,2
+2191,Koertele,1413,2
+2192,Koer kõrvas,1414,2
+2193,Koer haugub,1407,2
+2194,Koerale,1413,2
+2195,Oma ja küla koerad,1415,2
+2196,"Koerte tapja kohtus, peksab saksu",1416,2
+2197,Neiu palub isalt koera,1417,2
+2198,"Isa osta koerad, neiu tahab kasvada",1417,2
+2199,"Kodust mööda, koerad ei haugu",1418,2
+2200,"Koer haugub, kana ja tütar viidud",1419,2
+2201,"Koer haugub, neiu läheb aita",880,2
+2202,Koer ja ori,1420,2
+2203,Koer kiidab oma kodu,1421,2
+2204,Koer kosilasi haukumas,1417,2
+2205,Koer vahiks,260,2
+2206,"Koer, haugu",1417,2
+2207,Koera haukumine,1419,2
+2208,Koera kiitus,543,2
+2209,Koerad hauguvad,1407,2
+2210,Koerad ja linnud taga ajamas,1422,2
+2211,Koerad jahil,1413,2
+2212,Koerad kallal,1408,2
+2213,"Koerad, mis purete",1407,2
+2214,Koerte eest põgenemas,1408,2
+2215,Koerte peksmine,1423,2
+2216,Koerte tapja,1423,2
+2217,Kolm koera,1424,2
+2218,Kui hunt koerad murraks,1408,2
+2219,"Kuri peremees, ori nagu koer",1420,2
+2220,"Neiu palub isalt koera, tahab kasvada",1417,2
+2221,3 koera,1424,2
+2222,"Hunt koera söönud, kosilane tänab",1408,2
+2223,Sakste koerte tapja,1423,2
+2224,Tütar palub emalt koeri,1417,2
+2225,"Sõida hobu, kodu koerad",1425,2
+2226,Pulli hääl,1426,2
+2227,Luika pull,1426,2
+2228,Mees kui pull,733,2
+2229,Mehed kui pullid,733,2
+2230,Kanged mehed kui pullid tulevad metsast,733,2
+2231,Kanged mehed kui pullid,733,2
+2232,Sõlg sillaks,1428,2
+2233,Silla tegemine,1429,2
+2234,Puuvedu,778,2
+2235,Sepp,1430,2
+2236,"Sirise, sirp",907,2
+2237,"Sirise, sirp!",907,2
+2238,"Sirise, sirpi",907,2
+2239,Sirise sirpi,907,2
+2240,Sirise sirp,907,2
+2241,Halb sirp,1431,2
+2242,Lõikusl.: Halb sirp,1431,2
+2243,"Sepp, tee sirp!",1432,2
+2244,"Sepp, tee sirp",1432,2
+2245,Sepp tee sirp,1432,2
+2246,Sarvest sirp,1432,2
+2247,Tee sirp,1432,2
+2248,Sepp - sirp,1432,2
+2249,Lõpe põld,1433,2
+2250,Lõpe põld - jätan tsirgule,1433,2
+2251,"Lõpe, põld",1433,2
+2252,"Lõpe, põld!",1433,2
+2253,"Lõppe, põld",1433,2
+2254,Naeripõld,1434,2
+2255,Neiu palub põldu,178,2
+2256,Orja põld,1245,2
+2257,Palub põldu,178,2
+2258,Põld pikk,1436,2
+2259,Pikad põllud,1437,2
+2260,Lõikuse l,1438,2
+2261,Lõikuse laul,1438,2
+2262,Lõikuselaul,1438,2
+2263,Laisk naine lõikusel,1439,2
+2264,Ei antud hobust talgutele,1440,2
+2265,Ei ole hobust talgule minna,1441,2
+2266,Ei ole hobust talgusele minna,1440,2
+2267,Ei saa hobust talgule minna,1440,2
+2268,Ei saa hobust talgusele minna,1440,2
+2269,Isa ei anna hobust talgule minna,1440,2
+2270,Mõisa talguliste laul,1444,2
+2271,Tahtsin talgule,1441,2
+2272,Talgu laul,1441,2
+2273,Talgud,1446,2
+2274,Talgul,1447,2
+2275,Talgul.,1447,2
+2276,Talgulaul,1447,2
+2277,Talgulaul - põllud põimimata,1447,2
+2278,Talgulaul ?,165,2
+2279,Talgule hobust,1440,2
+2280,Talgule kutse,1448,2
+2281,Talgule minek,1449,2
+2282,Talgulised paluvad süüa,1443,2
+2283,Talgulistele süüa,1443,2
+2284,Talguse l,1446,2
+2285,Talguse l.,1443,2
+2286,Talguse laul,1447,2
+2287,Talguse rahvas läheb sööma,1447,2
+2288,Talgusel,1442,2
+2289,Talguselaul,1440,2
+2290,Talgusele kutse,1448,2
+2291,Tänu mõisa talgusel,1444,2
+2292,Tänu mõistalgutel,1444,2
+2293,Tänu talguste eest,603,2
+2294,Tänu talgutel,1446,2
+2295,Tänulaul mõisa talgusel,1444,2
+2296,Tänulaul talgustel,603,2
+2297,Valelik valetab et talgusi pole,1442,2
+2298,"Valelik valetab, et talgused otsas",1442,2
+2299,"Valelik ütleb, et talgust polegi",1442,2
+2300,Arg laulja,466,2
+2301,(?)Arg laulik,466,2
+2302,"Ahellaul: Sikk, sikk, habenik",343,2
+2303,Arg laulik - laul arvatakse sõjaks,466,2
+2304,"Arg laulik, kardab mõisat",466,2
+2305,Ei enne kui laulatatud,1451,2
+2306,Ei enne laulatamist,1451,2
+2307,Ei enne laulatust,1451,2
+2308,Ei enne laulatust (neiu kutsub poisi lakka),1451,2
+2309,"Ei laula linnust, vaid lapsest",1452,2
+2310,Ei ole vastulauljat,469,2
+2311,Ei saa laulu lepa ladvast,467,2
+2312,Ei saa vait olla ega laulda,731,2
+2313,Ei tohi laulda,466,2
+2314,Hea laulik,469,2
+2315,Hälli laul.,816,2
+2316,Hää laulik,494,2
+2317,Imelik laulja,491,2
+2318,Imelik laulik?,491,2
+2319,Imelikud laulikud,491,2
+2320,Imelikud lauljad,491,2
+2321,Imestuseväärt laulik,491,2
+2322,Jaanitule laul,231,2
+2323,Kadrisandilaul,202,2
+2324,Kosjalaul,1457,2
+2325,Kosja laul,1457,2
+2326,Kui hakkan laulma,486,2
+2327,Kust laul õpitud,467,2
+2328,Kdrilaul,202,2
+2329,Kus laul õpitud,467,2
+2330,Kus laul tehtud,467,2
+2332,Kust laulud saadud,467,2
+2333,Kust laul võetud,467,2
+2334,Kust laul saadud,467,2
+2335,Kust laulud,467,2
+2336,Kust laulad,467,2
+2337,Kust laulud saadud?,467,2
+2338,Kust laulu saanud,467,2
+2339,Kust laulu võtnud,467,2
+2340,Kust laulud võetud,467,2
+2341,Kust laulud õppinud,467,2
+2342,Kust laulud pärit,467,2
+2343,Kust vaeslaps laulud saand,467,2
+2344,Lapse kõhuvalu laul,1458,2
+2345,Puhas rehepeksja,1459,2
+2346,Rehele kutse,1460,2
+2347,Rehele,1460,2
+2348,Rehele äratamine,1460,2
+2349,Rehele äratus,1460,2
+2350,Rõõmus rehepeksja,1461,2
+2351,Millal peksan peiu rehe,1462,2
+2352,Rehepeksja neiu,1462,2
+2353,?Halb rehepeksja,1243,2
+2354,Lauluga peksab rehed,1461,2
+2355,Ilus ei tule rehele,1459,2
+2356,Mõisa rehelt varastamas,1020,2
+2357,Mõisa rehest varastamas,1020,2
+2358,Mõisarehest varastamas,1020,2
+2359,Rehe varas,1020,2
+2360,Rehepeksmine,1467,2
+2361,Rehepeksu laul,1467,2
+2362,Rikka rehepeksmine,1468,2
+2363,Üles rehele,1460,2
+2364,Varas mõisa rehes,1020,2
+2365,Rehepeksu 1.,1469,2
+2366,Rehepeksmiselaul,1467,2
+2368,Paksud lademed,1243,2
+2369,Ei kulu koodil,1244,2
+2370,Tulge kokku koodimehed,1470,2
+2371,Rikas ei peksa reht,1468,2
+2372,Reht ei peksta minuta,1463,2
+2373,Reht ei pekseta minuta,1463,2
+2374,(?) Rikas ei peksa reht,1468,2
+2375,Vakasepp,1471,2
+2376,Auk aias,820,2
+2377,Kodu ja mõisa rehi,1469,2
+2378,Rehepeksulaul,1467,2
+2379,Rehepeksu l.,1467,2
+2380,Rehepeksja,1467,2
+2381,Rehepeksja laul,1467,2
+2382,Hagu raiuma,1473,2
+2383,Hagu raiumas,1473,2
+2384,Halval ilmal hagu raiuma,1473,2
+2385,Haoraiuja,1473,2
+2386,Haoraiuja kavalus,1473,2
+2387,Kubjas paneb puid raiuma,1473,2
+2388,Metsa raiumine,362,2
+2389,Metsaraiumine,362,2
+2390,Pole metsaraiujat,362,2
+2391,Puid raiuma,362,2
+2392,Puid raiumas,362,2
+2393,Puu raiumine,362,2
+2394,Halvad puuraiujad,362,2
+2395,Puuraiuja,362,2
+2396,Puuraiuja.,362,2
+2397,Puuraiumine,362,2
+2398,Puuraiumine ja ahjukütmine,362,2
+2399,Sulane puid raiumas,1473,2
+2400,"Suvel künnab, talvel raiub metsa",362,2
+2401,Tamme raiumine,134,2
+2402,Ree ja vankri tüli,1474,2
+2403,Tõrre vitsutamine,772,2
+2404,Regi,1475,2
+2405,"Regi, aisad",1476,2
+2406,Kaval sulane: aia auk,820,2
+2407,Härja ammumine,1426,2
+2408,Härjatapja pögenemas,1477,2
+2409,Härjatapp ja söögivalmistamine,1477,2
+2410,Sibulaist sild,1478,2
+2411,Sibulast sild,1478,2
+2412,Sild soole,659,2
+2413,Soo sild,659,2
+2414,Soomesild,916,2
+2415,Sild teele,1428,2
+2416,Sild läks katki,414,2
+2417,Nõrk sild,1479,2
+2418,Mehed ja poisid sillaks,1429,2
+2419,Soome sillal sõitmine,916,2
+2420,Kure piim,685,2
+2421,Hobuse piim,1481,2
+2422,Piim,1482,2
+2423,Sõõru-sõõru,1483,2
+2424,"Sõõru, lehmake!",940,2
+2425,Toida või tapa,1484,2
+2426,Toida või tapa!,1484,2
+2427,Või tegemine,1485,2
+2428,"Sõõru, lehm!",940,2
+2429,"Sõõru, lehmake",940,2
+2430,"Sõõru, sõõru",940,2
+2431,Ei viitsind võid teha,1486,2
+2432,Ei viitsind võida teha,1486,2
+2433,Laisad naised (ei viitsi võid teha),1486,2
+2434,Kutse võidu laulma,469,2
+2435,Võidu laulmine,469,2
+2436,Võidulaulmine,469,2
+2437,Võidu laulmine ja rehepeks,469,2
+2438,"Hunt viib lehma, poiss - tüdruku",1483,2
+2439,"Hunt viib lehma, poiss neiu",1483,2
+2440,Laisk neiu - lehmad lüpsmata,1262,2
+2441,Lehm ammub,1488,2
+2442,Lehm ammub härgi,1488,2
+2443,Lehm ammub - mine koju,1488,2
+2444,Lehma jagamine,1489,2
+2445,Lehma sajatus,1490,2
+2447,Lehmad lüpsmata,1135,2
+2448,Neiu kiigel - lehmad lüpsmata,271,2
+2449,Lehmade väljalaskmine,1262,2
+2450,Neiu kiigel - lepp lüpsku lehmad,271,2
+2451,"Neiu kiigel, lehmad lüpsmata",271,2
+2452,"Üles, lehmi lüpsma",1262,2
+2453,Üles lehmi lüpsma!,1262,2
+2454,Üles lehmi lüpsma,1262,2
+2455,Tõuske lehmi lüpsma,1262,2
+2456,Parm ja sääsk lehmadena,1491,2
+2457,Lehmale,1488,2
+2458,Lehmalüpsi laul,1481,2
+2459,Lehmalüpsmine,940,2
+2460,Mikult tuld toomas,1492,2
+2461,Peergude kiskuja,1493,2
+2462,Peergude lõikaja ja ketraja,1493,2
+2463,Pada keeb,339,2
+2464,Parem kivi kui poisi juures,710,2
+2465,Parem kivi kui peiu juures,710,2
+2466,Ennem kivi kõrvale,710,2
+2467,Ennem kivi kui poisi juures,710,2
+2468,Ennem kivi kui poisi kõrval,710,2
+2469,Ennem kivi kõrval,710,2
+2470,Ennem kivi kui poisi juurde,710,2
+2471,Ennem kivi juures,710,2
+2472,Ennem kivi juurde,710,2
+2473,Enne kivi kui vanapoisi juures,710,2
+2474,Enne kivi kui poisi juures,710,2
+2475,Enne kivi kui poisi juure,710,2
+2476,Enne kivi kui poisi juurde,710,2
+2477,Enne kivi kui kurja neiu juure,1494,2
+2478,Kivi jauhmine,513,2
+2479,Kivi jahvatamine,513,2
+2480,Kivi meres,1118,2
+2481,Kivi merest,1118,2
+2482,Käsikivi l.,1118,2
+2483,Kas puder keedetud,1495,2
+2484,Kas on puder keedetud,1495,2
+2485,"Perenaesel puder, vaesel vesi ja leib",1496,2
+2486,Veskile minek,1497,2
+2487,Neiu veskile,1497,2
+2488,Neiu veskile sõit,1497,2
+2489,Veskile sõit,1497,2
+2490,Veskil käik,1497,2
+2491,Veski katki,1498,2
+2492,Veski ehitamine,1499,2
+2493,Pudrukeetmise laul,339,2
+2494,10 kosilast,1254,2
+2495,3 kosilast,1500,2
+2496,3 kosilased,1500,2
+2497,Kolm hälli,625,2
+2498,Kolm kätki,625,2
+2499,Kolm kätkit,625,2
+2500,Kubja kolm tütart,624,2
+2501,Kolm kupja tütart,624,2
+2502,Kolm kosilast,1500,2
+2503,Kolm laiska neidu,624,2
+2504,Kolm kaelarätti,1109,2
+2505,Kolm kiike,622,2
+2506,Kolm halba,626,2
+2507,Kolm halba alla ilma,626,2
+2508,Kolm halba ilma all,626,2
+2509,Kolm halba ilma peal,626,2
+2510,Kolm halba ilma pääl,626,2
+2511,Kolm hobust,895,2
+2512,Kolm on halba ilma all,626,2
+2513,Kolm rätikut,1109,2
+2514,Kolm rätti,1109,2
+2515,Kolmed püksid,1502,2
+2516,Kolm põlle,1253,2
+2517,Kolm rätikut?,1500,2
+2518,Kolmed kingad,623,2
+2519,Neli neidu,518,2
+2520,Neli neitsit,518,2
+2521,Neli neiut,518,2
+2522,Pilves pisar - Neli neidu,1503,2
+2523,Meri - ait - neli neiut,1002,2
+2524,Meri - neli neidu,1002,2
+2525,Meri - neli neitsit,1002,2
+2526,Meri - Neli neiut,1002,2
+2527,Meri õues - neli neidu,1002,2
+2528,Pilves veepisarad,1503,2
+2529,Pilves pisar,1503,2
+2530,Pilvest pisar,1503,2
+2531,Pilve pisar,1503,2
+2532,Pilv,1503,2
+2533,Kulla põlemine,1043,2
+2534,Kulla põlemine.,1043,2
+2535,Seni heinamaa ilusa,328,2
+2536,Seni,328,2
+2537,Neiu nälg,1518,2
+2538,Neiu tahab talupojale,554,2
+2540,Anne sepp,178,2
+2541,Oleks sepp,1519,2
+2542,Oleks sepp - suus sulataks rauda,1519,2
+2543,Sepp (sarved),535,2
+2544,Sepp (sulatab suus rauda),1519,2
+2545,Sepp (sulatab suus),1519,2
+2546,Sepp (suus rauda),1519,2
+2547,Sepp /suus rauda/,1519,2
+2548,Sepp sarve teinud,535,2
+2549,Sepp sulatab suus rauda,1519,2
+2550,Sepp tee tõld,177,2
+2551,Sepp tõlda parandamas,177,2
+2552,"Sepp, tee lukk",1522,2
+2553,Ei sepale,502,2
+2554,Halvad rätsepad,1527,2
+2555,Neiud päikesepaistel hobuste hirnumist kuulamas,613,2
+2556,Sarved sepale,535,2
+2557,Sepa kosjalkäik,502,2
+2558,Sepa perekond,502,2
+2559,Vend sepaks,668,2
+2560,Vii sepale,1517,2
+2561,Remmelgane rüüd,1520,2
+2562,Imelik rüü,1520,2
+2563,Imelik rüüd,1520,2
+2564,Imekasukas,1529,2
+2565,Imelik kasukas,1529,2
+2566,Püksid,1502,2
+2567,Laisk ketraja,955,2
+2568,Laisk kuduja,1532,2
+2569,Laisk kuduja neiu,1532,2
+2570,Hea ketraja,1534,2
+2571,Hoolas ketraja,1534,2
+2572,Vara vaeseks,676,2
+2573,Vara vaeseks.,676,2
+2574,Kehvad ketravad perenaise villad,1535,2
+2575,Kellele ketrab,1535,2
+2576,Ketraja,1537,2
+2577,Ketraja laul,1536,2
+2578,Ketraja palk,1538,2
+2579,Ketramise l,1535,2
+2580,Ketramise l.,1533,2
+2581,Ketramise laul,1541,2
+2582,Ketramiselaul,1534,2
+2583,Ketran siidi,1537,2
+2584,Nobe ketraja,1534,2
+2585,Virk ketraja,1534,2
+2586,Virk neiu ketramas,1534,2
+2587,Halb kuduja,827,2
+2588,Kadri kudus sukad,1547,2
+2589,Kanga kudumine,1546,2
+2590,Kangakuduja,1546,2
+2591,Kangakudumine,1546,2
+2592,Kunas kusik kudus,1550,2
+2593,Kuue kudumine,1548,2
+2594,Neiu oskab kududa,1546,2
+2595,Sukakudumine,1547,2
+2596,Vaeselapse kangakudumine,1552,2
+2597,Vaeselapse kudumine,1552,2
+2598,Virk kuduja,1546,2
+2599,Virk sukakuduja,1546,2
+2600,Vöö kudamine,1553,2
+2601,Nälja vöö,833,2
+2602,Neiud värvisi otsimas,1555,2
+2603,Neiud värvi otsimas,1555,2
+2604,Metsas värve otsimas,1555,2
+2605,"Kuluge, kingad",1558,2
+2606,Imelikud kingad,1559,2
+2607,Kingad,623,2
+2608,"Marjal, kingad kuivamas",740,2
+2609,Sukad ja kingad,623,2
+2610,10 mütsi,1560,2
+2611,Kolm mütsi,1560,2
+2612,Kümme mütsi,1560,2
+2613,Mitu mütsi,1560,2
+2614,Mütsid,1560,2
+2615,Palju mütse,1560,2
+2616,Pühkmed merre,874,2
+2617,Pühkmed,1302,2
+2618,Pühkmed põllul,1302,2
+2619,Pühkmed põllule,1302,2
+2620,Pühkmed väljale,1302,2
+2621,Luua toomine,1561,2
+2622,Vee joomine,1562,2
+2623,Vee toomine,165,2
+2624,"Veere, päev!",251,2
+2625,Pisarate veeremine,840,2
+2626,Saunamees Ants,1170,2
+2627,Hansu saunamehe pilge,1170,2
+2628,Sandinaine - saunanaine,1566,2
+2629,Sandinaine-Saunanaine,1566,2
+2630,Sandinaine=Saunanaine,1566,2
+2631,Sandinaine=Saunanaine.,1566,2
+2632,Saunanaine palub paja aset,1566,2
+2633,Saunamehe naine (palub paja aset),1566,2
+2634,Saunanaine palub paega,1566,2
+2635,Saunamehe naine palub paja aset,1566,2
+2636,Saunanaine palub paja eest,1566,2
+2637,Saunanaine palub pajaaset,1566,2
+2638,Tänu sauna eest,1567,2
+2639,Saun,647,2
+2640,Saunanaine,1566,2
+2641,Sauna kütmine haavade paranduseks,1570,2
+2642,Sauna kütmine haavade vihtlemiseks,1570,2
+2643,Saunasõnad,1571,2
+2644,Venna saun,656,2
+2645,Saunas,1571,2
+2646,Saunamehe pilge,1170,2
+2647,Saunamees,1170,2
+2648,Saunalaul,1567,2
+2649,Saun.,1571,2
+2650,Vett toomas,165,2
+2651,Salme neiu vett toomas,165,2
+2652,Neiu vett toomas - saab sõnelda,165,2
+2653,Kaua vett toomas,165,2
+2654,Virus vett toomas,165,2
+2655,Virust vett toomas,165,2
+2656,Virus vett toomas (?),165,2
+2657,Kurik vette kukkunud,1575,2
+2658,Peig vette kukkunud,1576,2
+2659,Ära joo jõevett,1479,2
+2660,Ära joo merevett,1479,2
+2661,Venelane vette,1577,2
+2662,Saan,922,2
+2663,Jaan - saan,922,2
+2664,Saani tegemine,922,2
+2665,Mees merimehe poeg,646,2
+2666,Meremeest meri toidab,1383,2
+2667,Meri mind söötnud,1578,2
+2668,Meri mu meheks teinud,1579,2
+2670,Laulu võim,1580,2
+2671,Laulu võim - palju laule,486,2
+2672,Laulu võim - pulmas laulikuks õppinud,467,2
+2673,Meri söötnud,1578,2
+2674,"Meri, mu hobu",1581,2
+2675,Meri - neiu,1002,2
+2676,Meri - poeg neiu põlve peal,1002,2
+2677,Meri oleks söötnud,875,2
+2678,Meri söötis,1578,2
+2679,"Meri, koppel",1002,2
+2680,Merimees,646,2
+2681,Vara vaeseks - merimehe naine,1388,2
+2682,Meri,1002,2
+2683,Kangrud kalal,1585,2
+2684,Hea meremees,646,2
+2685,Kellel kurdan,1035,2
+2686,Kellel kurdan?,1035,2
+2687,Kellel kurdan.,1035,2
+2688,Laisk meremees,993,2
+2689,Laulab mere maaks,479,2
+2690,Laulan mere maaks,479,2
+2691,Mees merest,1588,2
+2692,Meremees,646,2
+2693,Mere mütmine,1589,2
+2694,Mere puhkimine,998,2
+2695,Mere äärde külvatakse lina,705,2
+2696,Mere ääre peal,1365,2
+2697,Meremees kutsub noodale.,1391,2
+2698,Meremees läheb merele kui surma,754,2
+2699,Meremehe l,559,2
+2700,Meremehe poeg,646,2
+2701,Meremehe riided,1530,2
+2702,Meremehe saatus,754,2
+2703,Meremehe tundmata saatus,754,2
+2704,Meremehe tundmatu saatus,754,2
+2705,Meremehelaul,646,2
+2706,Osav meremees,646,2
+2707,Maie laul (Mereminija),1596,2
+2708,Maielaul (mereminija),1596,2
+2709,Mereminija,1596,2
+2710,Merepoeg,1578,2
+2711,Meres pole metsa ei tuge,1592,2
+2712,Meresõit,646,2
+2713,Mereääre äestamine,704,2
+2714,Neid mere ääres,1598,2
+2715,Noormehed tahavad üle mere,1370,2
+2716,"On sellegi aja näinud, kui mere äärest äestati",704,2
+2717,Suga merest,124,2
+2718,Suga meres,124,2
+2719,Suur tuul merel,661,2
+2720,Tamme tüvi merest,134,2
+2721,Tuulte tundja meremees,646,2
+2722,Vend meremees,1602,2
+2723,Vend meremeheks,1602,2
+2724,Vend mererannal,1602,2
+2725,Meremehena ei saa naist,1602,2
+2726,Kütt ja põllumees,1605,2
+2727,Vend on hea kütt,1603,2
+2728,Linnukütt,1603,2
+2729,Mees-kütt,1455,2
+2730,Jahimees arvati sõjaks,1604,2
+2731,Jahimees ja põllumees,1605,2
+2732,Jahimees,1603,2
+2733,Jahimehe amet ei toida,1605,2
+2734,Jahimehele,1455,2
+2735,Neid pole püssil püütav,12,2
+2736,Neidu ei püüta püssil,12,2
+2737,Lindu püssil püüetakse,12,2
+2738,Püss ei elata,1605,2
+2739,Püss ei toida,1605,2
+2740,"Orav oota, kuni püssi täidan",736,2
+2741,"Orav, oota, kuni püssi täidan",736,2
+2742,Ei joua püssil elada,1605,2
+2743,Ei jõua püssil elada,1605,2
+2744,Püssi täidetakse - orav oota,736,2
+2745,Püssi pühkija oravale,736,2
+2746,Püssiga tüdrukuid püüdmas,413,2
+2747,Püssil ei jõua äraelada,1605,2
+2748,Püssil püük,12,2
+2749,Püssisõnad,1608,2
+2750,Talupojale,554,2
+2753,Pajategijast talupojaks,1610,2
+2754,Talupojana parem elada kui kütina,1605,2
+2756,Korratu talu - laisk peretütar,999,2
+2757,Kosilane ja laisk peretütar,999,2
+2758,Kosjasõit - laisk peretütar,999,2
+2759,Laisk peretütar ja vaenelaps,1612,2
+2760,Laisk peretütar ja vaeslaps,1612,2
+2761,Sõnumisaat koju (Sõnakera),1613,2
+2762,Sõnumisaat koju = Sõnakera,1613,2
+2763,Sõnakera,1613,2
+2764,Lindudega sõnasaatmine,1614,2
+2765,Lindudega tervisi,1614,2
+2766,Nurganaine kodus,1615,2
+2767,Nurganaine,1615,2
+2768,"(Sõit, sõit ...)",460,2
+2769,(Suus rauda),1519,2
+2770,2 neidu lähevad ära,1518,2
+2771,Anna au kätte,1657,2
+2772,Anna au tagasi,1657,2
+2773,Jatkud,1663,2
+2774,"Saja, lumi",1676,2
+2775,"Saja, lumi!",1676,2
+2776,Laps - ema vokk,1678,2
+2777,Laps - ema vokk.,1678,2
+2778,Laps ema vokk,1678,2
+2779,Kosilase pilge,1684,2
+2780,Nekrutilaul,1725,2
+2781,Nekruti laul,1725,2
+2782,Liiga vara mehele,1745,2
+2783,Vara mehele,1745,2
+2784,Vara mehele läinud,1745,2
+2785,Miks vara mehele läksid,1051,2
+2786,Ära mine vara mehele,1051,2
+2787,Ärge sööge mu südant,1782,2
+2788,Ärge sööge südant,1782,2
+2789,Ärge sööge mu sõnada,1782,2
+2790,"Ärge sööge mind, vaid uputage",1783,2
+2791,Kui kaasa teaks,1784,2
+2792,"Kui kaasa teaks, ostaks orjusest",1784,2
+2793,"Kui kaasa teaks, viiks mind ära",1784,2
+2794,"Kallid neiud, odavad poisid",930,2
+2795,Kallid neiud,930,2
+2796,Kupja tütreid kosimas,624,2
+2798,Kupja tütred,624,2
+2799,Nimesõim,1789,2
+2800,Sõja l. = Venna sõjalugu,153,2
+2801,Targad tallipoisid,1795,2
+2802,Tallipoisid,1795,2
+2803,Ennem mätastega kui neidudega,450,2
+2804,Viltu,1811,2
+2805,Surejate vanemate karskuseõpetus,334,2
+2806,Surejate vanemate karskuseõpetus,327,2
+2807,Ema karskuse õpetus,327,2
+2808,Ema karskuseõpetus,327,2
+2809,Vanemate karskuseõpetus surivoodil,327,2
+2810,Vanemate karskuse õpetus,327,2
+2811,Vanemate karskuseõpetus,327,2
+2812,Virkuse õpetus,954,2
+2813,Võõra leib,1816,2
+2814,Linad liulaskjale,213,2
+2815,Laulu lõpetus,921,2
+2816,Ema õpetus puhtusest,1828,2
+2817,Ema puhtuse õpetus,1828,2
+2818,Ema puhtuseõpetus,1828,2
+2819,Ema puhtuseõpetus surmavoodil,710,2
+2820,Ema õpetus au hoidmisest,327,2
+2821,Ema õpetus,1829,2
+2822,Ema õpetus surmavoodil,1829,2
+2823,Ema õpetus surres,1829,2
+2824,Ema õpetus tütrele,1829,2
+2825,Käsnade s.,1831,2
+2826,Hiireherne - hobuse suits,768,2
+2827,Hiireherne suits,768,2
+2828,Sundija sulane,605,2
+2829,Siimu sulane,407,2
+2830,Kaval sulane,1832,2
+2831,Kaval kündja sulane,1832,2
+2832,Perenaine pettis e. Kaval sulane,1832,2
+2833,Laisk kündja sulane,1832,2
+2834,Palve kupjale (ära löö!),1833,2
+2835,Palve kupjale: ära löö!,1833,2
+2836,Pave kupjale,1833,2
+2837,Kättemaks kupjale,957,2
+2838,Imelik maja.,647,2
+2839,Laulust imelik maja,647,2
+2840,(?) Imelik linn,647,2
+2841,Pukki,126,2
+2843,Pukk,126,2
+2844,"Vili, pukk, sarvest hobune",126,2
+2845,Hää ja halb mees,545,2
+2846,Hää ja halb peiu,545,2
+2847,Paja tegemine,338,2
+2848,Ämm ei anna seepi paja pesta,1113,2
+2849,Neiu läheb kellele loodud,1856,2
+2850,"Neiu läheb, kelle loodud",1856,2
+2851,"Neiu läheb, kellel loodud",1856,2
+2852,"Kee, pada!",339,2
+2853,"Kee, pada",339,2
+2854,Pada,338,2
+2855,Laina pada,338,2
+2856,Võnnust võtja,1863,2
+2857,Hoiatus lesenaise eest = Ära kosi leske,1028,2
+2858,Hää mees ja halb mees,545,2
+2859,Hää mees - kuri mees,545,2
+2860,Halb mees ja hää mees,545,2
+2861,Eide ja nooriku hooles,1005,2
+2862,Kust teadsid tulla,1507,2
+2863,Kust teadsid tulla?,1507,2
+2864,"Liiri-lõõri, lõoke!",363,2
+2865,"Liiri-lõõri, lõoke",363,2
+2866,Liiri lõõri (kus pesa),363,2
+2867,Lõõri lõõri lõokene,363,2
+2868,Lõõri-lõõri,363,2
+2869,Ehk on titte tiiva all,1099,2
+2870,Laulikule juua,1126,2
+2871,Laula kuni elad,432,2
+2873,Tuule tuba,632,2
+2874,Tuule tuba = Tuba tuules,632,2
+2875,Oodati hooraks,854,2
+2876,Pane tütar mehele,994,2
+2877,Pane tütar minule,994,2
+2878,Kaasa kaugel,501,2
+2879,Kaasa kaugel ?,501,2
+2880,Sinu kaasa kaugel,501,2
+2881,Ei ole oma hulgas = Kaasa kaugel,501,2
+2882,Elu igav - kaasa kaugel,501,2
+2883,Inetu naine,1917,2
+2884,Inetu naine kaugel,1917,2
+2885,Inetu naine kaugelt,1917,2
+2886,Kaugelt toodud inetu naine,1917,2
+2887,Laisk inetu naine,1917,2
+2888,Ärge lööge,929,2
+2889,Ärge lööge vaeslast,929,2
+2890,Ärge lööge vaeslast!,929,2
+2891,Ärge lööge vaest last,929,2
+2892,Ärge lööge vaestlast,929,2
+2894,Kus on kurva kodu,632,2
+2895,Kurva kodu,632,2
+2896,Mitu halba - kurva kodu,632,2
+2897,Ilo laul,1938,2
+2898,Ilo sõit,1938,2
+2899,Ilolaul,1938,2
+2900,Ilolaul (improvisatsioon),1938,2
+2901,Tütar mõisas,1924,2
+2902,"Ema hirmul, et tütar mõisas",1924,2
+2903,"Ema kardab, sest tütar mõisas",1924,2
+2904,Ema nutab et tütar mõisas,1924,2
+2905,Ema nutab tütar mõisas,1924,2
+2906,"Ema nutab, et tütar mõisas",1924,2
+2907,"Ema nutab, et tütar mõisas.",1924,2
+2908,"Ema nutab, sest tütar mõisas",1924,2
+2909,"Ema nutab, tütar mõisas",1924,2
+2910,Tütar mõisas - ema kardab,1924,2
+2911,Tütar mõisas - ema mures,1924,2
+2912,Tütar mõisas teol - ema kardab,1924,2
+2913,"Tütar mõisas, ema kardab",1924,2
+2914,"Tütar mõisas, ema nutab",1924,2
+2915,Uhketele neidudele,896,2
+2916,Meie ja teiste poisid,604,2
+2917,Meie ja teiste küla noored mehed,604,2
+2918,Meie ja teiste mehed,604,2
+2919,Meie ja teiste poisid kiriku minnes,604,2
+2920,Meie ja teiste poisid kirikureisil,604,2
+2921,Meie ja teiste poisid kirikus,604,2
+2922,Meie ja teiste poisid pühal kirikus,604,2
+2923,Meie ja muud poisid jaanil kiriku,604,2
+2924,Meie ja teise poisid,604,2
+2925,Meie ja muude mehed,604,2
+2926,Meie ja selle küla noored mehed,604,2
+2927,Meie ja muude poisid kirikuteel,604,2
+2928,Meie ja muude poisid,604,2
+2929,Meie ja teise valla poisid,604,2
+2930,Meie ja tõiste poisid,604,2
+2931,Teie ja meie poisid,604,2
+2932,Meie poisid kirikus,604,2
+2933,Teie ja meie poisid kosja,604,2
+2934,Ei sünni suurte sekka,672,2
+2935,Kuldne kuningas,391,2
+2936,Kuningas,391,2
+2937,Hiline,665,2
+2938,Kurg künnab,685,2
+2940,Kurg pahandab,1171,2
+2942,Kurg,685,2
+2943,Kurg pahandab tütarlaste üle,1171,2
+2945,Rikka ja vaese sööt,1691,2
+2946,Rikka ja vaese söök,1691,2
+2947,Rikka ja vaese toit,1691,2
+2948,Mõisa aidast varastamas,1076,2
+2949,Mõisa aidast varastamine,1076,2
+2950,Mõisa-aidast varastamas,1076,2
+2951,Mõisaaidast varastamas,1076,2
+2952,Möisa aidast varastamas,1076,2
+2953,Võta naine sirbilt,378,2
+2954,Võta naine töö juurest,378,2
+2955,Võta naine töölt,378,2
+2956,Võta naine neidistest,1791,2
+2957,Võta naine neidudest,1791,2
+2958,Võta naine neiudest,1791,2
+2959,Võta naine - muidu narrin tüdrukuid,1946,2
+2960,Võta naine muidu murran neidusi ?,1946,2
+2961,"Võta naine, muidu",1946,2
+2962,"Võta naine, muidu ...",1946,2
+2963,"Võta naine, muidu murrab tüdrukuid",1946,2
+2964,"Võta naine, muidu murran neide",1946,2
+2965,"Võta naine, muidu murran neidusi",1946,2
+2966,Karu Kaie kiskunud,1047,2
+2967,Siga suvel ja talvel,1947,2
+2968,Siga suvel suureline,1947,2
+2969,Lauliku vaev,484,2
+2970,Laulja vaev,484,2
+2971,Eide vaev,817,2
+2972,Ema vaev,817,2
+2973,Memme vaev?,817,2
+2974,Memme vaev.,817,2
+2975,Millal maksan eide vaeva,817,2
+2976,Millal maksan memme vaeva,817,2
+2977,Saksad ilusad valla vaevast,1948,2
+2978,Saksad rikkad valla vaevast,720,2
+2979,Mõis ilus valla vaevast,1948,2
+2980,Saksad uhked valla vaevast,720,2
+2981,Saksad valged vaese vaevast,1948,2
+2982,Sakste ilu valla vaevast,1948,2
+2983,Asjata loodud,1949,2
+2984,Jumal asjata loonud,1949,2
+2985,Ema asjata kasvatand,875,2
+2986,Ema asjata kasvatanud,875,2
+2987,Ema kasvatas asjata,875,2
+2988,Kaevatus asjata,875,2
+2989,Ema asjata kasvatasid,875,2
+2990,Kasvatas asjata,875,2
+2991,Kasvatud asjata,875,2
+2992,Vanemad asjata kasvatand,875,2
+2993,Vanemad asjata kasvatanud,875,2
+2994,Asjata kasvatatud,875,2
+2995,Asjata kasvatatud - soldatiks,1069,2
+2996,Asjata kasvatatud - soldatiks saanud,1069,2
+2997,Asjata loodud - soldatiks,1069,2
+2998,Asjata kasvatatud soldatiks,1069,2
+2999,Asjata loodud soldatiks,1949,2
+3000,Asjata kasvatet,875,2
+3001,Ksvatus asjatu,875,2
+3002,Asjatult loodud,1949,2
+3003,Rähni ja sea töö asjatu,1950,2
+3004,Tule mulle,660,2
+3005,Millal lähen isale,1824,2
+3006,Millal saan isale,1824,2
+3007,Millal saan,1824,2
+3008,Millal saan isale?,1824,2
+3009,Millal saan mina isale,1824,2
+3010,Millal saan omile,1824,2
+3011,Millal saan omile?,1824,2
+3012,Ratassaan,492,2
+3013,Ratassäng,492,2
+3014,Venna kiitus,447,2
+3015,Oma venna kiitus,447,2
+3016,Venna kiitus - laitus,447,2
+3017,Venna kiitus.,447,2
+3018,Oodatakse hooraks,854,2
+3019,Sõimati hooraks,1951,2
+3020,Üteldakse hooraks,1951,2
+3021,Üteldi hooraks,1951,2
+3022,Kosilased kodus,561,2
+3023,Kosilased kodu,561,2
+3024,Kosilased koju,561,2
+3025,Kadri laulud.,202,2
+3026,Kadris. l,202,2
+3028,Kadrisandid,202,2
+3029,Mardi-kadrilaul,202,2
+3030,Orjusest ostja,596,2
+3031,Orjusest ostmine,596,2
+3032,Orja elu - orjusest ostmine,596,2
+3033,"Kui peiu teaks, ostaks orjusest",596,2
+3034,Orjusest ostja.,596,2
+3035,Orjusest ostja surnud,596,2
+3036,Halva ilmaga tööl,448,2
+3037,Halval ilmal tööl,448,2
+3038,Halva ilmaga teel,1954,2
+3039,Halva ilmaga teol,1954,2
+3040,Halval ilmal sõitmas,1954,2
+3041,Halval ilmal teel,1954,2
+3042,Halval ajal sündinud,1235,2
+3043,Õpetus kosilasele,1955,2
+3044,Õpetus kosjaminejale,1955,2
+3045,"Pisike, punane põrsas",811,2
+3046,Punane põrsas,811,2
+3047,Väike punane põrsas,811,2
+3048,Õpetus miniale,1124,2
+3049,Isa ja mehe kodus,1957,2
+3050,Neiu isa ja mehe kodus,1957,2
+3051,Tütar isa ja mehe kodus,1957,2
+3052,Isa ja mehe kodus ?,1957,2
+3053,Isa ja mehe kodus?,1957,2
+3054,Isa ja mehe kodus.,1957,2
+3055,Noorik isa ja mehe kodus,1957,2
+3056,Petis peiu,332,2
+3057,Neiu tahab taganeda,1958,2
+3058,Pruut tahab taganeda,1958,2
+3059,Oma ema ootab koju - võõrasema ootab koju,1776,2
+3060,Oma ja võõrasema kodu oodates,1776,2
+3061,Oma ja võõrasema ootab koju,1776,2
+3062,Oma ja võõrasema ootab koju.,1776,2
+3063,Oma ja võõrasema ootavad kodu,1776,2
+3064,Oma ja võõrasema ootavad koju,1776,2
+3065,Oma ja võõrasema äratamas,1840,2
+3066,Oma- ja võõrasema ootab koju,1776,2
+3067,Oma- ja võõrasema ootavad koju,1776,2
+3068,Võõrasema ja oma ema ootavad koju,1776,2
+3069,Oma ema ja võõrasema koju ootamas,1776,2
+3070,Oma ema ja võõrasema ootamas,1776,2
+3071,Võõrasema ja oma ema ootavad koju.,1776,2
+3072,Ema ja võõrasema ootavad koju,1776,2
+3073,Ema- ja võõrasema ootavad koju,1776,2
+3074,Oma ema ja võõrasema ootavad koju,1776,2
+3075,Oma -ja võõrasema ootavad koju,1776,2
+3076,Võõrasema ootab kodu,1776,2
+3077,Võõrasema ootab koju,1776,2
+3078,Võõrasema ootab kodu.,1776,2
+3079,Võõrasema ootab koju.,1776,2
+3080,Võõrasema ootab toju,1776,2
+3081,Ema ja võõrasema,1776,2
+3082,Võõrasema ja oma ema,1776,2
+3083,Võõrasema kodu ootamas,1776,2
+3084,Oma ja võõrasema söök,1959,2
+3085,Võõrasema käseb tules magada,1960,2
+3086,Võõrasema käsib tules magada,1960,2
+3087,Võõrasema käskis tules magada,1960,2
+3088,Oma ema ja võõrasema söök,1959,2
+3089,Oma- ja võõrasema,1959,2
+3090,Oma - ja võõrasema,1959,2
+3091,Oma ema - võõrasema,1776,2
+3092,Oma ema ja võõrasema,356,2
+3093,Oma ja võõrasema,356,2
+3094,"Siga, ära mine võõra vilja",811,2
+3095,Suvel on siga suureline,1947,2
+3096,Siga põllul,811,2
+3097,Siin pole teie oma,1961,2
+3098,Siin ei ole sinu oma,1961,2
+3099,Sinu oma siin ei ole,1961,2
+3100,Siin ei ole simi oma,1961,2
+3101,Minu oma siin ei ole,501,2
+3102,Sarvest sadul,947,2
+3103,Sarvest saan,947,2
+3104,Sarvest hobu - sadul,947,2
+3105,Hobu-sadul (sarvest),947,2
+3106,Sarvest hobu,947,2
+3107,Kupja sajatamine,890,2
+3108,Kupja sajatus,890,2
+3109,Mardisantide l,190,2
+3110,Mardi l,190,2
+3111,Mardi sõimusõna,1789,2
+3112,Lauliku lapsepõli,749,2
+3113,Lauliku lapsepõlv,749,2
+3114,Lauliku soost,470,2
+3115,Lauliku sugu,470,2
+3116,Lauliku lapsepöli,749,2
+3117,Lauliku soost - ei ole tuim,470,2
+3118,Laulikule raha,459,2
+3119,Raha laulikule,459,2
+3120,Pulmades laulikuks saanud,1969,2
+3121,Pulmades laulikuks õpinud,1969,2
+3122,Pulmades laulikuks õppinud,1969,2
+3123,Pulmades laulikuks õppinud = Kust laulud,1969,2
+3124,Pulmas laulikuks õppind,1969,2
+3125,Pulmas laulikuks õppinud,1969,2
+3126,Pulmis laulikuks õppind,1969,2
+3127,Lauliku mure,484,2
+3128,Lauliku lapsepõlv - Kiik kesal,749,2
+3129,Pühal otsitakse laulikut,1970,2
+3130,Lauliku kodu,481,2
+3131,Lauliku kodukoht,481,2
+3132,Lauliku raha,459,2
+3133,Lauliku võim,1580,2
+3134,Lauliku vabandus,556,2
+3135,Kulli laul,1,2
+3136,Laula,1973,2
+3137,"Kurb laulik, kurdab vanemaid",839,2
+3138,Kus laulud,873,2
+3139,Kust laulik õppinud,1969,2
+3140,Lauldud hobu,866,2
+3141,"Lauldud - hobu, sadul",866,2
+3142,Lauldud - hobu,866,2
+3143,Lauldud - hobu sadul,866,2
+3144,"Lauldud - hobu, tall",866,2
+3145,Lauldud hobu - sadul,866,2
+3146,Lauldud hobu - Tall taeva all,866,2
+3147,Lauldud hobu sadul,866,2
+3148,Lauldud hobu-sadul,866,2
+3149,"Lauldud hobu, sadul",866,2
+3150,"Lauldud tall, hobune, sadul",866,2
+3151,Tall taeva all - Lauldud hobu,866,2
+3152,Lauldud hobune,866,2
+3153,"Lauldud hobune, sadul",866,2
+3154,"Lauldud, hobu - sadul",866,2
+3155,Laulust - sadul,866,2
+3156,Laulust sadul,866,2
+3157,Laulust-sadul,866,2
+3158,Laulust hobu - sadul,866,2
+3159,Laulust hobu,866,2
+3160,Kus käisid sa,1,2
+3161,Kus käisid sa?,1,2
+3162,Hoiatus linnanaisest,1666,2
+3163,Hoiatus linnanaise eest,1666,2
+3164,Kus laulud õpitud,467,2
+3165,Kust laulud õpitud,467,2
+3166,Laulud lagle suust,467,2
+3167,Laulud pulmas õpitud,467,2
+3168,Laulud teol loodud,873,2
+3169,Laulud tööl õpitud,873,2
+3170,Laulud tööst õpitud,873,2
+3171,Pulmades laulud õppinud,1969,2
+3172,Laulud-hobu-sadul,866,2
+3173,Uni tuleb huigates,1979,2
+3175,Aitüma imetamast,1982,2
+3176,Aadu sõim,1789,2
+3177,Ainuke tütar,1999,2
+3178,Ainuke tütar isakodus,1999,2
+3179,Ainukene tütar isakodus,1999,2
+3180,Ainukene ilus tütar,1999,2
+3181,Ainuke ilus tütar,1999,2
+3182,Ajage kari siia!,1256,2
+3183,Ajage kari ühte!,1256,2
+3184,Aned kadunud,168,2
+3185,Ainuke tütar isa ja mehe kodus,1999,2
+3186,@,1,2
+3187,Kurjale kositud,974,2
+3188,Künni l,1975,2
+3189,Kaasa alles kasvamas,500,2
+3190,Kaasa alles kätkis,500,2
+3191,Künni l.,1975,2
+3192,Jätan lindude süüa,698,2
+3193,Jätan sirgu süüa,698,2
+3194,Kohus koju minna,565,2
+3195,Aeg kodu minna,565,2
+3196,Kohus koju minna.,565,2
+3197,Aeg ära minna,565,2
+3198,Abi võõrastele?,875,2
+3199,Aigud Anne peale,2002,2
+3200,Ainus vend,2003,2
+3201,Ainult surnud tööst tüdinud,701,2
+3202,Altmäe rebane,1850,2
+3203,Ajame pullid pusklema!,1257,2
+3204,Aitäh andjale,197,2
+3205,Anna orjal hästi süüa,1233,2
+3206,Anna hästi orjale süüa,1233,2
+3207,Anna hästi orjal süüa,1233,2
+3208,Anna hästi süüa,1233,2
+3209,Anna orjale hästi süüa,1233,2
+3210,Anna orjale süüa,1233,2
+3211,Anna orjale süüa.,1233,2
+3212,"Anna orjale süüa, ori söödab härgi",1233,2
+3213,Anna orjal süüa,1233,2
+3214,Anna piima!,940,2
+3215,Ants oli aus saunamees,1170,2
+3216,Anna see tütar minule,994,2
+3217,Anna tütar minule,994,2
+3218,Ants ei arvata meheks,1789,2
+3219,Ants,1789,2
+3220,Antsu sõim,1789,2
+3221,Arg kosilase,12,2
+3222,Avatud haual,2004,2
+3223,Avatud haud,2004,2
+3224,Liugulaskmise laul,213,2
+3225,Ilusad juuksed,2027,2
+3226,Ilus juus,2027,2
+3227,Endine ilus juus,2027,2
+3228,Kodu käimas,1501,2
+3229,Noorik kodu käimas,1501,2
+3230,Noorik isa kodu käimas,1501,2
+3231,Kodu käimas ?,1501,2
+3232,Kodu käimas.,1501,2
+3233,Kodu käimas?,1501,2
+3234,Kodu käimast,1501,2
+3235,Noorik isakodu käimas,1501,2
+3236,Tütar kodu käimas,1501,2
+3237,Neiu ei lähe karjasele,1269,2
+3238,Ei lähe sinule,1165,2
+3239,Ei lähe sepale,1682,2
+3240,Noorena võtsin kirbu kinni,2029,2
+3241,Noorelt kirbu kinni,2029,2
+3242,Võtsin kirbu kinni,2029,2
+3243,Ööhulkuja,2042,2
+3244,Ööhulkuja poiss,2042,2
+3245,Ööhulkujate poiste l.,2042,2
+3246,Ööhulkur,2042,2
+3247,Ühes sõbrad,1011,2
+3248,Ühes /kälimehed/,1011,2
+3249,Ühed sõbrad,1011,2
+3250,Üks kuningatütar ja kuningapoeg,1,2
+3251,Ühes /sõbrad/,1011,2
+3252,Ühes,1011,2
+3253,Ühte sööme - ühte joome,1011,2
+3254,"Ühte sööme, ühte joome",1011,2
+3255,Oleks see mees minu!,915,2
+3256,Oleks see mees minul!,915,2
+3257,Oleksin Olevi,2043,2
+3258,Oleksin Olevi - kardan,2043,2
+3259,Oleksin Olev,2043,2
+3260,Oleks Olevi,2043,2
+3261,"Halvad ehted, poisid põlgavad",1074,2
+3262,Miks poisid põlgavad,1074,2
+3263,Poisid põlgavad,1074,2
+3264,Poisid põlgavad eheteta neiusid,1074,2
+3265,Poisid põlgavad (ei ole ehteid),1074,2
+3266,"Poisid põlgavad, et neiu ema sõna kuuleb",1074,2
+3267,Poisid põlgavad et pole ehteid,1074,2
+3268,Poisid põlgavad - halvad riided,1074,2
+3269,Poisid põlgavad - minul pole ehteid,1074,2
+3270,Poisid põlgavad (pole ehteid),1074,2
+3271,Poisid põlgavad - pole ehteid,1074,2
+3272,"Poisid põlgavad, pole ehteid",1074,2
+3273,"Poisid põlgavad, pole häid riideid",1074,2
+3274,"Pole ehteid, poisid põlgavad",1074,2
+3275,Poiss loodud petjaks,709,2
+3276,Poiss loodud petma,709,2
+3277,Poiss loodud puutumaie,709,2
+3278,Põder,537,2
+3279,Põder põllul,537,2
+3280,Siimani seeli,407,2
+3281,Siimaniseeli,407,2
+3282,Siimani sell,407,2
+3283,Sulasele (?),1041,2
+3284,Sulasele,1041,2
+3285,Sain sulasele,1041,2
+3286,Ei lähe sulasele,2028,2
+3287,Ei sulasele,2028,2
+3288,Ussisõnad,1804,2
+3289,Ussi sõnad,1804,2
+3290,"Uss, sarapuu karva",1845,2
+3291,Teretamata möödujale,1175,2
+3292,Teretamata möödamineja,1175,2
+3293,Teretamata möödaminejale,1175,2
+3294,Teretamata neiudest mööda,1175,2
+3295,Sinisiiba tsirguke,2013,2
+3296,Sinisiiba tsirgukene,2013,2
+3297,Lind trööstimas,2013,2
+3298,Lind vaeslast trööstimas,2013,2
+3299,Lind vaeslast trööstimas/=ema surm,2013,2
+3301,Endine elu,1957,2
+3302,Imelik sarvepuhuja,535,2
+3303,Imelik sarvepuhuja tuleb koju,535,2
+3304,Jahil sarvepuhuja,535,2
+3306,Sarvepuhuja,535,2
+3307,Sarvepuhuja kodukutse,535,2
+3308,Sarvepuhuja kojukutse,535,2
+3309,Sarvepuhuja kojutulek,535,2
+3311,Sarvepuhujale,535,2
+3312,Sarvepuhuja tuleb koju,535,2
+3313,Sarvepuhumine,535,2
+3314,Saksa asemel sandile,1006,2
+3315,Saksa asemel sant,1006,2
+3316,Saksa asemel sant peiu,1006,2
+3317,Ema ja armud,747,2
+3318,Ema ja armud.,747,2
+3319,Ema ja noore naise ajal,1005,2
+3320,Poiss ema ja noore naise ajal,1005,2
+3321,Ema ja noore naise hooles,1005,2
+3322,Ema ja nooriku hooles,1005,2
+3323,Ema ja võõras äratavad,1840,2
+3324,Ema ja vöörasema ootavad kodu,1776,2
+3325,Oma ema ja võõras ema,1776,2
+3326,Võõras ema ja oma ema,356,2
+3328,Küla ütel,458,2
+3329,Küla ütel.,458,2
+3330,"Küla ütel, kuku",458,2
+3331,Küla ütel = Suude sulg,458,2
+3332,Küla ütel paksuks,889,2
+3333,Kes koju ootab,845,2
+3334,Kes koju ootab?,845,2
+3335,Kes koju ootel,845,2
+3336,Eest ära neiude teelt,897,2
+3337,Eest ära neidude teelt,897,2
+3338,Eest ära,851,2
+3339,Eest neiude teelt,897,2
+3340,"Eest ära, neiud tulevad",897,2
+3341,3 kägu,1424,2
+3342,Eide ja noore naise ajal,1005,2
+3343,Ei hooli uhkeist,1670,2
+3344,Ei hooli uhketest,1670,2
+3345,Ei jõua ohjad hoida,489,2
+3346,Ei julgust = Arg kosilane,144,2
+3347,Ei julgust,144,2
+3348,Ei jõua sugu sööta,2124,2
+3349,Ei jõudnud ohje hoida,489,2
+3350,Ei jõua sugu sööta - noorik isakodus käimas,2124,2
+3351,Ei jõudnud sugu sööta,2124,2
+3352,Ei kuule oma nime,1584,2
+3353,Ei saa seepi,1113,2
+3354,Ei suuda sugu sööta,2124,2
+3355,Ei saa seepi pesemiseks,1113,2
+3356,Ei saa seepi pesta,1113,2
+3357,Ei saa seepi tanu pesta,1113,2
+3358,Ei tule sinule,1165,2
+3359,Ei tule sinule!,1165,2
+3361,Ei ole süüdi,1685,2
+3362,Eksinud,1161,2
+3363,Ei ühte naist,1011,2
+3364,Ema arm,747,2
+3365,Ei üht naist,1011,2
+3366,Ema virkuseõpetus,954,2
+3367,Ema virkuse õpetus,954,2
+3368,Ei noorelt mehele,2125,2
+3369,Ema armud,747,2
+3370,Ennemuistne elu,1714,2
+3371,Ennemuistne aeg,1714,2
+3372,Endine elu isakodus,1957,2
+3373,Enne mätastega kui neidudega,1494,2
+3374,Enne mätastega kui nende neidudega,1494,2
+3375,"Enne kivi, kui poisi juurde",710,2
+3376,"Enne kivi, kui poisi juure",710,2
+3377,"Enne kivi, kui poisi juures",710,2
+3378,Ennem mängin mätastega,1494,2
+3379,Ennem mätastega,1494,2
+3380,Ennem mätastega kui laiskade neidudega,1494,2
+3381,Ennem mätastega kui neiudega,1494,2
+3382,"Ennem mätastega, kui nende neidudega",1494,2
+3383,Ennem mätaste kui neidudega,1494,2
+3384,Enne mätastega kui neiudega,1494,2
+3385,"Enne mätastega, kui neiudega",1494,2
+3386,"Enne mätastega, kui nende neiudega",1494,2
+3387,Hakkame minema,1151,2
+3388,Hakkame mehed minema,1151,2
+3389,"Hakkame, mehed minema",1151,2
+3390,"Hakkame, mehed, minema",1151,2
+3391,"Hakkame, mehed, minema!",1151,2
+3392,Haigud,2002,2
+3393,Hammas,1611,2
+3394,Hirmus mõis,1763,2
+3395,Hüljes hüüab,1389,2
+3396,Haige kurk,496,2
+3397,Habemik,2126,2
+3398,Habemik mees,2126,2
+3399,Habemikud noored mehed,2126,2
+3400,Habemikud poisid,2126,2
+3401,Habemeajamine,2126,2
+3402,Halb hääl,496,2
+3403,Hea mees,2127,2
+3404,Halb ja hää mees,2127,2
+3406,Halb mees,2127,2
+3407,Halb mees ?,2127,2
+3408,"Hani, hani valge",382,2
+3409,Hea ja halb mees,2127,2
+3410,Hambasõnad,1611,2
+3411,Hea ja kuri mees,2127,2
+3412,Hea ja kuri mees?,2127,2
+3413,Hea mees.,2127,2
+3414,Hea ja halb mõis,1037,2
+3415,Hea ja kuri mõis,1037,2
+3416,Hansu ei arvata meheks,1301,2
+3417,Hea pilliga kuri piitsaga,545,2
+3418,"Hea pilliga, kuri piitsaga",545,2
+3419,Halb ja hää mõis,1037,2
+3420,Halb mõis,1763,2
+3421,Halb mõisa,1763,2
+3422,Haud kiige all,269,2
+3423,Hea ju kuri mees,2127,2
+3424,"Hea mees, kuri mees",2127,2
+3425,Hobuse otsija,1731,2
+3426,Hää ja hirmus mõis,1037,2
+3427,Hää ja kuri mees,2127,2
+3428,Hää mees,2127,2
+3429,Hääl ja kurjal mehel,2127,2
+3430,Hääl mehel,2127,2
+3431,Hää ja kuri mõis,1037,2
+3432,Hää ja kurja mõisa vald,1037,2
+3433,Hää ja kurja mõisa vallad,1037,2
+3434,Hää ja paha vald,1037,2
+3435,Ihne perenaine,1962,2
+3436,Ihne perenaine (NB!),1962,2
+3437,3 nurme,376,2
+3438,Marjal,783,2
+3439,Mehele meele tõttu,2129,2
+3440,Martide mangumine,1905,2
+3441,Ühte laulmine,1054,2
+3442,Ühtelaulmine,1054,2
+3443,Aia tegemine,978,2
+3444,Aiategemine,978,2
+3445,Aia tegija,978,2
+3446,Ahju kütmine,2130,2
+3447,Ahjukütmise sõnad,2130,2
+3448,Aituma,197,2
+3449,Aituma andjale,197,2
+3450,Aitüma,197,2
+3451,Aitüma andjale,197,2
+3452,Anna armsale mehele,2129,2
+3453,Anna armsale mehele.,2129,2
+3454,Armsale lähen saiatagi,2131,2
+3455,Aru rebane,2132,2
+3456,Andsid ära ainu lapse,159,2
+3457,Ehted kadund,173,2
+3458,Ei julge naist võtta,2133,2
+3459,Ehi veli,2063,2
+3460,"Ehi, veli",2063,2
+3461,"Ehi, poiss",2063,2
+3462,Ehi poiss,2063,2
+3463,Üteldaks vanaks,1721,2
+3464,Üteldakse vanaks,1721,2
+3465,Üteldakse kaua kasvavat,2134,2
+3466,Üteldi kaua kasvavat,2134,2
+3467,Üteldakse kurjaks,2135,2
+3468,Üteldakse et kaua kasvanud,2134,2
+3469,Ühes laulmine,1054,2
+3470,Üheslaulmine,1054,2
+3471,Ühte,1011,2
+3472,Üks pole ühtegi,351,2
+3473,Ärgu naergu naine naist,1808,2
+3474,Ärgu naergu naene naist,1808,2
+3475,Ärgu naine naergu naist,1808,2
+3476,Ära mine noorelt mehele!,2136,2
+3477,Ära mine rikkale,2137,2
+3478,Ära noorelt mehele mine,2136,2
+3479,Ära noorelt mehele,2136,2
+3480,Ära kosi leske,1028,2
+3481,"Ärge naerge neide, endal naine võtmata",894,2
+3482,Ära kosi mõisast,1004,2
+3483,Ära võta lesknaist,1028,2
+3484,Ära võta linnast naist!,1666,2
+3485,Ära võta linnast naist,1666,2
+3486,Ära usu poisi juttu,709,2
+3487,Ärge põlake poisse,896,2
+3488,Ärge põlake poissi,896,2
+3489,Ärge põlgage poissa,896,2
+3490,Ära põlga poissi,896,2
+3491,Ära pane näljasele,2138,2
+3492,Õpetus neiudele: ära mine noorelt mehele,2136,2
+3493,Ühes poisid,1011,2
+3494,Ühes vaesed lapsed,1011,2
+3495,Ühes (sõbrad),1011,2
+3496,Vihm võõrale maale,620,2
+3497,Vihm mujale maale,620,2
+3498,Vihm võõrale maale!,620,2
+3499,"Vihm, üle vaeslapsest",618,2
+3500,Vihm ja vaeslaps,618,2
+3501,Öömajale kutse,843,2
+3502,Öömajalekutse,843,2
+3503,Ämm ahju,1107,2
+3504,Õdede ori,2140,2
+3505,Võta vallast vaenelaps,1623,2
+3506,Võta vaenelaps,1623,2
+3507,Võta vallast vaene,1623,2
+3508,Võistulaulmine,469,2
+3509,Võitulaulmine,469,2
+3510,Võitu laulmine,469,2
+3511,Võistul,469,2
+3512,Võitegemine,1053,2
+3513,Võitegu,1053,2
+3514,Võitegemise l,1053,2
+3515,Või,1053,2
+3516,Vaenelaps ja peretütar kündmas,2141,2
+3517,Vaese vana hobu,2142,2
+3518,Võta naine töölt!,378,2
+3519,Võta väike naine,1027,2
+3520,Võta väike naine!,1027,2
+3521,Võta väikene naine,1027,2
+3522,Võta pisike naine,1027,2
+3523,"Võta mulle naine, muidu...",1946,2
+3524,"Võta naine, muidu...",1946,2
+3525,"Võta mulle naine, muidu narrin neidusi",1946,2
+3526,"Võta naine, muidu murran neidusid",1946,2
+3527,Võta naine mulle,1946,2
+3528,"Võta naine, muidu narri neiusid",1946,2
+3529,"Võta naine, muidu narrin neiusid",1946,2
+3530,"Võta naine, muidu murran neiusid",1946,2
+3531,"Võta naine, muidu narrin neidusid",1946,2
+3532,Neidude saatus teadmata,708,2
+3533,Neidude tundmata saatus,708,2
+3534,Neidude tundamata saatus,708,2
+3535,Neidude tundmatu saatus,708,2
+3536,Neidude vahel soe,2143,2
+3537,Neidude vahel soe olla,2143,2
+3538,Valu,1651,2
+3539,Valu sõnad,461,2
+3540,Valusõnad,1651,2
+3541,Varesele valu!,461,2
+3542,"Vares, vaga linnuke",1400,2
+3543,Varga kartus,2144,2
+3544,Vargale,899,2
+3545,Varss vaeseks lapseks,669,2
+3546,Varss vaesekslapseks,669,2
+3547,Varss vaeslapseks.,669,2
+3548,Varss vaeslapseks,669,2
+3549,"Vend kasvatab, kaid õde tahab mehele",2146,2
+3550,"Vend kasvatab, kuid õde tahab mehele",2146,2
+3551,Vend sõjas,2147,2
+3552,Virkuse õpetus neidudele,954,2
+3553,Virkuseõpetus neidudele,954,2
+3554,Virkuseõpetus neiule.,1124,2
+3555,Virkuse õpetus tütrele,954,2
+3556,Vitsasõnad,2148,2
+3557,Võta naine muidu narrin tüdrukuid,1946,2
+3558,"Võta naine, muidu narrin tüdrukuid",1946,2
+3559,Võõras ja oma ema ootavad koju,1776,2
+3560,Võõras- ja oma ema ootavad koju,1776,2
+3561,Võõras ja oma ema äratamas,1840,2
+3562,Võõrasema tuuakse,2149,2
+3563,Võõras küsib luba laulda,154,2
+3564,Võõral põllul töötegemine,2150,2
+3565,Väsinud lõikaja,2151,2
+3566,Äestamise sõnad,2152,2
+3567,Ämm ei anna seepi riiete pesuks,1113,2
+3568,Ämm ei anna seepi,1113,2
+3569,Ära kosi rikast,2137,2
+3570,Ära mine ilusale mehele,2154,2
+3571,Ära mine ilusale,2154,2
+3572,Ära mine joodikule,1194,2
+3573,Ära mine lesele,2155,2
+3574,Ära mine noorelt mehele,2136,2
+3575,Ära möldrile müü,553,2
+3576,Ära müü möldrile,553,2
+3577,Ära müü möldrile!,553,2
+3578,Ära naera neidu,894,2
+3579,Ära naera neidusi,894,2
+3580,Ära paista rannale,322,2
+3581,Ära võta mõisast naist,1004,2
+3582,Ära võta valget meest,330,2
+3583,Ärge olge kurvad,1723,2
+3584,Öötöö tondi hääks,591,2
+3585,valusõnad,1651,2
+3586,veresõnad,2156,2
+3587,vitsavalu,2148,2
+3588,Jaani l,228,2
+3589,Jaanitule l.,230,2
+3590,Jaaniõhtul,230,2
+3591,Jaan-saan,2075,2
+3592,"Jaanike, saanike",2075,2
+3593,Jaani sõim,1789,2
+3594,Jahud halvasti jahvatad,1717,2
+3595,"Jahva, kivikene",513,2
+3596,Jahvatamine,513,2
+3597,Joodikul saab nälga näha,1013,2
+3598,Joodikul pole raha,1216,2
+3599,Juhani pilge,1789,2
+3600,Juhani sõim,1789,2
+3601,Juhani ja Peetri sõim,1789,2
+3602,Juhani sõimusõna,1789,2
+3603,Jaagu sõim,1789,2
+3604,Jaani sõim.,1789,2
+3605,Juri sõim,1789,2
+3606,Jüri sõim,1789,2
+3607,Jüri sajatus,1789,2
+3608,Jaan tuli lapsi vaatama,239,2
+3609,Jaan tõi pika piimapüti,240,2
+3610,Ikka ori,628,2
+3611,Ilmaneitsi,128,2
+3612,Uss,1804,2
+3613,Ussisõna,1804,2
+3614,"Uss, roos",1804,2
+3615,Ussisõnad (Kalevip.),1804,2
+3616,Ussi seisatamise sõnad,1804,2
+3617,Uurijale,1086,2
+3618,Unenägu,464,2
+3619,Unenägu.,464,2
+3620,Uni ei anna uut kuube,1158,2
+3621,Uni tuleb uksest,1846,2
+3622,ussisõnad,1804,2
+3623,Riisisõnad,1805,2
+3624,Riis,1805,2
+3625,Rauasõnad,2158,2
+3626,Raud,2158,2
+3627,Ranna elu,1389,2
+3628,Ranna neiud,1600,2
+3629,Anne sõim,1789,2
+3630,Sajatus,1073,2
+3631,Saksad ahju,642,2
+3632,Saksad põrgu!,348,2
+3633,Saksad põrgusse,348,2
+3634,Saksad põrgu,348,2
+3635,Saksa lapsed,1059,2
+3636,Saksalapsed - sandid lapsed,1059,2
+3637,Saksa sajatus,1668,2
+3638,Saks sõidab saaniga,1136,2
+3639,Sakste sajatas,1668,2
+3640,Sakste sajatus,1668,2
+3641,Salaja neiusid vaatlemas,988,2
+3642,Sala neidusid vaatlemas,988,2
+3643,Sala neidu vaatlemas,988,2
+3644,Sala neiusid vaatamas,988,2
+3645,Sala neiusid vaatlemas,988,2
+3646,Sala neiut vaatlema,988,2
+3647,Sala neiut vaatamas,988,2
+3648,Sala neiut vaatlemas,988,2
+3649,Onnimanni,326,2
+3650,Kaare alt laast,1221,2
+3651,Kaare alt loost,1221,2
+3652,Kaarli sõim,1789,2
+3653,Kadride sajatus,205,2
+3654,Kadri kaebamine,337,2
+3655,Kas tohib tuppa tulla,1510,2
+3656,Kas tohin tubaje tulla,1510,2
+3657,Kas tohib tuppa tulla?,1510,2
+3658,Karja koju oodatakse,1261,2
+3659,Karjane uinub,1029,2
+3660,Kandletegemine,385,2
+3661,Kandle tegemine,385,2
+3662,Kandli tegemine,385,2
+3663,Kandlitegemine,385,2
+3664,Kange mees hoopleb,2159,2
+3665,Kangemees hoopleb,2159,2
+3666,Kange mees kiitleb,2159,2
+3667,Roos,2040,2
+3668,Roosisõnad,2040,2
+3669,Roosi sõnad,2040,2
+3670,Roosisõna,2040,2
+3671,Rooste rookimine,638,2
+3672,Roostetanud hääl,497,2
+3673,Ronk,1258,2
+3674,Rõõmus soldat,852,2
+3675,Rattad jooksvad raha,1799,2
+3676,Ratas - raha,1799,2
+3677,Ratasraha,1799,2
+3678,Ratas raha,1799,2
+3679,Raha,1034,2
+3680,Rattad veeretavad raha,1607,2
+3681,Riiga ristima,1204,2
+3682,Rannaelu,1389,2
+3683,Rannaneiud mustad.,809,2
+3684,Rannaneiud mustad,809,2
+3685,Rannanaised,1600,2
+3686,Kotkas kaare alt,1221,2
+3687,Kotkas kaare all,1221,2
+3688,"Kotkas kaare all, laast, ait",1221,2
+3690,Kotkas,1221,2
+3691,Krapp,347,2
+3692,Kaugele mehele,1754,2
+3693,Kaevu kosija,8,2
+3694,Meie mehed kui metsapullid,733,2
+3695,Kuulsad poisid,2161,2
+3696,Ühes sööme - ühes joome,2162,2
+3697,Peksuhaavade vihtlemine,1570,2
+3698,Peks,2148,2
+3699,Poiste poomine,652,2
+3700,Poisi poomine,652,2
+3701,Laenatud reega kosja,2163,2
+3702,Peiu matus ja neiu matus,887,2
+3703,Poisi ja tüdruku matus,887,2
+3704,Parmu matused,516,2
+3705,Poisi ja neiu matmine,887,2
+3706,"Kui teaks, kus neiud magavad",2164,2
+3707,Kui teaks kus neiud magavad,2164,2
+3708,Külapoiste jäljed,2165,2
+3709,"Oleks tiivad, lendaks neiude juure",2166,2
+3710,"Pole ehteid, neiud põlgavad",1976,2
+3711,Pidin Pillele minema,1161,2
+3712,Poiss tõuseb päiksega,1209,2
+3713,Puhas poiss,1451,2
+3714,Puhas pois,1451,2
+3715,Puhas noormees,1451,2
+3716,Neiude keskel soe,2143,2
+3717,Neidude keskel soe,2143,2
+3718,Neiude keskel soe olla,2143,2
+3719,Neiude juures soe,2143,2
+3720,Neiude vahel soe,2143,2
+3721,Neiude vahel soe olla,2143,2
+3722,Neiu juures soe,2143,2
+3723,"Maksa enne neiu võlg, siis võta naine",2167,2
+3724,Miks naine võtmata jäänud,1865,2
+3725,"Maad madalad, naine võtmata",1865,2
+3726,Maad madalad - naine võtmata,1865,2
+3727,Võtaks naise - kardab,506,2
+3728,Võtaks - kardan kätkit,506,2
+3729,Võtaks naise - kardab kurja,938,2
+3730,Võtaks - kardab kurja,938,2
+3731,Võtaks naise,938,2
+3732,Võtaks naise - kardab kurge,506,2
+3733,Võtaks naise kardab kurja,938,2
+3734,"Võtaks naise, kardab kurja",938,2
+3735,Võtaks naise kardab kätkit,506,2
+3736,"Võtaks naise, kardab lapsi",506,2
+3737,"Võtaks naise, kardab last",506,2
+3738,Naise tegemine,2169,2
+3739,Poissmehepõlve kiitus,2170,2
+3740,Vanapoisid müürile magama,914,2
+3741,Vanamehe kohus surra,1671,2
+3742,Vald vaene - palju vanapoisse,2171,2
+3743,Iluaeg,2173,2
+3744,Poisi ja neiu laulmine,2174,2
+3745,Pakkus sõrmust,2175,2
+3746,Puhas kui puurilind,2176,2
+3747,Neiud kaklevad,1152,2
+3748,Vihased neiud,1871,2
+3749,Mõisameeste armuke,2177,2
+3750,Pealt näha neiu,1299,2
+3751,Maias meeste peale,801,2
+3752,Neiu kutsub,756,2
+3753,Neiu kutsub poisi enda juurde,756,2
+3754,Kutsub poisid metsa,756,2
+3755,Kardab kätkit,506,2
+3756,Teiste naerda jäänud,1167,2
+3757,Vald vaene - palju vanatüdrukuid,1830,2
+3758,Palju vanatüdrukuid,1830,2
+3759,Müürile magama,914,2
+3760,Vana vainule,1673,2
+3761,Pruudiotsija,753,2
+3762,Kellest neist paar saab,1860,2
+3763,Kellest meist paar saab,1860,2
+3764,Kellest paar saab,1860,2
+3765,Saaremaa põlemine,2178,2
+3766,Saaremaa põleb,2178,2
+3767,Neli (neitsit) neiut,518,2
+3768,Öösel uksi,449,2
+3769,Ratssäng,492,2
+3770,Ootamine,2179,2
+3771,"Mõtelge, neiud, minule",2180,2
+3772,Võtaks ilusa naise,2133,2
+3773,"Pane tütred mehele, siis saan naise",2181,2
+3774,Neiupaelad,982,2
+3775,Neiu paelad,982,2
+3776,Neiusid vaatamas,988,2
+3777,Oleks neiu teada,2182,2
+3778,Pane see tütar minule!,994,2
+3779,Pane tütar mehele!,994,2
+3780,Pange tütar mehele,994,2
+3781,Pange tütar minule,994,2
+3782,Neiu süda teadmata,2105,2
+3783,Paljakas,1941,2
+3784,Paljakas naine,1941,2
+3785,Paljas,1941,2
+3786,Kardab kurja,2183,2
+3787,Kardab kurja naist,2183,2
+3788,Karda kurja!,2183,2
+3789,Tunnen tuima neiu,1117,2
+3790,Ära võta rikast,2137,2
+3791,Vahelt vaene.,538,2
+3792,Vahelt vaene - must naine,538,2
+3793,Vallast vaene,1623,2
+3794,"Võõras ütleb, võta naine",2183,2
+3795,"Võõras ütles, võta naine",2183,2
+3796,Võõras ütles: võta naine,2183,2
+3797,"Kes võtab, võib elada ?",2184,2
+3798,Palju püütud,917,2
+3799,Paljupüütud neiu,917,2
+3800,Palju püütud neiu,917,2
+3801,Palju püütud hea kuhjalooja,917,2
+3802,Palju püütud kuhja looja,917,2
+3803,Palju püütud kuhjalooja,917,2
+3804,Mihkli sõim,1789,2
+3805,Poisid põlgvad,1074,2
+3806,Poisid põlgvad karsket tüdrukut,1074,2
+3807,"Poisid põlgvad, pole ehteid",1074,2
+3808,Pole ehteid - poisid põlgvad,1074,2
+3809,Neiud öösel nõia juures,2185,2
+3810,Mängin mätastega,1494,2
+3811,Mahajäetud neiu,2186,2
+3812,Mahajäetud neiu.,2186,2
+3813,Mahajäetud tüdruk,2186,2
+3814,Mahajäetud neiu kaebtus.,2186,2
+3815,"Sulle laisk, mulle virk naine",2187,2
+3816,Las mind olal osjake,1912,2
+3817,Ei saa teile naist,1506,2
+3818,Kaugelt tulevad paremad,446,2
+3819,Neiunälg,1518,2
+3820,Peig alles kätkis,500,2
+3821,Oleks peiu,2188,2
+3822,Oleks peiu teadval,2188,2
+3823,Poistest pole puudu,2189,2
+3824,"Ootab naisi surema, et mehele saaks",2190,2
+3825,Neiud ootavad naiste surma,2190,2
+3826,Neiud ootavad poiste surma,2190,2
+3827,Neiu soovib naistele surma,2190,2
+3828,"Kui peig teaks, tuleks järele",1784,2
+3829,Kui peiu teaks,1784,2
+3830,"Kui peiu teaks, et teol olen",1784,2
+3831,Neiud vanaks läinud,2191,2
+3832,Neidude hulk laiali,673,2
+3833,Neiude hulk laiali,673,2
+3834,Neiudehulk laiali,673,2
+3835,Neiu hulk laiali,673,2
+3836,"Neiu läbeb sellele, kellele loodud",1856,2
+3837,"Neiu läheb, kellele loodud",1856,2
+3838,"Neiu läheb, kuhu loodud",1856,2
+3839,Ära pane paiga tõttu,2192,2
+3840,Lust minna lonkurile,1655,2
+3841,Lust minna lombakule,1655,2
+3842,Lust minna luukarile,1655,2
+3843,Lust on minna lonkurile,1655,2
+3844,Kehvale mehele,2193,2
+3845,Kehvale mehele.,2193,2
+3846,Ei taha tallipoissi,1526,2
+3847,Neiu tahab saksale.,2194,2
+3848,Neiu tahab saksale,2194,2
+3849,Ära müü mölderile,553,2
+3850,Ärge naerge poisse,896,2
+3851,Neiude saatus,708,2
+3852,Neiude tundmatu saatus,708,2
+3853,Neiude tundmata saatus,708,2
+3854,Neiu tundmata saatus,708,2
+3855,Käi kenasti,2195,2
+3856,Virkuse õpetus neiule,954,2
+3857,Virkuse õpetas,954,2
+3858,Katsu peiu kombeid,2196,2
+3859,Mine mustale mehele,808,2
+3860,Mustale mehele,1851,2
+3861,Hoiatas valge mehe eest,330,2
+3862,Hoiatus valge mehe eest,330,2
+3863,"See neidu tulgu mulle, kellel siidist sõrmed",2207,2
+3864,Uhke poisi pilge,2212,2
+3865,Uhke poisi pilkelaul,2212,2
+3866,Pääsukese laul,1,2
+3867,Pääsukeselaul,1,2
+3868,Pääsuke,1,2
+3869,Vara vaeslapseks,676,2
+3870,Vara vaeslapseks.,676,2
+3871,Vara vaeslapseks jäänud,676,2
+3872,Varane vaeslaps,810,2
+3873,Varajane vaeslaps,810,2
+3874,Üle vihm,618,2
+3875,Vend kasvatab sõsarat,2146,2
+3876,Vend kasvatab õde,2146,2
+3877,Õhtul neiu juurde,2238,2
+3878,Vaeselapse tundemärgid,965,2
+3879,Poisid juudaste lävel,1900,2
+3880,Juudaste lävele,1900,2
+3881,Juudaste lävel,1900,2
+3882,Juudaste ja jumalate lävel,1900,2
+3883,Laiska neiut kosimas,999,2
+3884,Hoiatus ilusa mehe eest,1851,2
+3885,Kubjas kutsumata,2254,2
+3886,Kubjas põrgu,957,2
+3887,Kubjas ära löö,1833,2
+3888,"Kubjas, ära löö",1833,2
+3889,"Ära löö, kubjas",1833,2
+3890,"Kubjas, ära löö!",1833,2
+3891,Kubjas ära peksa,1833,2
+3892,"Kubjas, ära peksa",1833,2
+3893,Kurjale mehele,1956,2
+3894,"Ei hooli neist poistest, ootab kaugelt",446,2
+3895,Neiu ootab kaugelt ilusat kosilast,446,2
+3896,Neiu ootab kaugelt kosilast,446,2
+3897,Neiu ootab kaugelt meest,446,2
+3898,Ootab kaugelt kosilast,446,2
+3899,Üks kinnas kirstus,550,2
+3900,"Peig künnab, neiu marjal",790,2
+3901,"Peiu külvab, neiu marjal",790,2
+3902,"Peiu kündmas, neiu marjal",790,2
+3903,"Peiu künnab, neiu marjal",790,2
+3904,"Poiss künnab, neiu marjal",790,2
+3905,Kus olid kui otsisin,2264,2
+3906,Kubja peksja,2267,2
+3907,Oma poiste kiitus,604,2
+3908,Oma poiste kiitus.,604,2
+3909,Kaasikutel pikad karvad,1986,2
+3910,Poiste pilge,2273,2
+3911,Kuri kodu,1293,2
+3912,Karjasel kuri kodu,1293,2
+3913,Kuri kodu.,762,2
+3914,Kuri kodu?,762,2
+3915,Hää ja kuri kodu,2289,2
+3916,Õhtu ja hommik,2290,2
+3917,Õhtu ja mure,573,2
+3918,Põrgu mõis,1763,2
+3919,Põrgu mõisa,1763,2
+3920,Ilus mets.,2295,2
+3921,Ilus mets,2296,2
+3922,Mann läks metsast marju tooma,734,2
+3923,Loomad ja mets,2297,2
+3924,Memm läks metsast marju tooma,734,2
+3925,Mets neidude vahel,1054,2
+3926,Pulmad metsas.,1446,2
+3927,Hobu ja härg,1331,2
+3928,3 õue,791,2
+3929,Kell üks - kaks,2310,2
+3930,Kellalöögid 1-11-ni,2310,2
+3931,Kell üks,2310,2
+3932,Liiri-Lõõri!,363,2
+3933,Liiri-Lõõri,363,2
+3934,Liiri lõõri!,363,2
+3935,Liiri-lõõri!,363,2
+3936,Liiri-lõõri.,363,2
+3937,Kits karja!,343,2
+3938,Kits kile karja!,343,2
+3939,"Tii, tihane",412,2
+3940,"Tii, tii tigane",412,2
+3941,"Tii tii, tihane",412,2
+3942,"Tii, tii tihane",412,2
+3943,"Tii, tii, tihane",412,2
+3944,"Tii-tii, tihane",412,2
+3945,Tii-tii tihane,412,2
+3946,Sõida linna,1867,2
+3947,Sõida Riiga,1867,2
+3948,Sõit sõit,460,2
+3949,"Sõit, sõit",1867,2
+3950,Sõit-sõit,1867,2
+3951,"Sõit, sõit linna!",1867,2
+3952,"Sõit, sõit sõtsele",460,2
+3953,Sõit-sõit sõtsele!,460,2
+3954,Sõit sõtsele,460,2
+3955,Sõit-sõit sõtsele,460,2
+3956,Tee kakku,1016,2
+3957,Tee patsi,1016,2
+3958,Tee pätsi,1016,2
+3959,Tee pätsi!,1016,2
+3960,Koer läheb karja,1015,2
+3961,Tule meile!,2311,2
+3962,Tule meile,2311,2
+3963,Rootsitants,1617,2
+3964,Tuba tuule peale,632,2
+3965,Tuba tuules,632,2
+3966,Eide kiidutütar,2327,2
+3967,Kiidutütar,2327,2
+3968,Memme kiidutütar,2327,2
+3969,Hellitatud tütar,2327,2
+3970,Ilus neiu isakodu,1999,2
+3971,Ilus neiu isa kodus,1999,2
+3972,Ilus neiu isakodus,1999,2
+3973,Kus istun iken,761,2
+3974,Tütre isa,2336,2
+3975,Kellele kurdan,1035,2
+3976,Kellele kurdan?,1035,2
+3977,Laul sai otsa,2378,2
+3978,Lauldud hobu ja sadul,866,2
+3979,Kits läks kiideldes mäele,1335,2
+3980,Rikas ristiema - kits,347,2
+3981,"Kiigu, kitsetall",1904,2
+3982,Sirbi viskamine,907,2
+3983,Sirbiviskamise laul,907,2
+3984,Sihi sirbi pealt,378,2
+3985,Sihi sirbi päält,378,2
+3986,"Vend kasvatas, kuid õde valmistab veimeid",2146,2
+3987,Venna kasvatatud õde - mehele,2146,2
+3988,Ära kipu kilteriks.,1883,2
+3989,Õmbleja,2392,2
+3990,Kas sa lubad mulle tulla?,1010,2
+3991,Meeles memmekene,2400,2
+3992,Vastumeelt kosilane,2406,2
+3993,Mõrsja kooletamine,395,2
+3994,Mõrsja koolitamine,395,2
+3995,Mõrsja koolõtamine,395,2
+3996,Saksad sandid,1865,2
+3997,Saksad sandid - maad madalad,1865,2
+3998,"Saksad sandid, - maad madalad",1865,2
+3999,"Saksad sandid, maad madalad",1865,2
+4000,"Saksad sandid, maad madalad - naine võtmata",1865,2
+4001,Neiude kära külas,2459,2
+4002,Neiu kära külas,2459,2
+4003,Neiu anumate puhtus,2470,2
+4004,Suveks Soomemaale,1574,2
+4005,Neiuhulk läheb ära = Suveks Soomemaale,1574,2
+4006,Neiud lähevad ära - Suveks Soomemaale,1574,2
+4007,Soome härg,126,2
+4008,Kaugele mehele pandud,1754,2
+4009,Ära mine kaugele mehele,1754,2
+4010,Ilus neiu tahab kaugele mehele,446,2
+4011,Neiu läheb kaugele mehele,446,2
+4012,Neiu tahab kaugele mehele,446,2
+4013,Neiud põlgavad,1012,2
+4014,Neiud põlgavad - pole ehteid,1976,2
+4015,Neiud põlgavad pole ehteid,1976,2
+4016,"Neiud põlgavad, pole ehteid",1976,2
+4017,Neiud põlgavad (riiete pärast),1012,2
+4018,Neiud põlgavad riiete pärast,1012,2
+4019,"Tüdrukud põlgavad, pole ehteid",1976,2
+4020,Tüdrukud põlgavad - pole riideid,1012,2
+4021,"Tüdrukud põlgavad, pole riideid",1012,2
+4022,Tüdrukud põlgavad riiete pärast,1012,2
+4023,Tüdrukud põlgavad,1012,2
+4024,Tüdrukud põlgavad vaest poissi,1012,2
+4025,Mamsel,586,2
+4026,Mamsel keetis moosi,586,2
+4027,Mõisa märg vili,2486,2
+4028,Mõisa märga vilja müümas,2486,2
+4029,Mõisa märga vilja viimas,2486,2
+4030,Mõis müüb märga vilja,2486,2
+4031,Jänese jäljed,2506,2
+4032,Jänesel olid pikad jäljed,2506,2
+4033,Kaevu tegemine,2526,2
+4034,Ämm kaevu,1107,2
+4035,Ehtes kaevul,175,2
+4036,Mis kupjast saab,507,2
+4037,Mis kupjast sai,507,2
+4038,Neiu hommiku hooled,1287,2
+4039,Neiu hommikuhooled,954,2
+4040,Vastlalaul,213,2
+4041,2,1,2
+4042,andm,1,2
+4043,Müttiks mätta alla,1067,2
+4044,Müttiks,1067,2
+4045,Muttika mätta alla,1067,2
+4046,Muttiks mätta alla,1067,2
+4047,Mutiks mätta alla,1067,2
+4048,Mutiks,1067,2
+4049,Mutiks mättasse,1067,2
+4050,Õnnetu läheb mutiks mätta alla,1067,2
+4051,Onude hoida,760,2
+4052,Onude hoolde,760,2
+4053,Kästakse tules magada,1960,2
+4054,Perenaine käsib tules magada,1960,2
+4055,Tules magamine,1960,2
+4056,Vennanaine käseb tules magada,1960,2
+4057,Vennanaine käsib tules magada,1960,2
+4058,Külaliste söök,1156,2
+4059,Külaliste roog,1156,2
+4060,Külalise söök,1156,2
+4061,Viha võtab vilja,2627,2
+4062,Naiste taplemine,945,2
+4063,Naiste taplus,945,2
+4064,Vennad surnud,2644,2
+4065,"Pole kosilasi, vennad surnud",2644,2
+4066,Ilu- ja muremäel,2647,2
+4067,Ilu- ja muremägi,2647,2
+4068,Juhatus vargale,899,2
+4069,Vargale juhatuseks,899,2
+4070,Varga õpetamine,899,2
+4071,Varga õpetus,899,2
+4072,Õpetus vargale,899,2
+4073,Öpetus vargale,899,2
+4074,Varga laul,899,2
+4075,Varga l,899,2
