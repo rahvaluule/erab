@@ -1,0 +1,512 @@
+id,zanr_vana,zanr1,zanr2,zanr3,lliik,liik_vana
+1,(?) mngl,,,,Laulumängud(?),
+2,(?) rl kirj,,,,Omalooming?,
+3,(?) ul,uuem rahvalaul,,,,
+4,(?)lh,loodushäälend,,,,
+5,?,varia,,,,
+6,aj,ajalugu,,,,
+7,andm,andmed,,,,
+8,andm  rl,varia,,,,
+9,andm k/rl,mäng,regilaul,,,
+10,andm lh,loodushäälend,,,,
+11,andm ll,andmed,regilaul,,Lastelaulud,
+12,andm ns/rl,kombekirjeldus,regilaul,,Loitsud,
+13,andm rl,andmed,,,,
+14,andm rl/ll,andmed,regilaul,,Lastelaulud,
+15,andm rl/mngl,andmed,regilaul,,Laulumängud,
+16,andm rl/ns,andmed,regilaul,,Loitsud,
+17,andm uk/rl,kombekirjeldus,regilaul,,,
+18,andm ul,andmed,uuem rahvalaul,,,
+19,andm/ rl,andmed,regilaul,,,
+20,andm/etn/muist,etnograafia,muistend,,,
+21,andm/etn/rl,etnograafia,regilaul,,,
+22,andm/kiri,kiri,,,,
+23,andm/kiri/rl,kiri,regilaul,,,
+24,andm/ll,varia,,,Lastelaulud,
+25,andm/ns,kombekirjeldus,regilaul,,Loitsud,
+26,andm/ns/rl,kombekirjeldus,regilaul,,Loitsud,
+27,andm/rl,andmed,regilaul,,,
+28,andm/rl/ul,andmed,siirdevormiline laul,,,
+29,arh,jutt,,,,
+30,etn/rl,etnograafia,regilaul,,,
+31,j,jutt,,,,
+32,j/l,jutt,siirdevormiline laul,,,
+33,j/lh,jutt,loodushäälend,,,
+34,j/nlj/rl,naljand,regilaul,,,
+35,j/ns,jutt,regilaul,,Loitsud,
+36,j/rl,jutt,regilaul,,,
+37,j/rl kirj,jutt,regilaul,,,
+38,j/rl/ll,jutt,regilaul,,Lastelaulud,
+39,j/rl/ns,jutt,regilaul,,Loitsud,
+40,j/rl/ul,jutt,siirdevormiline laul,,,
+41,j/rl/ul/tl,jutt,labajalalaul,,,
+42,j/ul,jutt,uuem rahvalaul,,,
+43,j/ul/rl,jutt,siirdevormiline laul,,,
+44,k,kombekirjeldus,,,,
+45,k pulm/rl,kombekirjeldus,regilaul,,Pulmalaulud,
+46,k/andm rl,kombekirjeldus,,,,
+47,k/pl,kombekirjeldus,regilaul,,Pulmalaulud,
+48,k/rl,kombekirjeldus,regilaul,,,
+49,k/rl/ll,kombekirjeldus,regilaul,,Lastelaulud,
+50,kal/rl,kombekirjeldus,regilaul,,Kalendrilaulud,
+51,keel,keel,,,,
+52,kiri,kiri,,,,
+53,kiri/andm,kiri,,,,
+54,kiri/andm/rl,kiri,regilaul,,,
+55,kiri/l,kiri,uuem rahvalaul,,,
+56,kiri/rl,kiri,regilaul,,,
+57,kiri/uk/andm/ul,kiri,kombekirjeldus,uuem rahvalaul,,
+58,kiri/ul,kiri,uuem rahvalaul,,,
+59,l,uuem rahvalaul,,,,
+60,L (tatari),uuem rahvalaul,,,,
+61,l/uk pulm,kombekirjeldus,regilaul,,Pulmalaulud,
+62,Lastelaul,,,,Lastelaulud,
+63,lh,loodushäälend,,,,
+64,lh (?),loodushäälend,,,,
+65,lh/j,jutt,loodushäälend,,,
+66,lh/ll,varia,,,,
+67,Lh/rl,varia,,,Lastelaulud,
+68,lh/u,kombekirjeldus,loodushäälend,,,
+69,lh?,loodushäälend,,,,
+70,lh? ll?,varia,,,,
+71,lh?/ll,,,,Lastelaulud,
+72,LI,,,,Lastelaulud,
+73,LL,,,,Lastelaulud,
+74,ll = j,,,,Looduslaulud,
+75,ll/mng,,,,Lastelaulud,
+76,Ll/mngl,varia,,,,
+77,ll/mngl/uk,kombekirjeldus,regilaul,,,
+78,ll/mngl?,varia,,,,
+79,ll/ns,varia,,,,
+80,ll/ns?,varia,,,,
+81,Ll/rl,,,,Lastelaulud,
+82,ll/rl/mng,varia,,,,
+83,ll/rl/ul/tl,varia,,,,
+84,ll/tl?,varia,,,,
+85,ll/uk,varia,,,,
+86,Ll/ul,uuem lastelaul,,,,
+87,ll?,,,,Lastelaulud,
+88,ll?/mngl?,varia,,,,
+89,mj,muinasjutt,,,,
+90,mj/l,muinasjutt,uuem rahvalaul,,,
+91,mj/lh,muinasjutt,loodushäälend,,,
+92,mj/rl,muinasjutt,regilaul,,,
+93,mj/rl/ul,muinasjutt,uuem rahvalaul,,,
+94,mj/ul,muinasjutt,uuem rahvalaul,,,
+95,Mng,mäng,,,,
+96,Mng ?,mäng,,,,
+97,mng/ll,varia,,,,
+98,mng/rl,,,,Laulumängud,
+99,mng/rl/ll,,,,Laulumängud,
+100,mng/ul,ringmängulaul,,,,
+101,Mng: Hobuse m,,,,Laulumängud,
+102,Mngl,,,,Laulumängud,
+103,mngl/j?,jutt,regilaul,,Laulumängud,
+104,mngl/mng,,,,Laulumängud,
+105,Mngl/uk,kombekirjeldus,regilaul,,Laulumängud,
+106,mngl/ul,ringmängulaul,,,,
+107,mngl?,,,,Laulumängud,
+108,mst,mõistatus,,,,
+109,Mst/rl,varia,,,,
+110,muist,muistend,,,,
+111,muist kirj/rl kirj,muistend,regilaul,,,
+112,muist rl,muistend,regilaul,,,
+113,muist/rl,muistend,regilaul,,,
+114,muist/uk/ns,muistend,regilaul,,Loitsud,
+115,muist/ul/rl,muistend,siirdevormiline laul,,,
+116,nalj,naljand,,,,
+117,nl,naljand,,,,
+118,nlj,naljand,,,,
+119,nlj?/rl,naljand,regilaul,,,
+120,Ns,,,,Loitsud,
+121,ns (?),,,,Loitsud,
+122,Ns/rl,,,,Loitsud,
+123,ns/rl/j,,,,Loitsud,
+124,ns/rl/kirj,,,,Loitsud,
+125,ns/rl/uk,kombekirjeldus,regilaul,,Loitsud,
+126,Ns/rl/ul,,,,Loitsud,
+127,ns/uk,kombekirjeldus,regilaul,,Loitsud,
+128,ns/uk/ll,kombekirjeldus,regilaul,,Loitsud,
+129,ns/uk/ul,kombekirjeldus,nõiasõnad,,,
+130,ns/ul,nõiasõnad,,,,
+131,ns/ul?,nõiasõnad,,,,
+132,ns?,,,,Loitsud,
+133,ns?/ul,nõiasõnad,,,,
+134,Pl,,,,Pulmalaulud,
+135,pl,,,,Pulmalaulud,
+136,r/uk kal,kombekirjeldus,regilaul,,Kalendrilaulud,
+137,rl,,,,,
+138,rl kirj,,,,Omalooming,
+139,rl kirj?,,,,Omalooming,
+140,rl/?,varia,,,,
+141,rl/andm,andmed,regilaul,,,
+142,rl/etn,etnograafia,regilaul,,,
+143,rl/j,jutt,regilaul,,,
+144,rl/k,kombekirjeldus,regilaul,,,
+145,rl/kk,fraseologism,,,,
+146,rl/lh,loodushäälend,,,,
+147,rl/lh/mj,muinasjutt,loodushäälend,,,
+148,rl/lh/uk,kombekirjeldus,loodushäälend,,,
+149,rl/ll,,,,Lastelaulud,
+150,rl/ll/mng,,,,Lastelaulud,
+151,rl/ll/mngl,,,,Laulumängud,
+152,rl/ll/ns,,,,Lastelaulud,
+153,rl/ll/par,,,,Lastelaulud,
+154,rl/ll/tl,,,,Lastelaulud,
+155,rl/ll/uk,kombekirjeldus,regilaul,,Lastelaulud,
+156,rl/mj,varia,,,,
+157,rl/mng,,,,Laulumängud,
+158,Rl/mngl,,,,Laulumängud,
+159,rl/mngl/etn,etnograafia,regilaul,,Laulumängud,
+160,rl/mngl/ll,,,,Laulumängud,
+161,rl/mngl/tl,,,,Laulumängud,
+162,rl/mst,,,,Mõistatuslaulud,
+163,rl/mõist,mõistatus,,,,
+164,rl/nalj,naljand,regilaul,,Pulmalaulud,
+165,rl/nlj,naljand,regilaul,,Looduslaulud,
+166,Rl/ns,,,,Loitsud,
+167,rl/ns,,,,Loitsud,
+168,rl/ns/muist,muistend,regilaul,,Loitsud,
+169,rl/ns/uk,kombekirjeldus,regilaul,,Loitsud,
+170,rl/ns/uk med,kombekirjeldus,regilaul,,Loitsud,
+171,rl/ns?,,,,Loitsud,
+172,rl/ol/muist,muistend,regilaul,,,
+173,rl/paj/vs/ol,ajalugu,regilaul,,,
+174,rl/pseudo(?),,,,Omalooming,
+175,rl/rmngl,varia,,,,
+176,rl/tl,labajalalaul,,,,
+177,rl/tl/ll,,,,Lastelaulud,
+178,rl/tl/ul,labajalalaul,,,,
+179,rl/tl?,labajalalaul,,,,
+180,rl/uk,kombekirjeldus,regilaul,,,
+181,rl/uk  kal,kombekirjeldus,regilaul,,,
+182,rl/uk kal,kombekirjeldus,regilaul,,,
+183,rl/uk pulm,kombekirjeldus,regilaul,,Pulmalaulud,
+184,rl/uk pulm/ul,kombekirjeldus,uuem rahvalaul,regilaul,Pulmalaulud,
+185,Rl/ul,siirdevormiline laul,,,,
+186,rl/ul kal,kombekirjeldus,regilaul,,Kalendrilaulud,
+187,rl/ul/etn,etnograafia,siirdevormiline laul,,,
+188,rl/ul/j,jutt,siirdevormiline laul,,,
+189,rl/ul/mng,varia,,,,
+190,rl/ul/mngl,varia,,,,
+191,rl/ul/mngl/mng,ringmängulaul,,,,
+192,rl/ul/mst,mõistatus,uuem rahvalaul,,,
+193,rl/ul/rmngl,varia,,,,
+194,rl/ul/tl,labajalalaul,,,,
+195,rl/ul/tl/ll,,,,Lastelaulud,
+196,rl/ul/tl/uk pulm,kombekirjeldus,labajalalaul,,Pulmalaulud,
+197,rl/ul/tl?,labajalalaul,,,,
+198,rl/ul/uk,kombekirjeldus,siirdevormiline laul,,,
+199,rl/ul/uk pulm,kombekirjeldus,siirdevormiline laul,,Omalooming,
+200,rl/ul?,siirdevormiline laul,,,,
+201,rl/vs,vanasõna,,,,
+202,rl/vs/etn,etnograafia,regilaul,,Laulumäng,
+203,Rmng,ringmängulaul,,,,
+204,Rmngl,ringmängulaul,,,,
+205,rmngl/mng,ringmängulaul,,,,
+206,rmngl/tl,ringmängulaul,,,,
+207,rnmgl,ringmängulaul,,,,
+208,rs,vanasõna,,,,
+209,Tl,varia,,,,
+210,tl/kk,labajalalaul,,,,
+211,tl/mngl,uuem tantsulaul,,,,
+212,tl/rl,labajalalaul,,,,
+213,tl/ul,uuem tantsulaul,,,,
+214,tl?,varia,,,,
+215,u/muist/rl,muistend,regilaul,,,
+216,u/ns/rl,kombekirjeldus,regilaul,,Loitsud,
+217,u/rl,jutt,regilaul,,,
+218,UI,uuem rahvalaul,,,,
+219,uk,kombekirjeldus,,,,
+220,uk kal kirj/rl kirj,kombekirjeldus,regilaul,,Kalendrilaulud,
+221,uk kal/andm rl,kombekirjeldus,regilaul,,Kalendrilaulud,
+222,uk kal/ns/rl,kombekirjeldus,regilaul,,Kalendrilaulud,
+223,uk kal/rl,kombekirjeldus,regilaul,,Kalendrilaulud,
+224,uk kal?,kombekirjeldus,regilaul,,Kalendrilaulud,
+225,uk med/ns,kombekirjeldus,regilaul,,Loitsud,
+226,uk pulm,kombekirjeldus,regilaul,,Pulmalaulud,
+227,uk pulm/rl,kombekirjeldus,regilaul,,Pulmalaulud,
+228,uk pulm/rl/ul,kombekirjeldus,regilaul,,Pulmalaulud,
+229,uk pulm/ul,kombekirjeldus,regilaul,,Pulmalaulud,
+230,uk/aj,ajalugu,uuem rahvalaul,,,
+231,uk/j/rl,muistend,regilaul,,,
+232,uk/mng/rl,kombekirjeldus,regilaul,,Laulumängud,
+233,uk/ns,kombekirjeldus,regilaul,,Loitsud,
+234,uk/ns/rl,kombekirjeldus,regilaul,,Loitsud,
+235,Uk/rl,kombekirjeldus,regilaul,,,
+236,uk/rl kal,kombekirjeldus,regilaul,,Kalendrilaulud,
+237,uk/rl(?)/pseudo(?),kombekirjeldus,regilaul,,Omalooming,
+238,uk/rl/ns,kombekirjeldus,regilaul,,Loitsud,
+239,Uk/rl/ul,kombekirjeldus,siirdevormiline laul,,,
+240,uk/rl/ul/tl,labajalalaul,,,,
+241,uk/rl?,kombekirjeldus,regilaul,,,
+242,Uk/rmngl,kombekirjeldus,ringmängulaul,,,
+243,Uk/ul,kombekirjeldus,uuem rahvalaul,,,
+244,Ul,uuem rahvalaul,,,,
+245,ul kirj,uuem rahvalaul,,,,
+246,ul.,uuem rahvalaul,,,,
+247,ul/j/uk,jutt,uuem rahvalaul,,,
+248,ul/kirj,uuem rahvalaul,,,,
+249,ul/kirj?,uuem rahvalaul,,,,
+250,ul/ll,uuem rahvalaul,,,,
+251,ul/ll?,uuem rahvalaul,,,,
+252,ul/mng,ringmängulaul,,,,
+253,ul/Mngl,ringmängulaul,,,,
+254,ul/mst,mõistatus,uuem rahvalaul,,,
+255,ul/mõist,mõistatus,uuem rahvalaul,,,
+256,ul/ns,,,,Loitsud,
+257,ul/pseudo(?),uuem rahvalaul,,,,
+258,Ul/rl,siirdevormiline laul,,,,
+259,ul/rl/tl,varia,,,,
+260,ul/rl/tl?,varia,,,,
+261,ul/rl?,siirdevormiline laul,,,,
+262,ul/rmng,ringmängulaul,,,,
+263,Ul/rmngl,ringmängulaul,,,,
+264,ul/tl,uuem tantsulaul,,,,
+265,Ul/uk,kombekirjeldus,uuem rahvalaul,,,
+266,ul/ul/tl,uuem tantsulaul,,,,
+267,ul/vl,vaimulik rahvalaul,,,,
+268,Ul?,uuem rahvalaul,,,,
+269,Vl,vaimulik rahvalaul,,,,
+270,vs,vanasõna,,,,
+271,vs/rl,vanasõna,regilaul,,,
+272,,,,,Pulmalaulud(?), pl?
+273,,,,,Pulmalaulud(?),(?) pl
+274,,,,,Ahellaulud,Ahellaul
+275,,,,,Hällilaulud,hällilaul?
+276,,,,,Hällilaulud,Hällilaul
+277,,,,,Improvisatsioonid,impro
+278,,,,,Improvisatsioonid,improvisatsioon
+279,,jutt,uuem rahvalaul,,,j/ul
+280,,,,,Jaanilaulud,Jaanilaul
+281,,,,,Jõululaulud,jõululaul
+282,,kombekirjeldus,,,,k
+283,,,,,Kadrilaulud,Kadrilaul.
+284,,,,,Kadrilaulud,Kadrilaul
+285,,,,,Karjaselaulud,Karjaselaul
+286,,,,,Kiigelaulud,Kiige laul
+287,,,,,Kiigelaulud,Kiigelaul
+288,,kiri,,,,kiri
+289,,,,,Kosjad,Kosjalaul
+290,,,,,Vastlalaulud,liulaskmise laul
+291,,,,,Lastelaulud,Ll
+292,,,,,Lori,Lora
+293,,,,,Lori,Lori.
+294,,,,,Pulmalaulud/Lori,lori/pl
+295,,,,,Lori,Lori
+296,,,,,Lori,lorilaul
+297,,,,,Lõikuslaulud,Lõikuselaul
+298,,,,,Lõikuslaulud,lõikuslaul
+299,,,,,Sanditamislaulud,"Mardilaul, kadrilaul"
+300,,,,,Sanditamislaulud,mardilaul/ kadrilaul
+301,,,,,Mardilaulud,Mardilaul
+302,,kombekirjeldus,regilaul,,Mardilaulud,Mardipäev
+303,,muinasjutt,regilaul,,,mj/rl
+304,,,,,Laulumängud,Mngl
+305,,,,,Nekrutilaulud,Nekruti l
+306,,,,,Nekrutilaulud,Nekrutilaul
+307,,,,,Loitsud,ns/rl
+308,,,,,Jõululaulud,Näärilaul
+309,,,,,Omalooming,omalooming
+310,,,,,Pulmalaulud,P1
+311,,,,,Pulmalaulud(?),Pl ?
+312,,,,,Pulmalaulud(?),Pl?
+313,,,,,Pulmalaulud,Pl.
+314,,,,,Pulmalaulud/Lori,pl/lori
+315,,,,,Pulmalaulud/Lori,pl/lorilaul
+316,,,,,Pulmalaulud,Pl
+317,,,,,Lori,Poiste lora
+318,,,,,Lori,Poiste lori
+319,,,,,Pulmalaulud,Pulma laul
+320,,,,,Pulmalaulud(?),pulmalaul ?
+321,,,,,Pulmalaulud,pulmalaul 
+322,,,,,Pulmalaulud(?),pulmalaul?
+323,,,,,Pulmalaulud,Pulmalaul
+324,,,,,Ahellaulud,rl/ahellaul
+325,,varia,,,,rl/andm
+326,,,,,Lastelaulud,rl/ll
+327,,,,,Laulumängud,rl/mngl
+328,,,,,Pillimäng ja tants(?),rl/tl?
+329,,labajalalaul,,,,rl/ul/tl
+330,,ringmängulaul,,,,rmngl
+331,,,,,Sõimulaulud,sõimulaul
+332,,,,,Sõjalaulud,sõjalaul
+333,,,,,Talgulaulud,talgulaul
+334,,uuem rahvalaul,,,,ul?
+335,,ringmängulaul,,,,ul/mngl
+336,,uuem rahvalaul,,,,ul
+337,,,,,Vastlalaulud,Vastlalaul
+338,nõiasõnad,,,,,Loitsud
+339,fraseologism/siirdevormiline laul,,,,,
+340,,,,,,Lori
+341,ajalugu/regilaul,,,,,
+342,,,,,,Jõululaulud
+343,,,,,,Lastelaulud
+344,,,,,,Ahellaulud
+345,,,,,,Nekrutilaulud
+346,vaimulik rahvalaul,,,,,
+347,andmed/regilaul,,,,,Lastelaulud
+348,kiri/regilaul,,,,,
+349,,,,,,Mängulaulud
+350,regilaul/uuem rahvalaul,,,,,
+351,,,,,,Hällilaulud
+352,muistend/regilaul,,,,,Loitsud
+353,naljand/regilaul,,,,,Looduslaulud
+354,pajatus/siirdevormiline laul,,,,,
+355,kombekirjeldus/vaimulik rahvalaul,,,,,
+356,,,,,,pl/lorilaul
+357,,,,,,Kiigelaulud
+358,,,,,,Laulumängud
+359,jutt/labajalalaul,,,,,
+360,,,,,,Pulmalaulud ?
+361,mäng/regilaul,,,,,
+362,regilaul/vanasõna,,,,,
+363,,,,,,Improvisatsioonid
+364,etnograafia/regilaul,,,,,Laulumängud
+365,,,,,,
+366,etnograafia/regilaul,,,,,
+367,regilaul/siirdevormiline laul,,,,,
+368,andmed/regilaul,,,,,
+369,rl/ul/ns,uuem rahvalaul,regilaul,,,Loitsud
+370,,,,,,hällilaul
+371,,,,,,jaanilaul
+372,jutt/siirdevormiline laul,,,,,
+373,,,,,,Pulmalaulud(?)
+374,kombekirjeldus/nõiasõnad,,,,,Loitsud
+375,naljand,,,,,
+376,,,,,,Pulmalaulud
+377,uuem rahvalaul ?,,,,,
+378,ajalugu/uuem rahvalaul,,,,,
+379,,,,,,Pulmalaulud
+380,andmed,,,,,
+381,muinasjutt/loodushäälend,,,,,
+382,,,,,,pulmalaul
+383,labajalalaul/siirdevormiline laul,,,,,
+384,kombekirjeldus/labajalalaul/regilaul,,,,,
+385,varia,,,,,Lastelaulud
+386,muinasjutt,,,,,
+387,,,,,,poiste lori
+388,andm/ul,andmed,uuem rahvalaul,,,
+389,etnograafia/muistend/uuem rahvalaul,,,,,
+390,uuem rahvalaul,,,,,
+391,ajalugu/uuem rahvalaul/regilaul,,,,,
+392,kombekirjeldus/labajalalaul,,,,,Pulmalaulud
+393,naljand/uuem rahvalaul,,,,,
+394,,,,,,Improvisatsioon
+395,nõiasõnad,,,,,
+396,,,,,,Mõistatuslaulud
+397,,,,,,lorilaul
+398,,,,,,Looduslaulud
+399,varia,,,,,
+400,uuem tantsulaul,,,,,
+401,,,,,,Sanditamislaulud
+402,etnograafia/regilaul,,,,,Laulumäng
+403,pajatus/fraseologism,,,,,
+404,pajatus/regilaul,,,,,
+405,kombekirjeldus/regilaul,,,,,Pulmalaulud
+406,,,,,,Kalendrilaulud
+407,muinasjutt/regilaul,,,,,
+408,,,,,,Sõjalaul
+409,,,,,Pulmalaulud,(Pl)
+410,vanasĆµna,,,,,
+411,ringmängulaul/regilaul,,,,,Laulumängud
+412,uuem rahvalaul/vanasõna,,,,,
+413,labajalalaul,,,,,
+414,,,,,,Lastelaulud ?
+415,uuem lastelaul,,,,,
+416,etnograafia/siirdevormiline laul,,,,,
+417,jutt/uuem rahvalaul,,,,,
+418,muistend/regilaul,,,,,
+419,jutt/regilaul,,,,,Loitsud
+420,,,,,,mardilaul
+421,,,,,,Sõimulaulud
+422,,,,,,Pillimäng ja tants(?)
+423,mäng,,,,,Mängulaulud
+424,kombekirjeldus/nõiasõnad/regilaul,,,,,
+425,kombekirjeldus/regilaul,,,,,Loitsud
+426,kombekirjeldus/siirdevormiline laul,,,,,
+427,kombekirjeldus/uuem rahvalaul,,,,,
+428,uuem rahvalaul/regilaul,,,,,
+429,,,,,,Vastlalaulud
+430,,,,,,Lõikuselaul
+431,?/regilaul,,,,,
+432,muistend,,,,,
+433,ll/etn,etnograafia,regilaul,,,Lastelaul
+434,pajatus/regilaul,,,,,Loitsud
+435,,,,,,Lõikuslaulud
+436,,,,,,Sõjalaulud
+437,fraseologism,,,,,
+438,mäng,,,,,
+439,loodushäälend,,,,,
+440,Lastelaulud,,,,,
+441,,,,,,Vastlalaul
+442,,,,,,Kiigelaul
+443,,,,,,loodushäälend
+444,andmed/uuem rahvalaul,,,,,
+445,jutt/loodushäälend,,,,,
+446,siirdevormiline laul,,,,,
+447,kombekirjeldus/regilaul,,,,,Kalendrilaulud
+448,,,,,,Kadrilaulud
+449,,,,,,Loitsud ?
+450,,,,,,Kosjad
+451,,,,,,Jaanilaulud
+452,mõistatus/uuem rahvalaul,,,,,
+453,rl andm,andmed,,,,
+454,labajalalaul/regilaul,,,,,
+455,,,,,,Pulmalauludud
+456,jutt/regilaul,,,,,Lastelaulud
+457,ul/ kirj,uuem rahvalaul,,,,
+458,vl par,uuem rahvalaul,,,,
+459,kiri/regilaul,,,,,Loitsud
+460,kombekirjeldus/muistend/vaimulik rahvalaul,,,,,
+461,ringmängulaul,,,,,Lastelaulud
+462,muinasjutt/uuem rahvalaul,,,,,
+463,etnograafia/muistend,,,,,
+464,vanasõna/regilaul,,,,,
+465,nõiasõnad/regilaul,,,,,Loitsud
+466,ringängulaul,,,,,
+467,kombekirjeldus/loodushäälend,,,,,
+468,ul/andm,andmed,uuem rahvalaul,,,
+469,kombekirjeldus/regilaul,,,,,Lastelaulud
+470,uuem rahvalaul/uuem tantsulaul,,,,,
+471,naljand/ajalugu/vaimulik rahvalaul,,,,,
+472,kombekirjeldus/ringmängulaul,,,,,
+473,muistend/siirdevormiline laul,,,,,
+474,,,,,,kadrilaul
+475,,,,,,Laulumängud(?)
+476,,,,,,Talgulaulud
+477,jutt/regilaul,,,,,Laulumängud
+478,,,,,,Loitsud
+479,,,,,,Pulmalaulud?
+480,,,,,,lõikuslaul
+481,jutt/regilaul,,,,,
+482,ringmängulaul,,,,,Laulumängud
+483,rmgl,ringmängulaul,,,,
+484,,,,,,Omalooming?
+485,andmed/regilaul,,,,,Loitsud
+486,kombekirjeldus/uuem rahvalaul/regilaul,,,,,Pulmalaulud
+487,ringmängulaul,,,,,
+488,nõiasõnad/kombekirjeldus,,,,,Loitsud
+489,,,,,,Mardilaulud
+490,andmed/siirdevormiline laul,,,,,
+491,kombekirjeldus/regilaul,,,,,Laulumängud
+492,vanasõna ?,,,,,
+493,uuem lastelaul,,,,,Lastelaulud
+494,,,,,,Kosjalaul
+495,,,,,,Pulmalaulud/Lori
+496,kombekirjeldus/regilaul,,,,,
+497,kombekirjeldus/loodushäälend/regilaul,,,,,
+498,kiri/kombekirjeldus/uuem rahvalaul,,,,,
+499,,,,,,Jõululaul
+500,uuem rahvalaulud,,,,,
+501,mõistatus,,,,,
+502,kombekirjeldus/ajalugu,,,,,
+503,naljand/regilaul,,,,,
+504,,,,,,Pulmalaul ?
+505,jutt,,,,,
+506,kiri/uuem rahvalaul,,,,,
+507,,,,,,Omalooming
+508,,,,,,muinasjutt/regilaul
+509,regilaul/labajalalaul,,,,,
+510,ringmängulaul/uuem rahvalaul,,,,,
+511,kombekirjeldus,,,,,

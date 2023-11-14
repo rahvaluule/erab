@@ -1,0 +1,4374 @@
+koguja_id,nimi,flags
+1,koguja teadmata,0
+2,A. C. F. G.,0
+3,A. E. R. (neiu Rakverest),0
+4,A. J.,0
+5,A. M.,0
+6,"Aadamson, Jaan",0
+7,"Aasberg (Asberg), Georg J.",0
+8,"Adeleid, Jaan",0
+9,"Adeleid, Julius",0
+10,"Adelson, Jüri",0
+11,"Ainson, H.",0
+12,"Ainson, Hans",0
+13,"Ainson, Jaan",0
+14,"Aint, Kristjan",0
+15,"Aitsam, Mihkel",0
+16,"Akel, M.",0
+17,Aleksandrikooli kasvandik,0
+18,"Allas, Carl (Karl)",0
+19,"Allik, M.",0
+20,"Allikas, T.",0
+21,"Alt, Jaan",0
+22,"Altschneider, G.",0
+23,"Aman, H.",0
+24,"Amberg, Johan",0
+25,"Andrei, Aado",0
+26,"Andresson, Julie",0
+27,"Angelus, Karl (C.)",0
+28,"Anniko, Gustav",0
+29,"Anniko, Hendrik",0
+30,"Annuk, Aleksander",0
+31,"Annus, K.",0
+32,"Ant, J.",0
+33,"Antje, Mart",0
+34,"Arak (Arrak), D.",0
+35,"Arst, Liisa",0
+36,"Artis, Aleksander",0
+37,"Aru, J.",0
+38,"Aspe, Elisabeth",0
+39,"Asper, Hans",0
+40,"Asper, Jakob",0
+41,"Asper, Toomas (Thomas)",0
+42,"Aun, Elise Rosalie",0
+43,"Baader, H.",0
+44,"Bachmann, Emilie",0
+45,"Bausk (Pausk), Jaan",0
+46,"Berg, C.",0
+47,"Bergmann, Emilie (Emiilie)",0
+48,"Bergmann, Jaan",0
+49,"Bergmann, Marie",0
+50,"Bergmann, Sophie",0
+51,"Bernstein, Adolf Ferdinand",0
+52,"Bibikov, R.",0
+53,"Birkenbaum, J.",0
+54,"Birkenthal, Peeter",0
+55,"Blaubrik, Karl",0
+56,"Blumenfeldt, Anna",0
+57,Bochmann,0
+58,"Bock, Jaan",0
+59,"Borman, Aleksander",0
+60,"Bormann, Aleksander",0
+61,"Brunnberg, J. P.",0
+62,"Brücker, E.",0
+63,"Brücker, Johann (Juhan)",0
+64,"Böckler (Pöckler), Hindrek",0
+65,"Böhr, J.",0
+66,"D-ng (Dööring?), Jaacop (Jaakop)",0
+67,"Drehs, J.",0
+68,"Dreihsler, Emilie",0
+69,E. U.,0
+70,"Ederberg, Friedrich Wilhelm",0
+71,"Edur, J.",0
+72,"Eichwald, Peeter",0
+73,"Eikelmann, Martin",0
+74,"Einbluth, Priidik",0
+75,"Einer, Jaan (Johannes)",0
+76,"Einer, Peeter",0
+77,"Einmann, J.",0
+78,"Einstruck, Johannes",0
+79,"Elbrecht, M.",0
+80,"Elend, Jaan",0
+81,"Elias (Eljas), Mihkel",0
+82,"Elken (Imakaevu), Anna Maria",0
+83,"Elken, Juhan (Johan)",0
+84,"Ellert (Janson), Emilie",0
+85,"Eriksohn, Aleksander Gustav",0
+86,"Erm, J.",0
+87,"Erm, Johan",0
+88,"Ermann, Juhan",0
+89,"Erme, Johannes Eduard",0
+90,"Esken, Johannes",0
+91,"Evert, Johan",0
+92,"Evert, Mart (Märt)",0
+93,"Everth, J. W.",0
+94,"Feldmann, J.",0
+95,"Feldmann, J. A.",0
+96,"Fliedermann, Madis",0
+97,Flink (neiu Flink),0
+98,"Fluss, Karl (Carl)",0
+99,"Forsberg (Alava), Vihtori",0
+100,"Freimann, Joosep",0
+101,"Freundlich, Carl Wilhelm",0
+102,G. G.,0
+103,"Gerberson, Jaan",0
+104,"Gerberson, Melanie",0
+105,"Getreu, Jüri",0
+106,"Grant, Eduard",0
+107,"Grau, Kristjan",0
+108,"Grenberg (Greenberg), Aleksander",0
+109,"Grenzstein, T.",0
+110,"Grepp, E. B.",0
+111,"Gross, Kristjan",0
+112,"Grossholm, Reinhold",0
+113,"Grossschmidt, Otto",0
+114,"Grünfeldt, Peeter",0
+115,"Grünstamm, Voldemar",0
+116,"Gutves, Jaan",0
+117,H. F. K.,0
+118,H. S.,0
+119,"Habicht, Gustav",0
+120,"Haho, K.",0
+121,"Hannov, Ernst",0
+122,"Hannus, Jaan",0
+123,"Hanson, Aleksander",0
+124,"Hansschmidt, J.",0
+125,"Hansschmidt, M.",0
+126,"Hansschmit, Johan",0
+127,"Haus, K. J.",0
+128,"Heek, Nikolai",0
+129,"Heek, P.",0
+130,"Heering, Hindrik",0
+131,"Heidenthal, A.",0
+132,Hellat (stud),0
+133,"Hendel, Hermann",0
+134,"Henno, Hain",0
+135,"Hennu, Jaan",0
+136,"Heraklides, Aleksander",0
+137,"Hermann, C.",0
+138,"Holm, Karl",0
+139,"Holm, Madis",0
+140,Holst (pastor),0
+141,"Holts (Holz), Juhan (Johann)",0
+142,"Huik, H.",0
+143,"Hurt, Eeva",0
+144,"Hurt, Jakob",0
+145,"Hurt, Johan (Johann)",0
+146,"Hurt, Joosep",0
+147,"Härg, Hans",0
+148,"Härg, Jüri",0
+149,"Härms, Johannes",0
+150,"Härms, Mihkel",0
+151,"Häussler (Häusler), Arnold",0
+152,"Hünerson, Jaak",0
+153,"Hünerson, Jaan",0
+154,"Ignatius, L.",0
+155,"Illak, Jüri",0
+156,"Ilus, Mihkel",0
+157,"Ilves, H.",0
+158,"Ilves, Jakob",0
+159,"Ilves, Johan (Juhan)",0
+160,"Ilves, M.",0
+161,"Ivask, Gustav",0
+162,J.,0
+163,J. N.,0
+164,J. S.,0
+165,J. U.,0
+166,J...,0
+167,"J..., S.",0
+168,"Jaagu, H.",0
+169,"Jaakson, A. J.",0
+170,"Jaakson, Madis",0
+171,"Jaanpärg (Jaanberg, Jannberg), Taavet",0
+172,"Jaanson, J.",0
+173,"Jaanson, Jaan",0
+174,"Jaanus, J. M.",0
+175,"Jaason, Mihkel",0
+176,"Jagomann, Jakob",0
+177,"Jagor, Paula",0
+178,"Jakobson, J.",0
+179,"Jakobson, Jaan (Saarde khk.)",0
+180,"Jakobson, Jaan (Vastseliina khk.)",0
+181,"Jakobson, Liina",0
+182,"Jakobson, T.",0
+183,"Jakson, David (Tavit)",0
+184,"Jalajas, Jakob",0
+185,"Jank, Tõnis",0
+186,"Jankovits, Otto",0
+187,"Janno, Mart",0
+188,"Jeerik, Tõnis",0
+189,"Jennes, Andre (A. Joosik)",0
+190,"Jennes, Magnus (M. Laanela)",0
+191,"Johannes, Kaarel",0
+192,"Johannson, Gustav",0
+193,"Johannson, J.",0
+194,"Juhannson, J.",0
+195,"Johannson, Peet",0
+196,Johans,0
+197,"Jung, Arthur",0
+198,"Jung, Jaan",0
+199,"Juudas, Joosep",0
+200,"Juurik, Märt (Martti)",0
+201,"Juurikas, A.",0
+202,"Juurikas, Joh.",0
+203,"Juurikas, Tõnis",0
+204,"Jõgeva, Osvald",0
+205,"Jõgevest, J.",0
+206,"Jõgi, J.",0
+207,"Jõhvikas, J.",0
+208,"Jänes, J.",0
+209,"Järv, J.",0
+210,"Järve, Märt",0
+211,"Järveots, Joosep",0
+212,"Jääger, A.",0
+213,"Jürgens, Johann",0
+214,"Jürgenson, Gustav",0
+215,"Jürgenson, Jaan",0
+216,K. P-W,0
+217,K.,0
+218,"Kaalep, J.",0
+219,"Kaerick, Mihkel",0
+220,"Kahtelberg, Liisa Marie",0
+221,"Kahtelberg, Miina Rosalie",0
+222,"Kaiv, Eduard",0
+223,"Kala, Johan (Juhan)",0
+224,"Kalbus, M.",0
+225,"Kalbus, T.",0
+226,"Kalk, Peeter",0
+227,"Kallas, Eduard Friedrich",0
+228,"Kallas, Hans",0
+229,"Kallas, Johan",0
+230,"Kallas, Mihkel",0
+231,"Kallas, Oskar Philipp",0
+232,"Kallas, Rudolf Gottfried",0
+233,"Kallaspolik, M.",0
+234,"Kamarik, Mihkel",0
+235,"Kampf (a.-st 1936 Kamp), August",0
+236,"Kampmann (Kampmaa), Mihkel",0
+237,"Kampus, Johan",0
+238,"Kangur, Juhan",0
+239,"Kangur, Peeter",0
+240,"Kann, Nikolai",0
+241,"Kanter, Henn",0
+242,"Kappel, Johan (Johann)",0
+243,"Kappok, Annus",0
+244,"Karolin, H.",0
+245,"Karotom, Mart",0
+246,"Karu (Karro), Hans",0
+247,"Karu, Greeta",0
+248,"Karus, Jaan",0
+249,"Kase (Kaur), Leena",0
+250,"Kase, Henn",0
+251,"Kasikov, Helene",0
+252,"Kask, Anna Marie",0
+253,"Kask, Jakob",0
+254,"Kask, Johan",0
+255,"Kasuk, Peeter",0
+256,"Kaur, Mats",0
+257,"Keerd, Saamuel (Samuel)",0
+258,"Keerig, Johann (Johan)",0
+259,"Keernik, Jaan",0
+260,"Kees, William",0
+261,"Keller, Hans",0
+262,"Keller, Jaan",0
+263,"Kena, Hindrek",0
+264,"Kenkmann, Jaan",0
+265,"Kents, Jakob",0
+266,"Kerg, Johannes",0
+267,"Kielas, Mart",0
+268,"Kiisk, Mihkel",0
+269,"Kiivet, J.",0
+270,"Kijma, P.",0
+271,"Kill, Johan",0
+272,"Kirik, Villem",0
+273,"Kirikall, Mart",0
+274,"Kirrotosk (Kirotosk), Leontine",0
+275,"Kirschbaum, Johannes",0
+276,"Kirschbaum, Karl",0
+277,"Kirschfeldt, Mihkel",0
+278,"Kitzberg, August",0
+279,"Kitzberg, Ernst",0
+280,"Kitzberg, Jaan",0
+281,"Kitznik (Kitsnik), Martin",0
+282,"Kitvell, Hans",0
+283,"Kivi, Alfred Konstantin",0
+284,"Kivikangur, G.",0
+285,"Kivikilt, Juhan (Johann)",0
+286,"Kivisaar, Jaan",0
+287,"Kivisäk, Jaak",0
+288,"Klaas, Viilip",0
+289,"Klauren, Mihkel",0
+290,"Kleinmann, Kaarel",0
+291,"Klemmer, Gustav",0
+292,"Knüpffer, Arnold Friedrich Johann",0
+293,"Knüpffer, R.",0
+294,"Koik, Juhan",0
+295,"Koik, Michael",0
+296,"Koit, Jakob",0
+297,"Koljo, Kr.",0
+298,"Kolk, Elise",0
+299,"Kolluk, Anna",0
+300,"Kolm, Mihkel",0
+301,"Komms, C.",0
+302,"Kook, J.",0
+303,"Kook, Joosep",0
+304,"Kool, Johannes",0
+305,"Kool, M.",0
+306,"Kool, Mihkel",0
+307,koolilapsed,0
+308,"Koolmeister, Otto",0
+309,"Koolmeister, P.",0
+310,"Koonukõrb, A.",0
+311,"Koort, August",0
+312,"Koplus, Karl",0
+313,"Koppel, H.",0
+314,"Koppel, Johan",0
+315,"Koppel, Karl",0
+316,"Korb, Villem",0
+317,"Korits, J.",0
+318,"Kornak, Jaan",0
+319,"Kornel, Ernst",0
+320,"Korts, Mart",0
+321,"Kosesson, Hans",0
+322,"Kosse, Peeter",0
+323,"Krass, Friedrich",0
+324,"Krass, K. F.",0
+325,"Kraut, Martin",0
+326,"Kreitsmann, Karl",0
+327,"Kreutzwald, Friedrich Reinhold",0
+328,"Krieger, J.",0
+329,"Krikmann (Krickmann), Hans",0
+330,"Krikmann, August",0
+331,"Kripson, Jaan",0
+332,"Kruusimägi, Kaaja",0
+333,"Kubja, Peeter",0
+334,"Kuhlbars, Friedrich Karl Johann",0
+335,"Kukats, Karl",0
+336,"Kukk, J.",0
+337,"Kukk, Tõnis",0
+338,"Kukkel, P.",0
+339,"Kukrus, Jaan",0
+340,"Kulberg, Mihkel",0
+341,"Kuldkepp, Jüri",0
+342,"Kuldsep, Gustav",0
+343,"Kull, Hans",0
+344,"Kullasepp, Tõnis",0
+345,"Kullerkupp, Villem",0
+346,"Kulpson, Eeva",0
+347,"Kungur, Gustav",0
+348,"Kunimägi, Johann (Johan)",0
+349,"Kuressohn (Kuresson), Hennu (Ennu)",0
+350,"Kuressohn (Kuresson), Tõnis",0
+351,"Kurga, Karl",0
+352,"Kurga, Mart",0
+353,"Kurrikoff, A.",0
+354,"Kurul, Mihkel",0
+355,"Kuuben, August-Andreas",0
+356,"Kuum, Vio",0
+357,"Kuus, Juuli",0
+358,"Kuusik, Andres",0
+359,"Kuusik, Johanna",0
+360,"Kuusik, Juhan",0
+361,"Kuusik, Karp (Carp)",0
+362,"Kuusik, Timotheus",0
+363,"Kuusk, Gottlieb (Okaspuu)",0
+364,"Kõbi, Jüri",0
+365,"Kõdar, Märt (Märt Miilk)",0
+366,"Kõeva, Margus (Markus)",0
+367,"Kõiv, Anton Peeter Friedrich",0
+368,"Kõpp, Juhan",0
+369,"Kõpp, Th.",0
+370,"Kõrts, Mihkel",0
+371,"Kõrv, T.",0
+372,"Käger (Kägar), Jaak",0
+373,"Kärsten, Johan (Juhan)",0
+374,"Käär, H. (Laiuse)",0
+375,"Käär, Heinrich",0
+376,"Käär, M.",0
+377,"Käär, Samuel",0
+378,"Käärik, Andres",0
+379,"Köster, Maria",0
+380,"Köstner, Jüri",0
+381,"Köstner, Tõnis",0
+382,"Köögardal, Jüri",0
+383,"Küle, Hendrik",0
+384,"Küng, A.",0
+385,"Kütt, Jaan",0
+386,L. K. (neiu),0
+387,"Laar, Tõnis",0
+388,"Laarmann, Jaak",0
+389,"Laarmann, Mats",0
+390,"Laasi, Karl",0
+391,"Laipmann, Hans (Laikmaa, Ants)",0
+392,"Lambert, Jaan",0
+393,"Lampson, K.",0
+394,"Langei, A. A.",0
+395,"Langei, A. I.",0
+396,"Langholts, Hendrik",0
+397,"Langsepp, Eduard",0
+398,"Lank (Lanck), Isak (Isaak)",0
+399,"Laos, August",0
+400,"Lapmann, A.",0
+401,"Lass, J.",0
+402,"Lauri, Peeter",0
+403,"Laurits, R.",0
+404,"Leetberg, Karl Johannes (Kaarel)",0
+405,Leetsmann,0
+406,"Leht, Kristjan",0
+407,"Leht, Liisa",0
+408,"Leinberg, J.",0
+409,"Leiner, Juljania",0
+410,"Leithammel, A.",0
+411,"Leithammel, August",1
+412,"Lele, H.",0
+413,"Lellep, Hans",0
+414,"Lemberg, Hans",0
+415,"Lemmerkänd, Mihkel",0
+416,"Lensin, Hans",0
+417,"Lenzius, Carl",0
+418,"Leoke, Jüri",0
+419,"Leopas, Katarina",0
+420,"Lepik (Leppik), Jaan",0
+421,"Lepik (Leppik), Juhan",0
+422,"Lepik, Aleksei",0
+423,"Lepik, Andres",0
+424,"Lepik, J. (Saarde)",0
+425,"Lepik, Liisa",0
+426,"Lepik, Tõnis",0
+427,"Lepp, M.",0
+428,"Lepp, V.",0
+429,"Leppermann, Gustav",0
+430,"Leppik (Leppik-Punabu), Jaan",0
+431,"Leppik, Kata",0
+432,"Leppik, Mihkel",0
+433,"Lepp-Viikmann (Pruul), Leena",0
+434,"Lepp-Viikmann, Toomas",0
+435,"Levoll, M.",0
+436,"Liedenberg, Madis",0
+437,"Liewoh, Jaan",0
+438,"Liima, G.",0
+439,"Liiv, Joosep",0
+440,"Liiver, Tõnis",0
+441,"Lilienbach, Juhan",0
+442,"Lillak, J.",0
+443,"Lille, J.",0
+444,"Lillep, Mari",0
+445,"Lind, S.",0
+446,"Linde, Bernhard",0
+447,"Lindebaum (Sardo), Mihkel",0
+448,"Lindeberg, Hans",0
+449,"Lindenbaum, J.",0
+450,"Lindenberg, M.",0
+451,"Lindvest, Joh.",0
+452,"Linnamägi, K.",0
+453,"Linnast, M.",0
+454,"Lipping, Karl (Carl)",0
+455,"Lippmann, M.",0
+456,"Lipstall, Alide",0
+457,"Listakind, C.",0
+458,"Lohk, Hans",0
+459,"Loiken, Karl",0
+460,"Loij, Mihkel",0
+461,"Lomp, V.",0
+462,"Loodus, Gustav",0
+463,"Lootus, Isak",0
+464,"Loskit, Jaan",0
+465,"Losmann (Lossmann), August",0
+466,"Lossmann, M.",0
+467,"Lugenberg, Alfred",0
+468,"Luht, C.",0
+469,"Luiga, Georg Eduard",0
+470,"Lukk, Kusta",0
+471,"Luksepp, A.",0
+472,"Lurich, Georg",0
+473,"Lurich, Karl Voldemar",0
+474,"Lusik (Lussik), Hendrik (Hindrik)",0
+475,"Luthverk, Johan",0
+476,Luts,0
+477,"Luts, Andres",0
+478,"Luu, Martin",0
+479,"Lõo, J.",0
+480,"Lätti, Tavid (Taavid)",0
+481,"Lüsi, Iida Mathilde",0
+482,"Lüüs, A.",0
+483,"Maante, M.",0
+484,"Maasen (Masen, Varik), Helene",0
+485,"Maasik, Johannes",0
+486,"Madisson, A.",0
+487,"Magus (Maggus), Jüri",0
+488,"Magus, Mia",0
+489,"Maksim, J.",0
+490,"Malm, K. E.",0
+491,"Mankin, T.",0
+492,"Mann, Hindrik",0
+493,"Mannteufel, P.",0
+494,"Margus, Ann",0
+495,"Margus, Liisa",0
+496,"Marmor, Jaan",0
+497,"Martin, Johann",0
+498,"Martinson, Emilie",0
+499,"Martinson, Hans",0
+500,"Martinson, Karl Eduard",0
+501,"Masing, Heinrich",0
+502,"Masmann, J.",0
+503,"Mastberg, Carl",0
+504,"Matson, Frido",0
+505,"Mauer, August",0
+506,"Mauer, Jüri",0
+507,"Mauer, Märt",0
+508,"Mein, Juhan",0
+509,"Meiner, J.",0
+510,"Meister, Jaan",0
+511,"Melles, Hans",0
+512,"Melsas, Alexander",0
+513,"Melzov, Joosep (J. Võhand)",0
+514,"Melts, Johann",0
+515,"Mental, A.",0
+516,"Meo, Konrad",0
+517,"Meomuttel, Jüri",0
+518,"Mets, Villem",0
+519,"Metusala, V.",0
+520,"Mey, Johann",0
+521,"Michelson, M.",0
+522,"Michelson, T.",0
+523,"Mick, Reinhold H.",0
+524,"Mihkelson, Jakob",0
+525,"Mikiver (Siiberg), Miina",0
+526,"Mikkel, Hindrik",0
+527,"Mikkor, Henr.",0
+528,"Milk, Anton",0
+529,"Miller, Friedrich",0
+530,"Millert, Jaan Johannes",0
+531,"Mitt, Madis",0
+532,"Moisa, Joosep",0
+533,"Moks, Karl",0
+534,"Moks, P.",0
+535,"Moodis (Mootisse), Jaan",0
+536,"Morell, H.",0
+537,munk Arkadi,0
+538,"Mõik, Kaarel",0
+539,"Mõsikepp (Mõsikäpp), Jaan",0
+540,"Mõts, V.",0
+541,"Mäekala, Karl",0
+542,"Mägi, A.",0
+543,"Mägi, Hans",0
+544,"Mägi, Johann",0
+545,"Mägi, M.",0
+546,"Mägi, O. O.",0
+547,"Mägi, Ottu",0
+548,"Mägi, Villem",0
+549,"Mändmets, Jakob",0
+550,"Männapuu, M.",0
+551,"Mäns, Julius Bernhard",0
+552,"Märks, Christian",0
+553,"Mätas, Mari",0
+554,"Möllerson, J.",0
+555,"Mühlbach, Gustav",0
+556,"Mühlbach, Karl",0
+557,Mühlenthal,0
+558,"Müllerbeck, Jüri",0
+559,"Münther, Otto Heinrich",0
+560,"Müür, M.",0
+561,N. N.,0
+562,"Nahkur, J.",0
+563,"Nante, Jakob",0
+564,"Napp, Martin",0
+565,"Narusk, Gustav",0
+566,"Nauman, A.",0
+567,"Necks, August",0
+568,neiu (Audru),0
+569,"Neumann, H.",0
+570,"Neumann, Mihkel",0
+571,Neus. R.,0
+572,"Ney, Johann (Johan)",0
+573,"Niclasen, Eugen",0
+574,"Niemann, A.",0
+575,"Niemi, Aukusti Robert",0
+576,"Nigol (Niggol, Kallas), Ida",0
+577,"Nigoson, J.",0
+578,"Nigul (Niggol), Hermann",0
+579,"Niilender, Johan",0
+580,"Niinas, Johannes",0
+581,"Norden, J.",0
+582,"Nugin, Hans",0
+583,"Nuut, Jaan",0
+584,"Nõmm, J.",0
+585,"Nõmm, Jaan",0
+586,"Nõmm, M.",0
+587,"Nõmm, Madis",0
+588,O. J. M.,0
+589,O. T. K.,0
+590,"Oberg, Karl (Kaarel)",0
+591,"Odenberg, Madis",0
+592,"Offe, E.",0
+593,"Oja, Eduard",0
+594,"Oja, Jaan",0
+595,"Ojasuu, Karl",0
+596,"Oksenberg, Aadu",0
+597,"Ollik, Gustav",0
+598,"Ollino, Mihkel",0
+599,"Oras, Jüri",0
+600,"Orav (Orrav), Jakob",0
+601,"Orav, Hans",0
+602,"Orav, Jaan",0
+603,"Orgusaar, Jüri",0
+604,"Orloff, Mihkel",0
+605,"Orras, Chr.",0
+606,"Ostrat, Hindrik",0
+607,"Ostrov, J.",0
+608,"Ostrov, Mihkel",0
+609,"Ostrov, Mihkel (Tori)",0
+610,"Ots, Johann",0
+611,"Otsus, Mihkel",0
+612,"Ott, Kristjan",0
+613,"Otto, Nigolas",0
+614,P. L. (neiu),0
+615,"P...o, N.",0
+616,"Paap, H.",0
+617,"Pahlberg, Jakob",0
+618,"Pajur, J.",0
+619,"Palk, Toomas",0
+620,"Pallasma, A.",0
+621,"Palloser, August",0
+622,"Pallu (Palu), Peeter",0
+623,"Palm, Jakob",0
+624,"Palm, Johannes August",0
+625,"Palmkroon, Johannes",0
+626,"Palu, Jaak",0
+627,"Parts, Kaarel",0
+628,"Pastarus, Johann",0
+629,"Paurmann, Paulus",0
+630,"Pea, Ado (Aado)",0
+631,"Peedo, Jakob",0
+632,"Peet, Ado",0
+633,"Peet, J.",0
+634,"Peeters (Peters), Friidu (Friedrich)",0
+635,"Peeterson, J.",0
+636,"Pello, Hans",0
+637,"Pender, Villem",0
+638,"Pennert, Gustav",0
+639,"Penuson, Jaan",0
+640,"Perkson, Hans",0
+641,"Perli, August",0
+642,"Pern, Miina",0
+643,"Peterson, Johan",0
+644,"Peterson, Jüri",0
+645,"Petroff (Petrov), M.",0
+646,"Petrovitsch, Johann",0
+647,"Pielbusch, J.",0
+648,"Pielbusch, S.",0
+649,Pihelgas,0
+650,"Pihlak, Anton",0
+651,"Pihlakas, Johan",0
+652,"Pihlap, Hans",0
+653,"Piiber, Jaan",0
+654,"Piilberg, Johannes",0
+655,"Piir, Villem",0
+656,Piirikivi,0
+657,"Pikkat, Johann",0
+658,"Piller, Vidrik",0
+659,"Pint (Pind), Jaan",0
+660,"Pitka, Peäro August (Ansomardi)",0
+661,"Ploompuu, Aleksander",0
+662,"Ploompuu, Jakob",0
+663,"Plukk, Jacob",0
+664,"Pohla, A.",0
+665,"Polluks, J.",0
+666,"Pommer, Jaan",0
+667,"Ponamar, Jürg",0
+668,"Pool, Mihkel",0
+669,"Poolakess (Polakess), Joosep",0
+670,"Popp, Jakob",0
+671,"Prants, Hindrik (Heinrich)",0
+672,"Preisberg, Konrad Engelbrecht",0
+673,"Priima, M.",0
+674,"Primetz, Johannes",0
+675,"Prooses, Ivan (Joann)",0
+676,"Pruer, August",0
+677,"Pruuli, Jaan",0
+678,"Pulberg, Gustav",0
+679,"Pulst, Juhan",0
+680,"Pulst, Tõnis",0
+681,"Punisson, D.",0
+682,"Punnisk, Jaan (Võhandlane)",0
+683,"Punsel, Marie",0
+684,"Purge, Jaan",0
+685,"Purk, J.",0
+686,"Puurmann, Jüri",0
+687,"Puus, Gustav (Kustav)",0
+688,"Puusepp, Alex.",0
+689,"Põdder, K.",0
+690,"Põder, M.",0
+691,"Põld, Friedrich",0
+692,"Põldmäe, Jaan",0
+693,"Põldmäe, Kristjan",0
+694,"Põldsam, Jaan",0
+695,"Pähn, Jaan",0
+696,"Pährmann, L.",0
+697,"Pärn, J. (Lihula)",0
+698,"Pärn, Liisa",0
+699,"Pärnamägi, A.",0
+700,"Pärrmann, Jakob",0
+701,"Pärt, Wilhelm",0
+702,"Pärtelpoeg, Voldemar",0
+703,"Pöögelmann, Hans",0
+704,"Raag, Hans",0
+705,"Raag, M.",0
+706,"Raavel, Jaan",0
+707,"Radiks, G.",0
+708,"Raid, Anette",0
+709,"Raid, Hermann",0
+710,"Randmann, J.",0
+711,"Rapin, Richard",0
+712,"Rattur, Villem",0
+713,"Raud, Kristjan",0
+714,"Raudmann (Raudman), Jakob (Jacob)",0
+715,"Raukas, Joosep",0
+716,"Raukas, Wilhelm Friedrich",0
+717,"Raun, Mihkel",0
+718,"Raup, Gustav",0
+719,"Ravel, Leena",0
+720,"Rebane (Rebbane), Jaan",0
+721,"Rebane, Hans",0
+722,"Rebane, Rits",1
+723,"Rebbane, P.",0
+724,"Redlich, A.",0
+725,"Redlich, Hindrik",0
+726,"Reevits, Jaak",0
+727,"Rehberg (Reepärg), Julius Aleksander",0
+728,"Rehberg (Reepärg), Julius Aleksanderi õde",0
+729,"Reier, Tõnis",0
+730,"Reikmann, Peeter",0
+731,"Reiman, Villem",0
+732,"Reiman, Villem",0
+733,"Reimann, Aadu (Aado)",0
+734,"Reimann, Johann (Johan)",0
+735,"Reimann, Madis",0
+736,"Reinbach, J.",0
+737,"Reinson, Jüri",0
+738,"Reinthal (Reintalu), Johannes",0
+739,"Reinthal, K. A.",0
+740,"Reise, Johannes (Johann)",0
+741,"Rekand, J.",0
+742,"Remmelg, Jüri",0
+743,"Rennit, Andres",0
+744,"Rennit, Ado",0
+745,"Rezold, J. R.",0
+746,"Riiet, Jaan",0
+747,"Riis, J.",0
+748,"Riis, Mihkel",0
+749,"Riomar, J.",0
+750,"Riomar, Tõnu",0
+751,"Riste, M. J.",0
+752,"Ristkok, M.",0
+753,"Rocht, J.",0
+754,"Rock, J.",0
+755,"Rohke, T.",0
+756,"Rood, Friedrich",0
+757,"Roosa, J.",0
+758,Roose,0
+759,"Roose (Rose), Peeter",0
+760,"Roosileht, Mihkel",0
+761,"Roosimann, J.",0
+762,"Roost, Christoph",0
+763,"Roost, K.",0
+764,"Roost, Karel Heinrich",0
+765,"Roost, Konrad (Conrad)",0
+766,"Roost, V.",0
+767,"Rooswaldt, Anna",0
+768,"Rooswaldt, Heinrich",0
+769,"Roots, Jaan",0
+770,"Rosenbach, August",0
+771,"Rosenfeldt, G.",0
+772,"Rosenstrauch, Karl Voldemar",0
+773,"Rosenthal, J.",0
+774,"Rosenwaldt, W. J.",0
+775,"Rosin, A.",0
+776,"Ruga (Rugga), Peeter",0
+777,"Ruhs (Ruus), Jaan",0
+778,"Rull, Aadu (Ado)",0
+779,"Rull, Andres",0
+780,"Rumberg, G.",0
+781,"Russi, Ferdinand",0
+782,"Russmann, Miina",0
+783,"Ruubel, Jas",0
+784,"Ruubel-Kõrnitse, Peeter",0
+785,"Ruudi, Eduard",0
+786,"Ruut, Karl",0
+787,"Ruutopõld, Jaan August",0
+788,"Räni, Jaan",0
+789,"Rätsepp, Hindrik",0
+790,"Rättsepp, Paul",0
+791,"Rütli, Joh. Oskar",0
+792,"Sk, A.",0
+793,"Saabas, Ernst Heinrich (Ernst Caligula, Ernst Ilmatar)",0
+794,"Saal, Andres",0
+795,"Saalist, Ado Konstantin",0
+796,"Saalist, Ado Konstantini isa",0
+797,"Saalist, Madis",0
+798,"Saalverk, Jaan",0
+799,"Saamuel, J.",0
+800,"Saar, Mihkel",0
+801,"Saar, Peeter",0
+802,"Saarva, Jüri",0
+803,"Saat, Hans",0
+804,"Sahl, Mart",0
+805,"Sakk, Johan",0
+806,"Saks, Eduard August Karl",0
+807,"Saks, Jakob",0
+808,"Saks, T.",0
+809,"Sakson, Kaarli (Karl)",0
+810,"Salström, Christian",0
+811,"Samberg, J. A.",0
+812,"Samm, Jaan",0
+813,"Samoson, Hendrik",0
+814,"Samoson, Johannes",0
+815,"Sandbank, Marie",0
+816,"Sander, Tõnu",0
+817,"Sandra, Jaan",0
+818,"Saretok, K.",0
+819,"Sarm, J.",0
+820,"Sauga, Jüri",0
+821,"Saul, Peeter (Peter)",0
+822,"Schantz (Schants), Otto (Saarsalu, Ott)",0
+823,"Schiffer, Georg",0
+824,"Schlemm, Mart",0
+825,Schmidt (superintendent),0
+826,"Schmidt, D.",0
+827,"Schmidt, Jüri",0
+828,"Schoberg, Karl",0
+829,"Schulbach, August",0
+830,"Schulzenberg (Sulsenberg), Hans",0
+831,"Schultz (Schults), Hans (Anton)",0
+832,"Schultz, Kaarel (Karl, Karp?)",0
+833,"Seen, Gustav",0
+834,"Seimann, Jaan",0
+835,"Sell, Daniel",0
+836,"Semm, Johann (Johan)",0
+837,"Sepp, Julie",0
+838,"Sepp, Mari",0
+839,"Sepp, Paul",0
+840,"Sepp, Sammul",0
+841,"Sibbul (Sibul), Johannes",0
+842,"Siedermann, Mart",0
+843,"Sihver, Jaan",0
+844,"Siim, A.",0
+845,"Siimer, Jaak",0
+846,"Siimus (Simos), Jakob",0
+847,"Siiun, A. J.",0
+848,"Siiun, O. J.",0
+849,"Sikk (Sick), Jaan",0
+850,"Sikk, Mihkel",0
+851,"Silbergleich, Juhan",0
+852,"Sild, Mihkel",0
+853,"Silde, Joosep",0
+854,"Sillaots, J.",0
+855,"Silts (Silz), R.",0
+856,"Sippelgas, J.",0
+857,"Sirel, Gustav",0
+858,"Sirul, Johann",0
+859,"Sitska, J.",0
+860,"Sitzka, Peeter",0
+861,"Soans, A. T.",0
+862,"Sokrates, Hans",0
+863,"Sommer, August",0
+864,"Sommer, Jakob Martin",0
+865,"Sommer, Samuel",0
+866,"Songi, S.",0
+867,"Songi, Voldemar",0
+868,"Soo, Georg (Jüri)",0
+869,"Soo, P.",0
+870,Soonsein,0
+871,"Soosar, Jaan",0
+872,"Soots, Jaan",0
+873,"Sootz, J.",0
+874,"Sorgus, P. J.",0
+875,"Sori, J.",0
+876,"Sorro, Johanes",0
+877,"Speek, L.",0
+878,"Speek, Peeter Aleksander",0
+879,"Sprohgis, Karl Richard",0
+880,"S-s, Joh.",0
+881,"Stamm, J.",0
+882,"Stein, Victor",0
+883,"Stiem, Aadu",0
+884,"Stiiberg, R. S.",0
+885,"Strömberg, Peeter",0
+886,"Sturm, August",0
+887,"Sturm, Jaan",0
+888,"Suidt, R.",0
+889,"Suits, Johan",0
+890,"Sulsenberg, Jaan",0
+891,"Suurkask, Anton",0
+892,"Suurkask, Kaarel (Karl)",0
+893,"Suurmann, J.",0
+894,"Sõggel, Jaak",0
+895,"Sõster, Johannes",0
+896,"Säde, T.",0
+897,"Söödur (Söödor), Jaan",0
+898,"Sööt, Christian",0
+899,"Sööt, Johann",0
+900,"Sööt, Karl Eduard",0
+901,"Sööt, Liina",0
+902,"Zupping, Johan",0
+903,"T...k, W. K.",0
+904,"Tallo, Peeter",0
+905,"Talo, S.",0
+906,"Talts, Peeter",0
+907,"Tamjärv, Adele",0
+908,"Tamm, Jaak",0
+909,"Tamm, Jaan (Põlva khk.-st)",0
+910,"Tamm, Joosep",0
+911,"Tamm, Mart",0
+912,"Tamm, P. J.",0
+913,"Tammann, Jüri (Häädemeeste, Saarde)",0
+914,"Tammann, Jüri (Vändra)",0
+915,"Tammemägi, Jaan",0
+916,"Tannenthal, Jakob",0
+917,"Taras, Karl",0
+918,"Tarkpea, Karl",0
+919,"Tasane, M.",0
+920,"Tattar, August",0
+921,"Tauk, Hans",0
+922,"Teckel, P.",0
+923,"Tedder, J.",0
+924,"Teder, Jakob",0
+925,"Teinmann, Joh.",0
+926,"Telga, Juhan",0
+927,"Tennemann, J.",0
+928,"Tennemann, Johan",0
+929,"Tenson, Leopold",0
+930,"Tenter, Gustav",0
+931,Teps,0
+932,"Tetsmann, Ernst",0
+933,"Tetsmann, M.",0
+934,"Tetsmann, Toomas",0
+935,"Thaar, A.",0
+936,"Thomson, Aleksander",0
+937,"Thomson, Jaagup",0
+938,"Tiidermann (Tiedermann), Heinrich",0
+939,"Tiidt (Tiit), Jüri",0
+940,"Tiidur, Aadu (Tidor, Ado)",0
+941,"Tiidur, Aadu (Tidor, Ado)",0
+942,"Tiidur, Märt",0
+943,"Tiitus, Johann",0
+944,"Tikerpuu, Gustav",0
+945,"Tilk, Hendrek",0
+946,"Tilk, Jaan",0
+947,"Tilk, Jüri (Virola, Yrjö)",0
+948,"Tilk, M.",0
+949,"Tilk, Mihkel",0
+950,"Tilk, Tõnis",0
+951,"Tilling, K.",0
+952,"Timotheus, Dietrich",0
+953,"Tinn, Jaak",0
+954,"Tint, Jaan",0
+955,"Tiss, J.",0
+956,"Tobber, A.",0
+957,"Tober, Kaspar",0
+958,"Tobre, Joosep",0
+959,"Tohv, Mart",0
+960,"Tombach, A.",0
+961,"Tomberg, Ed.",0
+962,"Tomberg, J.",0
+963,"Tomp, Matt",0
+964,"Toomingas, Jaan",0
+965,"Tootsi, Jaan",0
+966,"Torim, Elise",0
+967,"Torpan, Daavet",0
+968,"Toss, Jaak",0
+969,"Treifeldt, Heinrich Julius",0
+970,"Treijal, Friedrich",0
+971,"Treu, Hilda",0
+972,"Treuberg, Marie",0
+973,"Treumann, A.",0
+974,"Treumann, Gustav Johannes",0
+975,"Treumann, Jaan",0
+976,"Troon, P.",0
+977,"Trull, Johann",0
+978,"Truusmann (Trusmann), Jüri",0
+979,"Truusmann, Jaan",0
+980,"Truuv, V.",0
+981,"Tubin, J.",0
+982,"Tults, Christian",0
+983,"Tults (Tultz), Michail",0
+984,"Tults, Michail",0
+985,"Tunkelo, E. A.",0
+986,"Tutar, Hendrik (Hindrek)",0
+987,"Tuul, Johan",0
+988,"Tõll (Töll), A.",0
+989,"Tõllasson, J. (""Feldfebel"")",0
+990,"Tõnnisson, Jaan",0
+991,"Tõnnisson, Sohvie",0
+992,"Tõnorist, August",0
+993,"Tõrvand, Hans",0
+994,"Täht, Jüri",0
+995,"Tärn, A.",0
+996,"Törne, Gottfried",0
+997,"Tüklov, Jaan (Tartlane)",0
+998,"Türk, E.",0
+999,"Türk, Juhannes",0
+1000,"Türk, K.",0
+1001,"Türk, T.",0
+1002,"Türner, J.",0
+1003,"Umblia, Joh.",0
+1004,"Umming, Elviine",0
+1005,"Umming, Marie",0
+1006,"Undritz, E.",0
+1007,"Undritz, Johannes",0
+1008,"Undritz, Paul",0
+1009,"Undritz, Paul C.",0
+1010,"Undritz, Thomas",0
+1011,"Unger, Ingel",0
+1012,"Ungerson, Jaak",0
+1013,"Unternupp, Jaagup",0
+1014,"Urb, Hann",0
+1015,"Usin, Hindrik",0
+1016,"Ustallo, Jüri",0
+1017,"Utsal, Hans",0
+1018,"Uudeberg, Robert",0
+1019,"Uuehendrik, Andrus",0
+1020,"Uuehendrik, M.",0
+1021,"Uuk, Hindrik (Heinrich)",0
+1022,"Uuk, Karl Robert",0
+1023,"Uus, Emilie",0
+1024,"Uus, H.",0
+1025,"Uus, Mart",0
+1026,"Uusmaa, P.",0
+1027,"Uussaar, J.",0
+1028,"Uussaar, P.",0
+1029,"Uustalo, J.",0
+1030,"Uustalu, Toomas (Thomas)",0
+1031,V. K.,0
+1032,V. T. (Saaremaa),0
+1033,"Vaabel (Vabel), Hans",0
+1034,"Vaas, Aleksander Eduard",0
+1035,"Vabian, Johannes",0
+1036,"Wachholder, Martin",0
+1037,"Vaher, Villem",0
+1038,"Vahtrik, Alfred",0
+1039,"Vahtrik, Ed.",0
+1040,"Vaine, Joh.",0
+1041,"Waldt, J.",0
+1042,"Valk, Jaan",0
+1043,"Valk, Jakob",0
+1044,"Valkmann, K.",0
+1045,"Valter, Abel",0
+1046,"Valtin, Aleksander",0
+1047,"Vanakesa (Linnasaar), Mihkel",0
+1048,"Vannik, T.",0
+1049,"Vardja, Arnold",0
+1050,"Varik (Varrik), Jüri",0
+1051,"Vassus, Märt",0
+1052,"Vehm, K.",0
+1053,"Veidermann, Jaan",0
+1054,"Veijker, Jakop",0
+1055,"Weizenberg, Juhan",0
+1056,"Weltmann, Jakob",0
+1057,"Veri, J.",0
+1058,"Verliin, J.",0
+1059,"Veske, Karl",0
+1060,"Veske, Mihkel",0
+1061,"Veski, Gustav",0
+1062,"Wiedemann (Võimula), Tõnu",0
+1063,"Viedorf, M.",0
+1064,"Viera, Hans",0
+1065,"Vihvelin, L.",0
+1066,"Viira, Jaan",0
+1067,"Viira, Johan",0
+1068,"Viitmann, Villem",0
+1069,"Wilder, Hans",0
+1070,"Vilipus, Leena",0
+1071,"Viljak, J.",0
+1072,Willmansen,0
+1073,"Vilop, P.",0
+1074,"Vinter, J.",0
+1075,"Viron, J.",0
+1076,"Visse, Juhan (Joh.)",0
+1077,"Vitismann, Jüri Joh.",0
+1078,"Volde, Johann",0
+1079,"Volmerson, Gustav",0
+1080,"Volmerson, Jaan",0
+1081,"Vompson, J.",0
+1082,"Vuks, Aleksander",0
+1083,"Vuks, Jaan",0
+1084,"Väggi (Vägi), Johan (Johann)",0
+1085,"Väiso, Peeter",0
+1086,"Välli (Välly), J.",0
+1087,"Wöhrmann, Ida",0
+1088,"Wöhrmann, Karl",0
+1089,"Õiglas, Carl",0
+1090,"Õis (Wulff), Gustav",0
+1091,"Õunapuu, Eduard Johannes",0
+1092,"Õuner, Hans",0
+1093,"Õunmann, Jacob",0
+1094,"Öövel, J.",0
+1095,Ülempaalalane,0
+1096,"Üsler, A.",0
+1097,X. X. (neiu),0
+1098,P. Jotr,0
+1099,"Dreiman, Mart",0
+1100,"Talvik, Frieda",0
+1101,"Sibul, August",0
+1102,"Kiudosk, Viido",0
+1103,"Pillesson, Karl (Carl)",0
+1104,"Palkov, Juuli",0
+1105,"Aavik, Juhan (Johann)",0
+1106,"Saar, Mart",0
+1107,"Penna, Peeter",0
+1108,"Topmann, August",0
+1109,"Hermann (Härma), Miina",0
+1110,J. A.,0
+1111,"Jürvetson, J.",0
+1112,"Kuhlbars, Friedrich Karl Johann",1
+1113,"Süda, Peeter",0
+1114,"Mamberg, Joh.",1
+1115,"Usin, Hindrik",1
+1116,"Kurg, Peeter",0
+1117,Bruus (hr Bruus),0
+1118,"Sakkeus (Sakeus), J.",0
+1119,"Reisik, Peter (Peeter)",0
+1120,"Simm, Juhan",0
+1121,"Sakkeus, A.",0
+1122,"Lember, K. (Karl?)",0
+1123,"Välbe, Jüri",0
+1124,"Sulg, Hans",0
+1125,"Grenzstein, Ado",0
+1126,"Kiiss, August",0
+1127,"Sossi, Jaan",0
+1128,"Mõttus, Alfred",0
+1129,"Lõvi, Oskar",0
+1130,"Lauri, Johannes",0
+1131,"Lalli, Oskar",0
+1132,"Sildnik, August",0
+1133,"Kreek, Cyrillus",0
+1134,"Väisänen, Armas Otto",0
+1135,Kromel (üliõpilane),0
+1136,"Eisenschmidt, Edgar",0
+1137,"Liiv, August",0
+1138,"Raja, Johannes",0
+1139,"Juhanson, E.",0
+1140,"Martin, Artur",0
+1141,"Tatz (Avarsoo), Peeter",0
+1142,"Raudkats, Anna",0
+1143,"Nirk, Alfred",0
+1144,"Tamm, Rudolf",0
+1145,"Rebassov (Rebassoo), Aleksander",0
+1146,"Penna, Peeter",1
+1147,"Muda (Helila), Johannes",0
+1148,"Wahlberg, Aleksander",0
+1149,"Bormeister, Mart",0
+1150,"Vilberg (Vilbaste), Gustav",0
+1151,"Siimer, Hans",0
+1152,"Lauri, Gustav",0
+1153,"Kalkun (Kaljuvee), Julius Osvald Jean ",0
+1154,"Ilus, Juhan (Johann)",0
+1155,"Andresson, J.",0
+1156,"Hendrikmann, H.",0
+1157,"Juhanson, J.",0
+1158,"Luud, Karl",0
+1159,"Kurg, Voldemar",0
+1160,"Depmann (Depman), Eduard Johannes",0
+1161,"Käär, H. (EÜS)",0
+1162,"Kask, J.",1
+1163,"Käär, J.",0
+1164,"Lepik, J. (Paistu)",0
+1165,"Vitsut, G.",0
+1166,"Paulmeister, Friedrich",0
+1167,"Paulmeister, Alvine",0
+1168,"Kunder, F.",0
+1169,"Lepp, Heinrich",0
+1170,"Mikkor, J.",0
+1171,"Müür, Jaan",0
+1172,"Treesen, Ed.",0
+1173,"Oidermann, J.",1
+1174,"Reinmann, C.",0
+1175,"Sein, Aleksander",0
+1176,"Erlemann, J.",0
+1177,"Pint (Pind), Jaan",1
+1178,"Pajur, J.",1
+1179,"Mamberg, Joh.",0
+1180,"Orgusaar, Jüri",1
+1181,"Pärn, J. (Torma)",0
+1182,"Jung, Arthur",1
+1183,"Parktal, Joosep",0
+1184,"Jaanus, J.",0
+1185,"Schmidt, J.",0
+1186,"Söödor, Jaan",1
+1187,"Press, J.",0
+1188,"Rahamägi, Johannes Adolph",0
+1189,"Sarv, Peeter",0
+1190,"Aaron, J.",0
+1191,"Vätson, J.",0
+1192,"Tiedt, Jüri",0
+1193,"Laurent, Jakob",0
+1194,"Martinson, Karl (Kaarel)",0
+1195,"Muda, Julius",0
+1196,"Rebane, Jaan (Paistu)",0
+1197,"Kõpp, Joh.",0
+1198,"Raudsepp, Joh.",0
+1199,"Port, Jaan",0
+1200,"Paukson, Juhan",0
+1201,"Viljak, Karl",0
+1202,"Ärtis, C. W.",0
+1203,"Sulg, Hans",1
+1204,"Köster, Oskar",0
+1205,"Sollmann, Julius",0
+1206,"Kärt, Marie",0
+1207,"Kärt, Johannes (Jaak Karis)",0
+1208,"Quarnström, Voldemar",0
+1209,"Väljaots, Rosalie",0
+1210,"Bormeister, Mart",1
+1211,"Kõrts, M. (Laiuse)",1
+1212,"Liiv, Oskar",0
+1213,"Pehka, Mihkel",0
+1214,"Mihkelson, Mihkel",0
+1215,"Reimann, M.",1
+1216,"Siipsen, Märt",0
+1217,"Mark, Julius",0
+1218,"Käärd, Kusta",0
+1219,"Grünthal (Ridala), Villem",0
+1220,"Saarm, J.",0
+1221,"Hermann, Karl August",0
+1222,"Lüll, Jüri",0
+1223,"Illus, P.",0
+1224,"Saarm, J.",1
+1225,"Leppik, T.",0
+1226,"Kõhelik, Ruuben",0
+1227,"Siiak, Oskar",0
+1228,"Einer, Helmi",0
+1229,"Treumann, Juh.",0
+1230,"Tulmin, Martin Ferdinand",0
+1231,"Kompus, J.",0
+1232,"Kuriks, O.",0
+1233,"Silbermann, Hans",0
+1234,"Vilmansen, Richard",0
+1235,"Kingu, August",0
+1236,"Kalbek, Robert",0
+1237,"Reiman, Villem (1861-1917)",1
+1238,"Leppik, Tõnis",0
+1239,"Ingermann, A.",0
+1240,"Schmiedehelm, Ed. (kooliõpetaja)",0
+1241,"Viidakas, Eduard",0
+1242,"Kurg, Linda",0
+1243,"Landt, Viktor",0
+1244,"Lemendik, Helmi",0
+1245,"Lambot, Salme",0
+1246,"Org, Ruudolf Jorh Nikolai",0
+1247,"Raudkell, August",0
+1248,"Rootslane, Jaan",0
+1249,A. E.,0
+1250,"Eisen, A.",0
+1251,"Hanson, A. J.",0
+1252,"Feldbach, Aleksander",0
+1253,"Kangur, Julius August",0
+1254,"Karu, A.",0
+1255,"Koger, August",0
+1256,"Kuldsaar, Andrei",0
+1257,"Landsmann (Lantsmann), Aleksander",0
+1258,"Landsmann (Lantsmann), Johan",0
+1259,"Leppik, A. (kooliõpet.)",0
+1260,"Martinson, Anton",0
+1261,"Anderson, August",0
+1262,"Meos, Adu",0
+1263,"Pruhl (Pruul), Danel (Tanel)",0
+1264,"Anni (Annist), August",0
+1265,"Feldbach, Friedrich",0
+1266,"Kaasik, Gustav Eduard",0
+1267,"Sööt, Bernhard",0
+1268,"Sander (Sandra), Gustav",0
+1269,"Klaas, Aleksander",0
+1270,"Kõrv, Dimitri",0
+1271,"Kask, Aleksander",0
+1272,"Kõrv, August Voldemar",0
+1273,"Mitt, Aleksander",0
+1274,"Müllerson, Andres",0
+1275,"Päss, Elmar Daniel",0
+1276,"Maaten, Hans",0
+1277,"Voolaine (Pedmanson), Paul Friedrich (Paulopriit)",0
+1278,"Reinfeldt, Amilde",0
+1279,"Lindwest, G.",0
+1280,"Jürjev (Kallus), Gustav Johann",0
+1281,"Peterson, Helene",0
+1282,"Kasvandik, Hildegard",1
+1283,"Kasvandik, Hildegard",0
+1284,"Dania, Jakob",1
+1285,"Johanson, Anna",0
+1286,"Soodla, Eliisabet",0
+1287,"Riisberg, Alma",0
+1288,"Neublau, Joosep",0
+1289,"Vahe, Friedrich Wilhelm",0
+1290,"Rookmann, Elsa",0
+1291,"Labi, Elisabeth",1
+1292,"Dolf, E.",0
+1293,"Mann, Alma",0
+1294,"Hint, Kadri",0
+1295,"Hintzenberg, Otto",0
+1296,"Loorits, Oskar",0
+1297,"Parmasson, Oskar",0
+1298,"Saabas (Sapas), Otto",0
+1299,"Hio, Johannes (Juhannes)",0
+1300,"Pihlap, J.",0
+1301,"Eller, Helmi",1
+1302,"Randfeldt, Elfriede",0
+1303,"Ermann, Johannes",0
+1304,"Leegen, Oskar",0
+1305,"Tedder, Julie",0
+1306,Tidemann,0
+1307,Tomp,0
+1308,"Paurman, Daniel",0
+1309,"Kalkun, Vilhelmine",0
+1310,"Perli, T.",0
+1311,"Mõrd, Märt",0
+1312,"Morritson (Morrison), Martin",0
+1313,"Mikiver, Jakob",0
+1314,"Meil, Paul Arthur",0
+1315,"Martinson, Justin",0
+1316,"Martinson, Julius",0
+1317,"Martin, Hans",0
+1318,"Lätt, Kusta",0
+1319,"Link, M.",0
+1320,"Lindpere, Oskar",0
+1321,"Lilhein, Salomon",0
+1322,"Leppik (Leppik-Punabu), Jaan",0
+1323,"Leitu, Jaan",0
+1324,"Lao, Voldemar (Vladimir)",0
+1325,"Kuusk, J.",0
+1326,"Kurgvel, Ksenia",0
+1327,"Korp, Hilda",0
+1328,"Koord, J.",0
+1329,"Keerd, Samuel",1
+1330,"Kaur, J.",0
+1331,"Karu, Jaan",0
+1332,"Karro (Karu), Hans",1
+1333,"Karell, Hermann",0
+1334,"Kanger, P.",0
+1335,"Kampmann, Mary",0
+1336,"Jürgens, Adele",0
+1337,"Juhkam, J.",0
+1338,"Jakobson, M.",0
+1339,"Hinderov, J.",0
+1340,"Punab, A.",0
+1341,"Haliste, H.",0
+1342,"Gärtner, Alfred",0
+1343,"Franzdorf, Tõnu",0
+1344,"Erwart, Willem",0
+1345,"Eisen, Matthias Johann",0
+1346,"Dania, Jakob",0
+1347,"Avikson, Jaan",0
+1348,"Reissar, M.",0
+1349,"Reitwelt, M.",0
+1350,"Täht, Jaan",0
+1351,"Utt, H.",0
+1352,"Väli, Hans",0
+1353,"Nigols, Hella",0
+1354,"Gross, Hendrik",0
+1355,"Klein, Hermann",0
+1356,"Osman, Hilda",0
+1357,"Brindfeldt, Hugo",0
+1358,"Loosberg, Jüri",1
+1359,"Allmann, J.",0
+1360,"Ekemann, J.",0
+1361,"Kuisk, J.",0
+1362,"Kurgan (Saalverk), J.",0
+1363,"Reinwald, J.",0
+1364,"Pitsahl, Jüri",0
+1365,"Reitvelt, J.",0
+1366,"Seland, J.",0
+1367,"Mädasson, Jaak",0
+1368,"Täht, Jaak",0
+1369,"Laan, Jaan",0
+1370,"Martinson, Jaan",0
+1371,"Viires, Jaan",0
+1372,"Tarum, Jakob",0
+1373,"Schneider, Joh.",0
+1374,"Sein, Joh.",0
+1375,"Lepp, Johan",0
+1376,"Nurmberg, Juhan",0
+1377,"Isak, Johann",0
+1378,"Lepa, Johann",0
+1379,"Pinder, Juula",0
+1380,"Kuusmann, Jüri",0
+1381,"Loosberg, Jüri",0
+1382,"Kotsar, K.",0
+1383,"Mölder, K.",0
+1384,"Sahlström, K.",0
+1385,"Kullama (Kullamaa), Karl",0
+1386,"Mägi, Karl",0
+1387,"Reitav, Karl",0
+1388,"Tiller, Karroline",0
+1389,"Roots, Klaara",0
+1390,"Kontus, A.",0
+1391,"Jaakson, L.",0
+1392,"Kettunen, Lauri",0
+1393,"Kriisk, M. A.",0
+1394,"Esken, M.",0
+1395,"Kuiv, M.",0
+1396,"Martin, M.",0
+1397,"Saul, M.",0
+1398,"Kalep, Mart",0
+1399,"Sakson, Marta",0
+1400,"Laidoner, Meeta",0
+1401,"Karlson, Salme",0
+1402,"Kruus, August",0
+1403,"Janno, Richard",0
+1404,"Kivisild, P.",0
+1405,"Leinemann, P.",0
+1406,"Sild, Mihkel",1
+1407,"Alberg, August",0
+1408,"Hieler, Juuli",0
+1409,"Santluk, Alide",0
+1410,"Parts, A.",0
+1411,"Orras, Chr.",1
+1412,"Roosipuu, D. F.",0
+1413,"Veski, Johannes Voldemar",0
+1414,"Viismann, G.",0
+1415,"Nigul (Niggol), Hermann",1
+1416,"Karukohv, Jaan",0
+1417,"Anso, Jaan",0
+1418,"Niinas, Johannes",1
+1419,"Odenberg, Madis",1
+1420,"Oidermann, J.",0
+1421,"Oija, Joh.",0
+1422,"Peeters (Peters), Friidu (Friedrich)",1
+1423,"Ariste (Berg), Paul",0
+1424,"Schlossmann, Ilse",0
+1425,"Maasi, Gustav",0
+1426,"Annuk, G.",0
+1427,"Lepner, G.",0
+1428,"Sandberg, Gustav",0
+1429,"Möllits, Gustav",0
+1430,"Born, H.",0
+1431,"Enrico, H. M.",0
+1432,"Prost, H.",0
+1433,"Tohvelmann, H.",0
+1434,"Kebbu, E.",0
+1435,"Weltbach, Eduard",0
+1436,"Tõnisson, E.",0
+1437,"Vajakas, Eduard",0
+1438,"Virkhaus, Elfriede",0
+1439,"Masso, Eliise",0
+1440,"Kalja, Ella",0
+1441,"Müller, Emilie",0
+1442,"Torm, Erika",0
+1443,"Sõõrd, Aino",0
+1444,"Leesik, Felix",0
+1445,"Reijal, Fr.",0
+1446,"Kurfeldt, A.",0
+1447,"Kreekmann, Liisa",0
+1448,"Sermudis, Mihkel",0
+1449,"Sinka, Karl August",0
+1450,"Johanson, Jakob",0
+1451,"Pill, Johan",0
+1452,"Sander, Marie",0
+1453,"Sims, Jaan",0
+1454,"Palm, Martin",0
+1455,"Sams, Jaan",0
+1456,"Põder, Heinrich",0
+1457,"Paltser, Juhan",0
+1458,"Ramberg, Peeter",0
+1459,"Väli (Väly), Mihkel",0
+1460,"Remmelg, Tiiu",0
+1461,"Niemann, Reinhold",0
+1462,"Liiv, Otto (Otu)",0
+1463,"Paulmeister, J.",0
+1464,"Soodla, Johan",0
+1465,"Rekkaro, Martin",0
+1466,"Leegen, Friedrich",0
+1467,"Taal, A.",0
+1468,"Aija, Mart",0
+1469,"Salme, J.",0
+1470,"Kirs, E.",0
+1471,"Kukrus, Johann (Juhan)",0
+1472,"Pallas, Mihkel",0
+1473,"Rattas, Juhan",0
+1474,"Sirdnak, Johannes",0
+1475,"Lilienbach (Lilleoja), Juhan",0
+1476,kie,1
+1477,"Mooser, S.",0
+1478,"Ploompuu, J.",1
+1479,"Leithammel, R.",0
+1480,"Valts (Walts), Friedrich",0
+1481,"Pahlberg, Hindrek",0
+1482,"Ostra, Karel",0
+1483,"Laarmann (Laarman), Jaak",1
+1484,"Rühka, Adolf",0
+1485,"Tõnisson, Mats",0
+1486,"Teearu, J. E.",0
+1487,"Reissar, Hans",0
+1488,"Turp, Johan",0
+1489,"Lüll, J.",0
+1490,"Kuusik, J.",0
+1491,"Redlich, J.",0
+1492,"Puusepp, J.",0
+1493,"Pihlak, Jaak",0
+1494,"Stümper, Hilda",0
+1495,"Jaanson, H.",0
+1496,"Seemann, Anton",0
+1497,"Kuningas, Andres",0
+1498,"Purk, Liis(a)",0
+1499,"Riimann, H.",0
+1500,"Voimann, A.",0
+1501,"Pulst, Jaan Johann",0
+1502,J. P.,0
+1503,"Tiitsmann (Tiitsmaa), Aleksander Arnold",0
+1504,"Wilberg, M.",1
+1505,Ahas,0
+1506,"Vardja, Eduard",0
+1507,"Feldmann, August",0
+1508,"Retter, Johannes",0
+1509,"Vilberg, M.",0
+1510,"Gentalen, J. M.",0
+1511,"Põdar, Mart",0
+1512,"Nei, J.",0
+1513,"Mihkelson, Helmi",0
+1514,"Laurson, H.",0
+1515,"Supp, Juhan",0
+1516,"Lõuke, J.",0
+1517,"Sepp, H.",0
+1518,"Lensin, Peeter",0
+1519,"Karelson, J.",0
+1520,"Tihkan, J.",0
+1521,"Saareke, J.",0
+1522,Jenny P.,0
+1523,"Reimann, Peeter",0
+1524,"Peterson, Johan",1
+1525,"Kordes, N.",0
+1526,"Lipsberg, Rosalie",0
+1527,"Strandberg, Marta",0
+1528,"Kikas, Oleg",0
+1529,"Lõhmus, Salme",0
+1530,"Jõgi, Helene",0
+1531,"Pärt (abielus Kaal), Linda",0
+1532,"Schmidt, Hans",0
+1533,"Schoppe, L.",0
+1534,"Schoppe, L.",1
+1535,"Kruus, Albert",0
+1536,"Grünberg, Ev.",0
+1537,"Soosaar, Selma",1
+1538,"Soosaar, Salme",0
+1539,"Treumut, Nikolai",0
+1540,"Veismann, K.",0
+1541,"Raud, A.",0
+1542,"Rattus, Paul",0
+1543,"Tork, Marie",0
+1544,"Torn, Hermann",0
+1545,"Erm, Voldemar",0
+1546,"Goldberg, Johannes",0
+1547,"Johanson, Anna",1
+1548,"Blum, M.",1
+1549,"Tooban, L.",0
+1550,"Nordmann, Aleksander",0
+1551,"Siilivask, K.",0
+1552,"Unter, Eugen",0
+1553,"Saar, M.",0
+1554,"Jakobson, H.",0
+1555,"Kruusmann, J.",0
+1556,"Sengbusch, M.",0
+1557,"Palm, August",0
+1558,"Noor, Selma",0
+1559,"Sandbank, Helmi",0
+1560,"Paigaline, Lonny",0
+1561,"Müürsepp, Paul",0
+1562,"Mihhels, Karl",0
+1563,"Puurman, O.",0
+1564,"Ränk, Gustav",0
+1565,"Kurrik, Ilse",0
+1566,"Blum, Marta",1
+1567,"Viilup, A.",0
+1568,"Kuuse, Selma",0
+1569,"Gutmann, J.",0
+1570,"Puusepp, K.",0
+1571,"Kelt, August",0
+1572,"Gläser, Andreas",0
+1573,"Balder, Linda",0
+1574,Potsepp. Erna,0
+1575,"Viidalepp (Viidebaum), Richard",1
+1576,"Särev, Hilda",0
+1577,"Mauer, J.",0
+1578,"Kleits, Anna",0
+1579,"Klauren, V.",0
+1580,"Mägiste, Julius",0
+1581,"Nielender, August",0
+1582,"Kase, Elsa",0
+1583,"Tomp, K.",1
+1584,"Teder, Veera",0
+1585,"Margraf, Armide",0
+1586,"Kinger, E.",0
+1587,"Mäetamm, Alb.",0
+1588,"Pohka, Marta",0
+1589,"Õunap, A.",0
+1590,"Vahkal, A.",0
+1591,"Pettai, Ferdinand",0
+1592,"Lentso, Linda",0
+1593,"Lantso, Linda",0
+1594,"Lauk, Marie",0
+1595,"Laugaste (Treu), Eduard",0
+1596,"Vahi, Bernhard",0
+1597,Maalberg,0
+1598,"Rässa, Salme",0
+1599,"Lellep, Ally",0
+1600,"Johannson, H.",0
+1601,"Lille, Woldemar",0
+1602,"Tiganik, J.",0
+1603,"Karlson, Lydia",0
+1604,"Kaus, Gerta",0
+1605,"Kaljo, Theodor",0
+1606,"Kaup, Emilie",0
+1607,"Raudsepp, Jakob",0
+1608,"Jaska, Elli",0
+1609,"Jürgens, Eerika",0
+1610,"Kasikov, Maria",0
+1611,"Priidemann, M.",0
+1612,"Martinson, Konstantin",1
+1613,"Õunapuu, A.",0
+1614,"Kuusik, A. (August?)",0
+1615,"Metslang, K.",0
+1616,"Postav, E.",0
+1617,"Kokka, M.",0
+1618,"Berg, Liisa",0
+1619,pr. Kriiner,1
+1620,"Kriiner, pr.",0
+1621,"Reinberg, A.",0
+1622,"Tirol, A.",1
+1623,"Depman, L.",0
+1624,"Tigasik, J.",1
+1625,"Kibbermann, Elisabet",0
+1626,"Kõrge, Adele",0
+1627,"Horn, Berta",0
+1628,Maimik,0
+1629,"Tensing, Anneliese",0
+1630,"Naelapea, Alice",0
+1631,"Jürgen, A.",0
+1632,"Dreverk, Tamara",0
+1633,"Lillimägi, Käthe",0
+1634,"Hammermann, Linda",0
+1635,"Kase, Eduard",0
+1636,"Anderson, Emilie",0
+1637,"Põder, Anita",0
+1638,"Meiusi, Meinhard",0
+1639,"Andresson, Margarete",0
+1640,"Kents, Leo",0
+1641,"Kalmet, Aleksander",0
+1642,"Sepp, Erika",0
+1643,"Kangilaski, Jaan",0
+1644,"Tamm, A.",1
+1645,"Seppik, Henrik",0
+1646,"Antsi, Aug.",0
+1647,"Kõrtsmik, Valeria",0
+1648,"Mattin, E.",0
+1649,"Käosaar, Johannes",0
+1650,"Peips, Aug.",0
+1651,"Siitam, Naima",0
+1652,"Sullan, Karin",0
+1653,"Wedler, W.",0
+1654,"Martinson, M.",0
+1655,"Kuusik, L.",1
+1656,"Kuusik, Ludmila",0
+1657,Musto,0
+1658,"Masing, Frieda",0
+1659,"Siilbaum, E.",0
+1660,"Toom, Harriet-Ellen",0
+1661,"Birnbaum, Laine",0
+1662,"Veske (Sander), Salme",0
+1663,"Uibopuu (Lipp), Linda",0
+1664,"Reinman, A.",0
+1665,"Aavik (Kleemann), Aleksandra ",0
+1666,"Kirsipuu (Uiga), Anna",0
+1667,"Pitsar (Rossmann, Roomees), Dagmar ",0
+1668,"Pfeiffer, Alice",0
+1669,"Serm, Ellen",0
+1670,"Aab (Jõemaa), Johanna ",0
+1671,"Poolakene, Lilly",0
+1672,"Martin, Aino",0
+1673,"Käsper, Alice",0
+1674,"Rõigas, E.",0
+1675,"Goldschmidt, Elmar",0
+1676,"Rähn, Veera",0
+1677,"Tombach, Vera",0
+1678,"Palvadre, Viimi",0
+1679,"Matiisen, Helmi",0
+1680,"Schvan, Alfred",0
+1681,"Gering, L.",1
+1682,"Gering, Leida",0
+1683,"Pikner, Rudolf",0
+1684,"Juht, Karl",0
+1685,"Kivi, Herbert",0
+1686,"Almers, Endel",0
+1687,"Matson, Edgar",0
+1688,"Rebane, Jüri",0
+1689,"Tusar, Agnes",0
+1690,"Klein, Paul",0
+1691,"Uustalu, Leida",0
+1692,"Tillemann, Erna",0
+1693,"Meier, E.",0
+1694,"Reemann, Leopold",0
+1695,"Springberg, Erika",0
+1696,"Reeder, Mihkel",0
+1697,"Õunapuu, Herbert",0
+1698,"Diesfeldt, Endel",1
+1699,"Kerber, Felix",0
+1700,"Klaas, Eduard",0
+1701,"Kornis, L.",0
+1702,Anderson,0
+1703,"Baumann, Ervin",0
+1704,"Prikmann, A.",0
+1705,"Raaman, Andrei",0
+1706,"Elme, O.",0
+1707,"Taev, Karl",0
+1708,"Ilvik, Ivan",0
+1709,"Kalbus, H.",1
+1710,"Nõgene, G.",0
+1711,"Kalbus, Heinz",0
+1712,"Põhi, Anna",0
+1713,"Okas, Adelheid",0
+1714,"Leesment, H.",0
+1715,"Palmeos, P.",1
+1716,"Palmeos, Paula",0
+1717,"Tomberg, Maimu",0
+1718,"Terts, H.",0
+1719,"Kimmel, A.",0
+1720,"Tubin, Aino",0
+1721,"Tikk, Eduard",0
+1722,"Busch, Iida",0
+1723,"Tomingas, Karin",0
+1724,"Viilup, Salme",0
+1725,"Aamisepp, Salme",0
+1726,"Sepp, Valter",0
+1727,"Tamberg, Anete",0
+1728,"Miks, A.",0
+1729,"Peterson, Lydia",0
+1730,"Klaas, Elise",0
+1731,"Ennik, Maria",0
+1732,"Pirs, H.",0
+1733,"Kukk, Anastasia",0
+1734,"Andresson, Alice",0
+1735,"Uustalu, Jaan",0
+1736,"Miglai, Heinrich",0
+1737,"Frisch, A.",0
+1738,"Klaas, Anete",0
+1739,"Mirk, A.",0
+1740,koguja teadmata,0
+1741,"Mittenbrit, A.",0
+1742,"Sillart, A.",0
+1743,"Krosing, Alice",0
+1744,"Saks, A.",0
+1745,"Põder, A.",0
+1746,"Põhja, A.",0
+1747,"Reisko, A.",1
+1748,"Lübek, Adele",0
+1749,"Silla, Voldemar",0
+1750,"Truuman, Leida",0
+1751,"Traut, Linda",0
+1752,"Feldmann, Paul",0
+1753,"Birk, Melanie",0
+1754,"Loit, A.",0
+1755,"Sibul, K.",0
+1756,"Räst, Evald",0
+1757,"Pralits, M.",0
+1758,"Pehk, Endel",0
+1759,"Põderson, E.",0
+1760,"Birkenthal, Lilli",0
+1761,"Pikkor, Jaan",0
+1762,"Kivi, Salme",0
+1763,"Eres, R.",0
+1764,"Tomson, Alfred",1
+1765,"Palla, Hilda",1
+1766,"Suurmägi, Elsa",0
+1767,"Paal, Elmar",0
+1768,"Saarmann, Maimo",0
+1769,"Karukapp, A.",0
+1770,"Kink, Jaan",0
+1771,"Kevend, V.",0
+1772,"Kiršbaum, L.",0
+1773,"Keres, P.",0
+1774,"Schmidt, Eduard",0
+1775,"Rebane, Johanna",0
+1776,"Rebane, G.",0
+1777,"Einstein, A.",0
+1778,"Teppo, H.",0
+1779,"Jürgens, A.",0
+1780,"Peterson, Anna",0
+1781,"Kamensky, H.",0
+1782,"Nõu, W.",0
+1783,"Jakobson, M.",1
+1784,"Jakobson, Maria",0
+1785,"Tera, H.",0
+1786,"Krikmann, M.",0
+1787,"Nõmmik, Elmar",0
+1788,"Ollino, Karl",0
+1789,"Läll, Selma",0
+1790,"Koik, Karl",0
+1791,"Antsov, Lonny",0
+1792,"Konsen, Koit",0
+1793,"Sulsenberg, Elmar",0
+1794,"Kukk, Erni",0
+1795,"Linnas, Luise",0
+1796,"Kruusamägi, Alfred",0
+1797,"Gustavson, Anny",0
+1798,"Vaatsepp, I.",0
+1799,"Polli, Adele",0
+1800,"Strauss, Artur",0
+1801,"Tepumees, A.",0
+1802,"Pihlau, Lilli",0
+1803,"Viidalepp (Viidebaum), Richard",0
+1804,"Tolpats, Arnold ",0
+1805,"Tiiberg, Elvine",0
+1806,"Maser, Louis",0
+1807,"Vasilevsky, Roosy",0
+1808,"Visnapuu, Sulev",0
+1809,"Aab (Jõemaa), Johanna ",1
+1810,Martenson,0
+1811,"Järlik, Tamara",0
+1812,"Laks, Helmi",0
+1813,"Palla, Hilda",0
+1814,"Matseu, Kalju",0
+1815,"Pantalon, Leo",0
+1816,"Pruul, A.",0
+1817,"Kõiv, Valter",0
+1818,"Perkmann, Elisabeth",0
+1819,"Rebane, Johanna",1
+1820,"Luik, Helmut",0
+1821,"Hänni, Hilda",0
+1822,"Michelson, Anastasia",0
+1823,"Rein, Ernestine",0
+1824,"Lepp, Hans",0
+1825,"Makstein, Miralda",0
+1826,"Soovik, Mihkel",0
+1827,"Tael, Hanion",0
+1828,"Metsaots, Juta",0
+1829,"Pais, H.",0
+1830,"Võsar, Ilse-Aleksandra",0
+1831,"Kõlvart, Artemi",0
+1832,"Tesnov, Boris",0
+1833,"Pais, Leo",0
+1834,"Seeman, J.",0
+1835,"Michelson, Aleks.",0
+1836,"Michelson, Joh.",0
+1837,"Sian, E.",0
+1838,"Lank, Ilmar",0
+1839,"Tohv, Er.",0
+1840,"Unt, Ervin",0
+1841,"Volmer, Harald",0
+1842,"Vodi, Martin",0
+1843,"Laussen, Karl",0
+1844,"Sikk, V.",0
+1845,"Puusepp, L.",0
+1846,"Diesfeldt, Endel",0
+1847,"Tuttar, Dagmar",0
+1848,"Tschernjavsky, O.",0
+1849,"Palberg, Ksenia",0
+1850,"Saar, Armilde",1
+1851,"Saar, Amilde",0
+1852,"Jalakas, V.",0
+1853,"Siimon, A.",0
+1854,"Lippert, Amalie",0
+1855,"Tuudak, M.",0
+1856,"Rosenplänter, Johann Heinrich ",0
+1857,"M., T.",0
+1858,"Selling, T.",1
+1859,"Viljak, H.",0
+1860,"Nessa, Alfentiina",1
+1861,"Nessa, Aleftiina",0
+1862,"Piir, Meeta",0
+1863,"Perman, H.",0
+1864,"Lossmann, Ilma",0
+1865,"Goldšmidt, Elmar",1
+1866,"Värv, Aino",0
+1867,"Ora, Aino",0
+1868,"Männikson, H.",0
+1869,"Sepka, Jaan",0
+1870,"Luks, Herman",0
+1871,"Kallit, Herman",0
+1872,"Tamm, Meta",0
+1873,"Altin, Anette",0
+1874,"Voll, Juhan",0
+1875,"Titma, Ilse",0
+1876,"Jürvetson, Juta",0
+1877,"Jaakson, Liina",0
+1878,"Kald, Elmar",0
+1879,"Illermann, Aleksander",0
+1880,"Saks, A.",1
+1881,"Dreving, A.",0
+1882,"Evert, A.",0
+1883,"Männikus, A.",0
+1884,"Tamberg, A.",0
+1885,"Ora, Aino",1
+1886,"Siitam, A.",0
+1887,"Krimp, Aade",0
+1888,"Mang, Aug.",0
+1889,"Promisen, Aleksander",0
+1890,"Iljin, M.",0
+1891,"Selling, Tamara",0
+1892,"Roots, Antoniina",0
+1893,"Viilas, Aliide",0
+1894,"Palmkron, Alice",0
+1895,"Kask, Alfred",0
+1896,"Varep, Ants",0
+1897,"Nahkur, Alfred",0
+1898,"Illermann, Aleksander",1
+1899,"Lein, A.",0
+1900,"Kask, E.",0
+1901,"Varep, E.",1
+1902,"Jänes, H.",0
+1903,"Reeman, Viktor",1
+1904,"Reeman, Victor",0
+1905,"Udam, Viktor",0
+1906,"Ziegel, Vilhelmine",0
+1907,"Nõu, Vladimir",0
+1908,"Mägi, Leida",0
+1909,"Kreideberg, Helmi",0
+1910,"Sõber, Arthur",0
+1911,"Ilves, Ervin",0
+1912,"Põltsam, E.",0
+1913,"Michelis, Arnold",0
+1914,"Lilienberg, Julie",0
+1915,"Frohman, Elmar",0
+1916,"Lemberg, Edgar",0
+1917,"Lübek, Adele",1
+1918,"Evrecht, Alla",0
+1919,"Matiisen, Helmi",1
+1920,"Mihelson (Linnolt), Erik",0
+1921,"Kreideberg, Helmi",1
+1922,"Varep, Endel",0
+1923,"Krikmann, Martin",0
+1924,"Erne, Arnold",0
+1925,"Kontson, Arnold",0
+1926,"Urbanik, A.",0
+1927,"Ester, Elmar",0
+1928,"Baumann, Ed.",0
+1929,"Saabas, E.",0
+1930,"Jaanson, V.",0
+1931,"Pärtelson, E.",0
+1932,"Kont, Elise",0
+1933,"Kroon, Emmi",0
+1934,"Ploomipuu, Armin",0
+1935,"Tõntson, Endel",0
+1936,"Uusen, Aino",0
+1937,"Toomberg, Albert",0
+1938,"Tõntson, Arnold",0
+1939,"Matson, Ergraf",0
+1940,"Glass (Astmäe), Erika ",0
+1941,"Suurmees, Erich",0
+1942,"Ojaver, B.",0
+1943,"Bull, Endel",0
+1944,"Sonnatar, Evald",0
+1945,"Lillak, V.",0
+1946,"Oinas, Felix",0
+1947,"Sikk, Felix",0
+1948,"Kivi, August",0
+1949,"Driedrichson, F.",0
+1950,"Amandus, H.",0
+1951,"Markin, G.",0
+1952,"Feldmann, F.",0
+1953,"Rosenberg, E.",0
+1954,"Lillemägi, H.",0
+1955,"Tuul, H.",0
+1956,"Kajak, F.",0
+1957,"Uustalu, Hilda",0
+1958,"Pärl, B.",0
+1959,"Kolnes, H.",0
+1960,"Juurikas, Arno",0
+1961,"Miller, Aleksander",0
+1962,"Pärtelpoeg, Loreida",0
+1963,"Arens, Ilmar",0
+1964,"Tomberg (Talvet), Maimu ",0
+1965,"Ein, Salme",0
+1966,"Tomson, Alfred",0
+1967,"Susi, Edgar",0
+1968,"Seiman, Lydia",0
+1969,"Kibbar, Hulda",0
+1970,"Mürk, Valter",0
+1971,"Uibo, Julius",0
+1972,"Tischler, Arkadi",0
+1973,"Vehterstein, Aino",0
+1974,"Freiberg, Aliide",0
+1975,"Freiberg, Aliide",1
+1976,"Lukk, Aino",0
+1977,"Jürgens, B.",0
+1978,"Piirisild, Ants",0
+1979,"Paoliin, Boris",0
+1980,"Paoliin, Boris",1
+1981,"Lomp, Aino",0
+1982,"Palu, Arnold",0
+1983,"Iisberg, August",0
+1984,"Nugis, Artur",0
+1985,"Rebane, August",0
+1986,"Zirnask, Aino",0
+1987,"Tekštröm, Boris",0
+1988,"Jaakson, Boris",0
+1989,"Jansen, Anton",0
+1990,"Tomingas, Carin",1
+1991,"Laur, August",0
+1992,"Grünfeldt, Endla",0
+1993,"Lammas, Alice",0
+1994,"Siliksaar, Eerik",0
+1995,"Ruus, Eugen",0
+1996,"Tiit, Arnold",0
+1997,"Leesment, Ants",0
+1998,"Linde, Peeter",0
+1999,"Luukas, Erna",0
+2000,"Toom, Elsa",0
+2001,"Nälk, Ernst",0
+2002,Coodvilmann,0
+2003,"Kast, Heinrich",0
+2004,"Kibar, Heinrich",0
+2005,"Reinhaus, J.",1
+2006,"Hansen, J.",0
+2007,"Kaer, J.",0
+2008,"Juurikson, J.",0
+2009,"Oinas, J.",0
+2010,"Siitan, Voldemar",0
+2011,"Tann, Voldemar",0
+2012,"Bachman, Paul",0
+2013,"Jalakas, Paul",0
+2014,"Kurgo, Robert",0
+2015,"Migur, Robert",0
+2016,"Tamm, P.",0
+2017,"Toom, Roman",0
+2018,"Niiman, Osvald",0
+2019,"Krasna, Milla",0
+2020,"Masso, O.",0
+2021,"Herne, Oskar",0
+2022,"Eier, Salme",0
+2023,"Rungi, Selma",0
+2024,"Okas, Salme",0
+2025,"Preobraženski, T.",0
+2026,"Treeverk, Lembit",0
+2027,"Tõnisson, M.",1
+2028,"Truu, Martin",0
+2029,"Tõnisson, Martin",0
+2030,"Vungi, M.",0
+2031,"Raadik, Osvald",0
+2032,"Mühlberg, M.",0
+2033,"Mardik, S.",0
+2034,"Kamm, Renate",0
+2035,"Riipulk, S.",0
+2036,"Sermann, S.",0
+2037,"Rosenberg, S.",0
+2038,"Puidet, Helene",0
+2039,"Timusk, H.",0
+2040,"Eberhardt, Hendrik",0
+2041,"Teko, Juuli",0
+2042,"Tamberg, H.",0
+2043,"Utsar, H.",0
+2044,"Nuut, Hilda",0
+2045,"Männik, A.",0
+2046,"Rebane, A.",1
+2047,"Tõntson, Vilma",0
+2048,"Karindosk, Lehti",0
+2049,"Villmann, Linda",0
+2050,"Keres, M.",0
+2051,"Pudel, Aug.",0
+2052,"Koslov, B.",0
+2053,"Krastin, A.",0
+2054,"Tamm, E.",0
+2055,"Näkk, Endla",0
+2056,"Tiits, G.",0
+2057,"Reisko, A.",0
+2058,"Peterson, Karl",0
+2059,"Kurss, Karl",0
+2060,"Kerber, Feliks",0
+2061,"Raudsepp, Hans",0
+2062,"Voimann, Elmar",0
+2063,"Riimann, Ervin",0
+2064,"Ruus, Georg",0
+2065,"Link, Frieda",0
+2066,"Põder, Elvi",0
+2067,"Ermann, Helene",0
+2068,"S., Erika",0
+2069,"Tamm, Helmi",0
+2070,"Paalberg, Helga",0
+2071,"Schwan, E.",0
+2072,"Vaher, Art.",0
+2073,"Herkel, Helmirise",0
+2074,"Müller, Herbert",0
+2075,"Kreideberg, Helmi",1
+2076,"Hendrikson, Herbert",0
+2077,"Margus, Vilma",0
+2078,"Busch, Vilma",0
+2079,"Kaplur, Vilma",0
+2080,"Vaimann, Vlad.",0
+2081,"Tulver, Velly",0
+2082,"Sikk, Linda",0
+2083,"Bernstein, Herta",0
+2084,"Kuutan, Hilda",0
+2085,"Tõõtsa, Leida",1
+2086,"Tõõtsi, Leida",0
+2087,"Kaints, Linda",0
+2088,"Koppel, Luise",0
+2089,"Rüütel, Leida",0
+2090,"Veisson, Hilja",0
+2091,"Lõhmus, Salme",1
+2092,"Jakobson, Renate",0
+2093,"Luus, Salme",0
+2094,Kivi,0
+2095,"Arro, Karl",0
+2096,"Pajo, Hillar",0
+2097,"Baugus, Ilmar",0
+2098,"Kallaspoolik, H.",0
+2099,"Janno, Ida",0
+2100,"Nuutson, M.",0
+2101,"Laurson, R.",0
+2102,"Lõpp, Feliks",0
+2103,"Allikivi, Joh.",0
+2104,"Anderson, Nadja",0
+2105,"Raadik, Joh.",0
+2106,"Tomingas, Robert",0
+2107,"Kartau, Karl",0
+2108,"Verner, L.",0
+2109,"Lagastik, Leida",0
+2110,"Reinhold, Johannes",0
+2111,"Pihlak, Meinhard",0
+2112,"Lipson, Illar",0
+2113,"Lilles, Herbert",0
+2114,"Eberhart, K.",0
+2115,"Tomson, Aug.",0
+2116,"Sepp, Joh.",0
+2117,"Lillak, A.",0
+2118,"Sang, August",0
+2119,"Habicht, Aug.",0
+2120,"Strikholm, A.",0
+2121,"Kiudorf, Alb.",0
+2122,"Kersin, E.",0
+2123,"Lepikov, E.",0
+2124,"Hanson, F.",0
+2125,"Kattai, H.",0
+2126,"Kohberg, H.",0
+2127,"Juulman, H.",1
+2128,"Martson, H.",0
+2129,"Kuus, H.",0
+2130,"Kruus, H.",0
+2131,"Kumm, H.",0
+2132,"Mart, H.",0
+2133,"Soots, H.",0
+2134,"Šults, H.",0
+2135,"Palitka, Hermann",0
+2136,"Võsu, I.",0
+2137,"Truuväärt, Irene",0
+2138,"Udikas, H.",0
+2139,"Heek, Irma",0
+2140,"Pent, Heinr.",0
+2141,"Tomberg, Ilse",0
+2142,"Petermann, Ilmar",0
+2143,"Sark, Ilse",0
+2144,"Martinson, Hilda",0
+2145,"Neerot, Helmuth",0
+2146,"Jürkson, Herta",0
+2147,"Toots, Hendrik",0
+2148,"Rootsman, Heljo",0
+2149,"Bach, Harry",0
+2150,"Koch, Harry",0
+2151,"Käsper, Joh.",0
+2152,"Estam, Jaan",0
+2153,"Tsirkus, Jaan",0
+2154,"Uustal, Joh.",0
+2155,"Teder, Johannes",0
+2156,"Reimann, Joh. (Pärnu)",0
+2157,"Habicht, K.",0
+2158,"Palu, Johannes",0
+2159,"Enno, Johanna",0
+2160,"Kull, Johann",0
+2161,"Kompus, K.",0
+2162,"Raid, K.",0
+2163,"Tanilov, K.",0
+2164,"Karbus, K.",0
+2165,"Beläjev, Konstantin",0
+2166,"Kiisla, Karl",0
+2167,"Truuman, Karl",0
+2168,"Otsa, Karli",0
+2169,"Pärman, Karl",0
+2170,"Sippa, Karl Leonid",0
+2171,"Birk, K.",0
+2172,"Annisti, Kalju",0
+2173,"Anton, L.",0
+2174,"Einer, L.",0
+2175,"Jensen, L.",0
+2176,"Johanson (Kikkas), Leonora ",0
+2177,"Kukk, Joh.",0
+2178,"Puust, Joh.",0
+2179,"Vilberg, K.",0
+2180,"Kikas, L.",0
+2181,"Kivisäk, L.",0
+2182,"Kivisild, K.",0
+2183,"Martin, L.",0
+2184,"Mäger, L.",0
+2185,"Pintsel, L.",0
+2186,"Pulk, L.",0
+2187,"Jäetma, Joh.",0
+2188,"Taggo, L.",0
+2189,"Kulbin, K.",0
+2190,"Pentjärv, L.",0
+2191,"Kallaspoolik, E.",0
+2192,"Ustritsov, Ed.",0
+2193,"Ehrlich, Ed.",0
+2194,"Tõnnis, G.",0
+2195,"Kruusmann, H.",0
+2196,"Kumpas, H.",0
+2197,"Zirnask, F.",0
+2198,"Diedrichson, F.",0
+2199,"Graf, H.",0
+2200,"Taal, H.",0
+2201,"Lorenberg, H.",0
+2202,"Tohv, H.",0
+2203,"Voormann, Eduard",0
+2204,"Keres, H.",0
+2205,"Teder, G.",0
+2206,"Heinmets, H.",0
+2207,"Kalbus, J.",0
+2208,"Sõggel, J. P. (Jaak)",0
+2209,"Parm, J.",0
+2210,"Rebane, J.",0
+2211,"Adamson, J.",0
+2212,"Sass, J.",0
+2213,"Šepka, J.",0
+2214,"Loorberg, H.",0
+2215,"Lõpp, Feliks",1
+2216,"Kiviselg, F.",0
+2217,"Siitan, J.",0
+2218,"Tetsmann, E.",0
+2219,"Frey, E.",0
+2220,"Levin, D.",0
+2221,"Karnask, Dimitri",0
+2222,"Juurikson, E.",0
+2223,"Krepp, E.",0
+2224,"Kurts, E.",0
+2225,"Kurm, Evald",0
+2226,"Michelson, E.",0
+2227,"Männikson, E.",0
+2228,"Lauri, E.",0
+2229,"Parts, E.",0
+2230,"Raal, E.",0
+2231,"Saage, E.",0
+2232,"Wittram, A.",0
+2233,"Kuutan, E.",0
+2234,"Martinsen, H.",0
+2235,"Mõtlik, H.",0
+2236,"Paiso, E.",0
+2237,"Karlsbach, H.",0
+2238,"Sooman, H.",0
+2239,"Ots, E.",0
+2240,"Baum, J.",0
+2241,"Kuhlberg, J.",0
+2242,"Martin, J.",0
+2243,"Jürgen, H.",0
+2244,"Reinhaus, J.",0
+2245,"Toots, A.",0
+2246,"Uustalu, Jaan",1
+2247,"Kask, Joh. (Pärnu)",0
+2248,"Toom, Marta",0
+2249,"Jürvetson, Leida",0
+2250,"Hanimägi, M.",0
+2251,"Lillemägi, Marie",0
+2252,"Lintrop, Leida",0
+2253,"Verbak, Martha",0
+2254,"Tuvike, Meta",0
+2255,"Raist, N.",0
+2256,"Trei, Linda",0
+2257,"Kivi, Laine",0
+2258,"Kull, Mart",0
+2259,"Pärnik, Lilli",0
+2260,"Kann, Li",0
+2261,"Graf, Linda",0
+2262,"Siiders, Martin",0
+2263,"Lukats, Nora",0
+2264,"Vingissar, V.",0
+2265,"Losson, Viktor",0
+2266,"Väli, Veera",0
+2267,"Raap, V.",0
+2268,"Reinmann, V.",0
+2269,"Veeber, Selma",0
+2270,"Michelson, V.",0
+2271,Veeberg,0
+2272,"Niemann, Valter",0
+2273,"Sikk, N.",0
+2274,"Saar, A.",0
+2275,"Saar, A. (Pärnu)",0
+2276,Inglist,0
+2277,"Tael, J.",0
+2278,"Zirk, Lehta",0
+2279,"Tomson, O.",0
+2280,"Ottas, A.",0
+2281,"Kirk, A.",0
+2282,"Remberg, Leop.",0
+2283,"Ilbak, A.",0
+2284,"Meltsas, A.",0
+2285,"Koppel, A.",0
+2286,"Sulg, A.",0
+2287,"Telk, Loreida",0
+2288,"Springer, A.",0
+2289,"Kallaste, A.",0
+2290,"Kurol, Al.",0
+2291,"Saretok, A.",0
+2292,"Rosenbuš, E.",0
+2293,"Lilienthal, A.",0
+2294,"Tilk, K.",0
+2295,"Holvandus, P.",0
+2296,"Koch, M.",0
+2297,"Saag, S.",0
+2298,"Annisti, Pärja",0
+2299,"Kuusler, S.",0
+2300,"Link, P.",0
+2301,"Kolk, Remeo",0
+2302,"Huberg, E.",0
+2303,"Pull, A.",0
+2304,"Nõmm, M. (Pärnu)",0
+2305,"Jürgens, A.",1
+2306,"Toots, O.",0
+2307,"Heinsen, L.",0
+2308,"Neggo, R.",0
+2309,"Rütman, T.",0
+2310,"Vuksi, O.",0
+2311,"Varep, Peeter",0
+2312,"Henning, Osvald",0
+2313,"Koff, Olga",0
+2314,"Talts, M.",0
+2315,"rosenberg, A",1
+2316,"Rosenberg, A.",0
+2317,"Oja, K.",0
+2318,"Männapso, H.",0
+2319,"Mathiesen, M.",0
+2320,"Erik, K.",0
+2321,"Mäele, M.",0
+2322,"Rebane, L.",0
+2323,"Raist, N.",1
+2324,"Halliksberg, A.",0
+2325,"Kärtmann, A.",0
+2326,"Kochberg, L.",0
+2327,"Aspe, M.",0
+2328,"Martinson, P.",0
+2329,"Malsup, L.",0
+2330,"Berg, P. (Tõrva)",0
+2331,"Samaarin, P.",0
+2332,"Putnik, O.",0
+2333,"Joost, Kr.",0
+2334,"Emmus, R.",0
+2335,"Müürsep, Peeter",0
+2336,"Šmidt, Robert",0
+2337,"Koger, L.",0
+2338,"Härg, A.",0
+2339,"Aas, A.",0
+2340,"Erik, P.",0
+2341,"Estam, R.",0
+2342,"Tohv, R.",0
+2343,"Mälk, P.",0
+2344,"Sirmann, S.",0
+2345,"Trik, Salme",0
+2346,"Ruugi, Selma",0
+2347,"Luurmees, Salme",0
+2348,"Tamm, Theodor",1
+2349,"Thomberg, T.",0
+2350,"Tamm, Theodor",0
+2351,Tõnisson,0
+2352,"Kask, Theodor",0
+2353,"Unt, Uno",0
+2354,"Siliksaar, S.",0
+2355,"Jallai, V.",0
+2356,"Hintser, V.",0
+2357,"Koppel, V.",0
+2358,"Redtšenko, V.",0
+2359,"Laut, V.",0
+2360,"Pärn, V.",0
+2361,"Tomingas, V.",0
+2362,"Janberg, Vold.",0
+2363,"Unt, V.",0
+2364,"Karuse, V.",0
+2365,"Keppi, V.",0
+2366,"Riit, V.",0
+2367,"Kallus, S. J.",0
+2368,"Kübar, S.",0
+2369,"Kaplur, S.",0
+2370,"Laos, V.",0
+2371,"Raudsepp, J. (Halliste)",0
+2372,"Karro, V.",0
+2373,"Padalka, V.",0
+2374,"Rätsep, P.",0
+2375,"Jürgenson, S.",0
+2376,"Kampmann, Vl.",0
+2377,"Tilk, U.",0
+2378,"Reimann, A.",0
+2379,Saovares,0
+2380,"Pausk, Jaan",0
+2381,neiu L. A.,0
+2382,"Ott, Jüri",0
+2383,"Herm, Jüri",0
+2384,"Erik, D.",0
+2385,"Kauger, P.",0
+2386,"Ploompuu, O.",0
+2387,"Gustavson, K.",0
+2388,Aleksander Laan,1
+2389,"Laan, Aleksander",0
+2390,"Martinson, Arnold",0
+2391,"Lätti, Arnold",0
+2392,"Ammon (Amon), August ",0
+2393,"Metsamärt, Voldemar ",0
+2394,"Noot, Vassili",0
+2395,"Perv (abielus Prüüs), Selma",0
+2396,"Lind (Siim), Siegfried",1
+2397,"Lind, Siegfried (Siim)",0
+2398,"Lepik, Mart",0
+2399,"Koppel (snd. Blum), Marta",0
+2400,"Jürna, Mihkel",0
+2401,"Soosaar (abielus Loog), Me(e)ta ",0
+2402,"Toomse (Tooms), Mihkel ",1
+2403,"Toomse (Tooms), Mihkel ",0
+2404,"Hiir, Erni",0
+2405,"Labi (abielus Urmann), Elisabeth ",0
+2406,"Jänes, Harald",0
+2407,"Kesä (Kesa), Karl",0
+2408,"Jungermann, Karl",0
+2409,"Ahas, Eduard",0
+2410,"Angeria, Aleksander",0
+2411,"Grünberg, Er.",1
+2412,"Remmel, E.",0
+2413,"Kalle, Vassili",0
+2414,"Pulst, August",0
+2415,"Leoke, Hans",0
+2416,"Antik, Adam",0
+2417,"Doll, August Jakob",0
+2418,"Michelson, August",0
+2419,"Palm, August",1
+2420,"Valdmann, Eduard",1
+2421,"Kanketer, Hans",0
+2422,"Kihu, Jaan",0
+2423,"Puksov, Jakob",0
+2424,"Pärtelpoeg, Juuli",0
+2425,"Kangro-Pool, Marta",0
+2426,"Reim, Paul",0
+2427,"Hupel, August Wilhelm",0
+2428,"Dengo, Arnold",0
+2429,"Herbst, Johannes",0
+2430,"Hindrey, Karl August",0
+2431,"Johannson, Aleksander",0
+2432,"Kaan, A.",0
+2433,"Kalju, S.",0
+2434,"Karu, August",0
+2435,"Kruusberg, A.",0
+2436,"Kubja, E.",0
+2437,"Kuusik, Vladimir",0
+2438,"Kõrgesaar, Emilie",0
+2439,"Künnapuu, V.",0
+2440,"Laur, Hans",0
+2441,"Lauton, Joh.",0
+2442,"Jaska, Richard",0
+2443,"Küla, P. J.",0
+2444,"Michelson, K.",0
+2445,"Mäetam, Arnold",0
+2446,"Mugasto, Helene",0
+2447,"Mässo, Eduard",0
+2448,"Mõttus, Hans",0
+2449,"Kirves, Adam",0
+2450,"Paju, H.",0
+2451,"Wiitkin, Peeter",0
+2452,"Rattas, Anna",0
+2453,"Simson, Arnold",0
+2454,"Lokk, Albert",0
+2455,"Uibopuu, Alide",0
+2456,"Tobro, August",0
+2457,"Tomp, Karl",0
+2458,"Leesmann, August Johannes",0
+2459,"Sepp, Karl",0
+2460,"Miller, Osvald",0
+2461,"Sõgel, Johannes",0
+2462,"Peterson, Paul",0
+2463,"Trumm, August",0
+2464,"Sakk, Johan",1
+2465,"Tiidur, Aadu",1
+2466,"Printsman, Peeter",0
+2467,"Holberg, Selma",0
+2468,"Bahman, Voldemar",0
+2469,"Keerberg, Karl",0
+2470,"Pähn, Olga",0
+2471,"Haudmägi, Juulie",0
+2472,"Valdmann, Eduard",0
+2473,"Alaots, Johannes",0
+2474,"Lusmann, August Johannes",0
+2475,"Kuldkepp, Jaan",0
+2476,"Trully (Annus), Alma",0
+2477,"Miljan, August",0
+2478,"Miljan, Jaan",0
+2479,"Tirol, Alide",0
+2480,"Steinberg, J. H.",0
+2481,"Tamm, Jaak",0
+2482,"Tulmin, Karl",0
+2483,"Braks, T.",0
+2484,"Tults, G.",0
+2485,"Õunapuu, J.",0
+2486,"Sepner, K.",0
+2487,"Kala, August",0
+2488,"Peddel, J.",0
+2489,"Lüsi, A.",0
+2490,"Wesmann, C.",0
+2491,"Põld, Harald",0
+2492,"Uibopuu, A.",1
+2493,"Parlo, M.",0
+2494,"Kalberg, A.",0
+2495,"Reiska, A.",0
+2496,"Murd, A.",0
+2497,"Viedebaum, Otto",0
+2498,"Reinson, O.",0
+2499,"Lintrop, J.",0
+2500,"Ritson, H.",0
+2501,"Rothberg, J.",0
+2502,Karl in Hapsal,0
+2503,"Kuldsepp, M.",0
+2504,"Havik, Paul",0
+2505,"Tõnnisson, M.",1
+2506,"Haas, Voldemar",0
+2507,X.,1
+2508,"Peedu, M.",0
+2509,"Wichwelin, E.",0
+2510,"Rosenbaum, G.",0
+2511,"Wehlmann, J.",0
+2512,"Tolsting, A. W.",0
+2513,F. A.,0
+2514,"Piilberg, Johan",0
+2515,"Tõnnisson, M.",1
+2516,"Liiva, J.",0
+2517,"Jannsen, Johann Voldemar",0
+2518,"Mühlenthal, Theodor",0
+2519,"Kriikmann, M.",0
+2520,"Undritz, Paul",1
+2521,Linno,0
+2522,"Keerberg, J.",0
+2523,"Lokk, A.",1
+2524,"Lemendik, Joosep",0
+2525,"Pehka, M.",1
+2526,"Sulg, M.",0
+2527,"Põld, A.",0
+2528,"Rebane, Linda",0
+2529,"Ellan, K.",0
+2530,"Lember, K.",1
+2531,"Westermann, G.",0
+2532,"Halliste, H.",0
+2533,Victor Steini abiline,0
+2534,"Gutslaff, Johannes",0
+2535,"Amos, Jaan",0
+2536,"Klokmann, Willem",0
+2537,M.,0
+2538,"Vakerman, Ivan",0
+2539,"Tampere, Herbert",0
+2540,"Pärsimägi, Anna",0
+2541,"Saat, Aliide",0
+2542,kalju,1
+2543,kalju,1
+2544,"Vijand, Salme",0
+2545,"Oiderman, Erna",0
+2546,"Espenberg, Alma",0
+2547,"Espenberg, Linda",0
+2548,voist,1
+2549,voist,1
+2550,"Woist, Johannes",0
+2551,"Varul, Arthur",0
+2552,ariste,1
+2553,"Ariste (Potsep), Erna",0
+2554,"Põldmäe, Rudolf",0
+2555,"Leichter, Karl",0
+2556,"Lepp, Leida",0
+2557,"Jõgever, Veera",0
+2558,"Vint, Anna",0
+2559,"Mirka-Leinbock, Olga",0
+2560,"Ruusamägi, Viktor",0
+2561,"Kalden, Ida",0
+2562,"Kase, Klara",0
+2563,"Aumann, Ado",0
+2564,"Voist, Lydia",0
+2565,"Kahu, Meeta",0
+2566,"Reisberg, Ilse",0
+2567,"Liinat, Jaan",0
+2568,"Tudeberg, Arnold",0
+2569,"Päts, Richard",0
+2570,"Rosenthal, Gerda",0
+2571,"Semper, Johannes",0
+2572,"Trimm, G.",0
+2573,"Rutoff, Hella",1
+2574,"Sarv, Erich",0
+2575,"Silts, Hilda",0
+2576,"Tõnson, Helene",0
+2577,"Romulus, Alma",0
+2578,"Timotheus, L.",0
+2579,"Jalajas, Akulina",0
+2580,"Koplimägi, Aleksei",0
+2581,"Koplimägi, Aleksei",1
+2582,"Lume, Olga",0
+2583,"Lõhmus, Ksenia",0
+2584,"Püve, Marta",0
+2585,"Savimägi, Stepan",0
+2586,"Serga, Väino",0
+2587,"Millerson, Alfred",0
+2588,"Umbleja, Alide",0
+2589,"Kiilas, Elfriede",0
+2590,"Müllerson, Linda",0
+2591,"Puulbert, Lydia",0
+2592,"Kerberg, Veronika",0
+2593,"Böckler, Klarissa",0
+2594,"Paal, Joh.",0
+2595,"Kurvits, Aleks",0
+2596,"Kirs, Elmar",0
+2597,prl. M. Silla kursuslane,0
+2598,"Ivask Saar, Gustav",0
+2599,"Martinson, K.",0
+2600,G. J. Jürjev,1
+2601,G. J. Jürjev,1
+2602,"Heiberg, Emilie",0
+2603,August Leithammel,1
+2604,"Annist, August",1
+2605,"Linnap, Mihkel",0
+2606,"Asor, A.",0
+2607,"Embek, A.",0
+2608,"Haav, A.",1
+2609,"Kukk, A.",1
+2610,"Meiessaar, August",0
+2611,"Mensas, A.",0
+2612,"Rätsep, A.",0
+2613,"Saareste, Andrus",0
+2614,"Sahk, A.",0
+2615,"Samet, Alfred",0
+2616,"Univere, Aili",0
+2617,"Volt, A.",0
+2618,"Kronström, Adolf",0
+2619,"Kalju, Agnes",0
+2620,"Tander, Aleksander",0
+2621,"Univer-Grünvald, Aleksandra",0
+2622,"Kriisa, Alice",0
+2623,"Raudsepp, Alide",0
+2624,"Piiskopp, Alma",0
+2625,"Int, Alvine",0
+2626,"Raudoja, Amilde",0
+2627,"Tomson, Ann",0
+2628,"Oras, Ants",0
+2629,"Manni, Armilde",0
+2630,"Kukk, Armin",0
+2631,"Kask, Arnold",0
+2632,"Masing, Arnold",0
+2633,"Kalholm, Arvi",0
+2634,"Michelson, August",1
+2635,"Sattik, August",0
+2636,"Kamp, August",1
+2637,"Kolk, August",0
+2638,"Leht, August",0
+2639,"Lepp, August",0
+2640,"Tamm, August",0
+2641,"Kangro, Bernard",0
+2642,"Hanson, C.",0
+2643,"Erm, Chr.",0
+2644,"Raudsepp, Chr.",0
+2645,"Jaska, E.",1
+2646,"Koemets, Enn",0
+2647,"Lainesto, E.",0
+2648,"Paas, E.",0
+2649,"Päss, Elmar",1
+2650,"Raudsep, E.",1
+2651,"Vuht, E.",0
+2652,"Soosaar, Eduard",0
+2653,"Roos, Eduard",0
+2654,"Lassen, Eevi",0
+2655,"Laurits, Elfriede",0
+2656,"Paas, Elfriede",0
+2657,"Tammann, Elfriede",0
+2658,"Kruusval, Eliine",1
+2659,"Põldre, Elin",0
+2660,"Raudsep, Els",0
+2661,"Mattin, Emilie",0
+2662,"Kivimäe, Endel",0
+2663,"Tensing, Erich",0
+2664,"Varma, Feliks",0
+2665,"Herm, G.",0
+2666,"Treumann, G. I.",1
+2667,"Masing, G.",0
+2668,"Nurm, G.",0
+2669,"Kreebs, Gertrud",0
+2670,"Eller, Helmi",0
+2671,"Gerretz, H.",0
+2672,"Gross, H.",1
+2673,"Jaagu, H.",1
+2674,"Keem, Hella",1
+2675,"Lele, H.",1
+2676,"Lellep, H.",1
+2677,"Oissaar, H.",0
+2678,"Ostrat, H.",1
+2679,"Pallas, H.",0
+2680,"Seim, H.",0
+2681,"Supsmann, H.",0
+2682,"Aadamson, Hans",0
+2683,"Lindeberg-Pärnamägi, Hans",0
+2684,"Mett, Hans",0
+2685,"Saat, Hans",1
+2686,"Vihmalik, Hans",0
+2687,"Jannsen, Harry",1
+2688,"Jannsen, Harry",0
+2689,"Gross, Hedvig",0
+2690,"Vahtmann, Helja",0
+2691,"Keem, Hella",0
+2692,"Rutoff, Hella",0
+2693,"Ottenson-Kleis, Helmi",0
+2694,"Vint, Helmi",0
+2695,"Leppik, Henrik",0
+2696,"Kruusvald, Herald",0
+2697,"Länts, Hermann",0
+2698,"Roos, Hilda",0
+2699,"Uustalu, Hilda",1
+2700,"Tire, Hugo",0
+2701,"Piibeman, Ida",0
+2702,"Demberg, Isabelle",0
+2703,"Anspahl, J.",0
+2704,"Eglon, J.",0
+2705,"Kapp, Joosep",0
+2706,"Kuus, J.",0
+2707,"Lossmann, J.",0
+2708,"Meltzov, J.",0
+2709,"Muhly, J.",0
+2710,"Peterson, J.",0
+2711,"Piilberg, Juuli (Juulie)",0
+2712,"Puusar, J.",0
+2713,"Roots, J.",0
+2714,"Saunamees, J. (kod. nimi Jaan Jutt)",0
+2715,"Sõster, J.",1
+2716,"Zimmermann, J.",0
+2717,"Köhler (Koeler), G.",0
+2718,"Daniel, G.",0
+2719,"Till, J.",0
+2720,"Varblane, J.",0
+2721,"Jutus, Jaan",0
+2722,"Mõte, Jaan",0
+2723,"Kolluk, Mihkel",0
+2724,"Kilstrem, Joh.",0
+2725,"Kotli, Joh.",0
+2726,"Võlma, Joh.",0
+2727,"Meimer, Johann",0
+2728,"Manitski, Joosep",0
+2729,"Arike, Juhan",0
+2730,"Soo, Jüri",1
+2731,"Luuberg, K.",0
+2732,"Mihkels-Mihkla, Karl",0
+2733,"Must, Kustav",0
+2734,"Ringenfeldt, Karl",0
+2735,"Pertel, Kristjan",0
+2736,"Pettai, Kusta",0
+2737,"Maalman, L.",0
+2738,"Kase, Ann",0
+2739,"Jõgever, Jaan",0
+2740,"Seim, Leeni",0
+2741,"Muuga, Leida",0
+2742,"Huusman, Linda",0
+2743,"Manitski, Linda",0
+2744,"Ohakas, Linda",0
+2745,"Puust, Lydia",0
+2746,"Blum, M.",1
+2747,"Eintrei, Magdaleena",0
+2748,"Koppel, M.",0
+2749,"Lihtenberg, M.",0
+2750,"Soo-Puusepp, M.",0
+2751,"Särg, M.",0
+2752,"Saaremets, L.",0
+2753,"Vestholm, E.",0
+2754,"Tapner, M.",0
+2755,"Treufeldt, M.",0
+2756,"Kurisoo, Manivald",0
+2757,"Vabarna, Manni",0
+2758,"Lepik, Mari",0
+2759,"Jõgever, Maria",0
+2760,"Binsol, Marzella",0
+2761,"Jürgenson, Martha",0
+2762,"Mädamürk, Martin",0
+2763,"Eikholm, Meeta",0
+2764,"Soosaar, Meeta",0
+2765,"Kikson, Mihkel",0
+2766,"Luukas, Mihkel",0
+2767,"Pärn, Minna",0
+2768,"Kiin, N.",0
+2769,"Nolcken, N.",0
+2770,"Remmel, Nikolai",0
+2771,"Vabarna, N.",0
+2772,"Lilhein, Nelly",0
+2773,"Webermann, O. A.",0
+2774,"Sermat, Olga",0
+2775,"Sild, Oskar",0
+2776,"Abel, P.",0
+2777,"Anton, Peeter",0
+2778,"Markus, Peeter",0
+2779,"Org, Peeter",0
+2780,"Koppel, R.",0
+2781,"Mumm, Richard",0
+2782,"Tanning, Salme",0
+2783,"Kaev, Salme",0
+2784,"Kahu, Salme",0
+2785,"Oinas, Selma",0
+2786,"Kiimann, T.",0
+2787,"Jürgenstein, W.",0
+2788,"Metsamärt, V.",1
+2789,"Niilus, Valter",0
+2790,"Raud, Villem",0
+2791,"Stolzen, W.",0
+2792,"Vilgma, V.",0
+2793,"Manitski, Verner",0
+2794,"Kalholm, Vilma",0
+2795,"Miilaste, Virve",0
+2796,"Tammsalu, Virve",0
+2797,"Kaar, Õie",0
+2798,"Sõster, Õ",0
+2799,"Vaigla, A.",0
+2800,Kurrikoff,1
+2801,"Tarkpea, J.",0
+2802,"Lõhmus, Salme (Pärnu, Karksi)",0
+2803,"Lõhmus, Salme (Pärnu, Karksi)",1
+2804,J. Sõster,1
+2805,"Tõnnisson, M.",1
+2806,"Tõnnisson, M.",0
+2807,"Elken, Jakob",0
+2808,"Tamm, August",1
+2809,"Tamm, A. (Põltsamaa)",0
+2810,"Nõmm, Jaan",0
+2811,"Pill, Juhan",0
+2812,"Laar, M.",0
+2813,"Orav, J.",0
+2814,Pajur,0
+2815,H. K.,0
+2816,"Kaur, L.",0
+2817,"Grünfeldt, Jaan",0
+2818,J. S. Sooster,1
+2819,"Sooster, J. S.",0
+2820,"Dampf, Harald",0
+2821,"Rätsepp, Julie",0
+2822,"Liiv, Elmar",0
+2823,"Poom, Emilie",0
+2824,"Nigol, A.",0
+2825,"Hendrikson, P.",0
+2826,"Kurlents, Alfred",0
+2827,"Brinkmann, Joh.",0
+2828,"Mei, M.",0
+2829,"Sarv, Mari (Marie)",0
+2830,"Hinnov, August",0
+2831,"Neuman, Helene",0
+2832,"Villibald, Anna",0
+2833,"Pettai, Th.",0
+2834,"Raukas, A.",0
+2835,"Raukas, A.",1
+2836,H. V.,0
+2837,"Hiion, Aleksander",0
+2838,"Tammepuu (Eichenbaum), Priidu (Friedrich)",0
+2839,"Kivi, Johannes",0
+2840,"Laredei, Aleksei",0
+2841,"Kreek, M.",0
+2842,"Kera, Elsa",0
+2843,"Kõve, Lisbeth",0
+2844,"Jõgar, Hugo",0
+2845,"Kriisa, Herbert",0
+2846,"Tabun, August",0
+2847,"Tawet, J.",0
+2848,"Vaaro, Elmar",0
+2849,"Väljaots, Arnold",0
+2850,"Päss, Eduard",0
+2851,"Sõster, Juhan",0
+2852,"Rebane, Hilda",0
+2853,"Reinup, Hilja",0
+2854,"Paalberg, Olga",0
+2855,"Mathiesen, Ilse",0
+2856,"Traks, Mary",0
+2857,"Visnak, Olga",0
+2858,"Niirman, Ellen",0
+2859,"Kutser, Leida",0
+2860,"Lauk, Meeri",0
+2861,"Murr, Erna",0
+2862,"Räägel, Anna",0
+2863,"Kuusler, Linda",0
+2864,"Normann, Erna",0
+2865,"Peters, O.",0
+2866,"Jaakson, Ludmilla",0
+2867,"Sonts, Ir´o",0
+2868,"Vabarna, Anne",0
+2869,"Käi, Aliide",0
+2870,"Kolter, Mihail",0
+2871,"Põlder, Voldemar",0
+2872,"Tahker, Vladiimer",0
+2873,"Kolter, Vladimir",0
+2874,"Kaju, Amanda",0
+2875,"Alt, Hilda",0
+2876,"Põlder, Anette",0
+2877,"Meinart, Hilda",0
+2878,"Loodus, Melania",0
+2879,"Agu, Salomia",0
+2880,"Aloe, Aksella",0
+2881,"Armulik, Valter",0
+2882,"Aumann, Lehte",0
+2883,"Baumann, Hilde",0
+2884,"Duberg, Veera",0
+2885,"Hindrikson, Selma",0
+2886,"Hintzer, G.",0
+2887,"Ind, Linda",0
+2888,"Jantson, Agnes",0
+2889,"Zauram, M.",0
+2890,"Järlov, Endel",0
+2891,"Kerge, E.",0
+2892,"Kinksep, Anny",0
+2893,"Kippik, Leida",0
+2894,"Kivastik, Paul",0
+2895,"Kärsna, Armilde",0
+2896,"Küüsvek, Ella",0
+2897,"Leivategija, Kuuda",0
+2898,"Lepp, Linda",0
+2899,"Liblikman, Karin",0
+2900,Looga,0
+2901,"Mankevitsch, Helga",0
+2902,"Namm, Linda",0
+2903,"Nurk, Helgi",0
+2904,"Paju, Hilda",0
+2905,"Palmpuu, Amanda",0
+2906,"Peda, Hilda",0
+2907,"Posti, Helga",0
+2908,"Puhm, Helvi",0
+2909,"Puust, Liidia",0
+2910,"Saar, Aksella",0
+2911,"Vaaks, Elsa",0
+2912,"Vuchmann, Leida",0
+2913,"Vään, Erna",0
+2914,"Joonas, Ethel",0
+2915,"Kletenberg, Antonina",0
+2916,"Kolsar, Linda",0
+2917,"Koppel, A. (Tartu)",0
+2918,"Mehine, Linda",0
+2919,"Peeda, Leida",0
+2920,"Savasson, Ella",0
+2921,"Scheff, Walentine",0
+2922,"Talv, B.",0
+2923,"Alver, P.",0
+2924,"Jaaniado, O.",0
+2925,"Jaama, Artur",0
+2926,"Laats, Robert",0
+2927,"Lipp, Rudolf",0
+2928,"Palmas, L.",0
+2929,"Põkk, August",0
+2930,"Reile, Ev.",0
+2931,"Reinvald, Karl",0
+2932,"Selgis, Hans",0
+2933,Vaher,0
+2934,"Valdman, Linda",0
+2935,"Ehrenberg, Menda",0
+2936,"Aulik, Amanda",0
+2937,"Hints, Susanna",0
+2938,"Sosnin, Salonomia",0
+2939,"Ahvi, Hildegard",0
+2940,"Raaper, Aliimi",0
+2941,"Plaato, Elviine",0
+2942,Tarfvis,1
+2943,"Tarvis, Nadalia",0
+2944,"Pihler, Heinrich",0
+2945,"Nämm, Heimar",0
+2946,"Nukk, Ruudolf",0
+2947,"Lindo, Valeeria",0
+2948,"Venda, Aino",0
+2949,"Kirs, Karla",0
+2950,"Nurk, Ida",0
+2951,"Vaher, Kusta",0
+2952,"Kull, Karl",0
+2953,"Laretei, J.",0
+2954,"Künnapuu, Alma",0
+2955,"Leinbock, Ferdinand",0
+2956,"Lõoke, Berta",0
+2957,"Pruhl, Eduard",0
+2958,"Tamm, R.",0
+2959,"Ploompuu, Linda",0
+2960,"Teres, O.",0
+2961,"Roose, Meta",0
+2962,"Room, Lilli",0
+2963,"Kees, Melania",0
+2964,"Sirg, Theresia",0
+2965,"Teder, Magda",0
+2966,"Kink, Antonina",0
+2967,"Kanter, Elga",0
+2968,"Hindreus, Helmi",0
+2969,"Ibius, Otto",0
+2970,"Agu, Heino",0
+2971,"Grauberg (1935. a.-st Raidla), Johannes",0
+2972,"Palm, Maali",0
+2973,"Grünthal, J.",0
+2974,"Pärn, Minna",1
+2975,"Länts, Irmgard",0
+2976,Toila algkooli õpilased,0
+2977,"Kaiste, Albert",0
+2978,"Vinter, Arseeni",0
+2979,"Loodus, Arnold",0
+2980,"Liiber, Elviine",0
+2981,"Kaasik, Helmiire",0
+2982,"Kaiste, Oskar",0
+2983,"Loorits, Johan",0
+2984,"Murrik, Ernst",0
+2985,"Kuusmann, M.",0
+2986,"Luup, Arnold",0
+2987,"Mikser, A.",0
+2988,"Mesikäpp, Hans",0
+2989,"Evert, Arnold Julius",0
+2990,"Soom, Miša",0
+2991,"Mäesalu (Martinson), Marta",0
+2992,"Lesk, Aleksei",0
+2993,"Lepp, Nikolai",0
+2994,"Nairismägi, Robert",0
+2995,"Pedisson, P.",0
+2996,"Koel, A.",0
+2997,"Must, Gustav",0
+2998,"Külm, Aino",0
+2999,"Arolepp, Alli",0
+3000,"Liiv, Pelageia",0
+3001,"Arolepp, Elena",0
+3002,"Saar, T.",1
+3003,"Kõiva, Helju",0
+3004,"Kuslapuu, Leonhard ",0
+3005,"Trusilla, Leida",0
+3006,"Erik, Vambola",0
+3007,"Külm, Õiela",0
+3008,"Neimann, Lembit",0
+3009,"Puidet, Leida",0
+3010,J,1
+3011,"Jeret, Anna",0
+3012,"Kalling, Salme",0
+3013,"Talo, Anita",0
+3014,"Adler, A.",0
+3015,"S., G.",0
+3016,Napa,0
+3017,"Elm, R.",0
+3018,"Juhkam, Heinrich",0
+3019,"Korman, Almeta",0
+3020,"Koot, M.",0
+3021,"Kallip, Ulrich",0
+3022,"Teders, Valentin",0
+3023,"Überbach, Hans",0
+3024,"Švartsberg, Eerik",0
+3025,"Kalle, Andres",0
+3026,"Seene, Paul",0
+3027,"Toming, Erich",0
+3028,"Kala, Eduard",0
+3029,"Rosenberg, Hendrik",0
+3030,"Ploom, Julius",0
+3031,"Tori, Elmar",0
+3032,"Põder, V.",0
+3033,"Luht, Aleksander",0
+3034,"Rink, Evald",0
+3035,"Lipperk, Salme",0
+3036,"Napa, Aleksander",0
+3037,"Lugenberg, Helmi",0
+3038,"Nõmtak, Hildegard",0
+3039,"Kriisental, Meta",0
+3040,"Peedar, Adeline",0
+3041,"Tünder, Agnes",0
+3042,"Vebermann, Ilse",0
+3043,"Tiivas, Miralda",0
+3044,"Liinev, Linda",0
+3045,"Sõukant, Peeter",0
+3046,"Adamson, Linda",0
+3047,"Jürvetson, Jaan",0
+3048,"Maidlas, Ilmar Friedrich",0
+3049,"Tomson, Ella",0
+3050,"Akkermann, Karl",0
+3051,"Talts, Helmi",0
+3052,"Meejärv, Adeele",0
+3053,"Maasikas, Elli",0
+3054,"Lõpp, Liivia",0
+3055,"Koppel, Linda",0
+3056,"Vaino, Johannes",0
+3057,"Poolak, Elfrosiinia ",0
+3058,"Akkermann, Artur",0
+3059,"Likman, Endel",0
+3060,"Johanson, Alice",0
+3061,"Sarepera, Raimund",0
+3062,"Ley, Leida",0
+3063,"Ivask, Kristjan",0
+3064,"Pärn, Salme",0
+3065,"Kriiver, Blandiina",0
+3066,"Paan, Johannes",0
+3067,"Tsvetkov, Sinaida",0
+3068,"Jaanus, V.",0
+3069,"Aigro, O.",0
+3070,"Karjus, Eliise",0
+3071,"Kull, A.",0
+3072,"Volkov, B.",0
+3073,"Ollin, Oskar",0
+3074,"Lootus, Georg",0
+3075,"Avikson, Arnold",0
+3076,"Rostar, V.",0
+3077,"Hammer, Olev",0
+3078,"Abner, E.",0
+3079,"Mägi, A. (Rakvere)",0
+3080,"Meisner, E.",0
+3081,"Knuude, Anatol",0
+3082,"Lill, Gottfried",0
+3083,"Margus, August",0
+3084,"Lammer, Hilja",0
+3085,"Persman, Mari",0
+3086,"Ehrenpreis, A.",0
+3087,"Mikiver, V.",0
+3088,Kõiv,0
+3089,"Truubok, Meeri",0
+3090,"Webermann, Otto",0
+3091,"Keevit, Asta",0
+3092,"Jõesaar, Effi",0
+3093,"Lilienbach, Rudolf",0
+3094,"Luuk, Ernst",0
+3095,"Külmhallik, A.",0
+3096,"Posnjakov, G.",0
+3097,"Männik, Linda",0
+3098,"Sakk, Elmar",0
+3099,"Ader, Hilda",0
+3100,"Kruusberg, Maimu",0
+3101,"Paju, Leida",0
+3102,"Kukke, Aino",0
+3103,"Linamaa, Meta",0
+3104,"Jõesaar, Elga",0
+3105,"Adamberg, Agnes",0
+3106,"Luuberg, Vladimir",0
+3107,"Adamberg, Marta",0
+3108,"Jõesaar, Ellen",0
+3109,"Traks, M.",0
+3110,"Västo, Amanda",0
+3111,"Markson, Lembitu",0
+3112,"Tamson, Elmar",0
+3113,"Veske, Linda",0
+3114,"Kull, Rihard",0
+3115,"Siirak, Elita",0
+3116,"Grüntal, Alma",0
+3117,"Eiskop, Lembit",0
+3118,"Heidmets, Arved",0
+3119,"Hofberg, Helmuth",0
+3120,"Idel, Artur",0
+3121,"Kärner, Voldemar",0
+3122,"Lindermann, Õie",0
+3123,"Mesi, Agnes",0
+3124,"Nägelik, Ida",0
+3125,"Vunmann, Elmar",0
+3126,"Pill, Johannes",0
+3127,"Puhk, Ülo",0
+3128,"Puhk, Linda",0
+3129,"Põldemaa, Oskar",0
+3130,"Rähni, Valter",0
+3131,"Senny, Rihard",0
+3132,"Sääsk, Alvine Marie",0
+3133,"Tiisel, Ludmilla",0
+3134,"Tomingas, Linda",0
+3135,"Tuisk, Harald",0
+3136,"Võti, Evald",0
+3137,"Aksberg, Helmi",0
+3138,"Aksberg, Hugo",0
+3139,"Bollverk, Salme",0
+3140,"Blumfeld, Valter",0
+3141,"Eiskop, Osvald",0
+3142,"Igarik, Erna",0
+3143,"Kesküla, Leida",0
+3144,"Matiesen, Artur",0
+3145,"Nurklik, Meralda",0
+3146,"Pekermann, Juta",0
+3147,"Piip, Leopald",0
+3148,"Samel, Linda",0
+3149,"Tomingas, Leida",0
+3150,"Tomson, Linda",0
+3151,"Türk, Renate",0
+3152,"Frosch, Olga",0
+3153,"Lätti, Armilde",0
+3154,"Raudsepp, Helene",0
+3155,"Rüütmann, Alma",0
+3156,"Värtmann, Erich",0
+3157,"Einamann, Alma",0
+3158,"Erm, Meeta",0
+3159,"Iismann, Ernst",0
+3160,"Luht, Maimu",0
+3161,"Lätti, Roman",0
+3162,"Sipelgas, Erich",0
+3163,"Viitmann, Hans",0
+3164,"Värtmann, Elsa",0
+3165,"Värtmann, Paul",0
+3166,"Erm, Paul",0
+3167,"Eslas, Otto",0
+3168,"Evart, Oskar",0
+3169,"Hiob, Valter",0
+3170,"Krempel, Gustav",0
+3171,"Pesti, Hildegard",0
+3172,"Riim, Evald",0
+3173,"Ristla, Vilma",0
+3174,"Veldemann, Romann",0
+3175,"Alter, Salme",0
+3176,"Altok, Hilda",0
+3177,"Aring, Artur",0
+3178,"Einberg, Herbert",0
+3179,"Essman, Bernhard",0
+3180,"Krusta, Salme",0
+3181,"Laap, Melita",0
+3182,"Landmann, Klotilde",0
+3183,"Lebans, Asta",0
+3184,"Liiving, Selma",0
+3185,"Maarland, Evald",0
+3186,"Meierau, Elmar",0
+3187,"Meierau, Leida",0
+3188,"Paermann, Valve",0
+3189,"Pellein, Elmar",0
+3190,"Preegel, Aliide",0
+3191,"Schultson, Elmar",0
+3192,"Seppel, Alma",0
+3193,"Tammisson, Agnes",0
+3194,"Teimann, Susanne",0
+3195,"Wahar, Udo",0
+3196,"Veimen, Erna",0
+3197,"Viisileht, Leida",0
+3198,"Viroja, G.",0
+3199,"Ausing, Ellen",0
+3200,"Berg, Selma",0
+3201,"Einberg, Ilse",0
+3202,"Greenberg, Karin",0
+3203,"Grüner, Gunnar",0
+3204,"Kalder, Alide",0
+3205,"Kato, Benita",0
+3206,"Kokamägi, Soja",0
+3207,"Köögardal, Ellinor",0
+3208,"Lindmann, Villem",0
+3209,"Living, Nelly",0
+3210,"Luurmees, Edgar",0
+3211,"Luutland, Selma",0
+3212,"Orno, Leida",0
+3213,"Palm, Ellen",0
+3214,"Pork, Lembit",0
+3215,"Rader, Erika",0
+3216,"Rader, Renate",0
+3217,"Rank, Jüri",0
+3218,"Reinwart, Arnold",0
+3219,"Ringel, Erna",0
+3220,"Saarepere, Selma",0
+3221,"Talkop, Philip",0
+3222,"Talkop, Richard",0
+3223,"Tedder, Arnold",0
+3224,"Allik, Madis",0
+3225,"Blumberg, Endel",0
+3226,"Dellmann, Oskar",0
+3227,"Dreverk, Salme",0
+3228,"Himberg, Erich",0
+3229,"Hinterbach, Alfred",0
+3230,"Jaanverk, Oskar",0
+3231,"Sein, Erich",0
+3232,"Nolk, August",0
+3233,"Reeman, Valfried",0
+3234,"Steinfeldt, Armilde",0
+3235,"Treicholm, Salme",0
+3236,"Verkmann, Marta",0
+3237,"Brock, Sinaida",0
+3238,"Dreier, Julius",0
+3239,"Greenbaum, Salme",0
+3240,"Himberg, Renate",0
+3241,"Villa, Asta",0
+3242,"Laur, Hermine",0
+3243,"Link, Hilda",0
+3244,"Wurmann, Linda",0
+3245,"Aarand, Endel",0
+3246,"Joosepson, Marta",0
+3247,"Jürgenson, Makelooni",0
+3248,"Kaeramaa, Herta",0
+3249,"Karjus, Raimond",0
+3250,"Krass, Karl",0
+3251,"Köört, Helmi",0
+3252,"Kütt, Helju",0
+3253,"Landman, Leopold",0
+3254,"Lauk, Armilde",0
+3255,"Linnamägi, Larissa",0
+3256,"Lossmann, Aino",0
+3257,"Marjamägi, Helmi",0
+3258,"Marjamägi, Leonard",0
+3259,"Mauer, Amanda",0
+3260,"Mein, Egolf",0
+3261,"Mein, Helga",0
+3262,"Mettis, Maimo",0
+3263,"Moora, Arthur",0
+3264,"Pere, Eduart",0
+3265,"Prigu, Juulius",0
+3266,"Puskar, Erna",0
+3267,"Rehesaar, Meeta",0
+3268,"Roose, Albert",0
+3269,"Roots, Aino",0
+3270,"Rähn, Elfriede",0
+3271,"Saar, Voldemar",0
+3272,"Sandel, Arnold",0
+3273,"Sepp, Erich",0
+3274,"Suits, Jaan",0
+3275,"Suits, Linda",0
+3276,"Tamm, Leili",0
+3277,"Türna, Elmar",0
+3278,"Utsal, Erna",0
+3279,"Vadi, Paul",0
+3280,"Valdson, Hjalmar",0
+3281,"Vassil, Leida",0
+3282,"Amor, Otto",0
+3283,"Asper, Vambola",0
+3284,"Glasberg, Johannes",0
+3285,"Joosep, Marie",0
+3286,"Kask, Felix",0
+3287,"Lassman, Helmi",0
+3288,"Leemets, Karl",0
+3289,"Leier, Ilme",0
+3290,"Malm, Linda",0
+3291,"Mats, Marie",0
+3292,"Meibaum, Nikolai",0
+3293,"Miller, Oskar",0
+3294,"Müllerson, Vassili",0
+3295,"Otsalt, Anni ",0
+3296,"Puustus, Arnold",0
+3297,"Pärn, Erna",0
+3298,"Soomelt, Elli",0
+3299,"Tamm, Hilja",0
+3300,"Tamm, Mart",1
+3301,"Tamm, Mart (Laiuse)",0
+3302,"Truusman, Voldemar",0
+3303,"Tooming, Arnold",0
+3304,"Maaser, Herman",0
+3305,"Voorman, Hugo",0
+3306,"Zirk, Alidia",0
+3307,"Berg, Ella",0
+3308,"Berg, Helmi",0
+3309,"Jutt, Viktor",0
+3310,"Laur, Elsa",0
+3311,"Blau, Aleksander",0
+3312,"Malm, Gunda",0
+3313,"Kruusberg, Friidrich",0
+3314,"Mõistus, Emma",0
+3315,"Moon, Karl",0
+3316,"Murakin, Evald",0
+3317,"Peerand, Aino",0
+3318,"Ploovits, Linda",0
+3319,"Reinkubjas, Heinrich",0
+3320,"Roos, Osvald",0
+3321,"Siiman, Alice",0
+3322,"Schumann, Arnold",0
+3323,"Taevere, Paula",0
+3324,"Tamm, Elmar",0
+3325,"Voormann, Hilda",0
+3326,"Kadak, Salme",0
+3327,"Karjane, Jaan",0
+3328,"Kodu, Lydia",0
+3329,"Kõrgesaar, Auguste",0
+3330,"Liivak, Elmar",0
+3331,"Noormägi, Joh.",0
+3332,"Toss, August",0
+3333,"Voimann, Marie",0
+3334,"Õunap, Leo",0
+3335,"Davel, Kuno",0
+3336,"Plaat, Endel",0
+3337,"Traks, Voldemar",0
+3338,"Valkmann, Arnold",0
+3339,"Pernik, Uudu Boriis",0
+3340,"Pärlin, Karl",0
+3341,"Siefermann, Uno",0
+3342,"Aro, Georg",0
+3343,"Plovits, KArl",1
+3344,"Plovits, Karl",0
+3345,"Vinkman, Heinrich",0
+3346,"Annuk, Lydia",0
+3347,"Berg, Salme",0
+3348,"Jakobson, Aleksander",0
+3349,"Jakobson, Eduard",0
+3350,"Jalakas, Ida",0
+3351,"Kask, Elli",0
+3352,"Korts, Leida",0
+3353,"Martin, Armilde",0
+3354,"Oja, Heinrich",0
+3355,"Paljak, Linda",0
+3356,"Pärtelpoeg, Felix",0
+3357,"Raud, Alice",0
+3358,"Rosin, Linda",0
+3359,"Simson, Evald",0
+3360,"Sirel, Erna",0
+3361,"Springfeld, Felix",0
+3362,"Winkmann, Osvald",0
+3363,"Wisnapuu, Alice",0
+3364,"Visnapuu, Gerda",0
+3365,"Õim, Helmi",0
+3366,"Ehrlich, Endel",0
+3367,"Jalakas, Elmar",0
+3368,"Jalakas, Elsa",0
+3369,"Jalakas, Valli",0
+3370,"Kask, Arnold",1
+3371,"Kask, Arnold (snd 1920)",0
+3372,"Kask, Kaljo",0
+3373,"Lepp, Ella",0
+3374,"Lepp, Linnert",0
+3375,"Mägi, Hilda",0
+3376,"Ottson, Elli",0
+3377,"Teetlok, Evald",0
+3378,"Allmann, Leida",0
+3379,"Ambos, August",0
+3380,"Ambos, Elsa",0
+3381,"Ambos, Hilda",0
+3382,"Ambos, Vilhelmine",0
+3383,"Habakukk, Arnold",0
+3384,"Habakukk, Heinrich",0
+3385,"Kangur, Aksel",0
+3386,"Kukk, Aleksander",0
+3387,"Kukk, Elmagda",0
+3388,"Kurik, Heinrich",0
+3389,"Laurisson, Elsa",0
+3390,"Laane, Liine Lisethe",0
+3391,"Laurisson, Bernhard",0
+3392,"Laurisson, Elmeriise",0
+3393,"Laurisson, Johannes",0
+3394,"Laurisson, Joosep",0
+3395,"Laurisson, Karl",0
+3396,"Laurisson, Richard",0
+3397,"Liiv, Selma",0
+3398,"Liiv, Voldemar",0
+3399,"Mägi, Andres",0
+3400,"Paas, Edmund",0
+3401,"Paas, Heldi",0
+3402,"Pugri, Richard",0
+3403,"Raud, Armilda",0
+3404,"Rosenthal, Hella",0
+3405,"Teder, Aino",0
+3406,"Teder, Selma",0
+3407,"Welt, Jaan",0
+3408,"Lepik, Vilma",0
+3409,"Spiegel, R.",0
+3410,"Pällo, Leida",0
+3411,"Laurisson, A.",0
+3412,"Sapas, Elmar",0
+3413,"Tamming, Voldermar",0
+3414,Plaat,0
+3415,3. Suurtükiväe grupiülem,0
+3416,"Unter, Eugen",1
+3417,"Palm, Johannes",0
+3418,"Lepik, Aleksander",0
+3419,"Lepik, A.",1
+3420,"Eplik, J.",0
+3421,"Helman, Linda",0
+3422,"Helman, Magda",0
+3423,"Jõgi, Vilma",0
+3424,"Knuut, Karl",0
+3425,"Kummel, Leida",0
+3426,"Kuuskmann, Heino",0
+3427,"Kuuskmann, Vaike",0
+3428,"Nairismägi, August",0
+3429,"Reinkvist, H.",0
+3430,"Rooseniit, Aliide",0
+3431,"Sepp, Lehte",0
+3432,"Toom, Evald",0
+3433,"Soldan, K.",0
+3434,"Redlich, Selma",0
+3435,"Piile, Mari",0
+3436,"Kivi, Karl",0
+3437,"Möllmann, Aleksander",0
+3438,"Tallenhof, Heinu",0
+3439,"Dubro, Helmi",0
+3440,"Kelmser, Paul",0
+3441,"Kalju, Theodor",0
+3442,"Kuuskmann, Ülo",0
+3443,"Maisa, Erich",0
+3444,"Maisa, Linda",0
+3445,"Rooberg, Hirlanda",0
+3446,"Vain, Aurelie",0
+3447,"Jallai, Vassili",0
+3448,"Vall, Marta",0
+3449,"Kukk, Aleksandra",0
+3450,"Viilo, Evald",0
+3451,"Õun, Alviine",0
+3452,"Kitsemägi, Anna",0
+3453,"Kalk, Olga",0
+3454,"Viilo, Hilda",0
+3455,"Rägo, Hilda",0
+3456,"Lendla, Vassili",0
+3457,"Saarik, Maria",0
+3458,"Mahla, A.",0
+3459,"Iljo, Viktor",0
+3460,"Liinak, Aleksei",0
+3461,"Sõmer, M.",0
+3462,"Leppur, Nat.",0
+3463,"Kuuste, N.",0
+3464,"Roland, Aleksander",0
+3465,"Tallenhof, Vaike",0
+3466,"Loode, Hartvig",0
+3467,"Adamson, Linda (Vastse-Roosa)",0
+3468,"Meho, Ksenja",0
+3469,"Siitam, Endel",0
+3470,"Ester, Salme",0
+3471,"Türk, Theodor",0
+3472,"Virkus, Udo",0
+3473,"Viilup, Endla",0
+3474,"Adler, Arnold",0
+3475,"Köösel, Eduard",0
+3476,"Tagepera, Õie",0
+3477,"Nukk, Linda",0
+3478,"Sulp, Ella",0
+3479,"Vals, Evald",0
+3480,"Sosnin, Muusa",0
+3481,"Käsper, A.",0
+3482,"Loodus, A.",0
+3483,"Sigibert, Susanna",0
+3484,"Kaiste, Vladimir",0
+3485,"Nukk, Taaniel",0
+3486,"Põlder, Klement",0
+3487,"Piht, Hildegard",0
+3488,"Harjus, Salme",0
+3489,"Harjus, Martaliine",0
+3490,"Põlder, L.",0
+3491,"Väärt, Alla",0
+3492,"Tanilas, E.",0
+3493,"Rõõmus, Alma",0
+3494,"Hendrikson, E.",0
+3495,"Kohv, Lydia",0
+3496,"Sarapuu, Kristjan",0
+3497,"Odraks, Leida",0
+3498,"Leemets, Ellen",0
+3499,"Tiivas, Dagmar",0
+3500,"Veidenbaum, L.",0
+3501,"Uustalu, Auguste",0
+3502,"Lillenberg, Vaike",0
+3503,"Mant, Hermilde",0
+3504,"Nõmmela, Oskar",0
+3505,"Liiv, E.",0
+3506,"Sepp, S.",0
+3507,"Tunkar, Friida",0
+3508,"Rätsepp, J.",1
+3509,"Pastak, Leonhard",0
+3510,"Pastak, Alaida",0
+3511,"Pang, Pauline",0
+3512,"Sepper, J.",0
+3513,"Sander, J.",0
+3514,"Tromm, M.",0
+3515,"Graup, Elmar",0
+3516,"Sepp, Marie",0
+3517,"Haav, A.",0
+3518,"Rosenblatt, Johannes",0
+3519,"Juulman, Hilda",0
+3520,"Gross, Lalla",0
+3521,"Anso, Linda",0
+3522,"Sinimets, Salme",0
+3523,"Dööring, Veera",0
+3524,"Tera, Helmi",0
+3525,"Krootmann, Marta",0
+3526,"Morrison, Salme",0
+3527,"Fuchs, Vera",0
+3528,"Miikman, Harald",0
+3529,"Madisson, Amalie",0
+3530,"Meerits, J.",0
+3531,"Köögardal, Linda",0
+3532,"Kukas, Leida",0
+3533,"Pillenberg, Salme",0
+3534,"Kartau, Hilda",0
+3535,"Kindlam, Magnus",0
+3536,"Takk, Leili",0
+3537,"Prii, Karin",0
+3538,"Adel, Elruba",0
+3539,"Grossvald, Hilda",0
+3540,"Raadla, Amanda",0
+3541,"Laugaste, Gerda",0
+3542,"Einberg, Rudolf",0
+3543,"Nurme, Johann (Juhan)",0
+3544,"Piibemann, Linda",0
+3545,"Manitski, Einar",0
+3546,"Manitski, Sylvi",0
+3547,"Treiman, Valeria",0
+3548,"Treiman, Alide",0
+3549,"Kruusvall, Helene",0
+3550,"Heinakroon, Margit",0
+3551,"Kruusvall, Eliine",0
+3552,"Piibemann, Elna",0
+3553,"Nüholm, Sven",0
+3554,"Piibemann, Agda",0
+3555,"Lilhein, N.",1
+3556,"Kuriso, Manivald",1
+3557,"Kruusvall, Evald",0
+3558,"Kain, Helgi",0
+3559,"Kalholm, Arvi",1
+3560,"Huusmann, Sigurt",0
+3561,"Hong, Signe",0
+3562,"Haksalu, Hugo",0
+3563,"Nüström, Arveld",0
+3564,"Eplik, Joosep",0
+3565,"Mägi, Armilde",0
+3566,"Meimer, Helmi",0
+3567,"Sepmann, Aleksander",0
+3568,"Sepmann, Marjette",0
+3569,"Silberberg, Endel",0
+3570,"Treiman, Vally",0
+3571,"Varma-Vaarmann, Jalmar",0
+3572,"Kalholm, Vilma",1
+3573,"Ruukholm, Endel",0
+3574,"Kruusval, Elviine",1
+3575,"Blomkvist, Hartvig",0
+3576,"Toomi, Ullo",0
+3577,"Kutti, Selma",0
+3578,"Lao, Voldemar",1
+3579,"Lepp, N.",0
+3580,"Vunk, Linda",0
+3581,"Balzar, J.",0
+3582,"Holmberg, Andres",0
+3583,"Etverk, S.",0
+3584,"Raudsepp, L.",1
+3585,"Varma, Hilda",0
+3586,"Vardja, E.",0
+3587,"Kuusk, Arnold",0
+3588,"Vaher, Aleks",0
+3589,"Orusaar, Jaan",0
+3590,"Tamm, Jaan, s. 1914 (Setumaa)",0
+3591,"Vardja, Elmar",0
+3592,"Siepermann, Evald",0
+3593,"Treikelder, Ingrid",0
+3594,"Villemson, G.",0
+3595,"Hallikson, Marta",0
+3596,"Sahk, Helmi",0
+3597,"Rehberg, Anna Emiilie",0
+3598,"Uming, Andres",0
+3599,"Vahter, Anton",0
+3600,"Uustalu (Ränk), G.",0
+3601,"Kärp, Ed.",0
+3602,"Lind, Karl",0
+3603,"Sommer, Gustav",0
+3604,"Mesi, Ida",0
+3605,"Asur, Bernhard",0
+3606,"Tarum, Mart",0
+3607,"Kraavik, Ludmilla",0
+3608,"Raadla, Amanda",1
+3609,"Meindok, Helga",0
+3610,"Vool, Donalt",0
+3611,"Lind, Mikk",0
+3612,"Böckler, Leida",0
+3613,"Freudenberg, Valeeria",0
+3614,"Kangur, Helgi",0
+3615,"Davel, Edgar",0
+3616,"Arro, Hilda",0
+3617,"Voiman, Elly",0
+3618,"Davel, Ada",0
+3619,"Tolga, Helmi",0
+3620,"Ormann, Endel",0
+3621,"Tamm, Otto",0
+3622,"Tiit, Johanna",0
+3623,"Abel, Adeele",0
+3624,"Davel, Valve",0
+3625,"Pärn, Paul",0
+3626,"Teppan, Paula",0
+3627,"Valdmaa, Asta",0
+3628,"Saar, Valve",0
+3629,"Fink, Linda",0
+3630,"Raudsepp, Juhannes",1
+3631,"Teppan, Anastasia",0
+3632,"Tamm, Elisabet",0
+3633,"Klaos, Hugo",0
+3634,"Klaos, Voldemar",0
+3635,"Välbe, Alma",0
+3636,"Peterson, Aino",0
+3637,"Sommer, Linda",0
+3638,"Raudsepp, August",0
+3639,"Schmidt, Elma",0
+3640,"Sander, Hilda",0
+3641,"Lind, Anete",0
+3642,"Plumfeldt, Valve",0
+3643,"Sommer, Aino",0
+3644,"Busman, Aleksander",0
+3645,"Lääne, Ernst",0
+3646,"Ostrat, Vilma",0
+3647,"Kirsch, Meta",0
+3648,"Davel, Evi",0
+3650,"Otsanen, A.",0
+3651,"Pärtman, A., Püssi algk. õpil.",0
+3652,"Leemets, J.",0
+3653,"Sula, Elli",0
+3654,"Jekim, Elsa",0
+3655,"Koidu, Helmi",0
+3656,"Ots, H.",0
+3657,"Teetlaus, H.",0
+3658,"Teetlaus, Amanda",0
+3659,"Normak, Marie",0
+3660,"Riisenberg, Leili, Püssi algk. õpil., s. 1922. a.",0
+3661,"Ellisaar, R.",0
+3662,"Neitsov, V.",0
+3663,"Viidalepp, Marta",0
+3664,"Laur, Magda",0
+3665,"Georgin, Mafalda",0
+3666,"Mung-Muuga, Liidia",0
+3667,"Vilto, Georgi",0
+3668,"Hanko (Kurfeldt), Auguste (Aita)",0
+3669,"Kivisäkk, Elmar",0
+3670,"Vahter, Ernst",0
+3671,"Haav, August",0
+3672,"Vilgma, V.",1
+3673,"Mõtus, H.",0
+3674,"Raudsepp, Ludvig",0
+3675,"Toomemägi, Paul",0
+3676,"Evik, Paul",0
+3677,"Lehes, Albert",0
+3678,"Ehala, Enn",0
+3679,"Ress, Nikolai",0
+3680,"Kõrbe, Paul",0
+3681,"Mürkhain, Jakob",0
+3682,"Raud, Nikolai",0
+3683,"Lillemägi, Marie",1
+3684,"Luiga, Nikolai",0
+3685,"Lundt, Rosina",0
+3686,"Aav, Hermine",0
+3687,"Aav, Pauline",0
+3688,"Jegerson, Alide",0
+3689,"Ohtra, Aita",0
+3690,"Aalbau, V,",0
+3691,"Ots, E.",1
+3692,"Mätas, V.",1
+3693,"Mätas, Vilme",0
+3694,"Sirel, Helja-Melaine",0
+3695,"Truve, Eliise",0
+3696,"Steinberg, Elvi Agathe",0
+3697,"Nittim, Magda",0
+3698,"Elmi, Hilda",0
+3699,"Altpere, Helmi",0
+3700,"Uustalu, L.",0
+3701,"Luts, Salme",0
+3702,"Kiibus, Haivy",0
+3703,"Õunapuu, Lilla",0
+3704,"Tänavsuu, Elfriede",0
+3705,"Brauverk, Hilda",0
+3706,"Topenberg, Leida",0
+3707,"Topmann, Eevi",0
+3708,"Kiindok, Aga",0
+3709,"Hellmann, Linda",0
+3710,"Uustalu-Vellman, Hilda",0
+3711,"Ots, Erna",0
+3712,"Raudsepp, J. (Rõuge)",0
+3713,"Evert, Jaan",0
+3714,"Jaanson, Joh.",0
+3715,"Jaanson, Juhan (koguja pojapoeg)",0
+3716,"Jaanson, Jaan (Juhan)",0
+3717,"Lõhmus, Selma",0
+3718,"Amsberg, A.",0
+3719,"Laur, J.",0
+3720,"Kurrikoff, Andreas",0
+3721,"Niilus, Leo",0
+3722,"Laas, Heino",0
+3723,"Mõtus, Heldur",0
+3724,"Lepson, Daniel",0
+3725,"Eenveer, Vello",0
+3726,"Isberg (Hiiemägi), August",0
+3727,"Õunapuu, Anti",0
+3728,"Veskemäe, Jaak",0
+3729,"Paljak, Greete",0
+3730,"Õunapuu, Agnes",0
+3731,"Lell, Hermann",0
+3732,"Kirsipuu, Anna (sünd. Uiga)",0
+3733,"Uusküla, Linda",0
+3734,"Priks, Laine",0
+3735,"Jakobson, Aleksei",0
+3736,"Lille, Voldemar",1
+3737,"Tatrik, Siina, Petseri ühisgümn. Ia kl. õpil. 	",0
+3738,"Lillemets, Nikolai, Petseri ühisgümn. Ia kl. õpil.",0
+3739,"Rohtla, Ilmar, Petseri gümn. õpil.",0
+3740,"Rebase, Helgi, Petseri ühisgümn. IV a kl. õpil.",0
+3741,"Palo, Marie, Petseri ühisgümn. IV a kl. õpil.",0
+3742,"Tarro, Regina, Petseri ühisgümn. IV kl. õpil.",0
+3743,"Leinus, V., Petseri ühisgümn. IV kl. õpil.",0
+3744,"Raidma, Linda",0
+3745,"Rannaste, Voldemar, Petseri progümn. 2. kl. õpil.",0
+3746,"Ilvik, Feodor",0
+3747,"Möldermann, Hans",0
+3748,"Ahurand, Aino",0
+3749,"Nõmm, Toomas",0
+3750,Karala algkooli õpilased,0
+3751,Kaika noorte kotkaste rühm,0
+3752,"Tiitus, Jaan",0
+3753,"Luigla, Elly",0
+3754,"Panov, P.",0
+3755,"Lepp, Kaljo",0
+3756,"Ots, Hella",0
+3757,"Lepa, Jüri",0
+3758,"Karlsfrei, Aksel",0
+3759,"Bakhoff, Georg",0
+3760,"Toomessalu, Aadu",0
+3761,"Riiel, Udo",0
+3762,"Undla, Aino",0
+3763,"Oja, Johannes",0
+3764,"Nikopensius, Elfriide",0
+3765,"Sooberg, Leida",0
+3766,"Vilu, Konstantin",0
+3767,"Ader, Erna",0
+3768,"Hints, Erika",0
+3769,"Elts, Magda",0
+3770,"Joosing, Linda",0
+3771,"Lippus, Ernst",0
+3772,"Lehesalu, Ilse",0
+3773,"Õunpuu, Tiina",0
+3774,"Tikerber, Helja",0
+3775,"Kalholm, Eliise",0
+3776,"Luts, Õie",0
+3777,"Kalme, Meralda",0
+3778,"Viikov, Harald",0
+3779,"Nuiamäe, Erich",0
+3780,"Luts, Emilie",0
+3781,"Kokaselts, Meeta",0
+3782,"Heinamägi, Harald",0
+3783,"Nuiamäe, Edgar",0
+3784,"Salman, Haralt",0
+3785,"Kalme, Friedrich",0
+3786,"Kull, Alma",0
+3787,"Liiva, Gerda",0
+3788,"Pelz, Garda",0
+3789,"Kalme, Ella",0
+3790,"Ader, Armand",0
+3791,"Vink, Aksel",0
+3792,"Kokaselts, Edgar",0
+3793,"Allikov, August",0
+3794,"Päri, Harald",0
+3795,"Pelz, Robert",0
+3796,"Ader, Verner",0
+3797,"Tamm, A.",1
+3798,"Peetov, A.",0
+3799,"Kelner, H.",0
+3800,"Viileberg, Leonore",0
+3801,"Kroon, Magdaleena",0
+3802,"Laos, Elfriide",0
+3803,"Part, Eliisbeth",0
+3804,"Järviste, Amanda",0
+3805,"Aru, Johannes",0
+3806,"Kuuskla, A.",0
+3807,"Loog, Harry",0
+3808,"Aalde, Leida",0
+3809,"Ader, Helmut",0
+3810,"Aio, Silvia",0
+3811,"Tammet, R.",0
+3812,"Lutermann, Liisa",0
+3813,"Blomgvist, Ida",0
+3814,Viinistu algk. õpil-d.,0
+3815,"Hong, Ilse",0
+3816,"Huusmann, Hugo",0
+3817,"Kalholm, Hilje",0
+3818,"Linkrus, Ülo",0
+3819,"Rõõmussaar, Karl August",0
+3820,"Hendrikson, Artur",0
+3821,"Prisk, Evald",0
+3822,"Mets, Endel",0
+3823,"Mikk, August",0
+3824,"Leinsoo, Joh.",0
+3825,"Eplik, J.",1
+3826,"Martinson, H.",0
+3827,"Jurjev-Kallus, G. J.",0
+3828,"Kask, Vaike",0
+3829,"Päss, Elmar",0
+3830,"Raidla, Johannes",1
+3831,"Kaasan, Elga",0
+3832,"Lätt, Selma",0
+3833,"Kroon, Artur",0
+3834,"Vallner, August",0
+3835,"Heli, Enn",0
+3836,"Eichenbaum, F.",1
+3837,"Õis, Kalvi Johannes",0
+3838,"Laanes, Felix",0
+3839,"Lunts, Julius",0
+3840,"Tamm, A. Tartu poegl. gümn. (Rõngu)",0
+3841,"Tamm, A., Albu algk. 5. kl õpil.",0
+3842,"Kirss, Kaljo-Hein",0
+3843,"Rüütel, H., Tartu poeglaste gümn. 4. kl. õpil.",0
+3844,"Sild, Vald.",0
+3845,"Sild, Eduard",0
+3846,"Sastok, J.",0
+3847,"Uibo, Erich",0
+3848,"Visser, Ariina",0
+3849,"Kenkmann, Maimu",0
+3850,"Küpli, Veera",0
+3851,"Saks, Mihkel",0
+3852,"Rosenberg, Robert",0
+3853,"Kello, Robert",0
+3854,"Kaevats, Meta",0
+3855,"Tamvelius, Aino",0
+3856,"Moor, Endel",0
+3857,"Ney, Léon",0
+3858,"Niit, Agnes",0
+3859,"Käänik, Hilda",0
+3860,"Laskja, Elfriide",0
+3861,"Lepik, Vilma",1
+3862,"Reinson, Marta",0
+3863,"Salman, Harald",0
+3864,"Näägo, Ilse",0
+3865,"Karming, Elsa",0
+3866,"Roman, Ilse",0
+3867,"Roos, Helmi",0
+3868,"Kivi, Alise",0
+3869,"Kaasik, Helene",0
+3870,"Hendrikson, Heinrich",0
+3871,"Kruberg, Robert",0
+3872,"Sulakatko, Asta",0
+3873,"Kärner, Ksenia",0
+3874,"Lussman, Elmar",0
+3875,"Sild, Herbert",0
+3876,"Veidenberg, Aliide",0
+3877,"Kuil, Hilda",0
+3878,"Velt, Osvald",0
+3879,"Seits, Heinrich",0
+3880,"Vakrem, Johannes",0
+3881,"Lepner, Liilie",0
+3882,"Punn, Marta",0
+3883,"Vilsaar, August",0
+3884,"Anupõld, Juulia",0
+3885,"Kampf, Oskar",0
+3886,"Truuvert, Antoni",0
+3887,"Väärtnõu, Efrosinia",0
+3888,"Veskimeister, Oskar",0
+3889,"Veskimeister, Artur",0
+3890,"Uuetoa, Mihkel",0
+3891,"Veeber, Aleksander",0
+3892,"Pärn, John",0
+3893,"Männik, Osvald",0
+3894,"Kutti, Florida",0
+3895,"Pärtenson, Elmery Ellen",0
+3896,"Busch, Sigrid",0
+3897,"Udikas, Enda",0
+3898,"Westmann, Leida",0
+3899,"Allikivi, Salme",0
+3900,"Mütsak, Aino",0
+3901,"Koik, Hilda",0
+3902,"Bernhardt, Hilda",0
+3903,"Nikker, Elfriede",0
+3904,"Järve, Leida",0
+3905,"Sepa, Selma",0
+3906,"Änilane, Elsa",0
+3907,"Brauer, E.",0
+3908,"Kark, Aliide",0
+3909,"Põder, Selma",0
+3910,"Villem, Evi",0
+3911,"Tusti, Velda",0
+3912,"Tischler, Gennadi",0
+3913,"Perman, Erna",0
+3914,"Sõber, Erna",0
+3915,"Reinveg, Leida",0
+3916,"Kohfeldt, Järta",0
+3917,"Tooming, Heldi",0
+3918,"Seitam, Helju",0
+3919,"Voites, Veera",0
+3920,"Pedak, Aino",0
+3921,"Koppel, Paul",0
+3922,"Kiho, Ülo",0
+3923,"Avarsoo, Eino",0
+3924,"Mets, Johannes",0
+3925,"Leitu, Paul",0
+3926,"Landmann, Ado Kalev",0
+3927,"Veber, Uno",0
+3928,"Anderson, Raimond",0
+3929,"Alver, Valentin",0
+3930,"Kruuse, Heino",0
+3931,"Sibul, Osvald",0
+3932,"Kompus, Eino",0
+3933,"Pääsukene, Ants",0
+3934,"Ubakivi, Boris",0
+3935,"Jakobson, Julius",0
+3936,"Tihane, J.",0
+3937,"Jaanimägi, Ahto",0
+3938,"Tarend, Adele",0
+3939,"Piir, Harald",0
+3940,"Tammemägi, Voldemar",0
+3941,"Lipstok, Olga",0
+3942,"Maran, Olga",0
+3943,"Ruus, Arnold",0
+3944,"Paltsepp, Bernhard",0
+3945,"Pihu, Kalju",0
+3946,"Tiisler, Hilda",0
+3947,"Talfeldt, Rosiina Aksella",0
+3948,"Sõerd, Aino",0
+3949,"Sultson, Joosep",0
+3950,"Rimm, Salme",0
+3951,"Visla, Paul",0
+3952,"Ossip, Endla",0
+3953,"Haar, M.",0
+3954,"Vislaoja, Ksenia",0
+3955,"Muiste, Aliide",0
+3956,"Tigalane, Olga",0
+3957,"Pihlapuu, Mihkel",0
+3958,"Kelgumäe, Aleksander",0
+3959,"Riitsaar, Semen",0
+3960,"Tammeleht, A.",0
+3961,"Allik, M., Alaotsa algk. 4. kl. õpil",0
+3962,"Lehes, J.",0
+3963,"Mäe, M., Alaotsa algk. 4. kl. õpil.",0
+3964,"Vislapuu, A.",0
+3965,"Orusaar, V.",0
+3966,"Oksmees, Ilja",0
+3967,"Reinola, Mihkel",0
+3968,"Mägioja, Aleksandra",0
+3969,"Aug, Lidija",0
+3970,"Suurväli, Lydia",0
+3971,"Tammisto, Ksenia",0
+3972,"Pikk, Verner",0
+3973,"Mikenberg, Maimu",0
+3974,"Võmma, Jaan",0
+3975,"Birk, Hilda",0
+3976,"Aspe, Koidula",0
+3977,"Lepik, Erna",0
+3978,"Hansmann, Linda",0
+3979,"Jaaniks, Linda",0
+3980,"Prosovits, Hilda",0
+3981,"Oja, Elviine",0
+3982,"Laason, Elviine",0
+3983,"Siitsmann, Salme",0
+3984,"Siitsmann, Arnold",0
+3985,"Teder, Anna",0
+3986,"Mürk, Magda",0
+3987,"Auksmann, Erna Natalie",0
+3988,"Polli, Melanie",0
+3989,"Õunap, Hermine",0
+3990,"Sarvik, Elli",0
+3991,"Jürgens, Leida",0
+3992,"Mölder, Armilde",0
+3993,"Meos, Johanna",0
+3994,"Meos, Linda",0
+3995,"Toover, Aino",0
+3996,"Heidemann, V.",0
+3997,"Muutra, Berta",0
+3998,"Tamm, Kaljo",0
+3999,"Lammertson, August",0
+4000,"Englas, Laine",0
+4001,"Vihm, S.",0
+4002,"Palvadre, J.",0
+4003,"Reiman, Laine",0
+4004,"Upser, Robert",0
+4005,"Räst, Õie",0
+4006,"Zimmer, Eha",0
+4007,"Leevald, Herbert",0
+4008,"Tibo, Agnes",0
+4009,"Hausman, E.",0
+4010,"Maala, Maimu",0
+4011,"Reedi, Maimu",0
+4012,"Kana, Voldemar",0
+4013,"Michelson, Lehte",0
+4014,"Pitka, Albert",0
+4015,"Veskemäe, Jaak",1
+4016,"Ventsel, Ilme",0
+4017,"Läti, Heino",0
+4018,"Oinas-Tammeorg, Anna",0
+4019,"Ljubomirski, Nadeþda",0
+4020,"Ennist, Enda",0
+4021,"Daniel, Ija",0
+4022,"Hallik, Armilda",0
+4023,"Martinson (Mäesalu), Marta",0
+4024,"Veingarten, Helmi",0
+4025,"Saar, Theodor",0
+4058,"Poomann, Ilmar",0
+4059,"Aro, Erich",0
+4060,"Laaban, O.",0
+4061,"Poom, L.",0
+4062,"Viltrop, J.",0
+4063,"Korka, E.",0
+4064,"Lepik, H.",0
+4065,"Sarv, Mannj",0
+4066,"Undo, Martha",0
+4067,"Linde, Johannes",0
+4068,"Pill, Heinrich",0
+4069,"Kuus, Salme",0
+4070,"Kain, Vaike",0
+4071,"Sandel, Laine",0
+4072,"Männik, Mihkel",0
+4073,"Kaste (Kasperg), E.",0
+4074,"Kull, Maimu",0
+4075,"Rabassaar, Asta",0
+4076,"Lõpp, Vilma",0
+4077,"Anijärv, Irene",0
+4078,"Randmäe, Koidula",0
+4079,"Uustalu, Vilma",0
+4080,"Kaljuvee, Aino",0
+4081,"Lauri, Elli",0
+4082,"Kõnnel, Ada",0
+4083,"Värav, Ene",0
+4084,"Anneljas, Linda",0
+4085,"Haavel, Mari",0
+4086,"Reinola, Anna",0
+4087,"Savala, V.",0
+4088,"Lume, Nikolai",0
+4089,"Tubli, Aleksei",0
+4090,"Laane, Karl",0
+4091,"Lendla, Stepan",0
+4092,"Köster, Mihkel",0
+4093,"Niit, Mihkel",0
+4094,"Tiitus, Voldemar",0
+4095,"Pukits, M.",0
+4096,"Kösler, Jaan",0
+4097,"Johanson, Juhan",0
+4098,"Tangsoo, Lembit",0
+4099,"Piirpärg, Kustas",0
+4100,"Aalik, Vassili (Vassilius)",0
+4101,"Duplevski, S.",0
+4102,"Ilvik, Jaan",0
+4103,"Võimula, Tõnu",0
+4104,"Tähk, Mats",0
+4105,"Kask, Artemi",0
+4106,"Kriitmäe, Ed.",0
+4107,"Kruusmägi, Voldemar",0
+4108,"Truu, Albert",0
+4109,"Veski, Hilda",0
+4110,"Unger, Karl",0
+4111,"Linna, Maara",0
+4112,"Aaspõld, Maria",0
+4113,"Grepp, Oskar",0
+4114,"Jõgi, Olev",0
+4115,"Lille, Aleksander",0
+4116,"Arula, Vassili",0
+4117,"Arula, Jaan",0
+4118,"Tubli, Jekateriina",0
+4119,"Ohtla, Paul",0
+4120,"Lüdig, E.",0
+4121,"Luht, Eerich",0
+4122,"Luks, T.",0
+4123,"Mark, Valdo",0
+4124,"Mustis, Edgar",0
+4125,"Ratassepp, Jaan",0
+4126,"Markse, Anna",0
+4127,"Novek, Ilmar",0
+4128,"Vanavarblane, Semen",0
+4129,"Suurhans, Jüri",0
+4130,"Puidak, V.",0
+4131,"Jago, Aino",0
+4132,"Villenthal, Laine",0
+4133,"Voogjärv, Õie Melita",0
+4134,"Kummel, Hilda",0
+4135,"Linkvist, Heldi",0
+4136,"Hirrend, Salme",0
+4137,"Lätt, Selma",1
+4138,"Ross, Marsell",0
+4139,"Eever, Johannes",0
+4140,"Joonuks, Helmut",0
+4141,"Kirss, Ello",0
+4142,"Vara, Liisu",0
+4143,"Õis, Manivalde",0
+4144,"Vilja, Helene",0
+4145,"Kaal, Ilmar",0
+4146,"Paal, Albert",0
+4147,"Abroi, Kristjan",0
+4148,"Sepp, Mare",0
+4149,"Kook, Endel",0
+4150,"Sõrmus, Enn",0
+4151,"Saar, Avo",0
+4152,"Ots, Elsa",0
+4153,"Talisoo, Leon",0
+4154,"Talisoo, Meeta",0
+4155,"Siider, Hermine",0
+4156,"Paju, Vilma",0
+4157,"Ainsalu, Helga",0
+4158,"Pall, Alise",0
+4159,"Randma, Helmut",0
+4160,"Moor, Armilde",0
+4161,"Kõrgekuhi, Aleksander",0
+4162,"Haav, Richard",0
+4163,"Sokk, Gerhard",0
+4164,"Maasik, Dietrich",0
+4165,"Jürgenson, Virve",0
+4166,"Sõber, Valter",0
+4167,"Kärner, Endel",0
+4168,"Valdna, Helmut",0
+4169,"Remmelg, Otto",0
+4170,"Pall, Erna",0
+4171,"Orumaa, Rudolf",0
+4172,"Lemming, Jaan",0
+4173,"Treiman, Kalev",0
+4174,Urvaste algkooli 6. klassi õpilased,0
+4175,"Latik, Helju",0
+4176,"Kivirand, Ülo",0
+4177,"Jänes, Heino",0
+4178,"Liiv, Salme",0
+4179,"Sutt, Jüri",0
+4180,"Kuura, Arno",0
+4181,"Lootus, Tõnis",0
+4182,"Rausk, Endel",0
+4183,"Varendi, Ants",0
+4184,"Sarapuu, Koidula",0
+4185,"Mändmets, Juta",0
+4186,"Jõumees, Arno",0
+4187,"Mäger, Helmut",0
+4188,"Peet, Aino",0
+4189,"Tamla, August",0
+4190,"Vainula, Johannes",0
+4191,"Eevart, Lembit",0
+4192,"Armus, Linda",0
+4193,"Puu, Daime",0
+4194,"Merilo, Robert",0
+4195,"Lauri, Hilja",0
+4196,"Saar, Bernhard",0
+4197,"Hein, Aino",0
+4198,"Liiv, Amanda",0
+4199,"Lauge, Artur",0
+4200,"Sommer, Ellen",0
+4201,"Hart, Osvald",0
+4202,"Eelmaa, Leida",0
+4203,"Aav, Aleksander",0
+4204,"Raudsepp, Voldemar",0
+4205,"Allemann, Alma",0
+4206,"Muusikas, Asta",0
+4207,"Kangru, Heinrich",0
+4208,"Sastok, Virve",0
+4209,"Toomsalu, Endel",0
+4210,"Vetik, Johannes",0
+4211,"Kirss, Ott",0
+4212,"Kalajõgi, Aino",0
+4213,"Vask, Erna",0
+4214,"Assentak, Mary",0
+4215,"Roov, Elvi",0
+4216,"Pirnimäe, Asta",0
+4217,"Joamets, Salme",0
+4218,"Sipria, Lembit",0
+4219,"Niggol, Salme",0
+4220,"Kits, Maimu",0
+4221,Longi kodutütarde rühm,0
+4222,"Steinbach, Hilda",0
+4223,"Lusik, Ellen",0
+4224,"Muruste, Vaike",0
+4225,"Vilper, Lydia",0
+4226,"Sakk, Leeni",0
+4227,"Laev, Laini",0
+4228,"Toomela, Asta",0
+4229,"Teder, Linda",0
+4230,"Ots, Grete",0
+4231,"Koort, Heinrich",0
+4232,"Vapra, Regina",0
+4233,"Matson, Leida",0
+4234,"Tiit, Elfriide Õie",0
+4235,"Kulbok, Salme",0
+4236,"Kirik, Salme",0
+4237,"Laredei, Meiu",0
+4238,"Alasoo, Aino",0
+4239,"Aleksandrova, Hilda",0
+4240,"Kask, Helgi",0
+4241,"Pärdijaak, Aino",0
+4242,"Sang, Aino",0
+4243,"Rannap, Hilja",0
+4244,"Karu, Armilde Marianne",0
+4245,"Saul, Nanni",0
+4246,"Tauts, Maimu",0
+4247,"Talvistu, Maimu",0
+4248,Pornuse kodutütarde rühm,0
+4249,"Kulbok, Asta",0
+4250,"Siniväli, Laine",0
+4251,"Sikk, Hartvig",0
+4252,"Pallits, A.",0
+4253,"Lääts, Jaan",0
+4254,"Männioks, Endel",0
+4255,"Rootalu, Albrecht",0
+4256,"Reimaste, J.",0
+4257,"Muns, Jakob",0
+4258,"Tõhela kodutütarde rühm ""Helk""",0
+4259,"Kilingi-Nõmme kodutütarde rühm ""Helk""",0
+4260,Taali kodutütarde rühm,0
+4261,"Mikal, Salme",0
+4262,Tapa Ühisgümnaasiumi õpil.,0
+4263,"Sepp, H. (Talli kodutütarde rühm)",0
+4264,Talli kodutütarde rühm,0
+4265,"Valtenberg, Ariadne",0
+4266,"Haas, Helmi",0
+4267,"Juhkam, Linda",0
+4268,"Kütt, Linda",0
+4269,"Vainoja, Anne",0
+4270,"Kiirats, Õie",0
+4271,"Mardi, Saima",0
+4272,"Köösel, Helju",0
+4273,"Tõnn, Eliise",0
+4274,"Tamm, Linda",0
+4275,"Soomets, Salme",0
+4276,"Kaseniit, Hilja",0
+4277,"Tamm, Vilma",0
+4278,"Piiriste, Salme",0
+4279,"Viljak, Mary",0
+4280,"Madissoo, Leili",0
+4281,"Reidla, Vilma",0
+4282,"Leeberg, Ilme",0
+4283,"Virkus, Vilma",0
+4284,"Koch, Õie",0
+4285,"Vain, Aino",0
+4286,"Reinu, Agnes",0
+4287,"Kägu, Linda",0
+4288,"Tuisk, Vilma",0
+4289,"Kask, Hilja",0
+4290,"Univer, Laine",0
+4291,"Tilk, Elli",0
+4292,"Kaasik, Liisa",0
+4293,"Kallioja, Virve",0
+4294,"Toomiste, Felonilla",0
+4295,"Koger, Asta Erika",0
+4296,"Kallas, Agnes",0
+4297,"Raie, Hilda",0
+4298,"Silling, Juta",0
+4299,"Kurm, Hilja",0
+4300,"Roosve, Helju",0
+4301,"Tehver, Hilda",0
+4302,"Peetrimäe, Ida",0
+4303,"Juha, Ly",0
+4304,"Voll, Ilse",0
+4305,"Ilbak, Linda",0
+4306,"Vilper, Asta",0
+4307,"Laev, Laine",0
+4308,"Tamme, Linda",0
+4309,"Kuut, Vilma",0
+4310,"Paut, Linda",0
+4311,"Kivisäk, Hilda",0
+4312,"Simmo, Irene",0
+4313,"Veski, Aado",0
+4314,"Karus, Helmut",0
+4315,"Jõesaar, Alaida",0
+4316,"Trummar, Meinhard",0
+4317,"Alliksaar, Maimu",0
+4318,"Karm, Alma",0
+4319,"Pärt, Salme",0
+4320,"Kalmet, Glori",0
+4321,"Kohv, Leida",0
+4322,"Sõrmus, Nikolai",0
+4323,"Raudsepp, Juhannes, Laius-Tähkvere valla 6-klassilise algkooli III kl.",0
+4324,"Palgi, Maria, Jaaska algk. 5. kl. õpil",0
+4325,"Tammeorg, Anna",0
+4326,"Viitkin, Voldemar",0
+4327,"Kaivo, Olga, Jaaska algk. 5. kl. õpil.",0
+4328,"Õuna, Maria, Jaaska algk. 5. kl. õpil.",0
+4329,"Kink, Anna, Jaaska algk. 6. kl. õpil.",0
+4330,"Jürisaar, Jevdokia, Jaaska algk. 6. kl. õpil.",0
+4331,"Tapper, Olga, Jaaska algk. 5. kl. õpil.",0
+4332,"Kodas, Veera",0
+4333,"Hõbesaar, Maria, Jaaska algk. 6. kl. õpil.",0
+4334,"Ilosaar, Anna, Jaaska algk. 6 kl. õpil.",0
+4335,"Võsu, Peeter, Jaaska algk. 6 kl. õpil.",0
+4336,"Kikkas, Ekaterina, Jaaska algk. 6 kl. õpil.",0
+4337,"Palomägi, Aleksander, Jaaska algk. 5. kl. õpil.",0
+4338,"Keera, Stepan, Jaaska algk. 5. kl. õpil.",0
+4339,"Luha, Aleksei, Jaaska algk. 5. kl. õpil.",0
+4340,"Käoleht, Aleksei, Jaaska algk. 5. kl. õpil.",0
+4341,"Kadastik, Mihail, Jaaska algk. 5. kl. õpil.",0
+4342,"Männapuu, Nikolai, Jaaska algk. 5. kl. õpil.",0
+4343,"Haabla, Ivan, Jaaska algk. 5. kl. õpil.",0
+4344,"Kallo, Nikolai, Jaaska algk. 5. kl. õpil.",0
+4345,"Keera, Matröna, Jaaska algk. 5. kl. õpil.",0
+4346,"Häiermo, Aleksandra, Jaaska algk. õpil.",0
+4347,"Lillik, Ivan, Jaaska algk. 5. kl. õpil.",0
+4348,"Kuuse, Feodor, Jaaska algk. 6. kl. õpil.",0
+4349,"Palo, Paul, Jaaska algk. 6. kl. õpil.",0
+4350,"Kalda, Aleksei, Jaaska algk. 6. kl. õpil.",0
+4351,"Ojaperv, Vassili, Jaaska algk. 6. kl. õpil.",0
+4352,"Ilvik, Maria",0
+4353,"Tammsoo, Tarmo",0
+4354,"Pedajas, Liis",0
+4355,"Möller, Kalju, 11 a., Laius-Tähkvere valla 6-klassilise algk. IV kl.",0
+4356,"Kuulman, Paul, 11 a., Laius-Tähkvere valla 6-klassilise algk. IV kl.",0
+4357,"Kull, Leida, 14 a., Laius-Tähkvere valla 6-klassilise algk. õpil.",0
+4358,"Tamm, Selma, 14 a., Laius-Tähkvere valla 6-klassilise algk. õpil.",0
+4359,"Kriis, Erna, 10 a., Laius-Tähkvere valla 6-klassilise algk. V kl.",0
+4360,"Saar, Talida, 12 a., Laius-Tähkvere valla 6-klassilise algk. V kl.",0
+4361,"Saar, Tamara, 10 a., Laius-Tähkvere valla 6-klassilise algk. V kl.",0
+4362,"Kask, Uno, Laius-Tähkvere valla 6-klassilise algk. IV kl.",0
+4363,"Tamm, Helgi, 13 a., Laius-Tähkvere valla 6-klassilise algk. V kl.",0
+4364,"Välbe, Helmi",0
+4365,"Väet, Evald, 12 a., Laius-Tähkvere valla 6-klassilise algk. IV kl.",0
+4366,"Nagel, Aadam, Laius-Tähkvere valla 6-klassilise algk. III kl.",0
+4367,"Frühling, Aleksander Johannes",0
+4368,"Koplimägi, Nikolai",0
+4369,"Linna, Maria",0
+4370,"Prei, Elmar",0
+4371,"Vinkel, Aarne",0
+4372,"Siim, Linda, Oru algk. IV kl. õpil.",0
+4373,"Suvalov, A., 15 a., Oru algk.",0
+4374,"Ehasaar, Helve, 14 a., Oru algk.",0
+4375,"Kallas, Helga, 13 a., Oru algk.",0
+4376,"Viispuu, Herman",0
+4377,"Heamaste, Velli",0
+4378,"Liiva, Lembit",0
+4379,"Alep, Rudolf",0
+4380,"Pross, Johannes",0
+4381,"Soosalu, Ants",0
+4382,"Truus, Lehti",0
+4383,"Pilt, Evalt",0
+4384,"Küünarpuu, Aliide",0
+4385,"Laanberg, Alma",0
+4386,"Heinsoo, Arno",0
+4387,"Almert, Rudolf",0
+4388,"Hiiemägi, August",0
+4389,"Tagam, Joh.",0
+4390,"Poom, Harry",0
+4391,"Laane, Selma",0
+4392,"Sommer, Hugo",0
+4393,"Lääne, Meinhard",0
+4394,"Klaos, Karl",0
+4395,"Loo, Urve",0
+4396,"Männioks, Endel",0
+4397,"Suuts, Teet",0
+4398,"Eneveer, Vello",0
+4399,"Eneveer, Vello",1
+4400,"Vilbaste, G.",0
+4401,"Kallus, Gustav Johann",0
+4402,"Kingsepp, Ela",0
+4403,"Võtti, Priido",0
+4404,"Prei, E. H.",0
+4405,"Laan, August",0
+4406,"Solon, Silver",0

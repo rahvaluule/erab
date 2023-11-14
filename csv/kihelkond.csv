@@ -1,0 +1,124 @@
+kihelkond_id,maakond_id,nimi,flags
+-1,-1,teadmata,1
+1,1,Haljala,0
+2,1,Iisaku,0
+3,1,Jõhvi,0
+4,1,Kadrina,0
+5,1,Lüganuse,0
+6,1,Rakvere,0
+7,1,Simuna,0
+8,1,Vaivara,0
+9,1,Viru-Jaagupi,0
+10,1,Viru-Nigula,0
+11,1,Väike-Maarja,0
+12,2,Ambla,0
+13,2,Anna,0
+14,2,Järva-Jaani,0
+15,2,Järva-Madise,0
+16,2,Koeru,0
+17,2,Paide,0
+18,2,Peetri,0
+19,2,Türi,0
+20,3,Hageri,0
+21,3,Harju-Jaani,0
+22,3,Harju-Madise,0
+23,3,Juuru,0
+24,3,Jõelähtme,0
+25,3,Jüri,0
+26,3,Keila,0
+27,3,Kose,0
+28,3,Kuusalu,0
+29,3,Nissi,0
+30,3,Rapla,0
+31,3,Risti,0
+32,3,Tallinn,0
+33,4,Emmaste,0
+34,4,Hanila,0
+35,4,Kirbla,0
+36,4,Karuse,0
+37,4,Kullamaa,0
+38,4,Käina,0
+39,4,Lihula,0
+40,4,Lääne-Nigula,0
+41,4,Martna,0
+42,4,Mihkli,0
+43,4,Märjamaa,0
+44,4,Noarootsi,0
+45,4,Pühalepa,0
+46,4,Reigi,0
+47,4,Ridala,0
+48,4,Varbla,0
+49,4,Vigala,0
+50,5,Anseküla,0
+51,5,Jaani,0
+52,5,Jämaja,0
+53,5,Kaarma,0
+54,5,Kihelkonna,0
+55,5,Karja,0
+56,5,Kärla,0
+57,5,Muhu,0
+58,5,Mustjala,0
+59,5,Püha,0
+60,5,Pöide,0
+61,5,Valjala,0
+62,6,Audru,0
+63,6,Halliste,0
+64,6,Häädemeeste,0
+65,6,Karksi,0
+66,6,Kihnu,0
+67,6,Mihkli,1
+68,6,Pärnu-Jaagupi,0
+69,6,Pärnu,0
+70,6,Saarde,0
+71,6,Tori,0
+72,6,Tõstamaa,0
+73,6,Vändra,0
+74,7,Helme,0
+75,7,Kolga-Jaani,0
+76,7,Kõpu,0
+77,7,Paistu,0
+78,7,Pilistvere,0
+79,7,Põltsamaa,0
+80,7,Suure-Jaani,0
+81,7,Tarvastu,0
+82,7,Viljandi,0
+83,8,Kambja,0
+84,8,Kodavere,0
+85,8,Kursi,0
+86,8,Laiuse,0
+87,8,Maarja-Magdaleena,0
+88,8,Nõo,0
+89,8,Otepää,0
+90,8,Palamuse,0
+91,8,Puhja,0
+92,8,Rannu,0
+93,8,Rõngu,0
+94,8,Sangaste,0
+95,8,Tartu-Maarja,0
+96,8,Tartu,0
+97,8,Torma,0
+98,8,Võnnu,0
+99,8,Äksi,0
+100,9,Hargla,0
+101,9,Kanepi,0
+102,9,Karula,0
+103,9,Põlva,0
+104,9,Rõuge,0
+105,9,Räpina,0
+106,9,Urvaste,0
+107,9,Vastseliina,0
+120,4,Haapsalu,0
+121,4,Hiiumaa,0
+122,1,Narva l.,0
+123,2,Paide l.,0
+124,6,Pärnu l.,0
+125,1,Rakvere l.,0
+126,5,Sõrve,0
+127,7,Viljandi l.,0
+128,9,Võru l.,0
+129,5,Kuressaare l.,0
+130,130,Valga,0
+132,1,Tapa l.,0
+133,3,Nõmme l.,0
+134,132,Põltsamaa l.,0
+135,7,Põltsamaa l.,0

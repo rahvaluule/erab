@@ -1,0 +1,16 @@
+maakond_id,nimi,flags
+-1,teadmata,1
+1,Virumaa,0
+2,Järvamaa,0
+3,Harjumaa,0
+4,Läänemaa,0
+5,Saaremaa,0
+6,Pärnumaa,0
+7,Viljandimaa,0
+8,Tartumaa,0
+9,Võrumaa,0
+108,Setumaa,0
+110,välismaa,0
+129,Valga l.,1
+130,Valgamaa,0
+132,Jõgevamaa,0
