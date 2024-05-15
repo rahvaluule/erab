@@ -1,5 +1,5 @@
 <COLLECTION>
-<ITEM nro="hgrq00050001">
+<ITEM nro="hgrq00050001" y="1888">
 <META>
 <ID>H, Gr. Qu. 5/6 (1)</ID> &lt; <LOC>(?) Vaivara khk., Narva, Kreenholm</LOC> - <COL>J. Wolde</COL> (<TMP>1888</TMP>)
 <ZANR>siirdevormiline laul</ZANR><TYP>
@@ -43,7 +43,7 @@ Vaese mehe laul
 <V>Ega pole pehus penningida</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq00090002">
+<ITEM nro="hgrq00090002" y="1888">
 <META>
 <ID>H, Gr. Qu. 9/11 (2)</ID> &lt; <LOC>Viru-Nigula khk., Varude k.</LOC> - <COL>J. Wolde</COL> (<TMP>1888</TMP>)
 <ZANR>siirdevormiline laul</ZANR><TYP>
@@ -142,7 +142,7 @@ Põllumehe laul
 <V>Ametmees ajuti rikas.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq00120003">
+<ITEM nro="hgrq00120003" y="1888">
 <META>
 <ID>H, Gr. Qu. 12 (3)</ID> &lt; <LOC>Viru-Jaagupi khk., Põlula v.</LOC> - <COL>J. Wolde</COL> (<TMP>1888</TMP>)
 <ZANR>siirdevormiline laul</ZANR>
@@ -163,7 +163,7 @@ Põllumehe laul
 <V>Kui saame värsket loomaliha.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq00120004">
+<ITEM nro="hgrq00120004" y="1888">
 <META>
 <ID>H, Gr. Qu. 12 (4)</ID> &lt; <LOC>Viru-Jaagupi khk., Põlula v.</LOC> - <COL>J. Wolde</COL> (<TMP>1888</TMP>)
 <ZANR>siirdevormiline laul</ZANR>
@@ -185,7 +185,7 @@ Põllumehe laul
 <V>Varestest kõik vaagutama</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq00140001">
+<ITEM nro="hgrq00140001" y="1888">
 <META>
 <ID>H, Gr. Qu. 14 (1)</ID> &lt; <LOC>Viru-Nigula khk., Varude k.</LOC> - <COL>J. Wolde</COL> &lt; <INF><NIMI>Reinu Jakup</NIMI></INF> (<TMP>1888</TMP>)
 <ZANR>siirdevormiline laul</ZANR>
@@ -221,7 +221,7 @@ Põllumehe laul
 <V>Sant saab aidast, sant saab ajast.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq00210001">
+<ITEM nro="hgrq00210001" y="1888">
 <META>
 <ID>H, Gr. Qu. 21 (1)</ID> &lt; <LOC>(?)Vaivara khk., Narva, Kreenholm &amp; (?)Viru-Nigula khk., Varude k.</LOC> - <COL>J. Wolde</COL> (<TMP>1888</TMP>)
 <TYP_YHT>Mutiks mätta alla + Noorik kodu käimas</TYP_YHT>
@@ -280,7 +280,7 @@ Mutiks mätta alla
 <V>Keriksel kirju kitse rooga.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq00220002">
+<ITEM nro="hgrq00220002" y="1888">
 <META>
 <ID>H, Gr. Qu. 22 (2)</ID> &lt; <LOC>(?)Vaivara khk., Narva, Kreenholm &amp; (?)Viru-Nigula khk., Varude k.</LOC> - <COL>J. Wolde</COL> (<TMP>1888</TMP>)
 <ZANR>siirdevormiline laul</ZANR><TYP_YHT>Lauldud hobu ja sadul</TYP_YHT>
@@ -312,7 +312,7 @@ Laulust hobu - sadul
 <V>Targa taadikese juure</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq00220003">
+<ITEM nro="hgrq00220003" y="1888">
 <META>
 <ID>H, Gr. Qu. 22 (3)</ID> &lt; <LOC>(?)Vaivara khk., Narva, Kreenholm &amp; (?)Viru-Nigula khk., Varude k.</LOC> - <COL>J. Wolde</COL> (<TMP>1888</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -352,7 +352,7 @@ Laulust hobu - sadul
 <V>Pitka paateri peresta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq00650001">
+<ITEM nro="hgrq00650001" y="1889">
 <META>
 <ID>H, Gr. Qu. 65/6 (1)</ID> &lt; <LOC>Haljala khk.</LOC> - <COL>J. Wolde</COL> &lt; <INF><NIMI>Elisabet Teimann</NIMI></INF> (<TMP>1889</TMP>)
 </META>
@@ -415,7 +415,7 @@ Laulust hobu - sadul
 <V>Kange pakase pausta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01000001">
+<ITEM nro="hgrq01000001" y="1889">
 <META>
 <ID>H, Gr. Qu. 100 (1)</ID> &lt; <LOC>Viru-Nigula khk., Varude v.</LOC> - <COL>J. Wolde</COL> &lt; <INF><NIMI>Kattalsepa Joosep</NIMI></INF> (<TMP>1889</TMP>)
 <ZANR>siirdevormiline laul</ZANR>
@@ -472,7 +472,7 @@ Laulust hobu - sadul
 <V>Kibedaste kintsu peale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01230001">
+<ITEM nro="hgrq01230001" y="1890">
 <META>
 <ID>H, Gr. Qu. 123/4 (1)</ID> &lt; <LOC>Kadrina khk., Undla v.</LOC> - <COL>J. Wolde</COL> &lt; <INF><NIMI>Marie Abner</NIMI></INF> (<TMP>1890</TMP>)
 <ZANR>siirdevormiline laul</ZANR>
@@ -524,7 +524,7 @@ Laulust hobu - sadul
 <V>Küündest küündrapuule märgid.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01240002">
+<ITEM nro="hgrq01240002" y="1890">
 <META>
 <ID>H, Gr. Qu. 124/5 (2)</ID> &lt; <LOC>Kadrina khk., Undla v.</LOC> - <COL>J. Wolde</COL> &lt; <INF><NIMI>Marie Abner</NIMI></INF> (<TMP>1890</TMP>)
 <ZANR>siirdevormiline laul</ZANR><TYP_YHT>Laulu võim</TYP_YHT>
@@ -580,7 +580,7 @@ Laulu võim
 <V>Laulan marja meelekene.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01260003">
+<ITEM nro="hgrq01260003" y="1890">
 <META>
 <ID>H, Gr. Qu. 126 (3)</ID> &lt; <LOC>Viru-Nigula khk., Uhtna v.</LOC> - <COL>J. Wolde</COL> &lt; <INF><NIMI>J. Sommer</NIMI></INF> (<TMP>1890</TMP>)
 </META>
@@ -616,7 +616,7 @@ Laulu võim
 <V>Paraneksid pain'ja haavad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01350001">
+<ITEM nro="hgrq01350001" y="1892">
 <META>
 <ID>H, Gr. Qu. 135 (1)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Lauldud hobu ja sadul + Vares ootab hobuse surma</TYP_YHT>
@@ -652,7 +652,7 @@ Lauldud hobu - sadul
 <V>Mul olid targad tallipoisid</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01360002">
+<ITEM nro="hgrq01360002" y="1892">
 <META>
 <ID>H, Gr. Qu. 136 (2)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Laulu võim</TYP_YHT>
@@ -679,7 +679,7 @@ Laulu võim
 <V>Õe uue aidasse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01360003">
+<ITEM nro="hgrq01360003" y="1892">
 <META>
 <ID>H, Gr. Qu. 136/8 (3)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Venna sõjalugu + Müüdud neiu</TYP_YHT>
@@ -746,7 +746,7 @@ Laulu võim
 <V>Neljas tõrvatilgakesta</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01380004">
+<ITEM nro="hgrq01380004" y="1892">
 <META>
 <ID>H, Gr. Qu. 138/9 (4)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Memme vaev</TYP_YHT>
@@ -778,7 +778,7 @@ Memme vaev
 <V>Ja oli taadil tantsitada</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01390005">
+<ITEM nro="hgrq01390005" y="1892">
 <META>
 <ID>H, Gr. Qu. 139/40 (5)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <ZANR></ZANR><TYP>
@@ -811,7 +811,7 @@ Neiu ja peiu
 <V>Kelle jalas Malle king</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01400006">
+<ITEM nro="hgrq01400006" y="1892">
 <META>
 <ID>H, Gr. Qu. 140 (6)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Neiunälg</TYP_YHT>
@@ -842,7 +842,7 @@ Neiu ja peiu
 <V>Oleks see peiu minule</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01410007">
+<ITEM nro="hgrq01410007" y="1892">
 <META>
 <ID>H, Gr. Qu. 141 (7)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <ZANR>siirdevormiline laul</ZANR><TYP_YHT>Rõõmus nekrut</TYP_YHT>
@@ -878,7 +878,7 @@ Rõõmus soldat
 <V>Miks sa tütart mull' ei anna.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01420008">
+<ITEM nro="hgrq01420008" y="1892">
 <META>
 <ID>H, Gr. Qu. 142 (8)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Luust sõrmus + Venna sõjalugu</TYP_YHT>
@@ -911,7 +911,7 @@ Meri - luust sõrmus
 <V>Keskmised koju tulevad</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01420009">
+<ITEM nro="hgrq01420009" y="1892">
 <META>
 <ID>H, Gr. Qu. 142/3 (9)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Peksuhaavade vihtlemine</TYP_YHT>
@@ -943,7 +943,7 @@ Sauna kütmine haavade vihtlemiseks
 <V>Läbi peene palaka</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01430010">
+<ITEM nro="hgrq01430010" y="1892">
 <META>
 <ID>H, Gr. Qu. 143 (10)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Kosjahobu söötmine + Soome sild</TYP_YHT>
@@ -972,7 +972,7 @@ Kosjahobu söötmine
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hgrq01440011">
+<ITEM nro="hgrq01440011" y="1892">
 <META>
 <ID>H, Gr. Qu. 144 (11)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>_ + Pisarate veeremine</TYP_YHT>
@@ -999,7 +999,7 @@ Lahkumise valu
 <V>Minu vaese silmaveesta</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01440012">
+<ITEM nro="hgrq01440012" y="1892">
 <META>
 <ID>H, Gr. Qu. 144 (12)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Must naine</TYP_YHT>
@@ -1022,7 +1022,7 @@ Must naine
 <V>Musta munde karvaseksi</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01450013">
+<ITEM nro="hgrq01450013" y="1892">
 <META>
 <ID>H, Gr. Qu. 145/6 (13)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Mehetapja</TYP_YHT>
@@ -1088,7 +1088,7 @@ Maie
 <V>Ja mu kahjuks kallatakse</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01470014">
+<ITEM nro="hgrq01470014" y="1892">
 <META>
 <ID>H, Gr. Qu. 147/8 (14)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Kaasa kaugel + _ + Ilusad juuksed</TYP_YHT>
@@ -1138,7 +1138,7 @@ Kaasa kaugel
 <V>Säärimarjani magada</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01480015">
+<ITEM nro="hgrq01480015" y="1892">
 <META>
 <ID>H, Gr. Qu. 148 (15)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Hakkame, mehed, minema! + Kodu kaugel</TYP_YHT>
@@ -1162,7 +1162,7 @@ Hakkame minema
 <V>Üheksa hüva jõgeda</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01490016">
+<ITEM nro="hgrq01490016" y="1892">
 <META>
 <ID>H, Gr. Qu. 149 (16)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Arg laulik</TYP_YHT>
@@ -1197,7 +1197,7 @@ Arg laulik
 <V>Lehelisel loputada</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01500017">
+<ITEM nro="hgrq01500017" y="1892">
 <META>
 <ID>H, Gr. Qu. 150 (17)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Neiuhulk laiali</TYP_YHT>
@@ -1232,7 +1232,7 @@ Neiuhulk laiali
 <V>Kosjaasju aadessagi</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01510018">
+<ITEM nro="hgrq01510018" y="1892">
 <META>
 <ID>H, Gr. Qu. 151 (18)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Oleks see mees minu!</TYP_YHT>
@@ -1269,7 +1269,7 @@ Oleks
 <V>Kannalapid rasvamata</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01520019">
+<ITEM nro="hgrq01520019" y="1892">
 <META>
 <ID>H, Gr. Qu. 152 (19)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP>
@@ -1284,7 +1284,7 @@ Loo seadja süüdi
 <V>Loo otsad urvakille</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01520020">
+<ITEM nro="hgrq01520020" y="1892">
 <META>
 <ID>H, Gr. Qu. 152 (20)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP>
@@ -1302,7 +1302,7 @@ Vana hobu ja naine
 <V>Naene nälga leiva vanni</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01520021">
+<ITEM nro="hgrq01520021" y="1892">
 <META>
 <ID>H, Gr. Qu. 152/3 (21)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Kass kaevus</TYP_YHT>
@@ -1348,7 +1348,7 @@ Kass kaevus
 <V>Pea pealt pisikesed lapid</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01540022">
+<ITEM nro="hgrq01540022" y="1892">
 <META>
 <ID>H, Gr. Qu. 154 (22)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP>
@@ -1375,7 +1375,7 @@ Peretütar ja orjalaps
 <V>Aluspalgi palve'elle</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01540023">
+<ITEM nro="hgrq01540023" y="1892">
 <META>
 <ID>H, Gr. Qu. 154 (23)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Kurg ja vares</TYP_YHT>
@@ -1395,7 +1395,7 @@ Kurg pahandab
 <V>Lestasjalad liikumaie</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01550023">
+<ITEM nro="hgrq01550023" y="1892">
 <META>
 <ID>H, Gr. Qu. 155 (23)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>_ + Imemaa</TYP_YHT>
@@ -1431,7 +1431,7 @@ Neiud öösel käimas
 <V>Lehed leinavad emada</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01560024">
+<ITEM nro="hgrq01560024" y="1892">
 <META>
 <ID>H, Gr. Qu. 156 (24)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Vihm, üle vaeslapsest</TYP_YHT>
@@ -1454,7 +1454,7 @@ Saja vihm
 <V>Ninarätiku nidujad</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01560025">
+<ITEM nro="hgrq01560025" y="1892">
 <META>
 <ID>H, Gr. Qu. 156 (25)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <ZANR>siirdevormiline laul</ZANR><TYP>
@@ -1479,7 +1479,7 @@ Nekrut põgenemas
 <V>Sanderid sajatamaie</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01570026">
+<ITEM nro="hgrq01570026" y="1892">
 <META>
 <ID>H, Gr. Qu. 157 (26)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP>
@@ -1496,7 +1496,7 @@ Kodu kõik surnud/Kodu võõraste käes
 <V>Metsakollid kandvad hoolta</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01570027">
+<ITEM nro="hgrq01570027" y="1892">
 <META>
 <ID>H, Gr. Qu. 157 (27)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Tütar ei saa tööst palka</TYP_YHT>
@@ -1524,7 +1524,7 @@ Tütar ei saa töö eest palka
 <V>Läbi aia anda kätte</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq0158027b">
+<ITEM nro="hgrq0158027b" y="1892">
 <META>
 <ID>H, Gr. Qu. 158/9 (27b)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP>
@@ -1574,7 +1574,7 @@ Tütrete tapja
 <V>Lambrilapsed aavad pooli</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01590028">
+<ITEM nro="hgrq01590028" y="1892">
 <META>
 <ID>H, Gr. Qu. 159/60 (28)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Must naine</TYP_YHT>
@@ -1604,7 +1604,7 @@ Must naine
 <V>Enesel oli ilus näha</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01600029">
+<ITEM nro="hgrq01600029" y="1892">
 <META>
 <ID>H, Gr. Qu. 160/1 (29)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Kasvatus asjatu</TYP_YHT>
@@ -1642,7 +1642,7 @@ Kasvatus asjata
 <V>Need käisid läbi südame</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01610030">
+<ITEM nro="hgrq01610030" y="1892">
 <META>
 <ID>H, Gr. Qu. 161 (30)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP>
@@ -1668,7 +1668,7 @@ Pisikene naine
 <V>Küla küünalde ilule</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01610031">
+<ITEM nro="hgrq01610031" y="1892">
 <META>
 <ID>H, Gr. Qu. 161/2 (31)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Kari kadunud + _</TYP_YHT>
@@ -1702,7 +1702,7 @@ Karja otsija
 <V>Kübarata kinda'ata</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01620032">
+<ITEM nro="hgrq01620032" y="1892">
 <META>
 <ID>H, Gr. Qu. 162/3 (32)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP>
@@ -1731,7 +1731,7 @@ Neiu  karjas
 <V>Juted kullakeerulised</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01630033">
+<ITEM nro="hgrq01630033" y="1892">
 <META>
 <ID>H, Gr. Qu. 163/4 (33)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <ZANR>siirdevormiline laul</ZANR>
@@ -1776,7 +1776,7 @@ Neiu  karjas
 <V>Kui see sõrmus sõrme ümber.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01640034">
+<ITEM nro="hgrq01640034" y="1892">
 <META>
 <ID>H, Gr. Qu. 164/5 (34)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <ZANR>siirdevormiline laul</ZANR><TYP_YHT>Ära mine noorelt mehele!</TYP_YHT>
@@ -1803,7 +1803,7 @@ Neiu  karjas
 <V>Iga päev tahab valget särki.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01650035">
+<ITEM nro="hgrq01650035" y="1892">
 <META>
 <ID>H, Gr. Qu. 165 (35)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Orjade tee</TYP_YHT>
@@ -1823,7 +1823,7 @@ Orjade tee
 <V>Hilja need pereminiad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01650036">
+<ITEM nro="hgrq01650036" y="1892">
 <META>
 <ID>H, Gr. Qu. 165/6 (36)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <ZANR>siirdevormiline laul</ZANR><TYP_YHT>Hunt ja kits</TYP_YHT>
@@ -1856,7 +1856,7 @@ Kits ja hunt
 <V>Sooled siidirihmakesed</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01660037">
+<ITEM nro="hgrq01660037" y="1892">
 <META>
 <ID>H, Gr. Qu. 166/8 (37)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Ema haual</TYP_YHT>
@@ -1923,7 +1923,7 @@ A
 <V>Jaanikanni vasikatel</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01680038">
+<ITEM nro="hgrq01680038" y="1892">
 <META>
 <ID>H, Gr. Qu. 168/9 (38)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Võta mulle naine, muidu... + Põlvist põdema</TYP_YHT>
@@ -1969,7 +1969,7 @@ Võta naine, muidu narrin neidusid
 <V>Siis saab naine terve'eksi</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01690039">
+<ITEM nro="hgrq01690039" y="1892">
 <META>
 <ID>H, Gr. Qu. 169/70 (39)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Veere vaese vaeva tõttu + Päev soeb sulaste päid, pole aega veereda + Harja otsimine + Laisk ootab õhtut + Õhtu toob õled tuppa</TYP_YHT>
@@ -2018,7 +2018,7 @@ Veere päev
 <V>Päev meid saadab pillu-pallu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01700040">
+<ITEM nro="hgrq01700040" y="1892">
 <META>
 <ID>H, Gr. Qu. 170/1 (40)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 </META>
@@ -2048,7 +2048,7 @@ Veere päev
 <V>Seitse headamad sõberid</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01710041">
+<ITEM nro="hgrq01710041" y="1892">
 <META>
 <ID>H, Gr. Qu. 171/2 (41)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -2076,7 +2076,7 @@ Veere päev
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hgrq01720042">
+<ITEM nro="hgrq01720042" y="1892">
 <META>
 <ID>H, Gr. Qu. 172 (42)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Ori lahkub</TYP_YHT>
@@ -2096,7 +2096,7 @@ Sulane läheb ära
 <V>Leia uusi leivalesi</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01720043">
+<ITEM nro="hgrq01720043" y="1892">
 <META>
 <ID>H, Gr. Qu. 172 (43)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP>
@@ -2113,7 +2113,7 @@ Peremees kiidab teopõlve
 <V>Saks paneb kaigast kaela peale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01720044">
+<ITEM nro="hgrq01720044" y="1892">
 <META>
 <ID>H, Gr. Qu. 172/3 (44)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <ZANR>siirdevormiline laul</ZANR>
@@ -2136,7 +2136,7 @@ Peremees kiidab teopõlve
 <V>Absa rubsa rallalaa!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01730045">
+<ITEM nro="hgrq01730045" y="1892">
 <META>
 <ID>H, Gr. Qu. 173 (45)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Tütar kodus</TYP_YHT>
@@ -2156,7 +2156,7 @@ Ilus neiu isa kodus
 <V>Ema kirstu kiskumaie</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01730046">
+<ITEM nro="hgrq01730046" y="1892">
 <META>
 <ID>H, Gr. Qu. 173/4 (46)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Karjasepõli + Kurva kodu</TYP_YHT>
@@ -2179,7 +2179,7 @@ Karjase põli
 <V>Udu oli uksed ette löönud</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01740047">
+<ITEM nro="hgrq01740047" y="1892">
 <META>
 <ID>H, Gr. Qu. 174 (47)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP>
@@ -2206,7 +2206,7 @@ Ei arvata meheks
 <V>Särje suureks söödavaks</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01740048">
+<ITEM nro="hgrq01740048" y="1892">
 <META>
 <ID>H, Gr. Qu. 174/5 (48)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -2226,7 +2226,7 @@ Ei arvata meheks
 <V>Hukka teen uued ummiskingad</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01750049">
+<ITEM nro="hgrq01750049" y="1892">
 <META>
 <ID>H, Gr. Qu. 175 (49)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Lauliku sõim</TYP_YHT>
@@ -2249,7 +2249,7 @@ Halb laulik
 <V>Hullupäise uimaselle</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01750050">
+<ITEM nro="hgrq01750050" y="1892">
 <META>
 <ID>H, Gr. Qu. 175 (50)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Tore sõit</TYP_YHT>
@@ -2269,7 +2269,7 @@ Tore sõit
 <V>Loogaküined künnapuised</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01760052">
+<ITEM nro="hgrq01760052" y="1892">
 <META>
 <ID>H, Gr. Qu. 176 (52)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Kubjas ahju!</TYP_YHT>
@@ -2293,7 +2293,7 @@ Kubjas ahju
 <V>Seal ju endid kuivatame</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01760053">
+<ITEM nro="hgrq01760053" y="1892">
 <META>
 <ID>H, Gr. Qu. 176 (53)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP>
@@ -2317,7 +2317,7 @@ Inetu peretütar, ilus orjalaps
 <V>Palest paasakarvaline</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01770054">
+<ITEM nro="hgrq01770054" y="1892">
 <META>
 <ID>H, Gr. Qu. 177 (54)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <ZANR>siirdevormiline laul</ZANR><TYP>
@@ -2334,7 +2334,7 @@ Lugu nagu loodud
 <V>Kirju kitse külge mööda</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01770055">
+<ITEM nro="hgrq01770055" y="1892">
 <META>
 <ID>H, Gr. Qu. 177 (55)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP>
@@ -2353,7 +2353,7 @@ Heinalised laulvad sügavas metsas
 <V>Laisa linnu lauluhäälta</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01770056">
+<ITEM nro="hgrq01770056" y="1892">
 <META>
 <ID>H, Gr. Qu. 177/8 (56)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Kägu kukub</TYP_YHT>
@@ -2376,7 +2376,7 @@ Kägu kukub
 <V>Haava ladvas lehtulindu</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01780057">
+<ITEM nro="hgrq01780057" y="1892">
 <META>
 <ID>H, Gr. Qu. 178 (57)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Kättemaks sakstele</TYP_YHT>
@@ -2399,7 +2399,7 @@ Kättemaksmine sakstele
 <V>Junkrud peale juttudeksi</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01780058">
+<ITEM nro="hgrq01780058" y="1892">
 <META>
 <ID>H, Gr. Qu. 178/9 (58)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Vara vaeslapseks</TYP_YHT>
@@ -2425,7 +2425,7 @@ Vara vaeseks
 <V>Kaera ette kandijada</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01790059">
+<ITEM nro="hgrq01790059" y="1892">
 <META>
 <ID>H, Gr. Qu. 179 (59)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Humal hõikas + Õlu viib meeled peast</TYP_YHT>
@@ -2452,7 +2452,7 @@ Humal
 <V>Poisid poole põlvilagi</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01790060">
+<ITEM nro="hgrq01790060" y="1892">
 <META>
 <ID>H, Gr. Qu. 179/80 (60)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Kättemaks sakstele</TYP_YHT>
@@ -2473,7 +2473,7 @@ Kättemaksmine sakstele
 <V>See on minu vaese vara</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01800061">
+<ITEM nro="hgrq01800061" y="1892">
 <META>
 <ID>H, Gr. Qu. 180 (61)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -2490,7 +2490,7 @@ Kättemaksmine sakstele
 <V>Isamees oli hingeseppa</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01800062">
+<ITEM nro="hgrq01800062" y="1892">
 <META>
 <ID>H, Gr. Qu. 180 (62)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP>
@@ -2506,7 +2506,7 @@ Peksu laul
 <V>lapiti ligi lihada</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01800063">
+<ITEM nro="hgrq01800063" y="1892">
 <META>
 <ID>H, Gr. Qu. 180/1 (63)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Teohobuse söök</TYP_YHT>
@@ -2527,7 +2527,7 @@ Halvad heinad
 <V>Aru äärta hal´lendavat</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01810064">
+<ITEM nro="hgrq01810064" y="1892">
 <META>
 <ID>H, Gr. Qu. 181 (64)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP>
@@ -2553,7 +2553,7 @@ Peremees kiidab teopõlve
 <V>Ruun ei künna rukkikõrta</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01810065">
+<ITEM nro="hgrq01810065" y="1892">
 <META>
 <ID>H, Gr. Qu. 181/2 (65)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Karjasepõli</TYP_YHT>
@@ -2576,7 +2576,7 @@ Karjase põli
 <V>Vaske varvaste vahele</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01820066">
+<ITEM nro="hgrq01820066" y="1892">
 <META>
 <ID>H, Gr. Qu. 182 (66)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <ZANR>siirdevormiline laul</ZANR><TYP>
@@ -2593,7 +2593,7 @@ Mees ei võta, ei jäta
 <V>Huulispillide osakse</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01820067">
+<ITEM nro="hgrq01820067" y="1892">
 <META>
 <ID>H, Gr. Qu. 182 (67)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Hiljuke</TYP_YHT>
@@ -2610,7 +2610,7 @@ Hiljuke
 <V>Oma mees mind metsiseksi</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01820068">
+<ITEM nro="hgrq01820068" y="1892">
 <META>
 <ID>H, Gr. Qu. 182 (68)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <ZANR></ZANR><TYP>
@@ -2628,7 +2628,7 @@ Neiud nutsid, kuni purjed paistsid
 <V>Ulgumast jäid uued kuued</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01830069">
+<ITEM nro="hgrq01830069" y="1892">
 <META>
 <ID>H, Gr. Qu. 183 (69)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <ZANR>siirdevormiline laul</ZANR>
@@ -2643,7 +2643,7 @@ Neiud nutsid, kuni purjed paistsid
 <V>Et minu pruut käis pärjaga</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01830070">
+<ITEM nro="hgrq01830070" y="1892">
 <META>
 <ID>H, Gr. Qu. 183 (70)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP>
@@ -2661,7 +2661,7 @@ Neiud nutsid, kuni purjed paistsid
 <V>Hallid kuued haudas</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01830071">
+<ITEM nro="hgrq01830071" y="1892">
 <META>
 <ID>H, Gr. Qu. 183 (71)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP>
@@ -2676,7 +2676,7 @@ Vara tõttu vanale
 <V>Kirstu kaas on kindelema</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01840072">
+<ITEM nro="hgrq01840072" y="1892">
 <META>
 <ID>H, Gr. Qu. 184 (72)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Must naine</TYP_YHT>
@@ -2699,7 +2699,7 @@ Must naine
 <V>Musta munde karvaseksi</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01840073">
+<ITEM nro="hgrq01840073" y="1892">
 <META>
 <ID>H, Gr. Qu. 184 (73)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <ZANR>siirdevormiline laul</ZANR><TYP>
@@ -2716,7 +2716,7 @@ Must naine
 <V>Krõõda kõrvas kõpitsesin</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01840074">
+<ITEM nro="hgrq01840074" y="1892">
 <META>
 <ID>H, Gr. Qu. 184/5 (74)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Riia rikkumine</TYP_YHT>
@@ -2736,7 +2736,7 @@ Riia rikkumine
 <V>Põltsamaad põletamaie</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01850075">
+<ITEM nro="hgrq01850075" y="1892">
 <META>
 <ID>H, Gr. Qu. 185 (75)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <ZANR>siirdevormiline laul</ZANR>
@@ -2756,7 +2756,7 @@ Riia rikkumine
 <V>Liisul kosilased ju</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01850076">
+<ITEM nro="hgrq01850076" y="1892">
 <META>
 <ID>H, Gr. Qu. 185/6 (76)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP>
@@ -2780,7 +2780,7 @@ Liha jagamine
 <V>Saba sai salve pühkijalle</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01860077">
+<ITEM nro="hgrq01860077" y="1892">
 <META>
 <ID>H, Gr. Qu. 186 (77)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Isa hoidis hiiemetsa + _</TYP_YHT>
@@ -2804,7 +2804,7 @@ Isa hoidis lastele hiiesid
 <V>Paras parmas põllu pealta</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01860078">
+<ITEM nro="hgrq01860078" y="1892">
 <META>
 <ID>H, Gr. Qu. 186/7 (78)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP>
@@ -2832,7 +2832,7 @@ Neiud öösel käimas
 <V>Hõbedase ämmeriga</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01870079">
+<ITEM nro="hgrq01870079" y="1892">
 <META>
 <ID>H, Gr. Qu. 187 (79)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <ZANR>siirdevormiline laul</ZANR><TYP>
@@ -2849,7 +2849,7 @@ Kes kellegi ori
 <V>Jumal kõige ilma orja</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01870080">
+<ITEM nro="hgrq01870080" y="1892">
 <META>
 <ID>H, Gr. Qu. 187 (80)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <ZANR>siirdevormiline laul</ZANR>
@@ -2865,7 +2865,7 @@ Kes kellegi ori
 <V>Ja Tannbergid raha tagunud</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01880081">
+<ITEM nro="hgrq01880081" y="1892">
 <META>
 <ID>H, Gr. Qu. 188 (81)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <ZANR>siirdevormiline laul</ZANR><TYP_YHT>Luust laev</TYP_YHT>
@@ -2888,7 +2888,7 @@ Laeva masti otsas
 <V>Taevas lai ja maa lageda</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01880082">
+<ITEM nro="hgrq01880082" y="1892">
 <META>
 <ID>H, Gr. Qu. 188 (82)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 </META>
@@ -2903,7 +2903,7 @@ Laeva masti otsas
 <V>Kellad kaelas kuulusemad</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01880083">
+<ITEM nro="hgrq01880083" y="1892">
 <META>
 <ID>H, Gr. Qu. 188/9 (83)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <ZANR>siirdevormiline laul</ZANR><TYP>
@@ -2923,7 +2923,7 @@ Tühjad jutud armsaid lahutamas
 <V>Segasid me noorte meeled.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01890084">
+<ITEM nro="hgrq01890084" y="1892">
 <META>
 <ID>H, Gr. Qu. 189/90 (84)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Lähme loojale loole! + Kotkas kaare alt + Neli neidu</TYP_YHT>
@@ -2965,7 +2965,7 @@ Looja heinateol
 <V>Kuues kassikäpalista</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01900085">
+<ITEM nro="hgrq01900085" y="1892">
 <META>
 <ID>H, Gr. Qu. 190 (85)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Hollandi sulane</TYP_YHT>
@@ -2985,7 +2985,7 @@ Hollandi sulane
 <V>Ja koeranaha koivadest</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01900086">
+<ITEM nro="hgrq01900086" y="1892">
 <META>
 <ID>H, Gr. Qu. 190 (86)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Must naine</TYP_YHT>
@@ -3007,7 +3007,7 @@ Must naine
 <V>Teiste naeste sarnaseksi</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01910087">
+<ITEM nro="hgrq01910087" y="1892">
 <META>
 <ID>H, Gr. Qu. 191 (87)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Kased kasvama</TYP_YHT>
@@ -3030,7 +3030,7 @@ Metsa raiumine
 <V>Urvad aga nutvad vaesilapsi</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01910088">
+<ITEM nro="hgrq01910088" y="1892">
 <META>
 <ID>H, Gr. Qu. 191 (88)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 </META>
@@ -3043,7 +3043,7 @@ Metsa raiumine
 <V>Mai oli matsakas jalale</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01910089">
+<ITEM nro="hgrq01910089" y="1892">
 <META>
 <ID>H, Gr. Qu. 191/2 (89)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Joodik - AJUTINE</TYP_YHT>
@@ -3068,7 +3068,7 @@ Joodiku laul
 <V>Liiatagi linnamehed</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01920090">
+<ITEM nro="hgrq01920090" y="1892">
 <META>
 <ID>H, Gr. Qu. 192 (90)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Pisike punane põrsas</TYP_YHT>
@@ -3092,7 +3092,7 @@ Punane põrsas
 <V>Ja oli paksuks paisunud</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01920091">
+<ITEM nro="hgrq01920091" y="1892">
 <META>
 <ID>H, Gr. Qu. 192/3 (91)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Ühes sõbrad</TYP_YHT>
@@ -3114,7 +3114,7 @@ Punane põrsas
 <V>Ühes jalad vaiba alla</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01930092">
+<ITEM nro="hgrq01930092" y="1892">
 <META>
 <ID>H, Gr. Qu. 193 (92)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>_ + Hiljuke</TYP_YHT>
@@ -3139,7 +3139,7 @@ Timuka tööl
 <V>Ema enneaegusekski</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01930093">
+<ITEM nro="hgrq01930093" y="1892">
 <META>
 <ID>H, Gr. Qu. 193 (93)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Meie ja teie poisid</TYP_YHT>
@@ -3163,7 +3163,7 @@ Meie ja muude poisid
 <V>Kihelkond jo kohtuesse</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01940094">
+<ITEM nro="hgrq01940094" y="1892">
 <META>
 <ID>H, Gr. Qu. 194 (94)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Sajaks vihma, saaks magada + Vihm mujale maale</TYP_YHT>
@@ -3195,7 +3195,7 @@ Saja, vihm
 <V>Tüdrukud tuliilusad</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01940095">
+<ITEM nro="hgrq01940095" y="1892">
 <META>
 <ID>H, Gr. Qu. 194 (95)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP>
@@ -3211,7 +3211,7 @@ Hääd maad
 <V>Ja ka haljast haavametsa</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01950096">
+<ITEM nro="hgrq01950096" y="1892">
 <META>
 <ID>H, Gr. Qu. 195 (96)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Teng, hobu, naine</TYP_YHT>
@@ -3229,7 +3229,7 @@ Teng - hobune - naine
 <V>Tubakaga toitsin lapsed</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01950097">
+<ITEM nro="hgrq01950097" y="1892">
 <META>
 <ID>H, Gr. Qu. 195 (97)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Võidulaulmine</TYP_YHT>
@@ -3250,7 +3250,7 @@ Võistulaulmine
 <V>Üle metsa üle merede</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01950098">
+<ITEM nro="hgrq01950098" y="1892">
 <META>
 <ID>H, Gr. Qu. 195/6 (98)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Saani tegemine</TYP_YHT>
@@ -3277,7 +3277,7 @@ Saan
 <V>Neiu peale nõudemata</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01960099">
+<ITEM nro="hgrq01960099" y="1892">
 <META>
 <ID>H, Gr. Qu. 196 (99)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Luust sõrmus</TYP_YHT>
@@ -3309,7 +3309,7 @@ Meri - luust sõrmus
 <V>Saksa tanu sääreluista</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq01970100">
+<ITEM nro="hgrq01970100" y="1892">
 <META>
 <ID>H, Gr. Qu. 197 (100)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <TYP_YHT>Orja palk</TYP_YHT>
@@ -3339,7 +3339,7 @@ Orja palk
 <V>Sõrmeküined külmetasid</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02100001">
+<ITEM nro="hgrq02100001" y="1892">
 <META>
 <ID>H, Gr. Qu. 210 (1)</ID> &lt; <LOC>Paide khk.</LOC> - <COL>Alek. Hanson</COL> (<TMP>1892</TMP>)
 <ZANR/><TYP_YHT>Ussisõnad</TYP_YHT>
@@ -3369,7 +3369,7 @@ Kui uss nõelanud on: siis tuleb lugeda Ussi sõnad
 <V>Kivi otsas keerlejalle</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02190001">
+<ITEM nro="hgrq02190001" y="1888">
 <META>
 <ID>H, Gr. Qu. 219 (1)</ID> &lt; <LOC>Kose khk., Uuemõisa v.</LOC> - <COL>A. T. Soans</COL> (<TMP>1888</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -3392,7 +3392,7 @@ Osa pikemast kosimise kombestiku kirjeldusest
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hgrq02270000">
+<ITEM nro="hgrq02270000" y="1889">
 <META>
 <ID>H, Gr. Qu. 227</ID> &lt; <LOC>Harju-Jaani khk.</LOC> - <COL>M. Neumann</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Hobune murtud</TYP_YHT>
@@ -3444,7 +3444,7 @@ Hobune murtud
 <V>Kingad kepikandijaksi. -"</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02460106">
+<ITEM nro="hgrq02460106" y="1888">
 <META>
 <ID>H, Gr. Qu. 246 (106)</ID> &lt; <LOC>Noarootsi khk.</LOC> - <COL>J. Liewoh</COL> (<TMP>1888</TMP>)
 <ZANR>loodushäälend</ZANR><TYP>
@@ -3460,7 +3460,7 @@ Linnulaul
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02470107">
+<ITEM nro="hgrq02470107" y="1888">
 <META>
 <ID>H, Gr. Qu. 247 (107)</ID> &lt; <LOC>Noarootsi khk.</LOC> - <COL>J. Liewoh</COL> (<TMP>1888</TMP>)
 <ZANR>loodushäälend</ZANR><TYP>
@@ -3479,7 +3479,7 @@ Pääsukeselaul
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02470110">
+<ITEM nro="hgrq02470110" y="1888">
 <META>
 <ID>H, Gr. Qu. 247 (110)</ID> &lt; <LOC>Noarootsi khk.</LOC> - <COL>J. Liewoh</COL> (<TMP>1888</TMP>)
 <TYP_YHT>Kalapüügisõnad</TYP_YHT>
@@ -3498,7 +3498,7 @@ Kalapüüdmise sõnad
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02480111">
+<ITEM nro="hgrq02480111" y="1888">
 <META>
 <ID>H, Gr. Qu. 248 (111)</ID> &lt; <LOC>Noarootsi khk.</LOC> - <COL>J. Liewoh</COL> (<TMP>1888</TMP>)
 </META>
@@ -3510,7 +3510,7 @@ Kalapüüdmise sõnad
 <V>Osta piipu tubakat.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02480112">
+<ITEM nro="hgrq02480112" y="1888">
 <META>
 <ID>H, Gr. Qu. 248 (112)</ID> &lt; <LOC>Noarootsi khk.</LOC> - <COL>J. Liewoh</COL> (<TMP>1888</TMP>)
 <TYP>
@@ -3525,7 +3525,7 @@ Lapsepõli hällis
 <V>Üks kord päevas tuhkakooki.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02480113">
+<ITEM nro="hgrq02480113" y="1888">
 <META>
 <ID>H, Gr. Qu. 248 (113)</ID> &lt; <LOC>Noarootsi khk.</LOC> - <COL>J. Liewoh</COL> (<TMP>1888</TMP>)
 <TYP>
@@ -3537,7 +3537,7 @@ Laiskus
 <V>Peremees peksab sind ja mind.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02480114">
+<ITEM nro="hgrq02480114" y="1888">
 <META>
 <ID>H, Gr. Qu. 248 (114)</ID> &lt; <LOC>Noarootsi khk.</LOC> - <COL>J. Liewoh</COL> (<TMP>1888</TMP>)
 <ZANR></ZANR><TYP>
@@ -3552,7 +3552,7 @@ Lapse ema
 <V>See on vana Preitona Ann.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02480115">
+<ITEM nro="hgrq02480115" y="1888">
 <META>
 <ID>H, Gr. Qu. 248 (115)</ID> &lt; <LOC>Noarootsi khk.</LOC> - <COL>J. Liewoh</COL> (<TMP>1888</TMP>)
 <TYP_YHT>Kokku, koorekene!</TYP_YHT>
@@ -3569,7 +3569,7 @@ Võitegemiselaul
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02490116">
+<ITEM nro="hgrq02490116" y="1888">
 <META>
 <ID>H, Gr. Qu. 249 (116)</ID> &lt; <LOC>Noarootsi khk.</LOC> - <COL>J. Liewoh</COL> (<TMP>1888</TMP>)
 <ZANR>uuem rahvalaul</ZANR><TYP>
@@ -3586,7 +3586,7 @@ Lori
 <V>Kana karjus: ai, ai!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02490117">
+<ITEM nro="hgrq02490117" y="1888">
 <META>
 <ID>H, Gr. Qu. 249 (117)</ID> &lt; <LOC>Noarootsi khk.</LOC> - <COL>J. Liewoh</COL> (<TMP>1888</TMP>)
 <TYP_YHT>Tall taeva all</TYP_YHT>
@@ -3609,7 +3609,7 @@ Tall taeva all
 <V>Küütu paela, kardas tupsu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02490118">
+<ITEM nro="hgrq02490118" y="1888">
 <META>
 <ID>H, Gr. Qu. 249/50 (118)</ID> &lt; <LOC>Noarootsi khk.</LOC> - <COL>J. Liewoh</COL> (<TMP>1888</TMP>)
 <TYP_YHT>Õlu</TYP_YHT>
@@ -3631,7 +3631,7 @@ Tall taeva all
 <V>Kümnet meie külvame.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02500119">
+<ITEM nro="hgrq02500119" y="1888">
 <META>
 <ID>H, Gr. Qu. 250 (119)</ID> &lt; <LOC>Noarootsi khk.</LOC> - <COL>J. Liewoh</COL> (<TMP>1888</TMP>)
 <TYP>
@@ -3654,7 +3654,7 @@ Hoiatus linna ja mõisa naise eest/Vahelt vaene
 <V>Vaestest vaevanägijad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02500120">
+<ITEM nro="hgrq02500120" y="1888">
 <META>
 <ID>H, Gr. Qu. 250/1 (120)</ID> &lt; <LOC>Noarootsi khk.</LOC> - <COL>J. Liewoh</COL> (<TMP>1888</TMP>)
 <ZANR>siirdevormiline laul</ZANR><TYP>
@@ -3670,7 +3670,7 @@ Must mees tark
 <V>Süda oli sees kui silgu niiska.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02510121">
+<ITEM nro="hgrq02510121" y="1888">
 <META>
 <ID>H, Gr. Qu. 251 (121)</ID> &lt; <LOC>Noarootsi khk.</LOC> - <COL>J. Liewoh</COL> (<TMP>1888</TMP>)
 <TYP>
@@ -3684,7 +3684,7 @@ Tütre kaup
 <V>Veimevakka vaadetakse</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02510122">
+<ITEM nro="hgrq02510122" y="1888">
 <META>
 <ID>H, Gr. Qu. 251 (122)</ID> &lt; <LOC>Noarootsi khk.</LOC> - <COL>J. Liewoh</COL> (<TMP>1888</TMP>)
 <TYP>
@@ -3697,7 +3697,7 @@ Kõigeks liiga väikene
 <V>Languliseks lapsekene</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02590001">
+<ITEM nro="hgrq02590001" y="1893">
 <META>
 <ID>H, Gr. Qu. 259 (1)</ID> &lt; <LOC>(?)Tõstamaa khk., Pootsi  v.</LOC> - <COL>J. A. Weltmann</COL> (<TMP>1893</TMP>)
 <ZANR>siirdevormiline laul</ZANR>
@@ -3714,7 +3714,7 @@ Kõigeks liiga väikene
 <V>Seitsme talli täkuga!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02600002">
+<ITEM nro="hgrq02600002" y="1893">
 <META>
 <ID>H, Gr. Qu. 260 (2)</ID> &lt; <LOC>(?)Tõstamaa khk., Pootsi  v.</LOC> - <COL>J. A. Weltmann</COL> (<TMP>1893</TMP>)
 <TYP_YHT>Oodake, pühin püssi!</TYP_YHT>
@@ -3732,7 +3732,7 @@ Püssi täidetakse - orav oota
 <V>Kihutan sull' keerme auku!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02600003">
+<ITEM nro="hgrq02600003" y="1893">
 <META>
 <ID>H, Gr. Qu. 260 (3)</ID> &lt; <LOC>(?)Tõstamaa khk., Pootsi  v.</LOC> - <COL>J. A. Weltmann</COL> (<TMP>1893</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -3753,7 +3753,7 @@ Püssi täidetakse - orav oota
 <V>Siga astun' jala peale</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02610025">
+<ITEM nro="hgrq02610025" y="1889">
 <META>
 <ID>H, Gr. Qu. 261 (25)</ID> &lt; <LOC>Halliste khk.</LOC> - <COL>J. Meomuttel</COL> (<TMP>1889</TMP>)
 <TYP>
@@ -3770,7 +3770,7 @@ Jalad ja selg kõverad teol käimisest
 <V>Sest ep kühma, küüra selga.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02610026">
+<ITEM nro="hgrq02610026" y="1889">
 <META>
 <ID>H, Gr. Qu. 261/2 (26)</ID> &lt; <LOC>Halliste khk.</LOC> - <COL>J. Meomuttel</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Kättemaks sakstele + Palve sakstele + _</TYP_YHT>
@@ -3849,7 +3849,7 @@ Kättemaksmine sakstele
 <V>Kubja naene kaasanaene.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02620027">
+<ITEM nro="hgrq02620027" y="1889">
 <META>
 <ID>H, Gr. Qu. 262/3 (27)</ID> &lt; <LOC>Halliste khk.</LOC> - <COL>J. Meomuttel</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Isa- ja mehekodus</TYP_YHT>
@@ -3906,7 +3906,7 @@ Isa ja mehe kodus
 <V>Siis astu aida raduje.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02630028">
+<ITEM nro="hgrq02630028" y="1889">
 <META>
 <ID>H, Gr. Qu. 263 (28)</ID> &lt; <LOC>Halliste khk.</LOC> - <COL>J. Meomuttel</COL> (<TMP>1889</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -3922,7 +3922,7 @@ Isa ja mehe kodus
 <V>Mõtsa obliku orule.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02630029">
+<ITEM nro="hgrq02630029" y="1889">
 <META>
 <ID>H, Gr. Qu. 263 (29)</ID> &lt; <LOC>Halliste khk.</LOC> - <COL>J. Meomuttel</COL> (<TMP>1889</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -3952,7 +3952,7 @@ Isa ja mehe kodus
 <V>Sunni soolakammerina.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02630030">
+<ITEM nro="hgrq02630030" y="1889">
 <META>
 <ID>H, Gr. Qu. 263 (30)</ID> &lt; <LOC>Halliste khk.</LOC> - <COL>J. Meomuttel</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Mõistatus + Humal hõikas</TYP_YHT>
@@ -4011,7 +4011,7 @@ Mõistatused
 <V>Perepiigad pilli mängima.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02640031">
+<ITEM nro="hgrq02640031" y="1889">
 <META>
 <ID>H, Gr. Qu. 264 (31)</ID> &lt; <LOC>Halliste khk.</LOC> - <COL>J. Meomuttel</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Mehetapja</TYP_YHT>
@@ -4081,7 +4081,7 @@ Maie
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hgrq02890001">
+<ITEM nro="hgrq02890001" y="1893">
 <META>
 <ID>H, Gr. Qu. 289 (1)</ID> &lt; <LOC>Paistu khk.</LOC> - <COL>Jaak Reewits</COL> (<TMP>1893</TMP>)
 <TYP>
@@ -4104,7 +4104,7 @@ Lauludel ka Holstre murre
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02890002">
+<ITEM nro="hgrq02890002" y="1893">
 <META>
 <ID>H, Gr. Qu. 289 (2)</ID> &lt; <LOC>Paistu khk.</LOC> - <COL>Jaak Reewits</COL> (<TMP>1893</TMP>)
 <TYP_YHT>Palve sakstele</TYP_YHT>
@@ -4130,7 +4130,7 @@ Lauludel ka Holstre murre
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02890003">
+<ITEM nro="hgrq02890003" y="1893">
 <META>
 <ID>H, Gr. Qu. 289 (3)</ID> &lt; <LOC>Paistu khk.</LOC> - <COL>Jaak Reewits</COL> (<TMP>1893</TMP>)
 <TYP_YHT>Ema ja naise hooles</TYP_YHT>
@@ -4154,7 +4154,7 @@ Lauludel ka Holstre murre
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02890004">
+<ITEM nro="hgrq02890004" y="1893">
 <META>
 <ID>H, Gr. Qu. 289/90, 346 (4)</ID> &lt; <LOC>Paistu khk.</LOC> - <COL>Jaak Reewits</COL> (<TMP>1893</TMP>)
 <TYP_YHT>Mõisa aidast varastamas + Ema käskis kodus magada</TYP_YHT>
@@ -4208,7 +4208,7 @@ pag. 346 Õitsi laulus, kus ema tütart õitsi soovib, aga isa kodus olekut tüt
 <V>Sääse säet kammitsasse</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02900000">
+<ITEM nro="hgrq02900000" y="1893">
 <META>
 <ID>H, Gr. Qu. 290/1</ID> &lt; <LOC>Paistu khk.</LOC> - <COL>Jaak Reewits</COL> (<TMP>1893</TMP>)
 <TYP_YHT>Arg kosilane</TYP_YHT>
@@ -4269,7 +4269,7 @@ Lauludel ka Holstre murre
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02900005">
+<ITEM nro="hgrq02900005" y="1893">
 <META>
 <ID>H, Gr. Qu. 290 (5)</ID> &lt; <LOC>Paistu khk.</LOC> - <COL>Jaak Reewits</COL> (<TMP>1893</TMP>)
 <TYP>
@@ -4311,7 +4311,7 @@ Lauludel ka Holstre murre
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02900006">
+<ITEM nro="hgrq02900006" y="1893">
 <META>
 <ID>H, Gr. Qu. 290 (6)</ID> &lt; <LOC>Paistu khk.</LOC> - <COL>Jaak Reewits</COL> (<TMP>1893</TMP>)
 <TYP>
@@ -4332,7 +4332,7 @@ Lauludel ka Holstre murre
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02910000">
+<ITEM nro="hgrq02910000" y="1893">
 <META>
 <ID>H, Gr. Qu. 291</ID> &lt; <LOC>Paistu khk.</LOC> - <COL>Jaak Reewits</COL> (<TMP>1893</TMP>)
 </META>
@@ -4353,7 +4353,7 @@ Lauludel ka Holstre murre
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02910007">
+<ITEM nro="hgrq02910007" y="1893">
 <META>
 <ID>H, Gr. Qu. 291/2 (7)</ID> &lt; <LOC>Paistu khk.</LOC> - <COL>Jaak Reewits</COL> (<TMP>1893</TMP>)
 <TYP>
@@ -4373,7 +4373,7 @@ Lauludel ka Holstre murre
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02920008">
+<ITEM nro="hgrq02920008" y="1893">
 <META>
 <ID>H, Gr. Qu. 292 (8)</ID> &lt; <LOC>Paistu khk.</LOC> - <COL>Jaak Reewits</COL> (<TMP>1893</TMP>)
 <TYP_YHT>Lunastatav neiu</TYP_YHT>
@@ -4399,7 +4399,7 @@ Lauludel ka Holstre murre
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02920009">
+<ITEM nro="hgrq02920009" y="1893">
 <META>
 <ID>H, Gr. Qu. 292 (9)</ID> &lt; <LOC>Paistu khk.</LOC> - <COL>Jaak Reewits</COL> (<TMP>1893</TMP>)
 <TYP>
@@ -4421,7 +4421,7 @@ Lauludel ka Holstre murre
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq02920010">
+<ITEM nro="hgrq02920010" y="1893">
 <META>
 <ID>H, Gr. Qu. 292 (10)</ID> &lt; <LOC>Paistu khk.</LOC> - <COL>Jaak Reewits</COL> (<TMP>1893</TMP>)
 <TYP_YHT>Lauliku vaev</TYP_YHT>
@@ -4444,7 +4444,7 @@ Lauludel ka Holstre murre
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03140000">
+<ITEM nro="hgrq03140000" y="1893">
 <META>
 <ID>H, Gr. Qu. 314</ID> &lt; <LOC>Paistu khk.</LOC> - <COL>Jaak Reewits</COL> (<TMP>1893</TMP>)
 </META>
@@ -4460,7 +4460,7 @@ Lauludel ka Holstre murre
 <V>Tige oma teule.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03140001">
+<ITEM nro="hgrq03140001" y="1893">
 <META>
 <ID>H, Gr. Qu. 314 (1)</ID> &lt; <LOC>Paistu khk.</LOC> - <COL>Jaak Reewits</COL> (<TMP>1893</TMP>)
 <TYP_YHT>Kupja kolm tütart</TYP_YHT>
@@ -4490,7 +4490,7 @@ Kupja kolm tütart
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hgrq03140002">
+<ITEM nro="hgrq03140002" y="1893">
 <META>
 <ID>H, Gr. Qu. 314 (2)</ID> &lt; <LOC>Paistu khk.</LOC> - <COL>Jaak Reewits</COL> (<TMP>1893</TMP>)
 <TYP>
@@ -4505,7 +4505,7 @@ Laisk peretütar
 <V>Kuule ei kusele tõusta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03140003">
+<ITEM nro="hgrq03140003" y="1893">
 <META>
 <ID>H, Gr. Qu. 314 (3)</ID> &lt; <LOC>Paistu khk.</LOC> - <COL>Jaak Reewits</COL> (<TMP>1893</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -4521,7 +4521,7 @@ Laisk peretütar
 <V>Usse aia ulvamaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03140004">
+<ITEM nro="hgrq03140004" y="1893">
 <META>
 <ID>H, Gr. Qu. 314 (4)</ID> &lt; <LOC>Paistu khk.</LOC> - <COL>Jaak Reewits</COL> (<TMP>1893</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -4537,7 +4537,7 @@ Laisk peretütar
 <V>Katel kopkal kingitasse!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03140005">
+<ITEM nro="hgrq03140005" y="1893">
 <META>
 <ID>H, Gr. Qu. 314/5 (5)</ID> &lt; <LOC>Paistu khk.</LOC> - <COL>Jaak Reewits</COL> (<TMP>1893</TMP>)
 <TYP_YHT>Tule mulle!</TYP_YHT>
@@ -4560,7 +4560,7 @@ Tule mulle
 <V>Kangrul nii kera kõrava.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03150006">
+<ITEM nro="hgrq03150006" y="1893">
 <META>
 <ID>H, Gr. Qu. 315 (6)</ID> &lt; <LOC>Paistu khk.</LOC> - <COL>Jaak Reewits</COL> (<TMP>1893</TMP>)
 <TYP>
@@ -4581,7 +4581,7 @@ Tundmata elu
 <V>Kasu kaarakõrsiline.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03150007">
+<ITEM nro="hgrq03150007" y="1893">
 <META>
 <ID>H, Gr. Qu. 315 (7)</ID> &lt; <LOC>Paistu khk.</LOC> - <COL>Jaak Reewits</COL> (<TMP>1893</TMP>)
 <TYP_YHT>Mees ja meri katta + Meremehe riided</TYP_YHT>
@@ -4616,7 +4616,7 @@ Kasvatus asjata
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hgrq03150008">
+<ITEM nro="hgrq03150008" y="1893">
 <META>
 <ID>H, Gr. Qu. 315/6 (8)</ID> &lt; <LOC>Paistu khk.</LOC> - <COL>Jaak Reewits</COL> (<TMP>1893</TMP>)
 <TYP_YHT>Orja palk</TYP_YHT>
@@ -4655,7 +4655,7 @@ Orja palk
 <V>Vesi jooseb viiri mööda!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03160009">
+<ITEM nro="hgrq03160009" y="1893">
 <META>
 <ID>H, Gr. Qu. 316 (9)</ID> &lt; <LOC>Paistu khk.</LOC> - <COL>Jaak Reewits</COL> (<TMP>1893</TMP>)
 <TYP>
@@ -4677,7 +4677,7 @@ Kui noor olin
 <V>Üle või põrsa põnnikese.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03160010">
+<ITEM nro="hgrq03160010" y="1893">
 <META>
 <ID>H, Gr. Qu. 316 (10)</ID> &lt; <LOC>Paistu khk.</LOC> - <COL>Jaak Reewits</COL> (<TMP>1893</TMP>)
 <ZANR>kombekirjeldus/regilaul</ZANR><TYP_YHT>Linad pikaks! + Linad liulaskjale!</TYP_YHT>
@@ -4705,7 +4705,7 @@ Kui liugu juba küll on lastud, siis tullakse kodu, kus perenaine selle aja sees
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03420001">
+<ITEM nro="hgrq03420001" y="1893">
 <META>
 <ID>H, Gr. Qu. 342 (1)</ID> &lt; <LOC>Paistu khk.</LOC> - <COL>Jaak Reewits</COL> (<TMP>1893</TMP>)
 <TYP_YHT>Leinamäng</TYP_YHT>
@@ -4762,7 +4762,7 @@ Nukule on sii kiituseks, kui teda naljalt kätte ei saa.
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03450001">
+<ITEM nro="hgrq03450001" y="1893">
 <META>
 <ID>H, Gr. Qu. 345/6 (1)</ID> &lt; <LOC>Paistu khk.</LOC> - <COL>Jaak Reewits</COL> (<TMP>1893</TMP>)
 <TYP_YHT>Vihm, üle vaeslapsest</TYP_YHT>
@@ -4804,7 +4804,7 @@ Nukule on sii kiituseks, kui teda naljalt kätte ei saa.
 <V>Mine kaste, kasta neida</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03460002">
+<ITEM nro="hgrq03460002" y="1893">
 <META>
 <ID>H, Gr. Qu. 346 (2)</ID> &lt; <LOC>Paistu khk.</LOC> - <COL>Jaak Reewits</COL> (<TMP>1893</TMP>)
 <TYP>
@@ -4835,7 +4835,7 @@ Kaugelt armukesega kokku saades.
 <V>Kasvab kaalaräti täisi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03460003">
+<ITEM nro="hgrq03460003" y="1893">
 <META>
 <ID>H, Gr. Qu. 346 (3)</ID> &lt; <LOC>Paistu khk.</LOC> - <COL>Jaak Reewits</COL> (<TMP>1893</TMP>)
 <TYP_YHT>Kättemaks sakstele</TYP_YHT>
@@ -4852,7 +4852,7 @@ Kättemaksmine sakstele
 <V>Roua roomade vahele.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03460004">
+<ITEM nro="hgrq03460004" y="1893">
 <META>
 <ID>H, Gr. Qu. 346 (4)</ID> &lt; <LOC>Paistu khk.</LOC> - <COL>Jaak Reewits</COL> (<TMP>1893</TMP>)
 <TYP_YHT>Neiupaelad</TYP_YHT>
@@ -4871,7 +4871,7 @@ Neiu paelad
 <V>Külä alt sai näiu noore.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03510001">
+<ITEM nro="hgrq03510001" y="1889">
 <META>
 <ID>H, Gr. Qu. 351 (1)</ID> &lt; <LOC>Põltsamaa khk., Kaavere v.</LOC> - <COL>Wilhelm Friedrich  Raukas</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Tarbepuude raiumine</TYP_YHT>
@@ -4887,7 +4887,7 @@ Suvel künnab, talvel raiub metsa
 <V>Talvel heada raiemetsa</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03510002">
+<ITEM nro="hgrq03510002" y="1889">
 <META>
 <ID>H, Gr. Qu. 351 (2)</ID> &lt; <LOC>Põltsamaa khk., Kaavere v.</LOC> - <COL>Wilhelm Friedrich  Raukas</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Kased kasvama</TYP_YHT>
@@ -4905,7 +4905,7 @@ Metsa raiumine
 <V>Kuused suured kumama.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03510003">
+<ITEM nro="hgrq03510003" y="1889">
 <META>
 <ID>H, Gr. Qu. 351 (3)</ID> &lt; <LOC>Põltsamaa khk., Kaavere v.</LOC> - <COL>Wilhelm Friedrich  Raukas</COL> (<TMP>1889</TMP>)
 <ZANR>siirdevormiline laul</ZANR>
@@ -4917,7 +4917,7 @@ Metsa raiumine
 <V>Noore härra nuppusida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03510004">
+<ITEM nro="hgrq03510004" y="1889">
 <META>
 <ID>H, Gr. Qu. 351 (4)</ID> &lt; <LOC>Põltsamaa khk., Kaavere v.</LOC> - <COL>Wilhelm Friedrich  Raukas</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Lunastatav neiu</TYP_YHT>
@@ -4940,7 +4940,7 @@ Lunastatav neiu
 <V>Vene veeres vaenuella</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03510005">
+<ITEM nro="hgrq03510005" y="1889">
 <META>
 <ID>H, Gr. Qu. 351 (5)</ID> &lt; <LOC>Põltsamaa khk., Kaavere v.</LOC> - <COL>Wilhelm Friedrich  Raukas</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Laisk tööle - nobe tantsima</TYP_YHT>
@@ -4965,7 +4965,7 @@ Laisk neiu - nobe tantsima
 <V>Kõlkapõhku pugeneksi</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03510006">
+<ITEM nro="hgrq03510006" y="1889">
 <META>
 <ID>H, Gr. Qu. 351/2 (6)</ID> &lt; <LOC>Põltsamaa khk., Kaavere v.</LOC> - <COL>Wilhelm Friedrich  Raukas</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Ema haual</TYP_YHT>
@@ -5000,7 +5000,7 @@ Ema haual
 <V>Jänes vilgas peiupoissi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03520007">
+<ITEM nro="hgrq03520007" y="1889">
 <META>
 <ID>H, Gr. Qu. 352 (7)</ID> &lt; <LOC>Põltsamaa khk., Kaavere v.</LOC> - <COL>Wilhelm Friedrich  Raukas</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Marist saab marjatooja + Kurg ja vares</TYP_YHT>
@@ -5022,7 +5022,7 @@ Kurg pahandab
 <V>Arakas aru pidamaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03520008">
+<ITEM nro="hgrq03520008" y="1889">
 <META>
 <ID>H, Gr. Qu. 352 (8)</ID> &lt; <LOC>Põltsamaa khk., Kaavere v.</LOC> - <COL>Wilhelm Friedrich  Raukas</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Must võinuks muidu joosta</TYP_YHT>
@@ -5040,7 +5040,7 @@ Halva kuulsusega neiud
 <V>Läbi käte längatanud</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03520009">
+<ITEM nro="hgrq03520009" y="1889">
 <META>
 <ID>H, Gr. Qu. 352 (9)</ID> &lt; <LOC>Põltsamaa khk., Kaavere v.</LOC> - <COL>Wilhelm Friedrich  Raukas</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Kaasa kaugel</TYP_YHT>
@@ -5056,7 +5056,7 @@ Kaasa kaugel
 <V>Minu kuasa kauge'ella</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03520010">
+<ITEM nro="hgrq03520010" y="1889">
 <META>
 <ID>H, Gr. Qu. 352 (10)</ID> &lt; <LOC>Põltsamaa khk., Kaavere v.</LOC> - <COL>Wilhelm Friedrich  Raukas</COL> (<TMP>1889</TMP>)
 <TYP>
@@ -5073,7 +5073,7 @@ Sinu oma pole siin
 <V>Mitu suve suigutanud</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03520011">
+<ITEM nro="hgrq03520011" y="1889">
 <META>
 <ID>H, Gr. Qu. 352/3 (11)</ID> &lt; <LOC>Põltsamaa khk., Kaavere v.</LOC> - <COL>Wilhelm Friedrich  Raukas</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Oma ema ja võõrasema</TYP_YHT>
@@ -5097,7 +5097,7 @@ Oma ja võõrasema
 <V>Vana oor jooda vasikad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03530012">
+<ITEM nro="hgrq03530012" y="1889">
 <META>
 <ID>H, Gr. Qu. 353 (12)</ID> &lt; <LOC>Põltsamaa khk., Kaavere v.</LOC> - <COL>Wilhelm Friedrich  Raukas</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Kodu- ja mõisarehi + Lauliku vaev</TYP_YHT>
@@ -5114,7 +5114,7 @@ Kodu ja mõisa rehi
 <V>Loo laulan teist muretsen.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03530013">
+<ITEM nro="hgrq03530013" y="1889">
 <META>
 <ID>H, Gr. Qu. 353 (13)</ID> &lt; <LOC>Põltsamaa khk., Kaavere v.</LOC> - <COL>Wilhelm Friedrich Raukas</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Kaugele mehele + _</TYP_YHT>
@@ -5160,7 +5160,7 @@ Kaugele mehele
 <V>Liha ja leib jäi laua peale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03530014">
+<ITEM nro="hgrq03530014" y="1889">
 <META>
 <ID>H, Gr. Qu. 353 (14)</ID> &lt; <LOC>Põltsamaa khk., Kaavere v.</LOC> - <COL>Wilhelm Friedrich  Raukas</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Kasvatus asjatu</TYP_YHT>
@@ -5179,7 +5179,7 @@ Kasvatus asjata
 <V>Verisvemmalde närija</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03530015">
+<ITEM nro="hgrq03530015" y="1889">
 <META>
 <ID>H, Gr. Qu. 353/4 (15)</ID> &lt; <LOC>Põltsamaa khk., Kaavere v.</LOC> - <COL>Wilhelm Friedrich  Raukas</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Orjade tee</TYP_YHT>
@@ -5196,7 +5196,7 @@ Orjade tee
 <V>Orjad käinud ärjad läinud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03540016">
+<ITEM nro="hgrq03540016" y="1889">
 <META>
 <ID>H, Gr. Qu. 354 (16)</ID> &lt; <LOC>Põltsamaa khk., Kaavere v.</LOC> - <COL>Wilhelm Friedrich Raukas</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Halb sirp</TYP_YHT>
@@ -5217,7 +5217,7 @@ Halb sirp
 <V>Kärvaku käed mõlemad</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03540017">
+<ITEM nro="hgrq03540017" y="1889">
 <META>
 <ID>H, Gr, Qu. 354 (17)</ID> &lt; <LOC>Põltsamaa khk., Kaavere v.</LOC> - <COL>Wilhelm Friedrich  Raukas</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Lõikuselaul - ÜLD</TYP_YHT>
@@ -5239,7 +5239,7 @@ Lõikuse laul
 <V>Suaris on saiad saledad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03540018">
+<ITEM nro="hgrq03540018" y="1889">
 <META>
 <ID>H, Gr. Qu. 354 (18)</ID> &lt; <LOC>Põltsamaa khk., Kaavere v.</LOC> - <COL>Wilhelm Friedrich  Raukas</COL> (<TMP>1889</TMP>)
 <TYP>
@@ -5269,7 +5269,7 @@ Tütrete tapja
 <V>Ja suab naene minule.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03540019">
+<ITEM nro="hgrq03540019" y="1889">
 <META>
 <ID>H, Gr. Qu. 354 (19)</ID> &lt; <LOC>Põltsamaa khk., Kaavere v.</LOC> - <COL>Wilhelm Friedrich  Raukas</COL> (<TMP>1889</TMP>)
 </META>
@@ -5281,7 +5281,7 @@ Tütrete tapja
 <V>Lõkkeks lee lõukalle</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03540020">
+<ITEM nro="hgrq03540020" y="1889">
 <META>
 <ID>H, Gr. Qu. 354 (20)</ID> &lt; <LOC>Põltsamaa khk., Kaavere v.</LOC> - <COL>Wilhelm Friedrich  Raukas</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Hea ja halb mees</TYP_YHT>
@@ -5297,7 +5297,7 @@ Halb mees ?
 <V>Meesi ku merikuradi</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03590001">
+<ITEM nro="hgrq03590001" y="1888">
 <META>
 <ID>H, Gr. Qu. 359 (1)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Anna Puusta</NIMI></INF> (<TMP>1888</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -5326,7 +5326,7 @@ Halb mees ?
 <V>Mitte ei jäta ütlemata</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03590002">
+<ITEM nro="hgrq03590002" y="1888">
 <META>
 <ID>H, Gr. Qu. 359 (2)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Anna Lass</NIMI></INF> (<TMP>1888</TMP>)
 <TYP_YHT>Oma ema ja võõrasema + _ + _</TYP_YHT>
@@ -5375,7 +5375,7 @@ Oma ja võõrasema
 <V>Suuitäied suula loed sa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03600003">
+<ITEM nro="hgrq03600003" y="1888">
 <META>
 <ID>H, Gr. Qu. 360 (3)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Ema</NIMI></INF> (<TMP>1888</TMP>)
 <TYP_YHT>Suude sulg</TYP_YHT>
@@ -5394,7 +5394,7 @@ Küla ütel
 <V>Kerstukappi keelekolksu</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03600004">
+<ITEM nro="hgrq03600004" y="1888">
 <META>
 <ID>H, Gr. Qu. 360 (4)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> (<TMP>1888</TMP>)
 <LLIIK>Lori</LLIIK>
@@ -5405,7 +5405,7 @@ Küla ütel
 <V>Märt tuli juure mängatama.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03600005">
+<ITEM nro="hgrq03600005" y="1888">
 <META>
 <ID>H, Gr. Qu. 360 (5)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Anna Lass</NIMI></INF> (<TMP>1888</TMP>)
 <TYP_YHT>Tilluke teomees + Härjad murtud</TYP_YHT>
@@ -5451,7 +5451,7 @@ Tilluke teopoiss
 <V>Tuub sulle neljanda ärja.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03600006">
+<ITEM nro="hgrq03600006" y="1888">
 <META>
 <ID>H, Gr. Qu. 360 (6)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Anna Puusta</NIMI></INF> (<TMP>1888</TMP>)
 <TYP_YHT>Ema haual</TYP_YHT>
@@ -5484,7 +5484,7 @@ Ema haual
 <V>Arueina ärgadelle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03610007">
+<ITEM nro="hgrq03610007" y="1888">
 <META>
 <ID>H, Gr. Qu. 361 (7)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Märt Trukits</NIMI></INF> (<TMP>1888</TMP>)
 <ZANR>siirdevormiline laul</ZANR><TYP_YHT>Ants oli aus saunamees + Mõisa märg vili</TYP_YHT>
@@ -5527,7 +5527,7 @@ Saunamees Ants
 <V>Kohe kõik maailma lapsed.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03610008">
+<ITEM nro="hgrq03610008" y="1888">
 <META>
 <ID>H, Gr. Qu. 361 (8)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Märt Trukits</NIMI></INF> (<TMP>1888</TMP>)
 <TYP_YHT>Arg kosilane</TYP_YHT>
@@ -5556,7 +5556,7 @@ Arg kosilane
 <V>Neidu saial saadanessa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03610009">
+<ITEM nro="hgrq03610009" y="1888">
 <META>
 <ID>H, Gr. Qu. 361 (9)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Märt Trukits</NIMI></INF> (<TMP>1888</TMP>)
 <TYP>
@@ -5573,7 +5573,7 @@ Miks ei poiss võta
 <V>Lõuendida lõksutanud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03610010">
+<ITEM nro="hgrq03610010" y="1888">
 <META>
 <ID>H, Gr. Qu. 361 (10)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>(?) Märt Trukits</NIMI></INF> (<TMP>1888</TMP>)
 <TYP>
@@ -5589,7 +5589,7 @@ Miks ei poiss võta
 <V>Veli sai kullakandijalle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03610011">
+<ITEM nro="hgrq03610011" y="1888">
 <META>
 <ID>H, Gr. Qu. 361/2 (11)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Märt Trukits</NIMI></INF> (<TMP>1888</TMP>)
 <ZANR>siirdevormiline laul</ZANR><TYP_YHT>Mõisarehelt varastamas</TYP_YHT>
@@ -5610,7 +5610,7 @@ Mõisa rehelt varastamas
 <V>Kult õli kaval kuulamaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03620012">
+<ITEM nro="hgrq03620012" y="1888">
 <META>
 <ID>H, Gr. Qu. 362 (12)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Märt Trukits</NIMI></INF> (<TMP>1888</TMP>)
 <TYP_YHT>Arg kosilane</TYP_YHT>
@@ -5635,7 +5635,7 @@ Arg kosilane
 <V>Südat sülleje avada.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03620013">
+<ITEM nro="hgrq03620013" y="1888">
 <META>
 <ID>H, Gr. Qu. 362 (13)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Märt Trukits</NIMI></INF> (<TMP>1888</TMP>)
 <TYP_YHT>Lauliku soost</TYP_YHT>
@@ -5656,7 +5656,7 @@ Lauliku soost
 <V>Erelid lõid ellad velled.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03620014">
+<ITEM nro="hgrq03620014" y="1888">
 <META>
 <ID>H, Gr. Qu. 362 (14)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Märt Trukits</NIMI></INF> (<TMP>1888</TMP>)
 <TYP>
@@ -5672,7 +5672,7 @@ Kupja peksja
 <V>Nihusist käis nikka-näkka.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03620015">
+<ITEM nro="hgrq03620015" y="1888">
 <META>
 <ID>H, Gr. Qu. 362 (15)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Märt Trukits</NIMI></INF> (<TMP>1888</TMP>)
 <TYP_YHT>Tarbepuude raiumine</TYP_YHT>
@@ -5690,7 +5690,7 @@ Puuraiuja
 <V>Velle ratsu rangipuida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03620016">
+<ITEM nro="hgrq03620016" y="1888">
 <META>
 <ID>H, Gr. Qu. 362 (16)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>(?) Märt Trukits</NIMI></INF> (<TMP>1888</TMP>)
 <TYP_YHT>Suur tamm</TYP_YHT>
@@ -5712,7 +5712,7 @@ Tamm
 <V>Otsast sai olevi torni.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03620017">
+<ITEM nro="hgrq03620017" y="1888">
 <META>
 <ID>H, Gr. Qu. 362 (17)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Märt Trukits</NIMI></INF> (<TMP>1888</TMP>)
 <TYP_YHT>Tunnen tuima neiu</TYP_YHT>
@@ -5734,7 +5734,7 @@ Tunneb tuima neiu
 <V>Virgal viisakad juuksed</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03620018">
+<ITEM nro="hgrq03620018" y="1888">
 <META>
 <ID>H, Gr. Qu. 362/3 (18)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Märt Trukits</NIMI></INF> (<TMP>1888</TMP>)
 <TYP>
@@ -5752,7 +5752,7 @@ Kosilase vara arvatakse hobusest
 <V>Vaski valjastest valasin.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03630019">
+<ITEM nro="hgrq03630019" y="1888">
 <META>
 <ID>H, Gr. Qu. 363 (19)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Mari Liblik</NIMI></INF> (<TMP>1888</TMP>)
 <TYP_YHT>Pole isa olnudki</TYP_YHT>
@@ -5771,7 +5771,7 @@ Pole isa olnudki
 <V>Vask õli vali aljastada.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03630020">
+<ITEM nro="hgrq03630020" y="1888">
 <META>
 <ID>H, Gr. Qu. 363 (20)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Mari Liblik</NIMI></INF> (<TMP>1888</TMP>)
 <TYP_YHT>Kaasa kaugel</TYP_YHT>
@@ -5795,7 +5795,7 @@ Kaasa kaugel
 <V>Kibuvits tal kitseõnne.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03630021">
+<ITEM nro="hgrq03630021" y="1888">
 <META>
 <ID>H, Gr. Qu. 363 (21)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Anna Lass</NIMI></INF> (<TMP>1888</TMP>)
 <TYP>
@@ -5819,7 +5819,7 @@ Laisk talu
 <V>Täkud täiest valjaenna.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03630022">
+<ITEM nro="hgrq03630022" y="1888">
 <META>
 <ID>H, Gr. Qu. 363 (22)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Anna Lass</NIMI></INF> (<TMP>1888</TMP>)
 <TYP>
@@ -5836,7 +5836,7 @@ Sulase söök
 <V>Kerkib kui keres kõriseb. <REFR>kaasike kaanike</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03630023">
+<ITEM nro="hgrq03630023" y="1888">
 <META>
 <ID>H, Gr. Qu. 363/4 (23)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Anna Lass</NIMI></INF> (<TMP>1888</TMP>)
 <TYP_YHT>Hollandi sulane + Imed</TYP_YHT>
@@ -5880,7 +5880,7 @@ Hollandi sulane
 <V>Lehm tegi laugi täkukese.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03640024">
+<ITEM nro="hgrq03640024" y="1888">
 <META>
 <ID>H, Gr. Qu. 364 (24)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>(?) Anna Lass</NIMI></INF> (<TMP>1888</TMP>)
 <TYP_YHT>Hollandi sulane</TYP_YHT>
@@ -5920,7 +5920,7 @@ Hollandi sulane
 <V>Oidsin teda omale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03650025">
+<ITEM nro="hgrq03650025" y="1888">
 <META>
 <ID>H, Gr. Qu. 365 (25)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Aadu Tartu</NIMI></INF> (<TMP>1888</TMP>)
 <TYP_YHT>Kupja kolm tütart + Ehted katki</TYP_YHT>
@@ -5957,7 +5957,7 @@ Kupja tütreid kosimas
 <V>Viidi ristid rikanduisi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03650026">
+<ITEM nro="hgrq03650026" y="1888">
 <META>
 <ID>H, Gr. Qu. 365 (26)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Aadu Tartu</NIMI></INF> (<TMP>1888</TMP>)
 <TYP_YHT>Kõrtsinaise tütar</TYP_YHT>
@@ -5989,7 +5989,7 @@ Kõrtsimehe ilus tütar
 <V>Kitse kõrv on keedukatal.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03650027">
+<ITEM nro="hgrq03650027" y="1888">
 <META>
 <ID>H, Gr. Qu. 365/6 (27)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Kaarel Siim</NIMI></INF> (<TMP>1888</TMP>)
 <ZANR>siirdevormiline laul</ZANR><TYP_YHT>Ants oli aus saunamees</TYP_YHT>
@@ -6026,7 +6026,7 @@ Saunamees Ants
 <V>Ärra, rukkid on mul müüa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03660028">
+<ITEM nro="hgrq03660028" y="1888">
 <META>
 <ID>H, Gr. Qu. 366 (28)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Kaarel Siim</NIMI></INF> (<TMP>1888</TMP>)
 <TYP_YHT>Suur tamm + Neiu linn</TYP_YHT>
@@ -6060,7 +6060,7 @@ Tamm
 <V>Poisid pooli saapa'aid.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03660029">
+<ITEM nro="hgrq03660029" y="1888">
 <META>
 <ID>H, Gr. Qu. 366 (29)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Kaarel Siim</NIMI></INF> (<TMP>1888</TMP>)
 <TYP_YHT>Suur tamm</TYP_YHT>
@@ -6082,7 +6082,7 @@ Tamm
 <V>Vananaistel naerulauda</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03660030">
+<ITEM nro="hgrq03660030" y="1888">
 <META>
 <ID>H, Gr. Qu. 366/7 (30)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Aadu Tartu</NIMI></INF> (<TMP>1888</TMP>)
 <TYP_YHT>Saksa asemel sandile</TYP_YHT>
@@ -6112,7 +6112,7 @@ Saksa asemel sant peiu
 <V>Sinu tüteri meheke.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03670031">
+<ITEM nro="hgrq03670031" y="1888">
 <META>
 <ID>H, Gr. Qu. 367 (31)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Aadu Tartu</NIMI></INF> (<TMP>1888</TMP>)
 <TYP_YHT>_ + Palju püütud neiu</TYP_YHT>
@@ -6147,7 +6147,7 @@ Ema istutas kõvale maale
 <V>Taat ei tõisele lubanud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03670032">
+<ITEM nro="hgrq03670032" y="1888">
 <META>
 <ID>H, Gr. Qu. 367 (32)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Aadu Tartu</NIMI></INF> (<TMP>1888</TMP>)
 <TYP_YHT>Neiu linn + Kättemaks sakstele</TYP_YHT>
@@ -6172,7 +6172,7 @@ Tuule tuba
 <V>Tukuteeda kõndimaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03680033">
+<ITEM nro="hgrq03680033" y="1888">
 <META>
 <ID>H, Gr. Qu. 368 (33)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Aadu Tartu</NIMI></INF> (<TMP>1888</TMP>)
 </META>
@@ -6194,7 +6194,7 @@ Tuule tuba
 <V>Toa rästas rätekirja</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03680034">
+<ITEM nro="hgrq03680034" y="1888">
 <META>
 <ID>H, Gr. Qu. 368 (34)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Aadu Tartu</NIMI></INF> (<TMP>1888</TMP>)
 <TYP_YHT>_ + Kasvatus asjatu</TYP_YHT>
@@ -6232,7 +6232,7 @@ Miks ei mullu tulnud mulle
 <V>Avi ammaste vahelta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq03680035">
+<ITEM nro="hgrq03680035" y="1888">
 <META>
 <ID>H, Gr. Qu. 368 (35)</ID> &lt; <LOC>Maarja-Magdaleena khk.</LOC> - <COL>G. Tenter</COL> &lt; <INF><NIMI>Aadu Tartu</NIMI></INF> (<TMP>1888</TMP>)
 <TYP_YHT>Neiupaelad + Laulu võim</TYP_YHT>
@@ -6260,7 +6260,7 @@ Neiu paelad
 <V>Virul viisi võttenudki.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq04590001">
+<ITEM nro="hgrq04590001" y="1888">
 <META>
 <ID>H, Gr. Qu. 459 (1)</ID> &lt; <LOC>Räpina khk., (?) Kahkva v.</LOC> - <COL>C. Listakind</COL> (<TMP>1888</TMP>)
 <TYP_YHT>Löö poisil pool pead! + Seni heinamaa ilus</TYP_YHT>
@@ -6299,7 +6299,7 @@ Karskuse õpetus
 <V>Sula, sula suu veel andõmada!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq04630001">
+<ITEM nro="hgrq04630001" y="1891">
 <META>
 <ID>H, Gr. Qu. 463/5 (1)</ID> &lt; <LOC>Räpina khk., (?) Kahkva v.</LOC> - <COL>P. Friedr. Kõiv &amp; Leontine Kirrotosk</COL> (<TMP>1891</TMP>)
 </META>
@@ -6349,7 +6349,7 @@ Karskuse õpetus
 <V>Mineq talli, tasuq hobõnõ!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq04650002">
+<ITEM nro="hgrq04650002" y="1891">
 <META>
 <ID>H, Gr. Qu. 465/6 (2)</ID> &lt; <LOC>Räpina khk., (?) Kahkva v.</LOC> - <COL>P. Friedr. Kõiv &amp; Leontine Kirrotosk</COL> (<TMP>1891</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -6376,7 +6376,7 @@ Karskuse õpetus
 <V>Oi, oi! õhkan ega päev! :,:</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq04660003">
+<ITEM nro="hgrq04660003" y="1891">
 <META>
 <ID>H, Gr. Qu. 466/7 (3)</ID> &lt; <LOC>Räpina khk., (?) Kahkva v.</LOC> - <COL>P. Friedr. Kõiv &amp; Leontine Kirrotosk</COL> (<TMP>1891</TMP>)
 <TYP_YHT>Neiu linn + Kurva kodu + Viin ütleb: Viida aega!</TYP_YHT>
@@ -6413,7 +6413,7 @@ Imelik maja
 <V>Saija teivä: haizaizah! -</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq04670004">
+<ITEM nro="hgrq04670004" y="1891">
 <META>
 <ID>H, Gr. Qu. 467/8 (4)</ID> &lt; <LOC>Räpina khk., (?) Kahkva v.</LOC> - <COL>P. Friedr. Kõiv &amp; Leontine  Kirrotosk</COL> (<TMP>1891</TMP>)
 <TYP_YHT>Tähemõrsja</TYP_YHT>
@@ -6457,7 +6457,7 @@ Salme
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hgrq04680005">
+<ITEM nro="hgrq04680005" y="1891">
 <META>
 <ID>H, Gr. Qu. 468/9 (5)</ID> &lt; <LOC>Räpina khk., (?) Kahkva v.</LOC> - <COL>P. Friedr. Kõiv &amp; Leontine Kirrotosk</COL> (<TMP>1891</TMP>)
 <TYP>
@@ -6483,7 +6483,7 @@ Soldati laul
 <V>Veevli ja tulõ suidsu seen.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq04690006">
+<ITEM nro="hgrq04690006" y="1891">
 <META>
 <ID>H, Gr. Qu. 469/70 (6)</ID> &lt; <LOC>Räpina khk., (?) Kahkva v.</LOC> - <COL>P. Friedr. Kõiv &amp; Leontine Kirrotosk</COL> (<TMP>1891</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -6508,7 +6508,7 @@ Soldati laul
 <V>Silmävesi mõsk mo suud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq04700007">
+<ITEM nro="hgrq04700007" y="1891">
 <META>
 <ID>H, Gr. Qu. 470 (7)</ID> &lt; <LOC>Räpina khk., (?) Kahkva v.</LOC> - <COL>P. Friedr. Kõiv &amp; Leontine Kirrotosk</COL> (<TMP>1891</TMP>)
 <TYP>
@@ -6531,7 +6531,7 @@ Soldati laul
 <V>Uma noorõ mehe meelest!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq04710008">
+<ITEM nro="hgrq04710008" y="1891">
 <META>
 <ID>H, Gr. Qu. 471 (8)</ID> &lt; <LOC>Räpina khk., (?) Kahkva v.</LOC> - <COL>P. Friedr. Kõiv &amp; Leontine Kirrotosk</COL> (<TMP>1891</TMP>)
 <TYP_YHT>Isa- ja mehekodus</TYP_YHT>
@@ -6561,7 +6561,7 @@ Isa ja mehe kodus
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq04710009">
+<ITEM nro="hgrq04710009" y="1891">
 <META>
 <ID>H, Gr. Qu. 471/2 (9)</ID> &lt; <LOC>Räpina khk., (?) Kahkva v.</LOC> - <COL>P. Friedr. Kõiv &amp; Leontine Kirrotosk</COL> (<TMP>1891</TMP>)
 </META>
@@ -6589,7 +6589,7 @@ Isa ja mehe kodus
 <V>Valaq mullõ vaihõllõ!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq04720010">
+<ITEM nro="hgrq04720010" y="1891">
 <META>
 <ID>H, Gr. Qu. 472/4 (10)</ID> &lt; <LOC>Räpina khk., (?) Kahkva v.</LOC> - <COL>P. Friedr. Kõiv &amp; Leontine Kirrotosk</COL> (<TMP>1891</TMP>)
 </META>
@@ -6647,7 +6647,7 @@ Isa ja mehe kodus
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hgrq04790001">
+<ITEM nro="hgrq04790001" y="1891">
 <META>
 <ID>H, Gr. Qu. 479/81 (1)</ID> &lt; <LOC>Räpina khk., (?) Kahkva v.</LOC> - <COL>P. Friedr. Kõiv</COL> (<TMP>1891</TMP>)
 </META>
@@ -6708,7 +6708,7 @@ Ei kõlba trükkida! JH.
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hgrq04810002">
+<ITEM nro="hgrq04810002" y="1891">
 <META>
 <ID>H, Gr. Qu. 481/4 (2)</ID> &lt; <LOC>Räpina khk., (?) Kahkva v.</LOC> - <COL>P. Friedr. Kõiv</COL> (<TMP>1891</TMP>)
 </META>
@@ -6780,7 +6780,7 @@ Ei kõlba trükkida! JH.
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hgrq04840003">
+<ITEM nro="hgrq04840003" y="1891">
 <META>
 <ID>H, Gr. Qu. 484/7 (3)</ID> &lt; <LOC>Räpina khk., (?) Kahkva v.</LOC> - <COL>P. Friedr. Kõiv</COL> (<TMP>1891</TMP>)
 </META>
@@ -6851,7 +6851,7 @@ Ei kõlba trükkida! JH.
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hgrq04870004">
+<ITEM nro="hgrq04870004" y="1891">
 <META>
 <ID>H, Gr. Qu. 487/8 (4)</ID> &lt; <LOC>Räpina khk., (?) Kahkva v.</LOC> - <COL>P. Friedr. Kõiv</COL> (<TMP>1891</TMP>)
 </META>
@@ -6875,7 +6875,7 @@ Ei kõlba trükkida! JH.
 <V>Pernaisil pikä silmä. -</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq04880005">
+<ITEM nro="hgrq04880005" y="1891">
 <META>
 <ID>H, Gr. Qu. 488/9 (5)</ID> &lt; <LOC>Räpina khk., (?) Kahkva v.</LOC> - <COL>P. Friedr. Kõiv</COL> (<TMP>1891</TMP>)
 <TYP_YHT>Härjad murtud</TYP_YHT>
@@ -6911,7 +6911,7 @@ Härjad murtud
 <V>Kahult atra kandima.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq04890006">
+<ITEM nro="hgrq04890006" y="1891">
 <META>
 <ID>H, Gr. Qu. 489/90 (6)</ID> &lt; <LOC>Räpina khk., (?) Kahkva v.</LOC> - <COL>P. Friedr. Kõiv</COL> (<TMP>1891</TMP>)
 <TYP_YHT>Hollandi sulane</TYP_YHT>
@@ -6945,7 +6945,7 @@ Hollandi sulane
 <V>Seda mu hinge himmonu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq04910007">
+<ITEM nro="hgrq04910007" y="1891">
 <META>
 <ID>H, Gr. Qu. 491 (7)</ID> &lt; <LOC>Räpina khk., (?) Kahkva v.</LOC> - <COL>P. Friedr. Kõiv</COL> (<TMP>1891</TMP>)
 <TYP_YHT>Oleks see mees minu!</TYP_YHT>
@@ -6971,7 +6971,7 @@ Oleks
 <V>Kannuq karglasõq kaasõ all!"</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hgrq04910008">
+<ITEM nro="hgrq04910008" y="1891">
 <META>
 <ID>H, Gr. Qu. 491/2 (8)</ID> &lt; <LOC>Räpina khk., (?) Kahkva v.</LOC> - <COL>P. Friedr. Kõiv</COL> (<TMP>1891</TMP>)
 <TYP_YHT>Ketra, Liisu!</TYP_YHT>

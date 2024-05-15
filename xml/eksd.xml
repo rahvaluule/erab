@@ -1,5 +1,5 @@
 <COLLECTION>
-<ITEM nro="eksd00000280">
+<ITEM nro="eksd00000280" y="0">
 <META>
 <ID>EKS d (280)</ID> &lt; <INF><NIMI>Vana Kannel I käsikiri</NIMI></INF>
 </META>
@@ -37,7 +37,7 @@
 <V>Kazudes saan kaelakonna.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="eksd00010277">
+<ITEM nro="eksd00010277" y="0">
 <META>
 <ID>EKS d 1/2 (277)</ID> &lt; <INF><NIMI>Vana Kannel I käsikiri</NIMI></INF>
 <TYP_YHT>Vara vaeslapseks</TYP_YHT>
@@ -83,7 +83,7 @@ Vara vaeseks
 <V>Sulasvõi sulaste meelest.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="eksd00030278">
+<ITEM nro="eksd00030278" y="0">
 <META>
 <ID>EKS d 3/4 (278)</ID> &lt; <INF><NIMI>Vana Kannel I käsikiri</NIMI></INF>
 <TYP_YHT>Ärge lööge vaeslast!</TYP_YHT>
@@ -145,7 +145,7 @@ Peretütar ja vaenelaps
 <V>Kus ta seezäb seenäd märjäd.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="eksd00050279">
+<ITEM nro="eksd00050279" y="0">
 <META>
 <ID>EKS d 5 (279)</ID> &lt; <INF><NIMI>Vana Kannel I käsikiri</NIMI></INF>
 </META>
@@ -187,7 +187,7 @@ A.
 <V>Hirnuma iza hobozed.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="eksd00070279">
+<ITEM nro="eksd00070279" y="0">
 <META>
 <ID>EKS d 7/8 (279)</ID> &lt; <INF><NIMI>Vana Kannel I käsikiri</NIMI></INF>
 </META>
@@ -246,7 +246,7 @@ B
 <V>Värävistä viinasooned.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="eksd00110281">
+<ITEM nro="eksd00110281" y="0">
 <META>
 <ID>EKS d 11/2 (281)</ID> &lt; <INF><NIMI>Vana Kannel I käsikiri</NIMI></INF>
 </META>
@@ -317,7 +317,7 @@ A.
 <V>Kätt kui ahju paiste'elle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="eksd00130000">
+<ITEM nro="eksd00130000" y="0">
 <META>
 <ID>EKS d 13/4</ID> &lt; <INF><NIMI>Vana Kannel I käsikiri</NIMI></INF>
 </META>
@@ -364,7 +364,7 @@ B.
 <V>Kellel õnni õnnistanud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="eksd00150000">
+<ITEM nro="eksd00150000" y="0">
 <META>
 <ID>EKS d 15/6</ID> &lt; <INF><NIMI>Vana Kannel I käsikiri</NIMI></INF>
 </META>
@@ -418,7 +418,7 @@ C.
 <V>Kellele õnn on õnnistanud!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="eksd00170282">
+<ITEM nro="eksd00170282" y="0">
 <META>
 <ID>EKS d 17 (282)</ID> &lt; <INF><NIMI>Vana Kannel I käsikiri</NIMI></INF>
 </META>
@@ -457,7 +457,7 @@ C.
 <V>Aedanurgad auzamad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="eksd00190283">
+<ITEM nro="eksd00190283" y="0">
 <META>
 <ID>EKS d 19 (283)</ID> &lt; <INF><NIMI>Vana Kannel I käsikiri</NIMI></INF>
 </META>
@@ -499,7 +499,7 @@ C.
 <V>Tehku tüödä tervissetä.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="eksd00210284">
+<ITEM nro="eksd00210284" y="0">
 <META>
 <ID>EKS d 21 (284)</ID> &lt; <INF><NIMI>Vana Kannel I käsikiri</NIMI></INF>
 </META>

@@ -1,5 +1,5 @@
 <COLLECTION>
-<ITEM nro="ekla199005001001">
+<ITEM nro="ekla199005001001" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 135</ID> &lt; <LOC>Mustjala khk., Ninase k., Nässa t.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>Ingel Vaher</NIMI>, <ELUL>73 a.</ELUL></INF> (<TMP>1923</TMP>)
 </META>
@@ -18,7 +18,7 @@
 <V>Ise ma taga värisesin.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001002">
+<ITEM nro="ekla199005001002" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 135</ID> &lt; <LOC>Mustjala khk.</LOC> - <COL>Helmi Ottenson-Kleis</COL> (<TMP>1923</TMP>)
 <TYP_YHT>Laulikule palka!</TYP_YHT><LLIIK_YHT>Laulud laulust (Laulust ja laulikust)</LLIIK_YHT></META>
@@ -40,7 +40,7 @@
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="ekla199005001003">
+<ITEM nro="ekla199005001003" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 135p</ID> &lt; <LOC>Mustjala khk., Kugalepa k.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>Reet Koert</NIMI>, <ELUL>85 a.</ELUL></INF> (<TMP>1923</TMP>)
 </META>
@@ -51,7 +51,7 @@
 <V>Ahu peal ka alu napsu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001004">
+<ITEM nro="ekla199005001004" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 136</ID> &lt; <LOC>Mustjala khk.</LOC> - <COL>Helmi Ottenson-Kleis</COL> (<TMP>1923</TMP>)
 </META>
@@ -65,7 +65,7 @@
 <V>Ja minu sõnad säedsemaks.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001005">
+<ITEM nro="ekla199005001005" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 136-138</ID> &lt; <LOC>Mustjala khk., Rahtla k.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>Liisu Rammus</NIMI>, <ELUL>69 a.</ELUL></INF> (<TMP>1923</TMP>)
 <TYP_YHT>Vara vaeslapseks + Ärge lööge vaeslast!</TYP_YHT><LLIIK_YHT>Murelaulud (Vaeslaps - Vaeslaps)</LLIIK_YHT></META>
@@ -117,7 +117,7 @@
 <V>Keele, keele keskele.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001006">
+<ITEM nro="ekla199005001006" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 138</ID> &lt; <LOC>Mustjala khk. ja v., Silla k.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>Marie Nõmm</NIMI>, <ELUL>81 a.</ELUL></INF> (<TMP>1923</TMP>)
 <TYP_YHT>Arg laulik + Palju sõnu</TYP_YHT><LLIIK_YHT>Laulud laulust (Laulust ja laulikust - Laulust ja laulikust)</LLIIK_YHT></META>
@@ -139,7 +139,7 @@
 <V>Ää laske kassi kallale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001007">
+<ITEM nro="ekla199005001007" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 138-139</ID> &lt; <LOC>Mustjala khk., Vanakubja k., Maanuse t.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>Liisu Kirs</NIMI>, <ELUL>87 a.</ELUL></INF> (<TMP>1923</TMP>)
 </META>
@@ -162,7 +162,7 @@
 <V>Sõsara narmas-utekesed.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001008">
+<ITEM nro="ekla199005001008" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 139</ID> &lt; <LOC>Mustjala khk., Vanakubja k., Maanuse t.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>Liisu Kirs</NIMI>, <ELUL>87 a.</ELUL></INF> (<TMP>1923</TMP>)
 </META>
@@ -176,7 +176,7 @@
 <V>Lauluviisid viisakad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001009">
+<ITEM nro="ekla199005001009" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 139</ID> &lt; <LOC>Mustjala khk., Vanakubja k., Maanuse t.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>Liisu Kirs</NIMI>, <ELUL>87 a.</ELUL></INF> (<TMP>1923</TMP>)
 <ZANR>rl/ul</ZANR>
@@ -187,7 +187,7 @@
 <V>Oopis ullem kut kirju orik.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001010">
+<ITEM nro="ekla199005001010" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 140</ID> &lt; <LOC>Mustjala khk. ja v., Silla k.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>(?) Marie Nõmm</NIMI>, <ELUL>81 a.</ELUL></INF> (<TMP>1923</TMP>)
 </META>
@@ -216,7 +216,7 @@
 <V>Et es võta peele päevakorda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001011">
+<ITEM nro="ekla199005001011" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 140-142</ID> &lt; <LOC>Mustjala khk.</LOC> - <COL>Helmi Ottenson-Kleis</COL> (<TMP>1923</TMP>)
 <TYP_YHT>Liiri-lõõri!</TYP_YHT><LLIIK_YHT>Lastelaulud (Ahellaulud)</LLIIK_YHT></META>
@@ -263,7 +263,7 @@
 <V>Kõrkjast oli köis ja kasteeinast karsad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001012">
+<ITEM nro="ekla199005001012" y="0">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 142</ID> &lt; <LOC>Mustjala khk. ja v., Silla k.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>Marie Nõmm</NIMI>, <ELUL>81 a.</ELUL></INF>
 </META>
@@ -281,7 +281,7 @@
 <V>Siis sai rilli-ralli lüüa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001013">
+<ITEM nro="ekla199005001013" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 143</ID> &lt; <LOC>Mustjala khk. ja v., Silla k.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>Marie Nõmm</NIMI>, <ELUL>81 a.</ELUL></INF> (<TMP>1923</TMP>)
 <ZANR>rl/ul</ZANR>
@@ -306,7 +306,7 @@
 <V>Ja siis tegi õlle punase.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001014">
+<ITEM nro="ekla199005001014" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 143-144</ID> &lt; <LOC>Mustjala khk., Vanakubja k., Maanuse t.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>Liisu Kirs</NIMI>, <ELUL>87 a.</ELUL></INF> (<TMP>1923</TMP>)
 <ZANR>rl/ul</ZANR>
@@ -344,7 +344,7 @@
 <V>Kaljalähker kaela peel.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001015">
+<ITEM nro="ekla199005001015" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 145-146</ID> &lt; <LOC>Mustjala khk., Vanakubja k., Maanuse t.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>Liisu Kirs</NIMI>, <ELUL>87 a.</ELUL></INF> (<TMP>1923</TMP>)
 </META>
@@ -380,7 +380,7 @@ Teomees laulab:
 <V>Suure laia lepa otsa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001016">
+<ITEM nro="ekla199005001016" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 146-147</ID> &lt; <LOC>Mustjala khk., Vanakubja k., Maanuse t.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>Liisu Kirs</NIMI>, <ELUL>87 a.</ELUL></INF> (<TMP>1923</TMP>)
 <ZANR>rl/ul</ZANR>
@@ -420,7 +420,7 @@ Teomees laulab:
 <V>See teeb silmad pungi pää.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001017">
+<ITEM nro="ekla199005001017" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 147</ID> &lt; <LOC>Mustjala khk., Vanakubja k., Maanuse t.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>Liisu Kirs</NIMI>, <ELUL>87 a.</ELUL></INF> (<TMP>1923</TMP>)
 </META>
@@ -440,7 +440,7 @@ Teomees laulab:
 <V>Kilguluisid rõmpsutate.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001018">
+<ITEM nro="ekla199005001018" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 148-149</ID> &lt; <LOC>Mustjala khk., Vanakubja k., Maanuse t.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>Liisu Kirs</NIMI>, <ELUL>87 a.</ELUL></INF> (<TMP>1923</TMP>)
 </META>
@@ -476,7 +476,7 @@ Teomees laulab:
 <V>Ei ma sind nüüd enam taha.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001019">
+<ITEM nro="ekla199005001019" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 149-150</ID> &lt; <LOC>Mustjala khk. ja v., Silla k.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>Marie Nõmm</NIMI>, <ELUL>81 a.</ELUL></INF> (<TMP>1923</TMP>)
 </META>
@@ -516,7 +516,7 @@ Teomees laulab:
 <V>Hõbetaalaril tahtamine.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001020">
+<ITEM nro="ekla199005001020" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 150-151</ID> &lt; <LOC>Mustjala khk. ja v., Silla k.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>Marie Nõmm</NIMI>, <ELUL>81 a.</ELUL></INF> (<TMP>1923</TMP>)
 </META>
@@ -540,7 +540,7 @@ Teomees laulab:
 <V>seegit sõge sõrmita.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001021">
+<ITEM nro="ekla199005001021" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 151</ID> &lt; <LOC>Mustjala khk. ja v., Silla k.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>Marie Nõmm</NIMI>, <ELUL>81 a.</ELUL></INF> (<TMP>1923</TMP>)
 </META>
@@ -559,7 +559,7 @@ Teomees laulab:
 <V>lumivalged käised ülle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001022">
+<ITEM nro="ekla199005001022" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 151</ID> &lt; <LOC>Mustjala khk. ja v., Silla k.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>Marie Nõmm</NIMI>, <ELUL>81 a.</ELUL></INF> (<TMP>1923</TMP>)
 </META>
@@ -573,7 +573,7 @@ Teomees laulab:
 <V>kõrvase kõrged kingakorgid.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001023">
+<ITEM nro="ekla199005001023" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 151-152</ID> &lt; <LOC>Mustjala khk. ja v., Silla k.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>Marie Nõmm</NIMI>, <ELUL>81 a.</ELUL></INF> (<TMP>1923</TMP>)
 </META>
@@ -594,7 +594,7 @@ Teomees laulab:
 <V>laon latid lita-lata.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001024">
+<ITEM nro="ekla199005001024" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 152</ID> &lt; <LOC>Mustjala khk. ja v., Silla k.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>Marie Nõmm</NIMI>, <ELUL>81 a.</ELUL></INF> (<TMP>1923</TMP>)
 </META>
@@ -613,7 +613,7 @@ Teomees laulab:
 <V>peelta keele killingit.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001025">
+<ITEM nro="ekla199005001025" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 152-153</ID> &lt; <LOC>Mustjala khk. ja v., Silla k.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>Marie Nõmm</NIMI>, <ELUL>81 a.</ELUL></INF> (<TMP>1923</TMP>)
 </META>
@@ -632,7 +632,7 @@ Teomees laulab:
 <V>neljas säädas nina pehe.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001026">
+<ITEM nro="ekla199005001026" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 153-154</ID> &lt; <LOC>Mustjala khk. ja v., Silla k.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>Marie Nõmm</NIMI>, <ELUL>81 a.</ELUL></INF> (<TMP>1923</TMP>)
 <TYP_YHT>Poisi ja neiu matus</TYP_YHT><LLIIK_YHT>Laulud noorrahva elust (Neiud)</LLIIK_YHT></META>
@@ -674,7 +674,7 @@ Teomees laulab:
 <V>Nee olid neiu leinajad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001027">
+<ITEM nro="ekla199005001027" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 154-155</ID> &lt; <LOC>Mustjala khk. ja v., Silla k.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>Marie Nõmm</NIMI>, <ELUL>81 a.</ELUL></INF> (<TMP>1923</TMP>)
 </META>
@@ -698,7 +698,7 @@ Teomees laulab:
 <V>Saagu poolt aga saani poole.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001028">
+<ITEM nro="ekla199005001028" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 155</ID> &lt; <LOC>Mustjala khk. ja v., Silla k.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>Marie Nõmm</NIMI>, <ELUL>81 a.</ELUL></INF> (<TMP>1923</TMP>)
 </META>
@@ -718,7 +718,7 @@ Teomees laulab:
 <V>Maksad maomühalised.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001029">
+<ITEM nro="ekla199005001029" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 155-157</ID> &lt; <LOC>Mustjala khk. ja v., Silla k.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>Marie Nõmm</NIMI>, <ELUL>81 a.</ELUL></INF> (<TMP>1923</TMP>)
 </META>
@@ -762,7 +762,7 @@ Teomees laulab:
 <V>ämma änna raiudes.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001030">
+<ITEM nro="ekla199005001030" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 157</ID> &lt; <LOC>Mustjala khk. ja v., Silla k.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>Marie Nõmm</NIMI>, <ELUL>81 a.</ELUL></INF> (<TMP>1923</TMP>)
 </META>
@@ -778,7 +778,7 @@ Teomees laulab:
 <V>Kaheksa kalaoja.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001031">
+<ITEM nro="ekla199005001031" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 157-158</ID> &lt; <LOC>Mustjala khk. ja v., Silla k.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>Marie Nõmm</NIMI>, <ELUL>81 a.</ELUL></INF> (<TMP>1923</TMP>)
 </META>
@@ -816,7 +816,7 @@ Teomees laulab:
 <V>Ja taat läks ärga tappama.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001032">
+<ITEM nro="ekla199005001032" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 158-160</ID> &lt; <LOC>Mustjala khk. ja v., Silla k.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>Marie Nõmm</NIMI>, <ELUL>81 a.</ELUL></INF> (<TMP>1923</TMP>)
 <TYP_YHT>Kosilased kodus</TYP_YHT><LLIIK_YHT>Laulud noorrahva elust (Kosjad)</LLIIK_YHT></META>
@@ -856,7 +856,7 @@ Teomees laulab:
 <V>Venna - - - - - - - -</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001033">
+<ITEM nro="ekla199005001033" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 160</ID> &lt; <LOC>Mustjala khk. ja v., Silla k.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>Marie Nõmm</NIMI>, <ELUL>81 a.</ELUL></INF> (<TMP>1923</TMP>)
 </META>
@@ -876,7 +876,7 @@ Teomees laulab:
 <V>Ei ole ihu iialgi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001034">
+<ITEM nro="ekla199005001034" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 160-161</ID> &lt; <LOC>Mustjala khk. ja v., Silla k.</LOC> - <COL>Helmi Ottenson-Kleis</COL> &lt; <INF><NIMI>Marie Nõmm</NIMI>, <ELUL>81 a.</ELUL></INF> (<TMP>1923</TMP>)
 </META>
@@ -895,7 +895,7 @@ Teomees laulab:
 <V>Käed on kallid, ei nee katsu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001035">
+<ITEM nro="ekla199005001035" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 161</ID> &lt; <LOC>Mustjala khk.</LOC> - <COL>Helmi Ottenson-Kleis</COL> (<TMP>1923</TMP>)
 </META>
@@ -921,7 +921,7 @@ Teomees laulab:
 <V>Kallist kainu võtteda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001036">
+<ITEM nro="ekla199005001036" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 161-162</ID> &lt; <LOC>Mustjala khk.</LOC> - <COL>Helmi Ottenson-Kleis</COL> (<TMP>1923</TMP>)
 </META>
@@ -943,7 +943,7 @@ Teomees laulab:
 <V>Kui tema läheb, siis tema läigib.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001037">
+<ITEM nro="ekla199005001037" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 162</ID> &lt; <LOC>Mustjala khk.</LOC> - <COL>Helmi Ottenson-Kleis</COL> (<TMP>1923</TMP>)
 </META>
@@ -963,7 +963,7 @@ Teomees laulab:
 <V>Ja aga virku vikatil.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001038">
+<ITEM nro="ekla199005001038" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 163-164</ID> &lt; <LOC>Mustjala khk.</LOC> - <COL>Helmi Ottenson-Kleis</COL> (<TMP>1923</TMP>)
 <ZANR>rl/ul</ZANR>
@@ -1003,7 +1003,7 @@ Teomees laulab:
 <V>ja tõmban ümber teisepidi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla199005001039">
+<ITEM nro="ekla199005001039" y="0">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 164</ID> &lt; <LOC>Mustjala khk.</LOC> - <COL>K. Lember (koguja) &amp; Helmi Ottenson-Kleis (ümberkirjutaja)</COL> (<TMP>1920 (kogutud) &amp; 1923 (saadetud)</TMP>)
 </META>
@@ -1028,7 +1028,7 @@ Vrd ERM 161, 16/7
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="ekla199005001040">
+<ITEM nro="ekla199005001040" y="">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 164-165</ID> &lt; <LOC>Mustjala khk.</LOC> - <COL>K. Lember (koguja) &amp; Helmi Ottenson-Kleis (ümberkirjutaja)</COL> (<TMP>1920 (kogutud) &amp; 1923 (saadetud)</TMP>)
 </META>
@@ -1055,7 +1055,7 @@ Vrd ERM 161, 20
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="ekla199005001041">
+<ITEM nro="ekla199005001041" y="">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 165</ID> &lt; <LOC>Mustjala khk.</LOC> - <COL>K. Lember (koguja) &amp; Helmi Ottenson-Kleis (ümberkirjutaja)</COL> (<TMP>1920 (kogutud) &amp; 1923 (saadetud)</TMP>)
 </META>
@@ -1083,7 +1083,7 @@ Vrd ERM 161, 33
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="ekla199005001042">
+<ITEM nro="ekla199005001042" y="">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 165-166</ID> &lt; <LOC>Mustjala khk.</LOC> - <COL>K. Lember (koguja) &amp; Helmi Ottenson-Kleis (ümberkirjutaja)</COL> (<TMP>1920 (kogutud) &amp; 1923 (saadetud)</TMP>)
 </META>
@@ -1106,7 +1106,7 @@ Vrd ERM 161, 34
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="ekla199005001043">
+<ITEM nro="ekla199005001043" y="">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 166</ID> &lt; <LOC>Mustjala khk.</LOC> - <COL>K. Lember (koguja) &amp; Helmi Ottenson-Kleis (ümberkirjutaja)</COL> (<TMP>1920 (kogutud) &amp; 1923 (saadetud)</TMP>)
 </META>
@@ -1125,7 +1125,7 @@ Vrd ERM 161, 34/5
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="ekla199005001044">
+<ITEM nro="ekla199005001044" y="">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 166-167</ID> &lt; <LOC>Mustjala khk.</LOC> - <COL>K. Lember (koguja) &amp; Helmi Ottenson-Kleis (ümberkirjutaja)</COL> (<TMP>1920 (kogutud) &amp; 1923 (saadetud)</TMP>)
 </META>
@@ -1159,7 +1159,7 @@ Vrd ERM 161, 35
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="ekla199005001045">
+<ITEM nro="ekla199005001045" y="">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 167-168</ID> &lt; <LOC>Mustjala khk.</LOC> - <COL>K. Lember (koguja) &amp; Helmi Ottenson-Kleis (ümberkirjutaja)</COL> (<TMP>1920 (kogutud) &amp; 1923 (saadetud)</TMP>)
 </META>
@@ -1194,7 +1194,7 @@ Vrd ERM 161, 36/7
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="ekla199005001046">
+<ITEM nro="ekla199005001046" y="">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 168</ID> &lt; <LOC>Mustjala khk.</LOC> - <COL>K. Lember (koguja) &amp; Helmi Ottenson-Kleis (ümberkirjutaja)</COL> (<TMP>1920 (kogutud) &amp; 1923 (saadetud)</TMP>)
 </META>
@@ -1219,7 +1219,7 @@ Vrd ERM 161, 37
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="ekla199005001047">
+<ITEM nro="ekla199005001047" y="">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 168-169</ID> &lt; <LOC>Mustjala khk.</LOC> - <COL>K. Lember (koguja) &amp; Helmi Ottenson-Kleis (ümberkirjutaja)</COL> (<TMP>1920 (kogutud) &amp; 1923 (saadetud)</TMP>)
 </META>
@@ -1246,7 +1246,7 @@ Vrd ERM 161, 38
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="ekla199005001048">
+<ITEM nro="ekla199005001048" y="">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 169</ID> &lt; <LOC>Mustjala khk.</LOC> - <COL>K. Lember (koguja) &amp; Helmi Ottenson-Kleis (ümberkirjutaja)</COL> (<TMP>1920 (kogutud) &amp; 1923 (saadetud)</TMP>)
 </META>
@@ -1269,7 +1269,7 @@ Vrd ERM 161, 39
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="ekla199005001049">
+<ITEM nro="ekla199005001049" y="">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 169-170</ID> &lt; <LOC>Mustjala khk.</LOC> - <COL>K. Lember (koguja) &amp; Helmi Ottenson-Kleis (ümberkirjutaja)</COL> (<TMP>1920 (kogutud) &amp; 1923 (saadetud)</TMP>)
 <ZANR>rl/ul</ZANR>
@@ -1304,7 +1304,7 @@ Vrd ERM 161, 43
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="ekla199005001050">
+<ITEM nro="ekla199005001050" y="">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 171</ID> &lt; <LOC>Mustjala khk.</LOC> - <COL>K. Lember (koguja) &amp; Helmi Ottenson-Kleis (ümberkirjutaja)</COL> (<TMP>1920 (kogutud) &amp; 1923 (saadetud)</TMP>)
 </META>
@@ -1359,7 +1359,7 @@ Vrd ERM 161, 51/3
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="ekla199005001051">
+<ITEM nro="ekla199005001051" y="">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 171-173</ID> &lt; <LOC>Mustjala khk.</LOC> - <COL>K. Lember (koguja) &amp; Helmi Ottenson-Kleis (ümberkirjutaja)</COL> (<TMP>1920 (kogutud) &amp; 1923 (saadetud)</TMP>)
 </META>
@@ -1401,7 +1401,7 @@ Vrd ERM 161, 53
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="ekla199005001052">
+<ITEM nro="ekla199005001052" y="1923">
 <META>
 <ID>EKLA, f. 199, m. 5: 1, l. 173</ID> &lt; <LOC>Mustjala khk.</LOC> - <COL>Helmi Ottenson-Kleis</COL> (<TMP>1923</TMP>)
 <ZANR>labajalalaul</ZANR>
@@ -1418,7 +1418,7 @@ Vrd ERM 161, 53
 <V>jäta väimees jälle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250001">
+<ITEM nro="ekla470280250001" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 1/1-1/1p</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -1451,7 +1451,7 @@ Vrd ERM 161, 53
 <V>Aruheina elkimaie!"</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250002">
+<ITEM nro="ekla470280250002" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 1/1p-1/2</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -1475,7 +1475,7 @@ Vrd ERM 161, 53
 <V>Selle mina kingin kiigutajal.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250003">
+<ITEM nro="ekla470280250003" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 1/2</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -1494,7 +1494,7 @@ Vrd ERM 161, 53
 <V>Kevade kerise äärele.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250004">
+<ITEM nro="ekla470280250004" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 1/2-1/2p</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -1533,7 +1533,7 @@ Vrd ERM 161, 53
 <V>Vana vaskeveerandille.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250005">
+<ITEM nro="ekla470280250005" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 1/2p</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -1556,7 +1556,7 @@ Vrd ERM 161, 53
 <V>Tüdrukud üleilusad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250006">
+<ITEM nro="ekla470280250006" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 2/3-2/3p</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -1579,7 +1579,7 @@ Vrd ERM 161, 53
 <V>Purikatel kirjud kül´led.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250007">
+<ITEM nro="ekla470280250007" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 2/3</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -1605,7 +1605,7 @@ Vanatüdruk meheleminemise himus.
 <V>Kasteheinad küllakile.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250008">
+<ITEM nro="ekla470280250008" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 2/4</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -1643,7 +1643,7 @@ Vanatüdruk meheleminemise himus.
 <V>Pärishärrad põrgu läinud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250009">
+<ITEM nro="ekla470280250009" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 2/4p</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -1663,7 +1663,7 @@ Vanatüdruk meheleminemise himus.
 <V>Tilk on õlut keske'ella.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250010">
+<ITEM nro="ekla470280250010" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 2/4p</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -1687,7 +1687,7 @@ Vanatüdruk meheleminemise himus.
 <V>Pirtsakas ja ninatark.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250011">
+<ITEM nro="ekla470280250011" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 3/5</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -1733,7 +1733,7 @@ Vanatüdruk meheleminemise himus.
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="ekla470280250012">
+<ITEM nro="ekla470280250012" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 3/5p (2)</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -1762,7 +1762,7 @@ Vanatüdruk meheleminemise himus.
 <V>Maitsed ka malaka matsud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250013">
+<ITEM nro="ekla470280250013" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 3/5p (3)</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -1780,7 +1780,7 @@ Vanatüdruk meheleminemise himus.
 <V>Au tõtte hobu aetaks.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250014">
+<ITEM nro="ekla470280250014" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 3/5p (4)</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -1794,7 +1794,7 @@ Vanatüdruk meheleminemise himus.
 <V>Jahumatti maksvad ära</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250015">
+<ITEM nro="ekla470280250015" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 3/5p (5)</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -1814,7 +1814,7 @@ Vanatüdruk meheleminemise himus.
 <V>Ka on mokad moodilised.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250016">
+<ITEM nro="ekla470280250016" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 3/5p (6)</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -1835,7 +1835,7 @@ Vanatüdruk meheleminemise himus.
 <V>Poe-aga-poisi pruudike.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250017">
+<ITEM nro="ekla470280250017" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 3/5p (7)</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -1868,7 +1868,7 @@ Vanatüdruk meheleminemise himus.
 <V>Timpadi limpadi, timpalimpalimp</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250018">
+<ITEM nro="ekla470280250018" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 3/6 (8)</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -1899,7 +1899,7 @@ Vanatüdruk meheleminemise himus.
 <V>Pilved pikkada igada.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250019">
+<ITEM nro="ekla470280250019" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 3/6 (9)</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -1951,7 +1951,7 @@ Vanatüdruk meheleminemise himus.
 <V>Verevallide vahelta</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250020">
+<ITEM nro="ekla470280250020" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 3/6 (10)</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 <ZANR>siirdevormiline laul</ZANR>
@@ -1966,7 +1966,7 @@ Vanatüdruk meheleminemise himus.
 <V>Sellel peigmees vasta nõuab.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250021">
+<ITEM nro="ekla470280250021" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 3/6-3/6p (11)</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -2011,7 +2011,7 @@ Vanatüdruk meheleminemise himus.
 <V>Koledessa hoonetessa."</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250022">
+<ITEM nro="ekla470280250022" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 3/6p (12)</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -2026,7 +2026,7 @@ Vanatüdruk meheleminemise himus.
 <V>Lõugutakkus lõdisin</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250023">
+<ITEM nro="ekla470280250023" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 3/6p (13)</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -2081,7 +2081,7 @@ Vanatüdruk meheleminemise himus.
 <V>Kõrva ääre kõrki juttu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250024">
+<ITEM nro="ekla470280250024" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 4/7p-4/8</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -2117,7 +2117,7 @@ Vanatüdruk meheleminemise himus.
 <V>Taadi kurja kepi alla.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250025">
+<ITEM nro="ekla470280250025" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 4/8-4/8p</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 <TYP_YHT>Tütar läheb aita ehtima + Kiigele ehtimine + Kirp kiigel</TYP_YHT><LLIIK_YHT>Laulud kodust ja lapsepõlvest (Ema ja tütar) ; Kalendrilaulud (Kiigelaulud - Kiigelaulud)</LLIIK_YHT></META>
@@ -2162,7 +2162,7 @@ Vanatüdruk meheleminemise himus.
 <V>Sisaliku silma peale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250026">
+<ITEM nro="ekla470280250026" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 5/9</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -2185,7 +2185,7 @@ Vanatüdruk meheleminemise himus.
 <V>Oma eede ella lapsi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250027">
+<ITEM nro="ekla470280250027" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 5/9p-5/10</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -2232,7 +2232,7 @@ Vanatüdruk meheleminemise himus.
 <V>Sõlg tal rinda ju sulagu</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250028">
+<ITEM nro="ekla470280250028" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 5/10-5/10p</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -2282,7 +2282,7 @@ Vanatüdruk meheleminemise himus.
 <V>Arki arude vahele.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250029">
+<ITEM nro="ekla470280250029" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 5/11</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -2315,7 +2315,7 @@ Vanatüdruk meheleminemise himus.
 <V>Sõsar sõlge, kas pole selge?</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250030">
+<ITEM nro="ekla470280250030" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 5/11p-5/12</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -2372,7 +2372,7 @@ Vanatüdruk meheleminemise himus.
 <V>Vaherpuu joodab vasikad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250031">
+<ITEM nro="ekla470280250031" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 5/12-5/12p</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -2398,7 +2398,7 @@ Vanatüdruk meheleminemise himus.
 <V>Toruotsi tortsutab!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250032">
+<ITEM nro="ekla470280250032" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 5/12p</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -2413,7 +2413,7 @@ Vanatüdruk meheleminemise himus.
 <V>Lelle valla vaesedlapsed.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250033">
+<ITEM nro="ekla470280250033" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 5/13</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 <TYP_YHT>Kiidan teohobust</TYP_YHT><LLIIK_YHT>Looduslaulud (Loomad ja linnud)</LLIIK_YHT></META>
@@ -2428,7 +2428,7 @@ Vanatüdruk meheleminemise himus.
 <V>Mõisa teeb ta tio teo.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250034">
+<ITEM nro="ekla470280250034" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 5/13</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -2450,7 +2450,7 @@ Vanatüdruk meheleminemise himus.
 <V>Nii on naene meheta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250035">
+<ITEM nro="ekla470280250035" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 5/13p</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -2470,7 +2470,7 @@ Vanatüdruk meheleminemise himus.
 <V>Verikõrvi vermetesse</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250036">
+<ITEM nro="ekla470280250036" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 5/13p</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -2489,7 +2489,7 @@ Vanatüdruk meheleminemise himus.
 <V>Käsi kõver kõrtsu poole.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250037">
+<ITEM nro="ekla470280250037" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 5/14-5/14p</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -2534,7 +2534,7 @@ Vanatüdruk meheleminemise himus.
 <V>Vaherpuu vasikakene.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250038">
+<ITEM nro="ekla470280250038" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 6/15-6/16</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -2581,7 +2581,7 @@ Vanatüdruk meheleminemise himus.
 <V>Kalli tütre kasvatajal.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250039">
+<ITEM nro="ekla470280250039" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 6/16-6/16p</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -2627,7 +2627,7 @@ Vanatüdruk meheleminemise himus.
 <V>Mina kõige esimine.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250040">
+<ITEM nro="ekla470280250040" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 7/17</ID> &lt; <LOC>Vändra khk., Lelle v. &amp;lt; Pärnu l.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 <ZANR></ZANR>
@@ -2655,7 +2655,7 @@ Ma oleks hea meelega neid tahtnud Sakalasse trükki panna. Kahju et ma neid mitt
 <V>Koidutäht kosta mo eest.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250041">
+<ITEM nro="ekla470280250041" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 7/17p</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -2668,7 +2668,7 @@ Ma oleks hea meelega neid tahtnud Sakalasse trükki panna. Kahju et ma neid mitt
 <V>Täiest' anda aitümasi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250042">
+<ITEM nro="ekla470280250042" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 7/17p</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 <TYP_YHT>Ilus neiu kiigel</TYP_YHT><LLIIK_YHT>Kalendrilaulud (Kiigelaulud)</LLIIK_YHT></META>
@@ -2687,7 +2687,7 @@ Ma oleks hea meelega neid tahtnud Sakalasse trükki panna. Kahju et ma neid mitt
 <V>Ise tõin selle sinise</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250043">
+<ITEM nro="ekla470280250043" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 7/17p</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -2707,7 +2707,7 @@ Ma oleks hea meelega neid tahtnud Sakalasse trükki panna. Kahju et ma neid mitt
 <V>Läbi aja längakile.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250044">
+<ITEM nro="ekla470280250044" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 7/18</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -2724,7 +2724,7 @@ Ma oleks hea meelega neid tahtnud Sakalasse trükki panna. Kahju et ma neid mitt
 <V>Kleidi keerukirjalise.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250045">
+<ITEM nro="ekla470280250045" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 7/18</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -2741,7 +2741,7 @@ Ma oleks hea meelega neid tahtnud Sakalasse trükki panna. Kahju et ma neid mitt
 <V>Vinda-vända väravasse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250046">
+<ITEM nro="ekla470280250046" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 7/18-7/18p</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -2763,7 +2763,7 @@ Ma oleks hea meelega neid tahtnud Sakalasse trükki panna. Kahju et ma neid mitt
 <V>Mina küll mõistan eesti keelta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla470280250047">
+<ITEM nro="ekla470280250047" y="1878">
 <META>
 <ID>EKLA, f. 47, m. 28: 25, l. 9/22-9/22p</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>Hans Mett</COL> (<TMP>1878</TMP>)
 </META>
@@ -2788,7 +2788,7 @@ Ma oleks hea meelega neid tahtnud Sakalasse trükki panna. Kahju et ma neid mitt
 <V>Linna litsi liiategi."</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla510280060001">
+<ITEM nro="ekla510280060001" y="1893">
 <META>
 <ID>EKLA, f. 51, m. 28: 6, l. 8-8p (1)</ID> &lt; <LOC>Tallinn</LOC> - <COL>W. K.</COL> (<TMP>1893</TMP>)
 </META>
@@ -2829,7 +2829,7 @@ Vrd H II 16, 57/8 (53) &amp;lt; Kose khk., Kose kirikuk. &amp;lt; Haljala khk., 
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="ekla510280060002">
+<ITEM nro="ekla510280060002" y="1893">
 <META>
 <ID>EKLA, f. 51, m. 28: 6, l. 8p (2)</ID> &lt; <LOC>Tallinn</LOC> - <COL>W. K.</COL> (<TMP>1893</TMP>)
 </META>
@@ -2857,7 +2857,7 @@ Vrd H III 2, 544/5 (15) &amp;lt; Haljala khk., Kavastu v. - Wiilip Klaas &amp;lt
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="ekla510280060003">
+<ITEM nro="ekla510280060003" y="1893">
 <META>
 <ID>EKLA, f. 51, m. 28: 6, l. 9 (3)</ID> &lt; <LOC>Tallinn</LOC> - <COL>W. K.</COL> (<TMP>1893</TMP>)
 <TYP_YHT>Kellele ketran</TYP_YHT><LLIIK_YHT>Töölaulud (Naistetööd)</LLIIK_YHT></META>
@@ -2885,7 +2885,7 @@ Vrd H III 2, 481 (1) &amp;lt; Haljala khk., Kavastu v. - Liisa Marie Kahtelberg 
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="ekla510280060004">
+<ITEM nro="ekla510280060004" y="1893">
 <META>
 <ID>EKLA, f. 51, m. 28: 6, l. 9 (4)</ID> &lt; <LOC>Tallinn</LOC> - <COL>W. K.</COL> (<TMP>1893</TMP>)
 </META>
@@ -2903,7 +2903,7 @@ Vrd H III 2, 503 (5) &amp;lt; Haljala khk., Kavastu v. - Wiilip Klaas (1889).
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="ekla510280060005">
+<ITEM nro="ekla510280060005" y="1893">
 <META>
 <ID>EKLA, f. 51, m. 28: 6, l. 9p (5)</ID> &lt; <LOC>Tallinn</LOC> - <COL>W. K.</COL> (<TMP>1893</TMP>)
 </META>
@@ -2923,7 +2923,7 @@ Vrd H III 12, 255 (13) &amp;lt; Haljala khk., Vanamõisa v. - Wiilip Klaas &amp;
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="ekla510280060006">
+<ITEM nro="ekla510280060006" y="1893">
 <META>
 <ID>EKLA, f. 51, m. 28: 6, l. 9p (6)</ID> &lt; <LOC>Tallinn</LOC> - <COL>W. K.</COL> (<TMP>1893</TMP>)
 </META>
@@ -2946,7 +2946,7 @@ Vrd H III 2, 476 (7) &amp;lt; Haljala khk., Kavastu v. - Wiilip Klaas &amp;lt; M
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="ekla510280060007">
+<ITEM nro="ekla510280060007" y="1893">
 <META>
 <ID>EKLA, f. 51, m. 28: 6, l. 9p-10 (7)</ID> &lt; <LOC>Tallinn</LOC> - <COL>W. K.</COL> (<TMP>1893</TMP>)
 <TYP_YHT>Saunanaine palub paja-aset</TYP_YHT><LLIIK_YHT>Laulud ühiskondlikest vahekordadest (Peremees ja sulane)</LLIIK_YHT></META>
@@ -2969,7 +2969,7 @@ Vrd H III 2, 493 (3) &amp;lt; Kose khk., Ravila v. - Wiilip Klaas (1889).
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="ekla510280060008">
+<ITEM nro="ekla510280060008" y="1893">
 <META>
 <ID>EKLA, f. 51, m. 28: 6, l. 10 (8)</ID> &lt; <LOC>Tallinn</LOC> - <COL>W. K.</COL> (<TMP>1893</TMP>)
 </META>
@@ -2990,7 +2990,7 @@ Vrd H III 2, 534 (3) &amp;lt; Haljala khk., Kavastu v. - Wiilip Klaas &amp;lt; M
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="ekla510280060009">
+<ITEM nro="ekla510280060009" y="1893">
 <META>
 <ID>EKLA, f. 51, m. 28: 6, l. 10-10p (9)</ID> &lt; <LOC>Tallinn</LOC> - <COL>W. K.</COL> (<TMP>1893</TMP>)
 </META>
@@ -3009,7 +3009,7 @@ Vrd H III 2, 534 (3) &amp;lt; Haljala khk., Kavastu v. - Wiilip Klaas &amp;lt; M
 <V>Baltelastes paksu palju.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla510280060010">
+<ITEM nro="ekla510280060010" y="1893">
 <META>
 <ID>EKLA, f. 51, m. 28: 6, l. 10p (10)</ID> &lt; <LOC>Tallinn</LOC> - <COL>W. K.</COL> (<TMP>1893</TMP>)
 </META>
@@ -3030,7 +3030,7 @@ Vrd H III 2, 534 (3) &amp;lt; Haljala khk., Kavastu v. - Wiilip Klaas &amp;lt; M
 <V>Püksid jalas perse paljas.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla510280060011">
+<ITEM nro="ekla510280060011" y="1893">
 <META>
 <ID>EKLA, f. 51, m. 28: 6, l. 10p-11 (11)</ID> &lt; <LOC>Tallinn</LOC> - <COL>W. K.</COL> (<TMP>1893</TMP>)
 <TYP_YHT>Ikka peab ori olema</TYP_YHT><LLIIK_YHT>Laulud ühiskondlikest vahekordadest (Orja laulud)</LLIIK_YHT></META>
@@ -3049,7 +3049,7 @@ Vrd H III 2, 534 (3) &amp;lt; Haljala khk., Kavastu v. - Wiilip Klaas &amp;lt; M
 <V>Näen vaeva, vannutakse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla510280060012">
+<ITEM nro="ekla510280060012" y="1893">
 <META>
 <ID>EKLA, f. 51, m. 28: 6, l. 11 (12)</ID> &lt; <LOC>Tallinn</LOC> - <COL>W. K.</COL> (<TMP>1893</TMP>)
 </META>
@@ -3078,7 +3078,7 @@ Vrd H III 2, 494 (5) &amp;lt; Kose khk., Ravila v. - Wiilip Klaas (1889).
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="ekla510280060013">
+<ITEM nro="ekla510280060013" y="1893">
 <META>
 <ID>EKLA, f. 51, m. 28: 6, l. 11p-12 (13)</ID> &lt; <LOC>Tallinn</LOC> - <COL>W. K.</COL> (<TMP>1893</TMP>)
 <TYP_YHT>Loomad tööl</TYP_YHT><LLIIK_YHT>Looduslaulud (Loomad ja linnud)</LLIIK_YHT></META>
@@ -3139,7 +3139,7 @@ Vrd: H II 16, 56/7 (52) &amp;lt; Kose khk., Kose kirikuk. &amp;lt; Haljala khk.,
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="ekla510280060014">
+<ITEM nro="ekla510280060014" y="1893">
 <META>
 <ID>EKLA, f. 51, m. 28: 6, l. 12-12p (14)</ID> &lt; <LOC>Tallinn</LOC> - <COL>W. K.</COL> (<TMP>1893</TMP>)
 </META>
@@ -3166,7 +3166,7 @@ Vrd H III 2, 545/6 (16) &amp;lt; Haljala khk., Aaspere v. - Wiilip Klaas &amp;lt
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="ekla510280150001">
+<ITEM nro="ekla510280150001" y="1838">
 <META>
 <ID>EKLA, f. 51, m. 28: 15, l. 11p</ID> &lt; <LOC>Jaani khk.</LOC> - <COL>Maria Jõgewer</COL> (<TMP>1838</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -3209,7 +3209,7 @@ Vrd H III 2, 545/6 (16) &amp;lt; Haljala khk., Aaspere v. - Wiilip Klaas &amp;lt
 <V>see on see sama mis ma kiroda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla510280150002">
+<ITEM nro="ekla510280150002" y="">
 <META>
 <ID>EKLA, f. 51, m. 28: 15, l. 29</ID> &lt; <LOC>Jaani khk.</LOC> - <COL>Maria Jõgewer</COL> &lt; <INF><NIMI>Joannes Jõggewer</NIMI></INF> (<TMP>?1838</TMP>)
 </META>
@@ -3249,7 +3249,7 @@ Vrd H III 2, 545/6 (16) &amp;lt; Haljala khk., Aaspere v. - Wiilip Klaas &amp;lt
 <V>ja mind päriks Pärdi Jüri.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla960040130001">
+<ITEM nro="ekla960040130001" y="0">
 <META>
 <ID>EKLA, f. 96, m. 4: 13, l. 4p (2)</ID> - <COL>Peeter Org</COL>
 <ZANR>siirdevormiline laul</ZANR>
@@ -3277,7 +3277,7 @@ Mängitakse sarnase kombel kui esimist tükki, keset ringi seisavad lind ja küt
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="ekla960040130002">
+<ITEM nro="ekla960040130002" y="0">
 <META>
 <ID>EKLA, f. 96, m. 4: 13, l. 4p-5 (3)</ID> - <COL>Peeter Org</COL>
 </META>

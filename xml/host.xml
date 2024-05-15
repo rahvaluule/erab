@@ -1,5 +1,5 @@
 <COLLECTION>
-<ITEM nro="host00010001">
+<ITEM nro="host00010001" y="1887">
 <META>
 <ID>H, Ostrov 1 (1)</ID> &lt; <LOC>Põltsamaa khk., Kursi v., Aidu k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Suik</NIMI>, <ELUL>75 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP>
@@ -26,7 +26,7 @@ Ilus neiu (Mari)
 <V>Jüri jäi maha jörisemaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00010002">
+<ITEM nro="host00010002" y="1887">
 <META>
 <ID>H, Ostrov 1/2 (2)</ID> &lt; <LOC>Põltsamaa khk., Kursi v., Aidu k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Suik</NIMI>, <ELUL>75 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kodu kaugel + _ + Kust laulud saadud</TYP_YHT>
@@ -73,7 +73,7 @@ Kodu kaugel
 <V>Käed mul kangasta kuduvad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00030003">
+<ITEM nro="host00030003" y="1887">
 <META>
 <ID>H, Ostrov 3 (3)</ID> &lt; <LOC>Põltsamaa khk., Kursi v., Aidu k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Suik</NIMI>, <ELUL>75 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Küla jääb kuulama + Kust laulud saadud</TYP_YHT>
@@ -108,7 +108,7 @@ Laulu võim - kust laulud
 <V>Panin kokku palveida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00040004">
+<ITEM nro="host00040004" y="1887">
 <META>
 <ID>H, Ostrov 4 (4)</ID> &lt; <LOC>Põltsamaa khk., Kursi v., Aidu k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Suik</NIMI>, <ELUL>75 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Neiu linn</TYP_YHT>
@@ -144,7 +144,7 @@ Tuule tuba
 <V>Punakuube kuivatetud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00050005">
+<ITEM nro="host00050005" y="1887">
 <META>
 <ID>H, Ostrov 5 (5)</ID> &lt; <LOC>Põltsamaa khk., Kursi v., Aidu k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Suik</NIMI>, <ELUL>75 a.</ELUL></INF> (<TMP>1887</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -158,7 +158,7 @@ Tuule tuba
 <V>Õieti otsani õluta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00060006">
+<ITEM nro="host00060006" y="1887">
 <META>
 <ID>H, Ostrov 6/7 (6)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -211,7 +211,7 @@ Soome sild
 <V>Laia lotsi laudijalta!"</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00070007">
+<ITEM nro="host00070007" y="1887">
 <META>
 <ID>H, Ostrov 7/8 (7)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -255,7 +255,7 @@ Kass kaevus
 <V>Saba siidirõngakene.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host0008008a">
+<ITEM nro="host0008008a" y="1887">
 <META>
 <ID>H, Ostrov 8/9 (8a)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -284,7 +284,7 @@ Kass kaevus
 <V>Haava ääres aarikuida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host0009008b">
+<ITEM nro="host0009008b" y="1887">
 <META>
 <ID>H, Ostrov 9/10 (8b)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -309,7 +309,7 @@ Kass kaevus
 <V>Pere lapsed laiukilla.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host0010008c">
+<ITEM nro="host0010008c" y="1887">
 <META>
 <ID>H, Ostrov 10 (8c)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -332,7 +332,7 @@ Kass kaevus
 <V>Habeme aiateivasse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00110009">
+<ITEM nro="host00110009" y="1887">
 <META>
 <ID>H, Ostrov 11 (9)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -367,7 +367,7 @@ Karske neiu
 <V>Kohe maha nende koerad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00110010">
+<ITEM nro="host00110010" y="1887">
 <META>
 <ID>H, Ostrov 11/2 (10)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -401,7 +401,7 @@ Kurja naise tapja
 <V>Siis sain lahti laisast naesest.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00120011">
+<ITEM nro="host00120011" y="1887">
 <META>
 <ID>H, Ostrov 12/4 (11)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -454,7 +454,7 @@ Vastu ööd
 <V>Vellenaese rokajooja.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00140012">
+<ITEM nro="host00140012" y="1887">
 <META>
 <ID>H, Ostrov 14 (12)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -488,7 +488,7 @@ Vastu ööd
 <V>Kiisa küljed kilbilised.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00150013">
+<ITEM nro="host00150013" y="1887">
 <META>
 <ID>H, Ostrov 15 (13)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -504,7 +504,7 @@ Vastu ööd
 <V>Tunamullu mustad küüdud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00150014">
+<ITEM nro="host00150014" y="1887">
 <META>
 <ID>H, Ostrov 15/6 (14)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -556,7 +556,7 @@ Vastu ööd
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="host00170015">
+<ITEM nro="host00170015" y="1887">
 <META>
 <ID>H, Ostrov 17/8 (15)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -603,7 +603,7 @@ Hoiatus lesknaisest
 <V>Neljas neiu otsa peale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00180016">
+<ITEM nro="host00180016" y="1887">
 <META>
 <ID>H, Ostrov 18 (16)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -635,7 +635,7 @@ Viru elu
 <V>Tüdrukud kirikupärgisida."</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00190017">
+<ITEM nro="host00190017" y="1887">
 <META>
 <ID>H, Ostrov 19 (17)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -676,7 +676,7 @@ Vanemate õpetus surres
 <V>Kelmil löö kulmud mõlemad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00200018">
+<ITEM nro="host00200018" y="1887">
 <META>
 <ID>H, Ostrov 20/1 (18)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -721,7 +721,7 @@ Neid metsas - kosjad kodu
 <V>Kullerkupu keske'ella.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00210019">
+<ITEM nro="host00210019" y="1887">
 <META>
 <ID>H, Ostrov 21/2 (19)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -761,7 +761,7 @@ Kosjahobu söötmine - kosja
 <V>Ää hukka hüva hobusta!"</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00220020">
+<ITEM nro="host00220020" y="1887">
 <META>
 <ID>H, Ostrov 22/4 (20)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -840,7 +840,7 @@ Arg kosilane - püssil
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="host00240021">
+<ITEM nro="host00240021" y="1887">
 <META>
 <ID>H, Ostrov 24/5 (21)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -890,7 +890,7 @@ Mere pühkimine
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="host00250022">
+<ITEM nro="host00250022" y="1887">
 <META>
 <ID>H, Ostrov 25/6 (22)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -945,7 +945,7 @@ Tule mulle
 <V>Meie lammad laudassagi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00270023">
+<ITEM nro="host00270023" y="1887">
 <META>
 <ID>H, Ostrov 27 (23)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -982,7 +982,7 @@ Vana kosilane - asjata kasvatet
 <V>Laisal lapsekiigutaja.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00280024">
+<ITEM nro="host00280024" y="1887">
 <META>
 <ID>H, Ostrov 28 (24)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -1017,7 +1017,7 @@ Kiige katsumine
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="host00280025">
+<ITEM nro="host00280025" y="1887">
 <META>
 <ID>H, Ostrov 28/9 (25)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -1054,7 +1054,7 @@ Laisad neiud - laisad poisid
 <V>Saanud püsti püüdessagi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00290026">
+<ITEM nro="host00290026" y="1887">
 <META>
 <ID>H, Ostrov 29/30 (26)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi. 52 a.</NIMI></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Suur tamm</TYP_YHT>
@@ -1098,7 +1098,7 @@ Suur tamm
 <V>Kogute te kotitäied.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00300027">
+<ITEM nro="host00300027" y="1887">
 <META>
 <ID>H, Ostrov 30 (27)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -1116,7 +1116,7 @@ Tööhobuse kiitus
 <V>Külimitud kösterille.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00310028">
+<ITEM nro="host00310028" y="1887">
 <META>
 <ID>H, Ostrov 31/2 (28)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -1184,7 +1184,7 @@ Haned kadunud
 <V>Kana kaelad käänetasse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00320029">
+<ITEM nro="host00320029" y="1887">
 <META>
 <ID>H, Ostrov 32/3 (29)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -1229,7 +1229,7 @@ Talguselaul
 <V>Piperad pireta keelta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00330030">
+<ITEM nro="host00330030" y="1887">
 <META>
 <ID>H, Ostrov 33 (30)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -1250,7 +1250,7 @@ Ei ole hobust talgusele minna
 <V>Poolest peetud päitsetega.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00340031">
+<ITEM nro="host00340031" y="1887">
 <META>
 <ID>H, Ostrov 34 (31)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Kaava m.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Nõmm</NIMI></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Päid jäänud põllule</TYP_YHT><LLIIK_YHT>Töölaulud (Lõikuslaulud)</LLIIK_YHT></META>
@@ -1269,7 +1269,7 @@ Ei ole hobust talgusele minna
 <V>Üle sirbi silbatanud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00340032">
+<ITEM nro="host00340032" y="1887">
 <META>
 <ID>H, Ostrov 34/5 (32)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -1325,7 +1325,7 @@ Orja palve
 <V>Hammusta haljasta hõbedat!"</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00360033">
+<ITEM nro="host00360033" y="1887">
 <META>
 <ID>H, Ostrov 36 (33)</ID> &lt; <LOC>Põltsamaa khk., Kurista v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kai Seppu</NIMI>, <ELUL>56 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP>
@@ -1351,7 +1351,7 @@ cf. I
 <V>Karu olli kallis saanitäkku.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00360034">
+<ITEM nro="host00360034" y="1887">
 <META>
 <ID>H, Ostrov 36/7 (34)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -1388,7 +1388,7 @@ cf. I
 <V>Jüri sööma südamesta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00370035">
+<ITEM nro="host00370035" y="1887">
 <META>
 <ID>H, Ostrov 37/8 (35)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -1443,7 +1443,7 @@ cf. III
 <V>Meel aga mõtles mõistatusi."</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00380036">
+<ITEM nro="host00380036" y="1887">
 <META>
 <ID>H, Ostrov 38/9 (36)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -1477,7 +1477,7 @@ Kodu kaugel
 <V>Muna mullutse mullika.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00390037">
+<ITEM nro="host00390037" y="1887">
 <META>
 <ID>H, Ostrov 39 (37)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -1498,7 +1498,7 @@ Kohus koju minna
 <V>Kõõrutand Maria kana.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00390038">
+<ITEM nro="host00390038" y="1887">
 <META>
 <ID>H, Ostrov 39/40 (38)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -1534,7 +1534,7 @@ Veere, päev
 <V>Paabel lautab palakida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00400039">
+<ITEM nro="host00400039" y="1887">
 <META>
 <ID>H, Ostrov 40/2 (39)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -1629,7 +1629,7 @@ võrdle H, Ostrov 57 (59)
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="host00430040">
+<ITEM nro="host00430040" y="1887">
 <META>
 <ID>H, Ostrov 43/4 (40)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -1691,7 +1691,7 @@ Kodu kaugel
 <V>Leegrileemed laua peale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00440041">
+<ITEM nro="host00440041" y="1887">
 <META>
 <ID>H, Ostrov 44/5 (41)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -1720,7 +1720,7 @@ Ei ole aega pulma minna
 <V>Haavad hallid peiupoisid.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00450042">
+<ITEM nro="host00450042" y="1887">
 <META>
 <ID>H, Ostrov 45 (42)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aida k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -1752,7 +1752,7 @@ Lauliku soost - suude sulg
 <V>Kõõrutaks kanade moodi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00460043">
+<ITEM nro="host00460043" y="1887">
 <META>
 <ID>H, Ostrov 46 (43)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aida k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -1789,7 +1789,7 @@ Laisk naine - tõbine naine
 <V>Tee tilguke õluta ...</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00470000">
+<ITEM nro="host00470000" y="1887">
 <META>
 <ID>H, Ostrov 47</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <ZANR>andmed</ZANR>
@@ -1805,7 +1805,7 @@ Mari Pagi sündinud Võisiku vallas Pilistvere kihelkondas, on 52 aast. vana, 30
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="host00470044">
+<ITEM nro="host00470044" y="1887">
 <META>
 <ID>H, Ostrov 47 (44)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp;lt; Pilistvere khk., Võisiku v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -1818,7 +1818,7 @@ Mari Pagi sündinud Võisiku vallas Pilistvere kihelkondas, on 52 aast. vana, 30
 <V>Vanad neiud val'lud neiud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00480045">
+<ITEM nro="host00480045" y="1887">
 <META>
 <ID>H, Ostrov 48/9 (45)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Vägara k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Anu Nõmm</NIMI></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Haned kadunud</TYP_YHT>
@@ -1888,7 +1888,7 @@ cf. XXVIII
 <V>Kullatiivad kopelista.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00500046">
+<ITEM nro="host00500046" y="1887">
 <META>
 <ID>H, Ostrov 50 (46)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Siimusti k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Talgute laitja</TYP_YHT>
@@ -1913,7 +1913,7 @@ cf. XXX
 <V>Talve haisis ange peal.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00500047">
+<ITEM nro="host00500047" y="1887">
 <META>
 <ID>H, Ostrov 50 (47)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Siimusti k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP>
@@ -1928,7 +1928,7 @@ Mõisaelu
 <V>Ütelda ei isa tuassa...</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00500048">
+<ITEM nro="host00500048" y="1887">
 <META>
 <ID>H, Ostrov 50 (48)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Siimusti k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Rikas nutab surres</TYP_YHT>
@@ -1946,7 +1946,7 @@ Rikas nutab surres
 <V>Ikke ilmast minnessani.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00510049">
+<ITEM nro="host00510049" y="1887">
 <META>
 <ID>H, Ostrov 51 (49)</ID> &lt; <LOC>Laiuse khk., Jõgeva v., Painküla k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Jaan Ots</NIMI>, <ELUL>koolmeister</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Tänu söögi eest</TYP_YHT><LLIIK_YHT>Laulud meelelahutamiseks (Külalised)</LLIIK_YHT></META>
@@ -1963,7 +1963,7 @@ Rikas nutab surres
 <V>Kalli hapukal'lala.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00510050">
+<ITEM nro="host00510050" y="1887">
 <META>
 <ID>H, Ostrov 51 (50)</ID> &lt; <LOC>Laiuse khk., Jõgeva v., Painküla k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Jaan Ots</NIMI>, <ELUL>koolmeister</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Langude teretus + Viska ustele õlut</TYP_YHT><LLIIK_YHT>Pulmalaulud (Peiu saabumine mõrsjakoju - Uue kodu tutvustamine)</LLIIK_YHT></META>
@@ -1978,7 +1978,7 @@ Rikas nutab surres
 <V>Ega piiksu pihlakased.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00520051">
+<ITEM nro="host00520051" y="1887">
 <META>
 <ID>H, Ostrov 52 (51)</ID> &lt; <LOC>Laiuse khk., Jõgeva v., Painküla k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Juula Kurg</NIMI>, <ELUL>31 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kaks vaeslast + Ema haual</TYP_YHT>
@@ -2027,7 +2027,7 @@ cf. XIV
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="host00530052">
+<ITEM nro="host00530052" y="1887">
 <META>
 <ID>H, Ostrov 53/4 (52)</ID> &lt; <LOC>Laiuse khk., Jõgeva v., Painküla k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Juula Kurg</NIMI>, <ELUL>31 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Venna sõjalugu</TYP_YHT>
@@ -2071,7 +2071,7 @@ Venna sõjalugu
 <V>Kõigest kõrgemast lookadest.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00540053">
+<ITEM nro="host00540053" y="1887">
 <META>
 <ID>H, Ostrov 54 (53)</ID> &lt; <LOC>Laiuse khk., Jõgeva v., Painküla k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Juula Kurg</NIMI>, <ELUL>31 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Mesi meeste meelest</TYP_YHT><LLIIK_YHT>Laulud noorrahva elust (Neiud)</LLIIK_YHT></META>
@@ -2084,7 +2084,7 @@ Venna sõjalugu
 <V>Piimapudi poiste meelest.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00540054">
+<ITEM nro="host00540054" y="1887">
 <META>
 <ID>H, Ostrov 54 (54)</ID> &lt; <LOC>Laiuse khk., Jõgeva v., Painküla k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Juula Kurg</NIMI>, <ELUL>31 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Varese munad</TYP_YHT><LLIIK_YHT>Looduslaulud (Loomad ja linnud)</LLIIK_YHT></META>
@@ -2099,7 +2099,7 @@ Venna sõjalugu
 <V>Perenaene põlletäie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00550055">
+<ITEM nro="host00550055" y="1887">
 <META>
 <ID>H, Ostrov 55 (55)</ID> &lt; <LOC>Laiuse khk.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Olge terved kutsumast + Koka kiitus</TYP_YHT>
@@ -2126,7 +2126,7 @@ cf. XXIX
 <V>Piperad Vene raealta...</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00550056">
+<ITEM nro="host00550056" y="1887">
 <META>
 
 <ID>H, Ostrov 55/6 (56)</ID> &lt; <LOC>Laiuse khk.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
@@ -2180,7 +2180,7 @@ cf. Heft II, No. II
 
 </TEXT>
 </ITEM>
-<ITEM nro="host00560057">
+<ITEM nro="host00560057" y="1887">
 <META>
 <ID>H, Ostrov 56 (57)</ID> &lt; <LOC>Laiuse khk.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Kodu jääb tütart nutma</TYP_YHT><LLIIK_YHT>Pulmalaulud (Mõrsja lahkumine vanematekodunt)</LLIIK_YHT></META>
@@ -2197,7 +2197,7 @@ cf. Heft II, No. II
 <V>Kearpuude kil'lutaja? ...</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00560058">
+<ITEM nro="host00560058" y="1887">
 <META>
 <ID>H, Ostrov 56/7 (58)</ID> &lt; <LOC>Laiuse khk.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Andke maad marjal tulla!</TYP_YHT><LLIIK_YHT>Pulmalaulud (Mõrsja tuuakse mehekoju)</LLIIK_YHT></META>
@@ -2215,7 +2215,7 @@ Pruudiga peigmehe kodu jõudes.
 <V>Kaugelt ratsu keeritellen.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00570059">
+<ITEM nro="host00570059" y="1887">
 <META>
 <ID>H, Ostrov 57 (59)</ID> &lt; <LOC>Laiuse khk.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Mis sina toonud tulles</TYP_YHT><LLIIK_YHT>Pulmalaulud (Mõrsja tuuakse mehekoju)</LLIIK_YHT></META>
@@ -2230,7 +2230,7 @@ cf. 39, 50-54.
 <V>See sina vea vaagenasse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00570060">
+<ITEM nro="host00570060" y="1887">
 <META>
 
 <ID>H, Ostrov 57 (60)</ID> &lt; <LOC>Laiuse khk., Jõgeva v., Saare kõrts</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>A. Tiisfeldt</NIMI></INF> (<TMP>1887</TMP>)
@@ -2276,7 +2276,7 @@ Kupja sajatus
 
 </TEXT>
 </ITEM>
-<ITEM nro="host00580061">
+<ITEM nro="host00580061" y="1887">
 <META>
 <ID>H, Ostrov 58 (61)</ID> &lt; <LOC>Laiuse khk., Jõgeva v., Saare kõrts</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>A. Tiisfeldt</NIMI></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Tilluke teomees + Härjad murtud</TYP_YHT>
@@ -2302,7 +2302,7 @@ Kubjas mõõtis suure tüki
 <V>Ära sõi sõge mõlemad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00580062">
+<ITEM nro="host00580062" y="1887">
 <META>
 <ID>H, Ostrov 58/9 (62)</ID> &lt; <LOC>Laiuse khk., Jõgeva v., Saare kõrts</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>A. Tiisfeldt</NIMI></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Sundija sulane</TYP_YHT>
@@ -2329,7 +2329,7 @@ Sundija sulane
 <V>Koeraroosul roogitie. -</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00590063">
+<ITEM nro="host00590063" y="1887">
 <META>
 <ID>H, Ostrov 59 (63)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Ravakoti k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mart Kreos</NIMI></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Küla jääb kuulama + Laulud lutsu suust + Võidulaulmine</TYP_YHT><LLIIK_YHT>Laulud laulust (Laulust ja laulikust - Laulust ja laulikust - Laulust ja laulikust)</LLIIK_YHT></META>
@@ -2353,7 +2353,7 @@ cf. Heft I, III u. 35
 <V>Riia linna neitsi vastu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00590064">
+<ITEM nro="host00590064" y="1887">
 <META>
 <ID>H, Ostrov 59/62 (64)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Ravakoti k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mart Kreos</NIMI></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Joodiku kojukutsumine</TYP_YHT><LLIIK_YHT>Laulud meelelahutamiseks (Tubakas, kõrts ja joodikud)</LLIIK_YHT></META>
@@ -2448,7 +2448,7 @@ cf. Heft II, No. XXXIX
 <V>"Kõik on otsas, olgu peale!"</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00650001">
+<ITEM nro="host00650001" y="1887">
 <META>
 <ID>H, Ostrov 65/8 (1)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kai Seppu</NIMI>, <ELUL>56 a.</ELUL></INF> (<TMP>1887</TMP>)
 </META>
@@ -2555,7 +2555,7 @@ Mõrsja vastavõtmise juures
 <V>Ei ole sõnnile sõkutatud!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00680002">
+<ITEM nro="host00680002" y="1887">
 <META>
 <ID>H, Ostrov 68/71 (2)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp; Halliste khk.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kai Seppu</NIMI>, <ELUL>56 a.</ELUL></INF>; <INF><NIMI>Halliste naine</NIMI></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kasvatus asjatu</TYP_YHT>
@@ -2664,7 +2664,7 @@ Kasvatus asjata
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="host00710003">
+<ITEM nro="host00710003" y="1887">
 <META>
 <ID>H, Ostrov 71/3 (3)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp; Halliste khk.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kai Seppu</NIMI>, <ELUL>56 a.</ELUL></INF>; <INF><NIMI>Halliste naine</NIMI></INF> (<TMP>1887</TMP>)
 </META>
@@ -2736,7 +2736,7 @@ Kasvatus asjata
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="host00730004">
+<ITEM nro="host00730004" y="1887">
 <META>
 <ID>H, Ostrov 73/5 (4)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kai Seppu</NIMI>, <ELUL>56 a.</ELUL></INF> (<TMP>1887</TMP>)
 </META>
@@ -2800,7 +2800,7 @@ Kasvatus asjata
 <V>Öösel ühes magamaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00750005">
+<ITEM nro="host00750005" y="1887">
 <META>
 <ID>H, Ostrov 75/6 (5)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kai Seppu</NIMI>, <ELUL>56 a.</ELUL></INF> (<TMP>1887</TMP>)
 </META>
@@ -2852,7 +2852,7 @@ Kasvatus asjata
 <V>Kiisaleent ei keelel katsu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00770006">
+<ITEM nro="host00770006" y="1887">
 <META>
 <ID>H, Ostrov 77 (6)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Kava m.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Anu Nõmm</NIMI></INF> (<TMP>1887</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -2878,7 +2878,7 @@ Kasvatus asjata
 <V>Kulla kulmu tilkeida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00770007">
+<ITEM nro="host00770007" y="1887">
 <META>
 <ID>H, Ostrov 77/8 (7)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kai Seppu</NIMI>, <ELUL>56 a.</ELUL></INF> (<TMP>1887</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -2912,7 +2912,7 @@ Kasvatus asjata
 <V>Küll on otsani ilusad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00780008">
+<ITEM nro="host00780008" y="1887">
 <META>
 <ID>H, Ostrov 78/9 (8)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Mari Pagi</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 47.</ANDMEVIIDE>
@@ -2938,7 +2938,7 @@ Kasvatus asjata
 <V>Rüüde röövijalle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00790009">
+<ITEM nro="host00790009" y="1887">
 <META>
 <ID>H, Ostrov 79 (9)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kai Seppu</NIMI>, <ELUL>56 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP>
@@ -2968,7 +2968,7 @@ Neiu ei taha saksa-meest
 <V>Ehib õbeelmidesse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00790010">
+<ITEM nro="host00790010" y="1887">
 <META>
 <ID>H, Ostrov 79/80 (10)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kai Seppu 56 a.</NIMI></INF> (<TMP>1887</TMP>)
 <TYP>
@@ -2997,7 +2997,7 @@ Enne suur hulk
 <V>Pürjekesta püüessani.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00800011">
+<ITEM nro="host00800011" y="1887">
 <META>
 <ID>H, Ostrov 80 (11)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kai Seppu</NIMI>, <ELUL>56 a.</ELUL></INF> (<TMP>1887</TMP>)
 </META>
@@ -3013,7 +3013,7 @@ Enne suur hulk
 <V>Neil on põues põrsirohud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00810012">
+<ITEM nro="host00810012" y="1887">
 <META>
 <ID>H, Ostrov 81/2 (12)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kai Seppu</NIMI>, <ELUL>56 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>_ + Poisi ja neiu matus</TYP_YHT>
@@ -3059,7 +3059,7 @@ Vanapoisid
 <V>Pisikesed petersellid</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00820013">
+<ITEM nro="host00820013" y="1887">
 <META>
 <ID>H, Ostrov 82 (13)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kai Seppu</NIMI>, <ELUL>56 a.</ELUL></INF> (<TMP>1887</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -3076,7 +3076,7 @@ Vanapoisid
 <V>Viidi kui lõõtsa lõuka'alle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00820014">
+<ITEM nro="host00820014" y="1887">
 <META>
 <ID>H, Ostrov 82/3 (14)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kai Seppu</NIMI>, <ELUL>56 a.</ELUL></INF> (<TMP>1887</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -3101,7 +3101,7 @@ Vanapoisid
 <V>Kadund õue kasuke.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00830015">
+<ITEM nro="host00830015" y="1887">
 <META>
 <ID>H, Ostrov 83 (15)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kai Seppu</NIMI>, <ELUL>56 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP>
@@ -3123,7 +3123,7 @@ Neiu tahab maad
 <V>Mini küsib kammerida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00830016">
+<ITEM nro="host00830016" y="1887">
 <META>
 <ID>H, Ostrov 83 (16)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k. &amp; Painküla</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kai Seppu</NIMI>, <ELUL>56 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Palve sakstele</TYP_YHT>
@@ -3159,7 +3159,7 @@ Palve sakstele
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="host00840017">
+<ITEM nro="host00840017" y="1887">
 <META>
 <ID>H, Ostrov 84 (17)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kai Seppu</NIMI>, <ELUL>56 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP>
@@ -3186,7 +3186,7 @@ Ilus neiu
 <V>Õbedane omal võtma.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00840018">
+<ITEM nro="host00840018" y="1887">
 <META>
 <ID>H, Ostrov 84 (18)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kai Seppu</NIMI>, <ELUL>56 a.</ELUL></INF> (<TMP>1887</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -3206,7 +3206,7 @@ Ilus neiu
 <V>Jäledad on memme jäl'led.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00850019">
+<ITEM nro="host00850019" y="1887">
 <META>
 <ID>H, Ostrov 85 (19)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kai Seppu</NIMI>, <ELUL>56 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP>
@@ -3227,7 +3227,7 @@ Laula suukene
 <V>Kena kirstu keske'elle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00850020">
+<ITEM nro="host00850020" y="1887">
 <META>
 <ID>H, Ostrov 85/6 (20)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kai Seppu</NIMI>, <ELUL>56 a.</ELUL></INF> (<TMP>1887</TMP>)
 </META>
@@ -3257,7 +3257,7 @@ Laula suukene
 <V>Kalevised kapsatavad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00860021">
+<ITEM nro="host00860021" y="1887">
 <META>
 <ID>H, Ostrov 86 (21)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kai Seppu</NIMI>, <ELUL>56 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP>
@@ -3280,7 +3280,7 @@ Uhke neiu sai sandile
 <V>Räbastikust rätikjalga.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00860022">
+<ITEM nro="host00860022" y="1887">
 <META>
 <ID>H, Ostrov 86/7 (22)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Aidu k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kai Seppu</NIMI>, <ELUL>56 a.</ELUL></INF> (<TMP>1887</TMP>)
 <LLIIK>Ahellaulud</LLIIK>
@@ -3306,7 +3306,7 @@ Uhke neiu sai sandile
 <V>Ema lehma lüpsiku lürisid.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00880023">
+<ITEM nro="host00880023" y="1887">
 <META>
 <ID>H, Ostrov 88 (23)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Vägari k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Anu Nõmm</NIMI>, <ELUL>69 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kallis neiukaup</TYP_YHT>
@@ -3338,7 +3338,7 @@ Kallis neiukaup
 <V>Kupped kullase kübara.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00880024">
+<ITEM nro="host00880024" y="1887">
 <META>
 <ID>H, Ostrov 88/9 (24)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Vägari k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Anu Nõmm</NIMI>, <ELUL>69 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Suur härg + Rikas härra ja vaene mees</TYP_YHT>
@@ -3375,7 +3375,7 @@ Suur härg
 <V>Nokast sai nooreme' obune.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00890025">
+<ITEM nro="host00890025" y="1887">
 <META>
 <ID>H, Ostrov 89 (25)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Vägari k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Anu Nõmm</NIMI>, <ELUL>69 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP>
@@ -3396,7 +3396,7 @@ Kuri mees
 <V>Ribe risus ringutada.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00890026">
+<ITEM nro="host00890026" y="1887">
 <META>
 <ID>H, Ostrov 89/91 (26)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Vägari k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Anu Nõmm</NIMI>, <ELUL>69 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Tunnen tuima neiu + Ära võta mõisast naist</TYP_YHT>
@@ -3455,7 +3455,7 @@ Tunnen tuima
 <V>Põlvi põhku puistemaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00910027">
+<ITEM nro="host00910027" y="1887">
 <META>
 <ID>H, Ostrov 91/2 (27)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Vägari k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Anu Nõmm</NIMI>, <ELUL>69 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Õllest saar</TYP_YHT>
@@ -3504,7 +3504,7 @@ cf Heft I, XII
 <V>Lipi lapi laine'essa</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00920028">
+<ITEM nro="host00920028" y="1887">
 <META>
 <ID>H, Ostrov 92 (28)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Vägari k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Anu Nõmm</NIMI>, <ELUL>69 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Metsast mehele</TYP_YHT>
@@ -3537,7 +3537,7 @@ Metsast mehele
 <V>Aavad aljad aljendavad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00930029">
+<ITEM nro="host00930029" y="1887">
 <META>
 <ID>H, Ostrov 93 (29)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Vägari k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Anu Nõmm</NIMI>, <ELUL>69 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Paksud lademed</TYP_YHT>
@@ -3560,7 +3560,7 @@ Metsast mehele
 <V>Rihavarre nel'last viiest.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00930030">
+<ITEM nro="host00930030" y="1887">
 <META>
 <ID>H, Ostrov 93 (30)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Vägari k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Anu Nõmm</NIMI>, <ELUL>69 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kassinahast kasukas</TYP_YHT>
@@ -3586,7 +3586,7 @@ Koeranahkne kasukas
 <V>Kaelas kal'lus kassinahka.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00940031">
+<ITEM nro="host00940031" y="1887">
 <META>
 <ID>H, Ostrov 94 (31)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Vägari k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Anu Nõmm</NIMI>, <ELUL>69 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Põll põrmune</TYP_YHT>
@@ -3615,7 +3615,7 @@ Põll põrmune
 <V>Kastet kardakinga peale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00940032">
+<ITEM nro="host00940032" y="1887">
 <META>
 <ID>H, Ostrov 94 (32)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Vägari k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Anu Nõmm</NIMI>, <ELUL>69 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Tore neiu</TYP_YHT>
@@ -3634,7 +3634,7 @@ Tore neiu
 <V>Kukla tagast kuldakirja.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00950033">
+<ITEM nro="host00950033" y="1887">
 <META>
 <ID>H, Ostrov 95 (33)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Vägari k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Anu Nõmm</NIMI>, <ELUL>69 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Seatapmine</TYP_YHT>
@@ -3664,7 +3664,7 @@ Suur siga
 <V>Küünar pekki kül'le peale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00950034">
+<ITEM nro="host00950034" y="1887">
 <META>
 <ID>H, Ostrov 95/6 (34)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Vägari k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Anu Nõmm</NIMI>, <ELUL>69 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP>
@@ -3693,7 +3693,7 @@ Seni kui tütred kodus
 <V>Ait jäi arvaks kerstudesta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00960035">
+<ITEM nro="host00960035" y="1887">
 <META>
 <ID>H, Ostrov 96 (35)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Vägari k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Anu Nõmm</NIMI>, <ELUL>69 a.</ELUL></INF> (<TMP>1887</TMP>)
 </META>
@@ -3711,7 +3711,7 @@ Seni kui tütred kodus
 <V>Parmas peale pannessani.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00960036">
+<ITEM nro="host00960036" y="1887">
 <META>
 <ID>H, Ostrov 96/7 (36)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Vägari k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Anu Nõmm</NIMI>, <ELUL>69 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Memme vaev + Kasvatus asjatu</TYP_YHT>
@@ -3751,7 +3751,7 @@ Memme vaev
 <V>Latikas vööd ladunud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00970037">
+<ITEM nro="host00970037" y="1887">
 <META>
 <ID>H, Ostrov 97 (37)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Vägari k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Anu Nõmm</NIMI>, <ELUL>69 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP>
@@ -3778,7 +3778,7 @@ Halb naine
 <V>Nuia nurka istumaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00980038">
+<ITEM nro="host00980038" y="1887">
 <META>
 <ID>H, Ostrov 98/9 (38)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Vägari k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Anu Nõmm</NIMI>, <ELUL>69 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Oma ema ja võõrasema ootavad koju</TYP_YHT>
@@ -3846,7 +3846,7 @@ Võõras- ja oma ema ootavad koju
 <V>Mõisa august alla jäänud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host00990039">
+<ITEM nro="host00990039" y="1887">
 <META>
 <ID>H, Ostrov 99/100 (39)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Vägari k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Anu Nõmm</NIMI>, <ELUL>69 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Joodiku kojukutsumine</TYP_YHT>
@@ -3888,7 +3888,7 @@ Joodiku kodukutse
 <V>Mõisad põhjani põlegu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01000040">
+<ITEM nro="host01000040" y="1887">
 <META>
 <ID>H, Ostrov 100/1 (40)</ID> &lt; <LOC>Põltsamaa khk., Kurista v., Vägari k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Anu Nõmm</NIMI>, <ELUL>69 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Tore sõit</TYP_YHT>
@@ -3917,7 +3917,7 @@ Tore sõit
 <V>Kaelarättest teeksin kaltsud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01020041">
+<ITEM nro="host01020041" y="1887">
 <META>
 <ID>H, Ostrov 102 (41)</ID> &lt; <LOC>Laiuse khk., Jõgeva v., Painküla k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Jaan Ots</NIMI>, <ELUL>koolmeister</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Päike lõunas &amp;#x2013; orjad lõunata</TYP_YHT><LLIIK_YHT>Laulud ühiskondlikest vahekordadest (Orja laulud)</LLIIK_YHT></META>
@@ -3931,7 +3931,7 @@ Tore sõit
 <V>Õbesanga õõrumata</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01020042">
+<ITEM nro="host01020042" y="1887">
 <META>
 <ID>H, Ostrov 102 (42)</ID> &lt; <LOC>Laiuse khk., Jõgeva v., Painküla k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Jaan Ots</NIMI>, <ELUL>koolmeister</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Rõõmus nekrut</TYP_YHT>
@@ -3953,7 +3953,7 @@ Tore sõit
 <V>Rõõmu rinda riisuvad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01020043">
+<ITEM nro="host01020043" y="1887">
 <META>
 <ID>H, Ostrov 102/4 (43)</ID> &lt; <LOC>Laiuse khk., Jõgeva v., Saare kõrts</LOC> - <COL>G. Johannson</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Orja ei lasta koju käima + Sügisel jõed sügavad + Ori taevas</TYP_YHT>
@@ -4028,7 +4028,7 @@ cf Heft I, 32.
 <V>Pisukesi piinatie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01040044">
+<ITEM nro="host01040044" y="1887">
 <META>
 <ID>H, Ostrov 104/5 (44)</ID> &lt; <LOC>Laiuse khk., Jõgeva v., Saare kõrts</LOC> - <COL>G. Johannson</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Mere kündmine + Lina kasvas kui lint + Tähemõrsja</TYP_YHT><LLIIK_YHT>Lüroeepilised laulud (Müütilised laulud) ; Töölaulud (Naistetööd) ; Lüroeepilised laulud (Müütilised laulud)</LLIIK_YHT></META>
@@ -4062,7 +4062,7 @@ cf Heft I, 32.
 <V>Allid aisade vahelta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01050045">
+<ITEM nro="host01050045" y="1887">
 <META>
 <ID>H, Ostrov 105/6 (45)</ID> &lt; <LOC>Laiuse khk., Jõgeva v., Saare kõrts</LOC> - <COL>G. Johannson</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Miks ei mullu tulnud + Virkuseõpetus neiule</TYP_YHT>
@@ -4089,7 +4089,7 @@ Miks ei mullu tulnud
 <V>Puusad poeseelikuida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01060046">
+<ITEM nro="host01060046" y="1887">
 <META>
 <ID>H, Ostrov 106 (46)</ID> &lt; <LOC>Laiuse khk., Jõgeva v., Saare kõrts</LOC> - <COL>G. Johannson</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Võine mets</TYP_YHT>
@@ -4116,7 +4116,7 @@ Võine mets
 <V>Ladvast lapsekäkkisida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01070047">
+<ITEM nro="host01070047" y="1887">
 <META>
 <ID>H, Ostrov 107/8 (47)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Sootaga k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Jaak Lillekampf</NIMI></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Loomad vilja söönud</TYP_YHT>
@@ -4147,7 +4147,7 @@ Lina
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="host0107047b">
+<ITEM nro="host0107047b" y="1887">
 <META>
 <ID>H, Ostrov 107/8 (47b)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Sootaga k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Jaak Lillekampf</NIMI></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Imetegija + Tore sõit + Hobuse ostjad</TYP_YHT>
@@ -4191,7 +4191,7 @@ Imetegijad
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="host01080048">
+<ITEM nro="host01080048" y="1887">
 <META>
 <ID>H, Ostrov 108/9 (48)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Sootaga k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Jaak Lillekampf</NIMI></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Miks poisse põlgate? + Laisk ketraja + Soad suitsu surevad + Vilets kangas</TYP_YHT><LLIIK_YHT>Laulud noorrahva elust (Neiud) ; Töölaulud (Naistetööd - Naistetööd - Naistetööd)</LLIIK_YHT></META>
@@ -4229,7 +4229,7 @@ Imetegijad
 <V>Pajus valge'ed palakad</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01090049">
+<ITEM nro="host01090049" y="1887">
 <META>
 <ID>H, Ostrov 109 (49)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Sootaga k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Jaak Lillekampf</NIMI></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Nuttev tamm</TYP_YHT>
@@ -4257,7 +4257,7 @@ Nuttev tamm
 <V>Ladvast sai laste laululauda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01100050">
+<ITEM nro="host01100050" y="1887">
 <META>
 <ID>H, Ostrov 110 (50)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Sootaga k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Jaak Lillekampf</NIMI></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Laisa laulu suits</TYP_YHT>
@@ -4276,7 +4276,7 @@ Hiireherne suits
 <V>Poisid Pohlamaa põleva.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01100051">
+<ITEM nro="host01100051" y="1887">
 <META>
 <ID>H, Ostrov 110 (51)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Sootaga k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Jaak Lillekampf</NIMI></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Imed</TYP_YHT>
@@ -4298,7 +4298,7 @@ Imed
 <V>Obune ärg vasika.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01100052">
+<ITEM nro="host01100052" y="1887">
 <META>
 <ID>H, Ostrov 110/1 (52)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Sootaga k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Jaak Lillekampf</NIMI></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Palve sakstele + Kubjas põrgu!</TYP_YHT>
@@ -4340,7 +4340,7 @@ cf. XVI. Heft II
 <V>Õerub me õlade peale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01110053">
+<ITEM nro="host01110053" y="1887">
 <META>
 <ID>H, Ostrov 111 (53)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Sootaga k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Jaak Lillekampf</NIMI></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Koju kopitama</TYP_YHT>
@@ -4359,7 +4359,7 @@ Vanatüdruku pilge
 <V>Ahju ette allitama.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01120054">
+<ITEM nro="host01120054" y="1887">
 <META>
 <ID>H, Ostrov 112 (54)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Sootaga k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Jüri Indus</NIMI></INF>; <INF><NIMI>Ann Indus</NIMI>, <ELUL>mustlased</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Mõistatus puudest + Ilus küla</TYP_YHT><LLIIK_YHT>Looduslaulud (Mõistatuslaulud) ; Laulud kodust ja lapsepõlvest (Kodu)</LLIIK_YHT></META>
@@ -4389,7 +4389,7 @@ Vanatüdruku pilge
 <V>Mihklil palju õunapuida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01130055">
+<ITEM nro="host01130055" y="1887">
 <META>
 <ID>H, Ostrov 113 (55)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Sootaga k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Jüri Indus</NIMI></INF>; <INF><NIMI>Ann Indus</NIMI>, <ELUL>mustlased</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Põlvist põdema</TYP_YHT><LLIIK_YHT>Laulud abielust (Abielumehe põli)</LLIIK_YHT></META>
@@ -4417,7 +4417,7 @@ Vanatüdruku pilge
 <V>Muude naeste sarnatseksi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01130056">
+<ITEM nro="host01130056" y="1887">
 <META>
 <ID>H, Ostrov 113/4 (56)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Sootaga k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Jüri Indus</NIMI></INF>; <INF><NIMI>Ann Indus</NIMI>, <ELUL>mustlased</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kopik kõrtsi + Linna jäid neiu lindid + Kägu kukub</TYP_YHT>
@@ -4451,7 +4451,7 @@ Ehted kadunud
 <V>Luksus loovõttejalle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01140057">
+<ITEM nro="host01140057" y="1887">
 <META>
 <ID>H, Ostrov 114 (57)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Sootaga k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Jüri Indus</NIMI></INF>; <INF><NIMI>Ann Indus</NIMI>, <ELUL>mustlased</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kurb laulik + Noormeeste tundmata saatus</TYP_YHT>
@@ -4476,7 +4476,7 @@ Ehted kadunud
 <V>Änam kui meres pillirooga.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01150058">
+<ITEM nro="host01150058" y="1887">
 <META>
 <ID>H, Ostrov 115 (58)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Sootaga k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Jüri Indus</NIMI></INF>; <INF><NIMI>Ann Indus</NIMI>, <ELUL>mustlased</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Palve sakstele + Kubjas, lase lõunale!</TYP_YHT>
@@ -4508,7 +4508,7 @@ Palve sakstele
 <V>Aegamööda õhta'alle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01150059">
+<ITEM nro="host01150059" y="1887">
 <META>
 <ID>H, Ostrov 115/6 (59)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Sootaga k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Jüri Indus</NIMI></INF>; <INF><NIMI>Ann Indus</NIMI>, <ELUL>mustlased</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kolm õuna + Kas on viinale vihane</TYP_YHT>
@@ -4546,7 +4546,7 @@ Palve sakstele
 <V>Viha viina võttemaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01160060">
+<ITEM nro="host01160060" y="1887">
 <META>
 <ID>H, Ostrov 116/7 (60)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Sootaga k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Jüri Indus</NIMI></INF>; <INF><NIMI>Ann Indus</NIMI>, <ELUL>mustlased</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Heinast hobune</TYP_YHT><LLIIK_YHT>Looduslaulud (Loomad ja linnud)</LLIIK_YHT></META>
@@ -4578,7 +4578,7 @@ Palve sakstele
 <V>Õbepähkled piitsa peale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01170061">
+<ITEM nro="host01170061" y="1887">
 <META>
 <ID>H, Ostrov 117/8 (61)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Sootaga k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Jüri Indus</NIMI></INF>; <INF><NIMI>Ann Indus</NIMI>, <ELUL>mustlased</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Tere, kõrts + Kardab rahad kuluvat</TYP_YHT><LLIIK_YHT>Laulud meelelahutamiseks (Tubakas, kõrts ja joodikud) ; Laulud noorrahva elust (Neiud)</LLIIK_YHT></META>
@@ -4602,7 +4602,7 @@ Palve sakstele
 <V>Rahakannud raugeneda. <REFR>kaasike</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01180062">
+<ITEM nro="host01180062" y="1887">
 <META>
 <ID>H, Ostrov 118/9 (62)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Sootaga k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Jüri Indus</NIMI></INF>; <INF><NIMI>Ann Indus</NIMI>, <ELUL>mustlased</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Lauldud hobu ja sadul + Hiie noormees</TYP_YHT>
@@ -4644,7 +4644,7 @@ Lauldud tall-hobu-sadul
 <V>Käskujalga keera saani.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host0118061a">
+<ITEM nro="host0118061a" y="1887">
 <META>
 <ID>H, Ostrov 118 (61a)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Sootaga k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Jüri Indus</NIMI></INF>; <INF><NIMI>Ann Indus</NIMI>, <ELUL>mustlased</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kiigelaul</TYP_YHT>
@@ -4657,7 +4657,7 @@ Lauldud tall-hobu-sadul
 <V>Lase laia kaabu peale</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01190063">
+<ITEM nro="host01190063" y="1887">
 <META>
 <ID>H, Ostrov 119/20 (63)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Sootaga k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Jüri Indus</NIMI></INF>; <INF><NIMI>Ann Indus</NIMI>, <ELUL>mustlased</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Lauliku sõim + Kust see laulik tulnud + Võta regi rindadeks + Porikärbes + Ära haugu! + Haugu väljal sigu!</TYP_YHT><LLIIK_YHT>Laulud laulust (Laulikute sõimlemine - Laulikute sõimlemine - Laulikute sõimlemine - Laulikute sõimlemine - Laulikute sõimlemine - Laulikute sõimlemine)</LLIIK_YHT></META>
@@ -4700,7 +4700,7 @@ Lauldud tall-hobu-sadul
 <V>Turuoor jooda vasika.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01200064">
+<ITEM nro="host01200064" y="1887">
 <META>
 <ID>H, Ostrov 120/1 (64)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Sootaga k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Jüri Indus</NIMI></INF>; <INF><NIMI>Ann Indus</NIMI>, <ELUL>mustlased</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Roostetanud hääl + Arg laulik + Laulud lutsu suust + Laulud tööl õpitud</TYP_YHT><LLIIK_YHT>Laulud laulust (Laulust ja laulikust - Laulust ja laulikust - Laulust ja laulikust - Laulust ja laulikust)</LLIIK_YHT></META>
@@ -4741,7 +4741,7 @@ cf Heft I, 63 u. 35
 <V>Pannin kokku palve'eida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01210065">
+<ITEM nro="host01210065" y="1887">
 <META>
 <ID>H, Ostrov 121/2 (65)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Sootaga k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Jüri Indus</NIMI></INF>; <INF><NIMI>Ann Indus</NIMI>, <ELUL>mustlased</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Ilus küla + Tuba pühkimata + Pühkmed merre + Suur tamm</TYP_YHT>
@@ -4788,7 +4788,7 @@ cf Heft I, 63 u. 35
 <V>Lehed kuuda kustutasid.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01220066">
+<ITEM nro="host01220066" y="1887">
 <META>
 <ID>H, Ostrov 122/3 (66)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Sootaga k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Jüri Indus</NIMI></INF>; <INF><NIMI>Ann Indus</NIMI>, <ELUL>mustlased</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Pisarate veeremine + Kodu jääb tütart nutma + Kaasa kaugel</TYP_YHT><LLIIK_YHT>Murelaulud (Mure ja kurbus) ; Pulmalaulud (Mõrsja lahkumine vanematekodunt) ; Laulud noorrahva elust (Kosjad)</LLIIK_YHT></META>
@@ -4829,7 +4829,7 @@ cf Heft I, 63 u. 35
 <V>Kas kallis üle kalade.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01240067">
+<ITEM nro="host01240067" y="1887">
 <META>
 <ID>H, Ostrov 124/5 (67)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Sootaga k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Jüri Indus</NIMI></INF>; <INF><NIMI>Ann Indus</NIMI>, <ELUL>mustlased</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Võta vaene naine + Kodus kositud naine + Tütar läheb aita ehtima + Sugulased surnud + Mesi meeste meelest + Mõisad külas + Venna kiitus + Mina mõistan mõrrad teha</TYP_YHT>
@@ -4880,7 +4880,7 @@ cf Heft I, 63 u. 35
 <V>Memmel suuda matsutada.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01290001">
+<ITEM nro="host01290001" y="1887">
 <META>
 <ID>H, Ostrov 129 (1)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Palupere k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Kättemaks sakstele</TYP_YHT>
@@ -4909,7 +4909,7 @@ Kättemaks sakstele
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="host01290002">
+<ITEM nro="host01290002" y="1887">
 <META>
 <ID>H, Ostrov 129 (2)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Palupere k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Kasvatus asjatu</TYP_YHT>
@@ -4929,7 +4929,7 @@ Kasvatus asjata
 <V>Kõrkmed krooni päha pannud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01290003">
+<ITEM nro="host01290003" y="1887">
 <META>
 <ID>H, Ostrov 129 (3)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Palupere k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Saksad põrgu!</TYP_YHT><LLIIK_YHT>Laulud ühiskondlikest vahekordadest (Mõis)</LLIIK_YHT></META>
@@ -4941,7 +4941,7 @@ Kasvatus asjata
 <V>Talupoegi taevaessa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01300004">
+<ITEM nro="host01300004" y="1887">
 <META>
 <ID>H, Ostrov 130 (4)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Palupere k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Hollandi sulane</TYP_YHT>
@@ -4960,7 +4960,7 @@ Hollandi sulane
 <V>Vana kulti, kompamunni.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01300005">
+<ITEM nro="host01300005" y="1887">
 <META>
 <ID>H, Ostrov 130 (5)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Palupere k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Vanatüdruk istub leelõukal</TYP_YHT>
@@ -4978,7 +4978,7 @@ Vanatüdruku pilge
 <V>Kõik see eluaegsest pattu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01300006">
+<ITEM nro="host01300006" y="1887">
 <META>
 <ID>H, Ostrov 130/1 (6)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Palupere k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Kubjas ja teomees</TYP_YHT>
@@ -5005,7 +5005,7 @@ Kubjas mõõtis suure tüki
 <V>Kiltrel sitakillud taga.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01310007">
+<ITEM nro="host01310007" y="1887">
 <META>
 <ID>H, Ostrov 131 (7)</ID> &lt; <LOC>Torma khk., Tõikvere v., Konna k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <ZANR>siirdevormiline laul</ZANR><TYP_YHT>Rikas härra ja vaene mees</TYP_YHT>
@@ -5034,7 +5034,7 @@ Rikka ja vaese söök
 <V>Vaesed kõrva kõndimaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01320008">
+<ITEM nro="host01320008" y="1887">
 <META>
 <ID>H, Ostrov 132 (8)</ID> &lt; <LOC>Torma khk., Tõikvere v., Konna k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Suude sulg + Laevaga kosja</TYP_YHT>
@@ -5067,7 +5067,7 @@ Suude sulg
 <V>Teisepoole pordulise.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01320009">
+<ITEM nro="host01320009" y="1887">
 <META>
 <ID>H, Ostrov 132/3 (9)</ID> &lt; <LOC>Torma khk., Tõikvere v., Konna k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 </META>
@@ -5107,7 +5107,7 @@ Suude sulg
 <V>Kirjak toob mul kirju ärja!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01340010">
+<ITEM nro="host01340010" y="1887">
 <META>
 <ID>H, Ostrov 134 (10)</ID> &lt; <LOC>Torma khk., Tõikvere v., Konna k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Tule mulle!</TYP_YHT>
@@ -5130,7 +5130,7 @@ Tule mulle
 <V>Hoolas vihku viskamaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01340011">
+<ITEM nro="host01340011" y="1887">
 <META>
 <ID>H, Ostrov 134 (11)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Iravere k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Hans Pihlak</NIMI>, <ELUL>73 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Hobuse surm</TYP_YHT>
@@ -5146,7 +5146,7 @@ Tule mulle
 <V>Küünart kümme laiutasse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01350012">
+<ITEM nro="host01350012" y="1887">
 <META>
 <ID>H, Ostrov 135 (12)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Iravere k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Hans Pihlak</NIMI>, <ELUL>73 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Nekrutite võtmine</TYP_YHT>
@@ -5179,7 +5179,7 @@ Tule mulle
 <V>Pika püksi püüdemine.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01350013">
+<ITEM nro="host01350013" y="1887">
 <META>
 <ID>H, Ostrov 135/6 (13)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Iravere k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Hans Pihlak</NIMI>, <ELUL>73 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kaks vaeslast + Ema haual</TYP_YHT>
@@ -5215,7 +5215,7 @@ Ema haual
 <V>Sinilille lammastelle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01360014">
+<ITEM nro="host01360014" y="1887">
 <META>
 <ID>H, Ostrov 136/8 (14)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Iravere k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Hans Pihlak</NIMI>, <ELUL>73 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Härjad murtud + Kubjas ja teomees</TYP_YHT>
@@ -5272,7 +5272,7 @@ Ema haual
 <V>Junkrul julgatee taga</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01380015">
+<ITEM nro="host01380015" y="1887">
 <META>
 <ID>H, Ostrov 138/9 (15)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Iravere k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Hans Pihlak</NIMI>, <ELUL>73 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Põlvist põdema</TYP_YHT><LLIIK_YHT>Laulud abielust (Abielumehe põli)</LLIIK_YHT></META>
@@ -5320,7 +5320,7 @@ Ema haual
 <V>Pealta naba näpistanud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01390016">
+<ITEM nro="host01390016" y="1887">
 <META>
 <ID>H, Ostrov 139/40 (16)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Iravere k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Hans Pihlak</NIMI>, <ELUL>73 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kuhu teeme õitsitule + Poisi ja neiu matus</TYP_YHT>
@@ -5364,7 +5364,7 @@ Karske neiu
 <V>Moderevärki moorijuured.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01400017">
+<ITEM nro="host01400017" y="1887">
 <META>
 <ID>H, Ostrov 140/1 (17)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Iravere k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Hans Pihlak</NIMI>, <ELUL>73 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Saks ei luba naist</TYP_YHT><LLIIK_YHT>Laulud ühiskondlikest vahekordadest (Mõis)</LLIIK_YHT></META>
@@ -5382,7 +5382,7 @@ Karske neiu
 <V>Ei künnud küürasselg hobune.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01410018">
+<ITEM nro="host01410018" y="1887">
 <META>
 <ID>H, Ostrov 141 (18)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Iravere k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Hans Pihlak</NIMI>, <ELUL>73 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Hollandi sulane</TYP_YHT>
@@ -5412,7 +5412,7 @@ Hollandi sulane
 <V>Jah, mina lepin sellega!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01410019">
+<ITEM nro="host01410019" y="1887">
 <META>
 <ID>H, Ostrov 141/2 (19)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Iravere k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Hans Pihlak</NIMI>, <ELUL>73 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Härjad murtud</TYP_YHT><LLIIK_YHT>Lüroeepilised laulud (Laulud argielust)</LLIIK_YHT></META>
@@ -5436,7 +5436,7 @@ Hollandi sulane
 <V>See toob sulle kirju ärja.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01420020">
+<ITEM nro="host01420020" y="1887">
 <META>
 <ID>H, Ostrov 142 (20)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Iravere k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Hans Pihlak</NIMI>, <ELUL>73 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kupja sajatus</TYP_YHT>
@@ -5451,7 +5451,7 @@ Kupja sajatus
 <V>Lastele läbi südame!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01420021">
+<ITEM nro="host01420021" y="1887">
 <META>
 <ID>H, Ostrov 142/3 (21)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Iravere k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Hans Pihlak</NIMI>, <ELUL>73 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Liigsööja</TYP_YHT>
@@ -5484,7 +5484,7 @@ Suure sööja
 <V>Kel mehel õlli ea obune.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01430022">
+<ITEM nro="host01430022" y="1887">
 <META>
 <ID>H, Ostrov 143/4 (22)</ID> &lt; <LOC>Torma khk. (?Palamuse khk.), Roela v., Tuulavere k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Neli neidu</TYP_YHT>
@@ -5517,7 +5517,7 @@ Suure sööja
 <V>Varvad üle vahemetsa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01440023">
+<ITEM nro="host01440023" y="1887">
 <META>
 <ID>H, Ostrov 144 (23)</ID> &lt; <LOC>Torma khk. (?Palamuse khk.), Roela v., Tuulavere k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Õllesepa kiitus</TYP_YHT>
@@ -5534,7 +5534,7 @@ Suure sööja
 <V>Tõstan toopi jõudumööda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01440024">
+<ITEM nro="host01440024" y="1887">
 <META>
 <ID>H, Ostrov 144 (24)</ID> &lt; <LOC>Torma khk. (?Palamuse khk.), Roela v., Tuulavere k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP>
@@ -5551,7 +5551,7 @@ Laisk naine
 <V>Sein ja seitse aastat.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01440025">
+<ITEM nro="host01440025" y="1887">
 <META>
 <ID>H, Ostrov 144/5 (25)</ID> &lt; <LOC>Torma khk. (?Palamuse khk.), Roela v., Tuulavere k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP>
@@ -5576,7 +5576,7 @@ pulmalaul
 <V>Nõnna'p noored noomitakse</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01450026">
+<ITEM nro="host01450026" y="1887">
 <META>
 <ID>H, Ostrov 145/6 (26)</ID> &lt; <LOC>Torma khk. (?Palamuse khk.), Roela v. Tuulavere v.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 </META>
@@ -5615,7 +5615,7 @@ pulmalaul
 <V>Siiski peksab seegipärast.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01460027">
+<ITEM nro="host01460027" y="1887">
 <META>
 <ID>H, Ostrov 146 (27)</ID> &lt; <LOC>Torma khk. (?Palamuse khk.), Roela v., Tuulavere k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP>
@@ -5634,7 +5634,7 @@ Poiss on loodud petjaks
 <V>Saiakakul kasvatada.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01470028">
+<ITEM nro="host01470028" y="1887">
 <META>
 <ID>H, Ostrov 147 (28)</ID> &lt; <LOC>Torma khk. (?Palamuse khk.), Roela v., Tuulavere k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Viige vihased neiud!</TYP_YHT>
@@ -5655,7 +5655,7 @@ Vihased neiud
 <V>Orikas omad mõlemad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01470029">
+<ITEM nro="host01470029" y="1887">
 <META>
 <ID>H, Ostrov 147 (29)</ID> &lt; <LOC>Torma khk. (?Palamuse khk.), Roela v., Tuulavere k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <LLIIK>Lori</LLIIK>
@@ -5673,7 +5673,7 @@ Vihased neiud
 <V>Koti panni kolm unustas.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01470030">
+<ITEM nro="host01470030" y="1887">
 <META>
 <ID>H, Ostrov 147/8 (30)</ID> &lt; <LOC>Torma khk. (?Palamuse khk.), Roela v., Tuulavere k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Kust laulud saadud</TYP_YHT>
@@ -5697,7 +5697,7 @@ Kust laulud
 <V>Kiissa kikitab järvena</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01480031">
+<ITEM nro="host01480031" y="1887">
 <META>
 <ID>H, Ostrov 148 (31)</ID> &lt; <LOC>Torma khk. (?Palamuse khk.), Roela v., Tuulavere k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP>
@@ -5723,7 +5723,7 @@ Kivine kirst
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="host01480032">
+<ITEM nro="host01480032" y="1887">
 <META>
 <ID>H, Ostrov 148/9 (32)</ID> &lt; <LOC>Torma khk. (?Palamuse khk.), Roela v., Tuulavere k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Ema haual</TYP_YHT>
@@ -5761,7 +5761,7 @@ Ema haual
 <V>Kelle peale mina mehessa?</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01490033">
+<ITEM nro="host01490033" y="1887">
 <META>
 <ID>H, Ostrov 149/50 (33)</ID> &lt; <LOC>Torma khk. (?Palamuse khk.), Roela v., Tuulavere k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Kass kaevus</TYP_YHT>
@@ -5791,7 +5791,7 @@ Kass kaevus
 <V>Oma kurku kukutanud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01500034">
+<ITEM nro="host01500034" y="1887">
 <META>
 <ID>H, Ostrov 150/1 (34)</ID> &lt; <LOC>Torma khk., Tõikvere v., Mälaja k. &amp;lt; Palamuse khk.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Puusepp</NIMI>, <ELUL>70 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Ära võta mõisast naist</TYP_YHT>
@@ -5823,7 +5823,7 @@ Hoiatus mõisanaise eest
 <V>Nisu tupesta tulemas.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01510035">
+<ITEM nro="host01510035" y="1887">
 <META>
 <ID>H, Ostrov 151 (35)</ID> &lt; <LOC>Torma khk., Tõikvere v., Mälaja k. &amp;lt; Palamuse khk.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Puusepp</NIMI>, <ELUL>70 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Joodikust mees</TYP_YHT>
@@ -5842,7 +5842,7 @@ Joodikule
 <V>Kolme kõrtsi joomarille.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01510036">
+<ITEM nro="host01510036" y="1887">
 <META>
 <ID>H, Ostrov 151 (36)</ID> &lt; <LOC>Torma khk., Tõikvere v., Mälaja k. &amp;lt; Palamuse khk.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Puusepp</NIMI>, <ELUL>70 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP>
@@ -5858,7 +5858,7 @@ Laimajale
 <V>Ära augu neiusida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01510037">
+<ITEM nro="host01510037" y="1887">
 <META>
 <ID>H, Ostrov 151 (37)</ID> &lt; <LOC>Torma khk., Tõikvere v., Mälaja k. &amp;lt; Palamuse khk.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Puusepp</NIMI>, <ELUL>70 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Jätan lindude süüa</TYP_YHT><LLIIK_YHT>Töölaulud (Lõikuslaulud)</LLIIK_YHT></META>
@@ -5870,7 +5870,7 @@ Laimajale
 <V>Küla põrsaste pugeda! <REFR>leeleelee</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01520038">
+<ITEM nro="host01520038" y="1887">
 <META>
 <ID>H, Ostrov 152 (38)</ID> &lt; <LOC>Torma khk., Tõikvere v., Mälaja k. &amp;lt; Palamuse khk.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Puusepp</NIMI>, <ELUL>70 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Neiunälg</TYP_YHT>
@@ -5913,7 +5913,7 @@ NB.
 <V>Ja ka abikaasasida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01530039">
+<ITEM nro="host01530039" y="1887">
 <META>
 <ID>H, Ostrov 153 (39)</ID> &lt; <LOC>Torma khk., Tõikvere v., Mälaja k. &amp;lt; Palamuse khk.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Puusepp</NIMI>, <ELUL>70 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP>
@@ -5946,7 +5946,7 @@ Kolgas kosjas
 <V>Mari ise kõige ilma</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01530040">
+<ITEM nro="host01530040" y="1887">
 <META>
 <ID>H, Ostrov 153/4 (40)</ID> &lt; <LOC>Torma khk., Tõikvere v., Mälaja k. &amp;lt; Palamuse khk.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Puusepp</NIMI>, <ELUL>70 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Mustad mundrisse</TYP_YHT>
@@ -5971,7 +5971,7 @@ Mustad mundrisse
 <V>Varsakabja kõrguse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01540041">
+<ITEM nro="host01540041" y="1887">
 <META>
 <ID>H, Ostrov 154 (41)</ID> &lt; <LOC>Torma khk., Tõikvere v., Mälaja k. &amp;lt; Palamuse khk.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mari Puusepp</NIMI>, <ELUL>70 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP>
@@ -5985,7 +5985,7 @@ Uhke neid
 <V>Selle talu tatininast.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01540042">
+<ITEM nro="host01540042" y="1887">
 <META>
 <ID>H, Ostrov 154 (42)</ID> &lt; <LOC>Torma khk., Tõikvere v., Mõistu t.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kadri Abel</NIMI>, <ELUL>80 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Lauliku sõim</TYP_YHT>
@@ -6004,7 +6004,7 @@ Halb laulik
 <V>Alta ammaste õbedat.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01550043">
+<ITEM nro="host01550043" y="1887">
 <META>
 <ID>H, Ostrov 155 (43)</ID> &lt; <LOC>Torma khk., Tõikvere v., Mõistu t.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kadri Abel</NIMI>, <ELUL>80 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Tule mulle!</TYP_YHT>
@@ -6029,7 +6029,7 @@ Tule mulle
 <V>Varna õtsast vaskepiitsa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01550044">
+<ITEM nro="host01550044" y="1887">
 <META>
 <ID>H, Ostrov 155 (44)</ID> &lt; <LOC>Torma khk., Tõikvere v., Mõistu t.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kadri Abel</NIMI>, <ELUL>80 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Oleks see mees minu!</TYP_YHT>
@@ -6047,7 +6047,7 @@ Oleks
 <V>Kolmas saani kolju peal.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01560045">
+<ITEM nro="host01560045" y="1887">
 <META>
 <ID>H, Ostrov 156 (45)</ID> &lt; <LOC>Torma khk., Torma v., Härjaoja t.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kaarel Roos</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Härjad murtud</TYP_YHT>
@@ -6074,7 +6074,7 @@ Härjad murtud
 <V>Sabaroodust ringutama.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01560046">
+<ITEM nro="host01560046" y="1887">
 <META>
 <ID>H, Ostrov 156 (46)</ID> &lt; <LOC>Torma khk., Torma v., Härjaoja t.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kaarel Roos</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kägu kukub</TYP_YHT>
@@ -6091,7 +6091,7 @@ Kägu
 <V>Keha keskelt keeru metsa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01560047">
+<ITEM nro="host01560047" y="1887">
 <META>
 <ID>H, Ostrov 156 (47)</ID> &lt; <LOC>Torma khk., Torma v., Härjaoja t.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kaarel Roos</NIMI>, <ELUL>52 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ZANR>siirdevormiline laul</ZANR>
@@ -6106,7 +6106,7 @@ Kägu
 <V>Ja vana vildse lõngaga</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01570048">
+<ITEM nro="host01570048" y="1887">
 <META>
 <ID>H, Ostrov 157 (48)</ID> &lt; <LOC>Torma khk. (?Palamuse khk.), Roela v., Sirguvere k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Madis Õunapuu</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Hea koer</TYP_YHT>
@@ -6132,7 +6132,7 @@ Koera kiitus
 <V>See on minu koerukene.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01570049">
+<ITEM nro="host01570049" y="1887">
 <META>
 <ID>H, Ostrov 157 (49)</ID> &lt; <LOC>Torma khk. (?Palamuse khk.), Roela v., Sirguvere k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Madis Õunapuu</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Hollandi sulane</TYP_YHT>
@@ -6154,7 +6154,7 @@ Hollandi sulane
 <V>Vanad talderid rahada</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01580050">
+<ITEM nro="host01580050" y="1887">
 <META>
 <ID>H, Ostrov 158 (50)</ID> &lt; <LOC>Torma khk. (?Palamuse khk.), Roela v., Sirguvere k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Madis Õunapuu</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Suude sulg</TYP_YHT>
@@ -6174,7 +6174,7 @@ Küla ütel
 <V>Kirstukappi keeleklõnksu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01580051">
+<ITEM nro="host01580051" y="1887">
 <META>
 <ID>H, Ostrov 158 (51)</ID> &lt; <LOC>Torma khk. (?Palamuse khk.), Roela v., Sirguvere k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Madis Õunapuu</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP>
@@ -6199,7 +6199,7 @@ Salme neiu
 <V>Tatrad tuba tahaje.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01590052">
+<ITEM nro="host01590052" y="1887">
 <META>
 
 <ID>H, Ostrov 159/60 (52)</ID> &lt; <LOC>Torma khk., Mustvee v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mihkel Mänd</NIMI>, <ELUL>21 a.</ELUL></INF> (<TMP>1887</TMP>)
@@ -6299,7 +6299,7 @@ Tilluke teopoiss
 
 </TEXT>
 </ITEM>
-<ITEM nro="host01600053">
+<ITEM nro="host01600053" y="1887">
 <META>
 
 <ID>H, Ostrov 160 (53)</ID> &lt; <LOC>Torma khk., Mustvee v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mihkel Mänd</NIMI>, <ELUL>21 a.</ELUL></INF> (<TMP>1887</TMP>)
@@ -6333,7 +6333,7 @@ Karske neiu
 
 </TEXT>
 </ITEM>
-<ITEM nro="host01600054">
+<ITEM nro="host01600054" y="1887">
 <META>
 
 <ID>H, Ostrov 160 (54)</ID> &lt; <LOC>Torma khk., Mustvee v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mihkel Mänd</NIMI>, <ELUL>21 a.</ELUL></INF> (<TMP>1887</TMP>)
@@ -6371,7 +6371,7 @@ Härg varastatud
 
 </TEXT>
 </ITEM>
-<ITEM nro="host01600055">
+<ITEM nro="host01600055" y="1887">
 <META>
 
 <ID>H, Ostrov 160 (55)</ID> &lt; <LOC>Torma khk., Mustvee v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Mihkel Mänd</NIMI>, <ELUL>21 a.</ELUL></INF> (<TMP>1887</TMP>)
@@ -6401,7 +6401,7 @@ Oh ma vaene varblane
 
 </TEXT>
 </ITEM>
-<ITEM nro="host01610056">
+<ITEM nro="host01610056" y="1887">
 <META>
 
 <ID>H, Ostrov 161 (56)</ID> &lt; <LOC>Torma khk., Mustvee v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Vanatüdruk</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1887</TMP>)
@@ -6443,7 +6443,7 @@ Memme vaev
 
 </TEXT>
 </ITEM>
-<ITEM nro="host01610057">
+<ITEM nro="host01610057" y="1887">
 <META>
 <ID>H, Ostrov 161 (57)</ID> &lt; <LOC>Torma khk., Avinurme v., Kirbu k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Vana soldat</NIMI>, <ELUL>70 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP>
@@ -6466,7 +6466,7 @@ Laisk naine
 <V>Ennap naista, mis minule.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01620058">
+<ITEM nro="host01620058" y="1887">
 <META>
 <ID>H, Ostrov 162 (58)</ID> &lt; <LOC>Torma khk., Avinurme v., Kirbu k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Vana soldat</NIMI>, <ELUL>70 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kubjas põrgu!</TYP_YHT>
@@ -6511,7 +6511,7 @@ Kättemaks kupjale
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="host01630059">
+<ITEM nro="host01630059" y="1887">
 <META>
 <ID>H, Ostrov 163 (59)</ID> &lt; <LOC>Torma khk., Avinurme v., Kirbu k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Vana soldat</NIMI>, <ELUL>70 a.</ELUL></INF> (<TMP>1887</TMP>)
 </META>
@@ -6545,7 +6545,7 @@ Kättemaks kupjale
 <V>Lauk laksutab sabada.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01630060">
+<ITEM nro="host01630060" y="1887">
 <META>
 <ID>H, Ostrov 163 (60)</ID> &lt; <LOC>Torma khk., Avinurme v., Kirbu k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Vana soldat</NIMI>, <ELUL>70 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP>
@@ -6559,7 +6559,7 @@ Tont
 <V>Vana saadanat sagitie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01640061">
+<ITEM nro="host01640061" y="1887">
 <META>
 <ID>H, Ostrov 164 (61)</ID> &lt; <LOC>Torma khk., Avinurme v., Kirbu k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Vana soldat</NIMI>, <ELUL>70 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP>
@@ -6595,7 +6595,7 @@ Kolgas kosjas
 <V>Käli käe järele.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01650062">
+<ITEM nro="host01650062" y="1887">
 <META>
 <ID>H, Ostrov 165 (62)</ID> &lt; <LOC>Torma khk., Avinurme v., Kirbu k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Vana soldat</NIMI>, <ELUL>70 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP>
@@ -6618,7 +6618,7 @@ cf. Heft IV, 70
 <V>Võruvitsa veanijasta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01650063">
+<ITEM nro="host01650063" y="1887">
 <META>
 <ID>H, Ostrov 165 (63)</ID> &lt; <LOC>Torma khk., Tähkvere v., Sadala k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Liisu Paju</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1887</TMP>)
 </META>
@@ -6633,7 +6633,7 @@ cf. Heft IV, 70
 <V>Soolavakka soravad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01650064">
+<ITEM nro="host01650064" y="1887">
 <META>
 <ID>H, Ostrov 165/6 (64)</ID> &lt; <LOC>Torma khk., Tähkvere v., Sadala k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Liisu Paju</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1887</TMP>)
 </META>
@@ -6652,7 +6652,7 @@ cf. Heft IV, 70
 <V>Ajas ammad vasvastessa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01660065">
+<ITEM nro="host01660065" y="1887">
 <META>
 <ID>H, Ostrov 166 (65)</ID> &lt; <LOC>Torma khk., Tähkvere v., Sadala k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Liisu Paju</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1887</TMP>)
 </META>
@@ -6665,7 +6665,7 @@ cf. Heft IV, 70
 <V>Lammaluida lutsutada.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01660066">
+<ITEM nro="host01660066" y="1887">
 <META>
 <ID>H, Ostrov 166 (66)</ID> &lt; <LOC>Torma khk., Tähkvere v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Jüri Plowits</NIMI>, <ELUL>muistne karjamees, 69 a.</ELUL></INF> (<TMP>1887</TMP>)
 </META>
@@ -6680,7 +6680,7 @@ cf. Heft IV, 70
 <V>Ega suurte saarte peale</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01660067">
+<ITEM nro="host01660067" y="1887">
 <META>
 <ID>H, Ostrov 166/7 (67)</ID> &lt; <LOC>Torma khk., Tähkvere v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Jüri Plowits</NIMI>, <ELUL>muistne karjamees, 69 a.</ELUL></INF> (<TMP>1887</TMP>)
 </META>
@@ -6705,7 +6705,7 @@ cf. Heft IV, 70
 <V>Panna pangele võruda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01670068">
+<ITEM nro="host01670068" y="1887">
 <META>
 <ID>H, Ostrov 167 (68)</ID> &lt; <LOC>Torma khk., Tähkvere v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Jüri Plowits</NIMI>, <ELUL>muistne karjamees, 69 a.</ELUL></INF> (<TMP>1887</TMP>)
 </META>
@@ -6725,7 +6725,7 @@ cf. Heft IV, 70
 <V>Vana kanduda katsuda</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01680069">
+<ITEM nro="host01680069" y="1887">
 <META>
 <ID>H, Ostrov 168 (69)</ID> &lt; <LOC>Torma khk., Tähkvere v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Jüri Plowits</NIMI>, <ELUL>muistne karjamees, 69 a.</ELUL></INF> (<TMP>1887</TMP>)
 </META>
@@ -6756,7 +6756,7 @@ cf. Heft IV, 70
 <V>Kahvlitega kiuh, käuh.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01690070">
+<ITEM nro="host01690070" y="1887">
 <META>
 <ID>H, Ostrov 169 (70)</ID> &lt; <LOC>Torma khk., Tähkvere v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Jüri Plowits</NIMI>, <ELUL>muistne karjamees, 69 a.</ELUL></INF> (<TMP>1887</TMP>)
 </META>
@@ -6784,7 +6784,7 @@ cf. Heft IV, 70
 <V>Ladvad lauluräästaida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01690071">
+<ITEM nro="host01690071" y="1887">
 <META>
 <ID>H, Ostrov 169 (71)</ID> &lt; <LOC>Torma khk., Tähkvere v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Jüri Plowits</NIMI>, <ELUL>muistne karjamees, 69 a.</ELUL></INF> (<TMP>1887</TMP>)
 </META>
@@ -6803,7 +6803,7 @@ cf. Heft IV, 70
 <V>Anna mulle andeksagi!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01710072">
+<ITEM nro="host01710072" y="1887">
 <META>
 <ID>H, Ostrov 171 (72)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Lõpe k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Neiuhulk laiali + Tore sõit</TYP_YHT><LLIIK_YHT>Laulud noorrahva elust (Kosjad) ; Laulud meelelahutamiseks (Teekäigulaulud)</LLIIK_YHT></META>
@@ -6831,7 +6831,7 @@ cf. Heft IV, 70
 <V>Sinna maale saadessagi</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01720073">
+<ITEM nro="host01720073" y="1887">
 <META>
 <ID>H, Ostrov 172/3 (73)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Lõpe k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Põdratapja + Sepp teeb sarvest sadula + Imed + Naiste taplus</TYP_YHT>
@@ -6879,7 +6879,7 @@ Sikk
 <V>Maril matipõhi pihus.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01730074">
+<ITEM nro="host01730074" y="1887">
 <META>
 <ID>H, Ostrov 173 (74)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Lõpe k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Põlvist põdema</TYP_YHT><LLIIK_YHT>Laulud abielust (Abielumehe põli)</LLIIK_YHT></META>
@@ -6896,7 +6896,7 @@ Sikk
 <V>Sääremarjusta magada.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01730075">
+<ITEM nro="host01730075" y="1887">
 <META>
 <ID>H, Ostrov 173/4 (75)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Lõpe k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Kurva kodu + Loomad tööl</TYP_YHT><LLIIK_YHT>Murelaulud (Mure ja kurbus) ; Looduslaulud (Loomad ja linnud)</LLIIK_YHT></META>
@@ -6925,7 +6925,7 @@ Sikk
 <V>Vikat ajab ma austan.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01740076">
+<ITEM nro="host01740076" y="1887">
 <META>
 <ID>H, Ostrov 174/5 (76)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Lõpe k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Venna sõjalugu</TYP_YHT>
@@ -6983,7 +6983,7 @@ Venna sõjalugu
 <V>Et soab ujuda obuselle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01750077">
+<ITEM nro="host01750077" y="1887">
 <META>
 <ID>H, Ostrov 175/6 (77)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Lõpe k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Tule koju, too saia!</TYP_YHT>
@@ -7003,7 +7003,7 @@ Venna sõjalugu
 <V>Sepikud seda paremad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01760078">
+<ITEM nro="host01760078" y="1887">
 <META>
 <ID>H, Ostrov 176 (78)</ID> &lt; <LOC>Laiuse khk., Laiuse v., Lõpe k.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Sirbiviskamise laul</TYP_YHT><LLIIK_YHT>Töölaulud (Lõikuslaulud)</LLIIK_YHT></META>
@@ -7016,7 +7016,7 @@ Venna sõjalugu
 <V>See meist pea ära sureb.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01770079">
+<ITEM nro="host01770079" y="1887">
 <META>
 <ID>H, Ostrov 177 (79)</ID> &lt; <LOC>Laiuse khk., Jõgeva v., Mõisamaa k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Pärtel Tann</NIMI>, <ELUL>55 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kubjas ja teomees</TYP_YHT><LLIIK_YHT>Lüroeepilised laulud (Laulud argielust)</LLIIK_YHT></META>
@@ -7042,7 +7042,7 @@ Venna sõjalugu
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="host01770080">
+<ITEM nro="host01770080" y="1887">
 <META>
 <ID>H, Ostrov 177 (80)</ID> &lt; <LOC>Laiuse khk., Jõgeva v., Mõisamaa k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Pärtel Tann</NIMI>, <ELUL>55 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Võtkem noota + Sundijale meelehead</TYP_YHT><LLIIK_YHT>Töölaulud (Meestetööd) ; Laulud ühiskondlikest vahekordadest (Mõis)</LLIIK_YHT></META>
@@ -7060,7 +7060,7 @@ Venna sõjalugu
 <V>Kilter kitsepiima kirjutaja</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01780081">
+<ITEM nro="host01780081" y="1887">
 <META>
 <ID>H, Ostrov 178 (81)</ID> &lt; <LOC>Laiuse khk., Jõgeva v., Mõisamaa k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Pärtel Tann</NIMI>, <ELUL>55 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Tütar läheb aita ehtima + Tantsin, tallan kingad</TYP_YHT><LLIIK_YHT>Laulud kodust ja lapsepõlvest (Ema ja tütar) ; Laulud meelelahutamiseks (Pillimäng ja tants)</LLIIK_YHT></META>
@@ -7084,7 +7084,7 @@ Venna sõjalugu
 <V>Sõsarate sõnninahka.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01780082">
+<ITEM nro="host01780082" y="1887">
 <META>
 <ID>H, Ostrov 178/9 (82)</ID> &lt; <LOC>Laiuse khk., Jõgeva v., Mõisamaa k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Pärtel Tann</NIMI>, <ELUL>55 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Võtaks naise, kardab kurja + Must naine + Laisk naine sipelgapesasse</TYP_YHT><LLIIK_YHT>Laulud noorrahva elust (Vanapoiss ja vanatüdruk) ; Laulud abielust (Abielumehe põli - Abielumehe põli)</LLIIK_YHT></META>
@@ -7127,7 +7127,7 @@ Venna sõjalugu
 <V>Raipest naesest, kurjast koasast.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01800083">
+<ITEM nro="host01800083" y="1887">
 <META>
 <ID>H, Ostrov 180 (83)</ID> &lt; <LOC>Laiuse khk., Jõgeva v., Mõisamaa k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Pärtel Tann</NIMI>, <ELUL>55 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Vihun viie vikatiga + Halb hein + Teohobuse söök</TYP_YHT><LLIIK_YHT>Töölaulud (Heinatöölaulud - Heinatöölaulud) ; Looduslaulud (Loomad ja linnud)</LLIIK_YHT></META>
@@ -7148,7 +7148,7 @@ Venna sõjalugu
 <V>Tunamuiltsed tulitanud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01800084">
+<ITEM nro="host01800084" y="1887">
 <META>
 <ID>H, Ostrov 180 (84)</ID> &lt; <LOC>Laiuse khk., Jõgeva v., Mõisamaa k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Pärtel Tann</NIMI>, <ELUL>55 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kitse krapp</TYP_YHT>
@@ -7178,7 +7178,7 @@ Rikas ristiema
 <V>Taga läks tare põlema.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01810085">
+<ITEM nro="host01810085" y="1887">
 <META>
 <ID>H, Ostrov 181 (85)</ID> &lt; <LOC>Laiuse khk., Jõgeva v., Mõisamaa k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Pärtel Tann</NIMI>, <ELUL>55 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Anna piima!</TYP_YHT><LLIIK_YHT>Töölaulud (Naistetööd)</LLIIK_YHT></META>
@@ -7189,7 +7189,7 @@ Rikas ristiema
 <V>Udarasta uhke'esta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01810086">
+<ITEM nro="host01810086" y="1887">
 <META>
 
 <ID>H, Ostrov 181 (86)</ID> &lt; <LOC>Laiuse khk., Jõgeva v., Mõisamaa k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Pärtel Tann</NIMI>, <ELUL>55 a.</ELUL></INF> (<TMP>1887</TMP>)
@@ -7235,7 +7235,7 @@ Palve sakstele
 
 </TEXT>
 </ITEM>
-<ITEM nro="host01820087">
+<ITEM nro="host01820087" y="1887">
 <META>
 <ID>H, Ostrov 182 (87)</ID> &lt; <LOC>Laiuse khk., Jõgeva v., Mõisamaa k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Ellu Tann</NIMI>, <ELUL>56 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Lauliku sõim + Võta regi rindadeks + Porikärbes + Tule mulle! + Kaasa alles kätkis</TYP_YHT>
@@ -7278,7 +7278,7 @@ Halb laulik
 <V>Alla parre paeludessa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01830088">
+<ITEM nro="host01830088" y="1887">
 <META>
 <ID>H, Ostrov 183 (88)</ID> &lt; <LOC>Laiuse khk., Jõgeva v., Mõisamaa k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Ellu Tann</NIMI>, <ELUL>56 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Varandus vammuses + Öösel üksi</TYP_YHT>
@@ -7301,7 +7301,7 @@ Halb laulik
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="host01830089">
+<ITEM nro="host01830089" y="1887">
 <META>
 <ID>H, Ostrov 183/4 (89)</ID> &lt; <LOC>Laiuse khk., Jõgeva v., Mõisamaa k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Ellu Tann</NIMI>, <ELUL>56 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Õllest saar + Kalajõgi</TYP_YHT><LLIIK_YHT>Laulud meelelahutamiseks (Tubakas, kõrts ja joodikud) ; Looduslaulud (Loomad ja linnud)</LLIIK_YHT></META>
@@ -7335,7 +7335,7 @@ Halb laulik
 <V>Kaladelle kakerdajad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01840090">
+<ITEM nro="host01840090" y="1887">
 <META>
 <ID>H, Ostrov 184/5 (90)</ID> &lt; <LOC>Laiuse khk., Jõgeva v., Mõisamaa k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Luula Lõoke</NIMI>, <ELUL>50 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Odra ja kaera tüli</TYP_YHT><LLIIK_YHT>Looduslaulud (Taimed)</LLIIK_YHT></META>
@@ -7362,7 +7362,7 @@ Halb laulik
 <V>Teotöngid törgitama.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01850091">
+<ITEM nro="host01850091" y="1887">
 <META>
 <ID>H, Ostrov 185 (91)</ID> &lt; <LOC>Laiuse khk., Jõgeva v., Mõisamaa k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Luula Lõoke</NIMI>, <ELUL>50 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Vahetasin valju naise</TYP_YHT><LLIIK_YHT>Laulud abielust (Abielumehe põli)</LLIIK_YHT></META>
@@ -7377,7 +7377,7 @@ Halb laulik
 <V>Poat võind poasa ringutada.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01850092">
+<ITEM nro="host01850092" y="1887">
 <META>
 <ID>H, Ostrov 185/6 (92)</ID> &lt; <LOC>Laiuse khk., Jõgeva v., Mõisamaa k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Ants Kurg</NIMI>, <ELUL>36 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Veeteele viibinud neiu</TYP_YHT><LLIIK_YHT>Lüroeepilised laulud (Laulud argielust)</LLIIK_YHT></META>
@@ -7407,7 +7407,7 @@ Halb laulik
 <V>Soatis kuuendal koduje.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01890001">
+<ITEM nro="host01890001" y="1887">
 <META>
 <ID>H, Ostrov 189 (1)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Saddala k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Liisu Paju</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Ilusamad meie hiired + Naised võõrsil ja kodus</TYP_YHT>
@@ -7423,7 +7423,7 @@ Halb laulik
 <V>Soolavakka nad soravad</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01890002">
+<ITEM nro="host01890002" y="1887">
 <META>
 <ID>H, Ostrov 189 (2)</ID> &lt; <LOC>Laiuse khk., Leedi v.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Liisu Kasjan (Kaschan)</NIMI>, <ELUL>67 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Laulikule palka!</TYP_YHT>
@@ -7440,7 +7440,7 @@ Halb laulik
 <V>Koor teeb kurgu kerge'esta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01890003">
+<ITEM nro="host01890003" y="1887">
 <META>
 <ID>H, Ostrov 189 (3)</ID> &lt; <LOC>Laiuse khk., Leedi v.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Liisu Kasjan (Kaschan)</NIMI>, <ELUL>67 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Orjale otsitakse tööd</TYP_YHT><LLIIK_YHT>Laulud ühiskondlikest vahekordadest (Orja laulud)</LLIIK_YHT></META>
@@ -7453,7 +7453,7 @@ Halb laulik
 <V>Rauda riitaje laduma.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01900004">
+<ITEM nro="host01900004" y="1887">
 <META>
 <ID>H, Ostrov 190 (4)</ID> &lt; <LOC>Laiuse khk., Leedi v.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Liisu Kasjan (Kaschan)</NIMI>, <ELUL>67 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Palju püütud neiu</TYP_YHT><LLIIK_YHT>Laulud noorrahva elust (Neiud)</LLIIK_YHT></META>
@@ -7477,7 +7477,7 @@ Halb laulik
 <V>Laia kaare einamaalta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01900005">
+<ITEM nro="host01900005" y="1887">
 <META>
 <ID>H, Ostrov 190/1 (5)</ID> &lt; <LOC>Laiuse khk., Leedi v.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Liisu Kasjan (Kaschan)</NIMI>, <ELUL>67 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ZANR>siirdevormiline laul</ZANR>
@@ -7503,7 +7503,7 @@ Halb laulik
 <V>Mina mõisa tallipoiss.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01910006">
+<ITEM nro="host01910006" y="1887">
 <META>
 <ID>H, Ostrov 191/3 (6)</ID> &lt; <LOC>Laiuse khk., Leedi v.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Liisu Kasjan (Kaschan)</NIMI>, <ELUL>67 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kodus maksin kulla + Nüüd saab nutta köögiski + Minia meelevald + Oodatakse koju tööle + Laulu lõpetus</TYP_YHT><LLIIK_YHT>Laulud abielust (Abielunaise põli - Abielunaise põli - Abielunaise põli) ; Laulud ühiskondlikest vahekordadest (Orja laulud) ; Laulud laulust (Laulust ja laulikust)</LLIIK_YHT></META>
@@ -7565,7 +7565,7 @@ Halb laulik
 <V>Kajukook olli kalja jatk.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01930007">
+<ITEM nro="host01930007" y="1887">
 <META>
 <ID>H, Ostrov 193 (7)</ID> &lt; <LOC>Laiuse khk., Leedi v.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Liisu Kasjan (Kaschan)</NIMI>, <ELUL>67 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ZANR>siirdevormiline laul</ZANR><TYP>
@@ -7585,7 +7585,7 @@ Hää härra
 <V>Raha neile neitsikestel.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01930008">
+<ITEM nro="host01930008" y="1887">
 <META>
 
 <ID>H, Ostrov 193/5 (8)</ID> &lt; <LOC>Laiuse khk., Leedi v.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Liisu Kasjan (Kaschan)</NIMI>, <ELUL>67 a.</ELUL></INF> (<TMP>1887</TMP>)
@@ -7699,7 +7699,7 @@ Hää härra
 
 </TEXT>
 </ITEM>
-<ITEM nro="host01950009">
+<ITEM nro="host01950009" y="1887">
 <META>
 <ID>H, Ostrov 195/6 (9)</ID> &lt; <LOC>Laiuse khk., Leedi v.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Liisu Kasjan (Kaschan)</NIMI>, <ELUL>67 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kaasa kaugel + Tule mulle!</TYP_YHT><LLIIK_YHT>Laulud noorrahva elust (Kosjad - Kosjad)</LLIIK_YHT></META>
@@ -7748,7 +7748,7 @@ Hää härra
 <V>Kolmas rudib rukkidessa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01970010">
+<ITEM nro="host01970010" y="1887">
 <META>
 <ID>H, Ostrov 197/8 (10)</ID> &lt; <LOC>Laiuse khk., Leedi v.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Liisu Kasjan (Kaschan)</NIMI>, <ELUL>67 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Mardi kaebamine + Martide mangumine + Mardi tants + Mardi sajatused</TYP_YHT><LLIIK_YHT>Kalendrilaulud (Sanditamislaulud - Sanditamislaulud - Sanditamislaulud - Sanditamislaulud)</LLIIK_YHT></META>
@@ -7785,7 +7785,7 @@ Hää härra
 <V>Kükakil külatänavas.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01980011">
+<ITEM nro="host01980011" y="1887">
 <META>
 <ID>H, Ostrov 198/9 (11)</ID> &lt; <LOC>Laiuse khk., Leedi v.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Liisu Kasjan (Kaschan)</NIMI>, <ELUL>67 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Peretütar inetu, vaeslaps ilus + Peretütar ei viitsi vett tuua</TYP_YHT><LLIIK_YHT>Murelaulud (Vaeslaps) ; Laulud ühiskondlikest vahekordadest (Peremees ja sulane)</LLIIK_YHT></META>
@@ -7836,7 +7836,7 @@ Hää härra
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="host01990012">
+<ITEM nro="host01990012" y="1887">
 <META>
 <ID>H, Ostrov 199 (12)</ID> &lt; <LOC>Laiuse khk., Leedi v.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Liisu Kasjan (Kaschan)</NIMI>, <ELUL>67 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Vastumeelt külalised + Külaliste roog</TYP_YHT>
@@ -7853,7 +7853,7 @@ Hää härra
 <V>Sabarood jäi rookimata.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host01990013">
+<ITEM nro="host01990013" y="1887">
 <META>
 
 <ID>H, Ostrov 199/200 (13)</ID> &lt; <LOC>Laiuse khk., Leedi v.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Liisu Kasjan (Kaschan)</NIMI>, <ELUL>67 a.</ELUL></INF> (<TMP>1887</TMP>)
@@ -7903,7 +7903,7 @@ Suur sööja
 
 </TEXT>
 </ITEM>
-<ITEM nro="host02000014">
+<ITEM nro="host02000014" y="1887">
 <META>
 <ID>H, Ostrov 200 (14)</ID> &lt; <LOC>Laiuse khk., Leedi v.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Liisu Kasjan (Kaschan)</NIMI>, <ELUL>67 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Söögitoojad surnud</TYP_YHT>
@@ -7921,7 +7921,7 @@ Suur sööja
 <V>Kui on lõpnud lõpku peale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02000015">
+<ITEM nro="host02000015" y="1887">
 <META>
 <ID>H, Ostrov 200/1 (15)</ID> &lt; <LOC>Laiuse khk., Leedi v.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Liisu Kasjan (Kaschan)</NIMI>, <ELUL>67 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Tütar vette!</TYP_YHT><LLIIK_YHT>Lüroeepilised laulud (Kosjafantaasiad ja pereelu)</LLIIK_YHT></META>
@@ -7944,7 +7944,7 @@ Suur sööja
 <V>Mõni mees mekib mõduda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02010016">
+<ITEM nro="host02010016" y="1887">
 <META>
 <ID>H, Ostrov 201 (16)</ID> &lt; <LOC>Laiuse khk., Leedi v.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Liisu Kasjan (Kaschan)</NIMI>, <ELUL>67 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Ärge lööge vaeslast!</TYP_YHT>
@@ -7961,7 +7961,7 @@ Palve kupjale
 <V>Löömata pale punane.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02010017">
+<ITEM nro="host02010017" y="1887">
 <META>
 <ID>H, Ostrov 201 (17)</ID> &lt; <LOC>Laiuse khk., Leedi v.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Liisu Kasjan (Kaschan)</NIMI>, <ELUL>67 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kallis neiukaup</TYP_YHT><LLIIK_YHT>Laulud noorrahva elust (Neiud)</LLIIK_YHT></META>
@@ -7987,7 +7987,7 @@ Palve kupjale
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="host02020018">
+<ITEM nro="host02020018" y="1887">
 <META>
 <ID>H, Ostrov 202 (18)</ID> &lt; <LOC>Laiuse khk., Leedi v.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Liisu Kasjan (Kaschan)</NIMI>, <ELUL>67 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kupja sõim</TYP_YHT>
@@ -8002,7 +8002,7 @@ Kupja sõim
 <V>Junkur julgade lugeja.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02020019">
+<ITEM nro="host02020019" y="1887">
 <META>
 <ID>H, Ostrov 202/3 (19)</ID> &lt; <LOC>Laiuse khk., Leedi v.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Liisu Kasjan (Kaschan)</NIMI>, <ELUL>67 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kallis kasvupõli + Tule mulle! + Seob sängisamba külge</TYP_YHT>
@@ -8048,7 +8048,7 @@ Endine elu
 <V>Pean sind viksista ülesse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02030020">
+<ITEM nro="host02030020" y="1887">
 <META>
 <ID>H, Ostrov 203 (20)</ID> &lt; <LOC>Laiuse khk., Leedi v.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Liisu Kasjan (Kaschan)</NIMI>, <ELUL>67 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Hiljuke</TYP_YHT><LLIIK_YHT>Laulud kodust ja lapsepõlvest (Kasvatus asjata)</LLIIK_YHT></META>
@@ -8064,7 +8064,7 @@ Endine elu
 <V>Niidab viisi vikatit.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02030021">
+<ITEM nro="host02030021" y="1887">
 <META>
 <ID>H, Ostrov 203/4 (21)</ID> &lt; <LOC>Laiuse khk., Leedi v.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Liisu Kasjan (Kaschan)</NIMI>, <ELUL>67 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Madal vili + Mõistatus viljadest</TYP_YHT>
@@ -8103,7 +8103,7 @@ Viljade mõistatus
 <V>Tatar  kolmekandilene.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02040022">
+<ITEM nro="host02040022" y="1887">
 <META>
 <ID>H, Ostrov 204 (22)</ID> &lt; <LOC>Laiuse khk., Leedi v.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Liisu Kasjan (Kaschan)</NIMI>, <ELUL>67 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kõrtsinaise tütar</TYP_YHT><LLIIK_YHT>Laulud meelelahutamiseks (Tubakas, kõrts ja joodikud)</LLIIK_YHT></META>
@@ -8124,7 +8124,7 @@ Viljade mõistatus
 <V>Tahtsid mõisa tallipoisid.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02050023">
+<ITEM nro="host02050023" y="1887">
 <META>
 <ID>H, Ostrov 205 (23)</ID> &lt; <LOC>Laiuse khk. &amp;lt; Tallinnamaa</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kaarel Treffel</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 211.</ANDMEVIIDE>
@@ -8149,7 +8149,7 @@ Laulust saar
 <V>Augil suured laugid otsas.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02050024">
+<ITEM nro="host02050024" y="1887">
 <META>
 <ID>H, Ostrov 205/6 (24)</ID> &lt; <LOC>Laiuse khk. &amp;lt; Tallinnamaa</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kaarel Treffel</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 211.</ANDMEVIIDE>
@@ -8192,7 +8192,7 @@ Tuule tuba
 <V>Katus kuivasta kalasta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02060025">
+<ITEM nro="host02060025" y="1887">
 <META>
 <ID>H, Ostrov 206/7 (25)</ID> &lt; <LOC>Laiuse khk. &amp;lt; Tallinnamaa</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kaarel Treffel</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 211.</ANDMEVIIDE>
@@ -8254,7 +8254,7 @@ Pukk
 <V>Needap koljud kirjutavad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02080026">
+<ITEM nro="host02080026" y="1887">
 <META>
 <ID>H, Ostrov 208 (26)</ID> &lt; <LOC>Laiuse khk. &amp;lt; Tallinnamaa</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kaarel Treffel</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 211.</ANDMEVIIDE>
@@ -8286,7 +8286,7 @@ Ei enne laulatust
 <V>Krapsutada kaltsupaela.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02080027">
+<ITEM nro="host02080027" y="1887">
 <META>
 <ID>H, Ostrov 208/9 (27)</ID> &lt; <LOC>Laiuse khk. &amp;lt; Tallinnamaa</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kaarel Treffel</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 211.</ANDMEVIIDE>
@@ -8337,7 +8337,7 @@ Kubjas mõõtis suure tüki
 <V>Tõmmu ärg on tõusemassa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02090028">
+<ITEM nro="host02090028" y="1887">
 <META>
 <ID>H, Ostrov 209/10 (28)</ID> &lt; <LOC>Laiuse khk. &amp;lt; Tallinnamaa</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kaarel Treffel</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 211.</ANDMEVIIDE>
@@ -8363,7 +8363,7 @@ Tule mulle
 <V>Tahad tulla ikke võtan</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02100029">
+<ITEM nro="host02100029" y="1887">
 <META>
 <ID>H, Ostrov 210 (29)</ID> &lt; <LOC>Laiuse khk. &amp;lt; Tallinnamaa</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kaarel Treffel</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 211.</ANDMEVIIDE>
@@ -8386,7 +8386,7 @@ Palve kupjale
 <V>Karu sinu karja ulka.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02100030">
+<ITEM nro="host02100030" y="1887">
 <META>
 <ID>H, Ostrov 210 (30)</ID> &lt; <LOC>Laiuse khk. &amp;lt; Tallinnamaa</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kaarel Treffel</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 211.</ANDMEVIIDE>
@@ -8404,7 +8404,7 @@ Lora
 <V>Suure kürva kannatama.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02100031">
+<ITEM nro="host02100031" y="1887">
 <META>
 <ID>H, Ostrov 210/1 (31)</ID> &lt; <LOC>Laiuse khk. &amp;lt; Tallinnamaa</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kaarel Treffel</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 211.</ANDMEVIIDE>
@@ -8437,7 +8437,7 @@ cf. Heft I, 26.
 <V>Kolmas täkk olli kolletanud</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02110000">
+<ITEM nro="host02110000" y="1887">
 <META>
 <ID>H, Ostrov 211</ID> &lt; <LOC>Laiuse khk.</LOC> - <COL>G. Johannson</COL> (<TMP>1887</TMP>)
 <ZANR>andmed</ZANR>
@@ -8449,7 +8449,7 @@ cf. Heft I, 26.
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="host02110032">
+<ITEM nro="host02110032" y="1887">
 <META>
 <ID>H, Ostrov 211 (32)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Liisu Klaas</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Ilus neiu kiigel</TYP_YHT>
@@ -8471,7 +8471,7 @@ Kiik kõrgele
 <V>Silmad pealt sinista metsa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02110033">
+<ITEM nro="host02110033" y="1887">
 <META>
 <ID>H, Ostrov 211 (33)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Liisu Klaas</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kärdu perse hääl</TYP_YHT><LLIIK_YHT>Laulud meelelahutamiseks (Naljalaulud)</LLIIK_YHT></META>
@@ -8487,7 +8487,7 @@ Kiik kõrgele
 <V>Olli meie Kärdu perse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02120034">
+<ITEM nro="host02120034" y="1887">
 <META>
 <ID>H, Ostrov 212 (34)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Liisu Klaas</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kull kutsumata</TYP_YHT><LLIIK_YHT>Looduslaulud (Loomad ja linnud)</LLIIK_YHT></META>
@@ -8503,7 +8503,7 @@ Kiik kõrgele
 <V>Varblase vana vammussa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02120035">
+<ITEM nro="host02120035" y="1887">
 <META>
 <ID>H, Ostrov 212 (35)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Liisu Klaas</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kurg kündmas</TYP_YHT>
@@ -8528,7 +8528,7 @@ Linnud tööl
 <V>Teder maha tepsates.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02120036">
+<ITEM nro="host02120036" y="1887">
 <META>
 <ID>H, Ostrov 212/3 (36)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Liisu Klaas</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kättemaks sakstele + Vanapoisid müürile magama</TYP_YHT>
@@ -8559,7 +8559,7 @@ Kättemaks sakstele
 <V>Sada saapasääre vastu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02130037">
+<ITEM nro="host02130037" y="1887">
 <META>
 <ID>H, Ostrov 213 (37)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Liisu Klaas</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Tore sõit</TYP_YHT>
@@ -8577,7 +8577,7 @@ Tore sõit
 <V>Obu alla allitanud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02130038">
+<ITEM nro="host02130038" y="1887">
 <META>
 <ID>H, Ostrov 213/4 (38)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k. &amp;lt; Kolga-Jaani khk.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kristian Sepp</NIMI>, <ELUL>69 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Laulud lutsu suust</TYP_YHT><LLIIK_YHT>Laulud laulust (Laulust ja laulikust)</LLIIK_YHT></META>
@@ -8620,7 +8620,7 @@ Tore sõit
 <V>Vanaste Mardid tagunud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02140039">
+<ITEM nro="host02140039" y="1887">
 <META>
 <ID>H, Ostrov 214/5 (39)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k. &amp;lt; Kolga-Jaani khk.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kristian Sepp</NIMI>, <ELUL>69 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Arg laulik</TYP_YHT><LLIIK_YHT>Laulud laulust (Laulust ja laulikust)</LLIIK_YHT></META>
@@ -8641,7 +8641,7 @@ Tore sõit
 <V>Sõnavõttijad võsasse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02150040">
+<ITEM nro="host02150040" y="1887">
 <META>
 <ID>H, Ostrov 215 (40)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k. &amp;lt; Kolga-Jaani khk.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kristian Sepp</NIMI>, <ELUL>69 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Tore sõit + Soome sild + Oleks see mees minu!</TYP_YHT><LLIIK_YHT>Laulud meelelahutamiseks (Teekäigulaulud - Teekäigulaulud) ; Laulud noorrahva elust (Unelmad ja ootused)</LLIIK_YHT></META>
@@ -8670,7 +8670,7 @@ cf I, M
 <V>Talve tangu maitsemata.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02150041">
+<ITEM nro="host02150041" y="1887">
 <META>
 <ID>H, Ostrov 215/6 (41)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k. &amp;lt; Kolga-Jaani khk.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kristian Sepp</NIMI>, <ELUL>69 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Varga õpetamine</TYP_YHT><LLIIK_YHT>Laulud ühiskondlikest vahekordadest (Küla)</LLIIK_YHT></META>
@@ -8722,7 +8722,7 @@ cf I, M
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="host02170042">
+<ITEM nro="host02170042" y="1887">
 <META>
 <ID>H, Ostrov 217 (42)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k. &amp;lt; Kolga-Jaani khk.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kristian Sepp</NIMI>, <ELUL>69 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kiige toomine + Kiik kiunub kindaid</TYP_YHT>
@@ -8752,7 +8752,7 @@ cf Heft I, 24
 <V>Päälispuu punapanemid.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02170043">
+<ITEM nro="host02170043" y="1887">
 <META>
 <ID>H, Ostrov 217 (43)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Leenu Kadaka</NIMI>, <ELUL>73 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Sõnad kadeduse vastu</TYP_YHT><LLIIK_YHT>Loitsud (Sõnad inimeste mõjutamiseks)</LLIIK_YHT></META>
@@ -8769,7 +8769,7 @@ cf Heft I, 24
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="host02170044">
+<ITEM nro="host02170044" y="1887">
 <META>
 <ID>H, Ostrov 217/8 (44)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Leenu Kadaka</NIMI>, <ELUL>73 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Hea veli kiige teinud + Kallist puust kiik + Kitsas kiik</TYP_YHT><LLIIK_YHT>Kalendrilaulud (Kiigelaulud - Kiigelaulud - Kiigelaulud)</LLIIK_YHT></META>
@@ -8787,7 +8787,7 @@ cf Heft I, 24
 <V>Keskelt ella värbelane.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02180045">
+<ITEM nro="host02180045" y="1887">
 <META>
 <ID>H, Ostrov 218 (45)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Leenu Kadaka</NIMI>, <ELUL>73 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Lauldud hobu ja sadul</TYP_YHT><LLIIK_YHT>Laulud laulust (Laulust ja laulikust)</LLIIK_YHT></META>
@@ -8806,7 +8806,7 @@ cf Heft I, 24
 <V>Kudujalle kuldamõeka.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02180046">
+<ITEM nro="host02180046" y="1887">
 <META>
 <ID>H, Ostrov 218 (46)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Leenu Kadaka</NIMI>, <ELUL>73 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Iir-iir</TYP_YHT>
@@ -8821,7 +8821,7 @@ cf Heft I, 24
 <V>Vainu keeli kõkali.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02190047">
+<ITEM nro="host02190047" y="1887">
 <META>
 <ID>H, Ostrov 219 (47)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Leenu Kadaka</NIMI>, <ELUL>73 a.</ELUL></INF> (<TMP>1887</TMP>)
 </META>
@@ -8839,7 +8839,7 @@ cf Heft I, 24
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="host02190049">
+<ITEM nro="host02190049" y="1887">
 <META>
 <ID>H, Ostrov 219 (49)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kai Poom</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Teohobuse söök</TYP_YHT><LLIIK_YHT>Looduslaulud (Loomad ja linnud)</LLIIK_YHT></META>
@@ -8856,7 +8856,7 @@ cf Heft I, 24
 <V>Saadumaa saledad eina</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02190050">
+<ITEM nro="host02190050" y="1887">
 <META>
 <ID>H, Ostrov 219/20 (50)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kai Poom</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kes käskis kenasti käia!</TYP_YHT><LLIIK_YHT>Pulmalaulud (Peiu ja mõrsja vastastikune laitmine ja ülistamine)</LLIIK_YHT></META>
@@ -8878,7 +8878,7 @@ cf Heft I, 24
 <V>Looge laulvad loogassepad</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02200051">
+<ITEM nro="host02200051" y="1887">
 <META>
 <ID>H, Ostrov 220 (51)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Kai Poom</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kuhu pean minema</TYP_YHT>
@@ -8892,7 +8892,7 @@ cf Heft I, 24
 <V>Keskpaik keerdu laste kelku</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02200052">
+<ITEM nro="host02200052" y="1887">
 <META>
 <ID>H, Ostrov 220 (52)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Ann Joonas</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kubjas, lase lõunale!</TYP_YHT><LLIIK_YHT>Laulud ühiskondlikest vahekordadest (Mõis)</LLIIK_YHT></META>
@@ -8909,7 +8909,7 @@ cf Heft I, 24
 <V>Painjas su enese peale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02210053">
+<ITEM nro="host02210053" y="1887">
 <META>
 <ID>H, Ostrov 221 (53)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Ann Kamm</NIMI>, <ELUL>50 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Suude sulg</TYP_YHT><LLIIK_YHT>Laulud laulust (Laulust ja laulikust)</LLIIK_YHT></META>
@@ -8932,7 +8932,7 @@ cf Heft I, 24
 <V>Teeks ma ealta tedre moodi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02210054">
+<ITEM nro="host02210054" y="1887">
 <META>
 <ID>H, Ostrov 221/2 (54)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Ann Kamm</NIMI>, <ELUL>50 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Söök isa- ja mehekodus</TYP_YHT><LLIIK_YHT>Laulud abielust (Abielunaise põli)</LLIIK_YHT></META>
@@ -8969,7 +8969,7 @@ cf IV, 6.
 <V>Misuke elu minule.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02220055">
+<ITEM nro="host02220055" y="1887">
 <META>
 <ID>H, Ostrov 222/3 (55)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Ann Kamm</NIMI>, <ELUL>50 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Hea pilliga, kuri piitsaga</TYP_YHT>
@@ -8998,7 +8998,7 @@ Hää ja halb mees
 <V>Lehmad linna lepikussa</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02230056">
+<ITEM nro="host02230056" y="1887">
 <META>
 <ID>H, Ostrov 223 (56)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Ann Kamm</NIMI>, <ELUL>50 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kolmed kingad + Ei ole lauljat hulgas</TYP_YHT>
@@ -9025,7 +9025,7 @@ Tule mulle
 <V>Ega raksu rahakaelad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02230057">
+<ITEM nro="host02230057" y="1887">
 <META>
 <ID>H, Ostrov 223 (57)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Ann Kamm</NIMI>, <ELUL>50 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Külm vilja võtnud</TYP_YHT><LLIIK_YHT>Looduslaulud (Aastaajad ja loodusnähtused)</LLIIK_YHT></META>
@@ -9037,7 +9037,7 @@ Tule mulle
 <V>Vanad mehed varrusida</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02230058">
+<ITEM nro="host02230058" y="1887">
 <META>
 <ID>H, Ostrov 223/4 (58)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Ann Kamm</NIMI>, <ELUL>50 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Sirbiviskamise laul</TYP_YHT>
@@ -9059,7 +9059,7 @@ Tule mulle
 <V>Paremast paistvad punased palged.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02240059">
+<ITEM nro="host02240059" y="1887">
 <META>
 <ID>H, Ostrov 224 (59)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Ann Kamm</NIMI>, <ELUL>50 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Halb õitsipaik</TYP_YHT>
@@ -9093,7 +9093,7 @@ Tule mulle
 <V>Naarimaada <REFR>lä lä</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02250060">
+<ITEM nro="host02250060" y="1887">
 <META>
 <ID>H, Ostrov 225 (60)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Ann Kamm</NIMI>, <ELUL>50 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -9116,7 +9116,7 @@ Tule mulle
 <V>Meie talgud ollid ead.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02250061">
+<ITEM nro="host02250061" y="1887">
 <META>
 <ID>H, Ostrov 225 (61)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>K. Sepp</NIMI>, <ELUL>koolmeister, 26 a</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Varese munad</TYP_YHT>
@@ -9140,7 +9140,7 @@ cf Heft I, 54.
 <V>Leenu leemekulbi täie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02260062">
+<ITEM nro="host02260062" y="1887">
 <META>
 <ID>H, Ostrov 226 (62)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Tõnu Rosin</NIMI>, <ELUL>68 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Maarja otsib poega</TYP_YHT>
@@ -9166,7 +9166,7 @@ cf Heft I, 54.
 <V>Sulle kiitust igavest.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02260063">
+<ITEM nro="host02260063" y="1887">
 <META>
 <ID>H, Ostrov 226 (63)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Mihkel Blowits</NIMI>, <ELUL>90 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Peretütar ei viitsi vesile</TYP_YHT><LLIIK_YHT>Laulud ühiskondlikest vahekordadest (Peremees ja sulane)</LLIIK_YHT></META>
@@ -9180,7 +9180,7 @@ cf Heft I, 54.
 <V>Vaibaservad seenetanud</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02260064">
+<ITEM nro="host02260064" y="1887">
 <META>
 <ID>H, Ostrov 226/7 (64)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Mihkel Blovits</NIMI>, <ELUL>90 a.</ELUL></INF> (<TMP>1887</TMP>)
 <ZANR>siirdevormiline laul</ZANR>
@@ -9198,7 +9198,7 @@ cf Heft I, 54.
 <V>Paeme nime Needikese.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02270065">
+<ITEM nro="host02270065" y="1887">
 <META>
 <ID>H, Ostrov 227 (65)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Mihkel Blovits</NIMI>, <ELUL>90 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Ärge naerge neide, endal naine võtmata</TYP_YHT>
@@ -9211,7 +9211,7 @@ cf Heft I, 54.
 <V>Leelillakad lihavad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02270066">
+<ITEM nro="host02270066" y="1887">
 <META>
 <ID>H, Ostrov 227 (66)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Mai Blovits</NIMI>, <ELUL>27 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Memme vaev</TYP_YHT>
@@ -9227,7 +9227,7 @@ cf Heft I, 54.
 <V>Noore nutuvõttijalle</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02270067">
+<ITEM nro="host02270067" y="1887">
 <META>
 <ID>H, Ostrov 227/8 (67)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Maili Johannson</NIMI>, <ELUL>53 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Ehitud hobune</TYP_YHT><LLIIK_YHT>Looduslaulud (Loomad ja linnud)</LLIIK_YHT></META>
@@ -9247,7 +9247,7 @@ cf Heft I, 54.
 <V>Saba saksa taaderisse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02280068">
+<ITEM nro="host02280068" y="1887">
 <META>
 
 <ID>H, Ostrov 228 (68)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Maili Johannson</NIMI>, <ELUL>53 a.</ELUL></INF> (<TMP>1887</TMP>)
@@ -9273,7 +9273,7 @@ cf Heft I, 54.
 
 </TEXT>
 </ITEM>
-<ITEM nro="host02280069">
+<ITEM nro="host02280069" y="1887">
 <META>
 <ID>H, Ostrov 228 (69)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Maili Johannson</NIMI>, <ELUL>53 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Eest ära neiude teelt</TYP_YHT><LLIIK_YHT>Laulud noorrahva elust (Neiud)</LLIIK_YHT></META>
@@ -9286,7 +9286,7 @@ cf Heft I, 54.
 <V>Käeramme'ed rahada</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02280070">
+<ITEM nro="host02280070" y="1887">
 <META>
 
 <ID>H, Ostrov 228/9 (70)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>K. Sepp</NIMI>, <ELUL>koolmeister, 26 a.</ELUL></INF> (<TMP>1887</TMP>)
@@ -9328,7 +9328,7 @@ cf Heft I, 54.
 
 </TEXT>
 </ITEM>
-<ITEM nro="host02290071">
+<ITEM nro="host02290071" y="1887">
 <META>
 <ID>H, Ostrov 229 (71)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Ann Kamm</NIMI>, <ELUL>50 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Tütar on kodu ehteks</TYP_YHT>
@@ -9343,7 +9343,7 @@ cf Heft I, 54.
 <V>Anne on maja ilusta</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02290072">
+<ITEM nro="host02290072" y="1887">
 <META>
 <ID>H, Ostrov 229 (72)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Ann Kamm</NIMI>, <ELUL>50 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Tulge kiigele, tooge mune!</TYP_YHT>
@@ -9356,7 +9356,7 @@ cf Heft I, 54.
 <V>Pika poisi põue.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02290073">
+<ITEM nro="host02290073" y="1887">
 <META>
 <ID>H, Ostrov 229/30 (73)</ID> &lt; <LOC>Laiuse khk., Tähkvere v., Tuimõisa k.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Ann Kamm</NIMI>, <ELUL>50 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Neiud põlgavad riiete pärast</TYP_YHT>
@@ -9394,7 +9394,7 @@ cf Heft I, 54.
 <V>Arvasivad aedameheks</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02300074">
+<ITEM nro="host02300074" y="1887">
 <META>
 <ID>H, Ostrov 230/1 (74)</ID> &lt; <LOC>Laiuse khk.</LOC> - <COL>G. Johannson</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Kaks vaeslast + Öösel üksi</TYP_YHT><LLIIK_YHT>Murelaulud (Vaeslaps) ; Laulud noorrahva elust (Unelmad ja ootused)</LLIIK_YHT></META>
@@ -9411,7 +9411,7 @@ cf Heft I, 54.
 <V>Täiaga tänu pidada.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02310075">
+<ITEM nro="host02310075" y="1887">
 <META>
 <ID>H, Ostrov 231 (75)</ID> &lt; <LOC>Laiuse khk.</LOC> - <COL>G. Johannson</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Teng, hobu, naine + Pere ütles: &quot;Peksa naist!&quot;</TYP_YHT><LLIIK_YHT>Laulud abielust (Abielumehe põli - Abielumehe põli)</LLIIK_YHT></META>
@@ -9447,7 +9447,7 @@ cf Heft I, 54.
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="host02320076">
+<ITEM nro="host02320076" y="1887">
 <META>
 <ID>H, Ostrov 232 (76)</ID> &lt; <LOC>Laiuse khk.</LOC> - <COL>G. Johannson</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Oodati hooraks + Hea neiupõli + Neiude ja noormeeste mure</TYP_YHT><LLIIK_YHT>Laulud noorrahva elust (Neiud - Neiud - Neiud)</LLIIK_YHT></META>
@@ -9479,7 +9479,7 @@ cf Heft I, 54.
 <V>Välgub väl'lakepikene.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02330077">
+<ITEM nro="host02330077" y="1887">
 <META>
 <ID>H, Ostrov 233 (77)</ID> &lt; <LOC>Laiuse khk.</LOC> - <COL>G. Johannson</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Memme vaev</TYP_YHT><LLIIK_YHT>Laulud kodust ja lapsepõlvest (Ema ja tütar)</LLIIK_YHT></META>
@@ -9501,7 +9501,7 @@ cf Heft I, 54.
 <V>Tuhkru ruuna tundijalle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02330078">
+<ITEM nro="host02330078" y="1887">
 <META>
 <ID>H, Ostrov 233/4 (78)</ID> &lt; <LOC>Laiuse khk.</LOC> - <COL>G. Johannson</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Ainus vend soldatiks</TYP_YHT><LLIIK_YHT>Laulud sõjast ja nekrutist (Nekrutilaulud)</LLIIK_YHT></META>
@@ -9523,7 +9523,7 @@ cf Heft I, 54.
 <V>Keskmised koju tulevad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02460001">
+<ITEM nro="host02460001" y="1887">
 <META>
 <ID>H, Ostrov 246 (1)</ID> &lt; <LOC>Laiuse khk.</LOC> - <COL>G. Johannson</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Tulge kiigele, tooge mune!</TYP_YHT><LLIIK_YHT>Kalendrilaulud (Kiigelaulud)</LLIIK_YHT></META>
@@ -9547,7 +9547,7 @@ cf Heft I, 54.
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="host02460002">
+<ITEM nro="host02460002" y="1887">
 <META>
 <ID>H, Ostrov 246 (2)</ID> &lt; <LOC>Laiuse khk.</LOC> - <COL>G. Johannson</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Rõõmus nekrut</TYP_YHT><LLIIK_YHT>Laulud sõjast ja nekrutist (Nekrutilaulud)</LLIIK_YHT></META>
@@ -9571,7 +9571,7 @@ cf Heft I, 54.
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="host02470003">
+<ITEM nro="host02470003" y="1887">
 <META>
 <ID>H, Ostrov 247 (3)</ID> &lt; <LOC>Laiuse khk.</LOC> - <COL>G. Johannson</COL> &lt; <INF><NIMI>Jaska Malle ema</NIMI></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Ehkki ilus, ikka ei võta</TYP_YHT>
@@ -9593,7 +9593,7 @@ cf Heft I, 54.
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="host02530001">
+<ITEM nro="host02530001" y="1887">
 <META>
 <ID>H, Ostrov 253 (1)</ID> &lt; <LOC>Simuna khk., Selli v. &amp;lt; Piibe v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Ants Kurg</NIMI>, <ELUL>62 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Mareta laps</TYP_YHT>
@@ -9627,7 +9627,7 @@ Mareta laps
 <V>See minu isa oleksie</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02540002">
+<ITEM nro="host02540002" y="1887">
 <META>
 <ID>H, Ostrov 254/5 (2)</ID> &lt; <LOC>Simuna khk., Selli v. &amp;lt; Piibe v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Ants Kurg</NIMI>, <ELUL>62 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Tütarde tapja</TYP_YHT><LLIIK_YHT>Lüroeepilised laulud (Kosjafantaasiad ja pereelu)</LLIIK_YHT></META>
@@ -9680,7 +9680,7 @@ Mareta laps
 <V>Paberid ju paugutama.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02550003">
+<ITEM nro="host02550003" y="1887">
 <META>
 <ID>H, Ostrov 255/6 (3)</ID> &lt; <LOC>Simuna khk., Selli v. &amp;lt; Piibe v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Ants Kurg</NIMI>, <ELUL>62 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Humal hõikas + Õllest saar</TYP_YHT>
@@ -9710,7 +9710,7 @@ Mareta laps
 <V>Igas ladvas olli laulalindu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02560004">
+<ITEM nro="host02560004" y="1887">
 <META>
 <ID>H, Ostrov 256 (4)</ID> &lt; <LOC>Simuna khk., Selli v. &amp;lt; Piibe v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Ants Kurg</NIMI>, <ELUL>62 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Venna sõjalugu</TYP_YHT>
@@ -9739,7 +9739,7 @@ Sõja l
 <V>Viib ta vihmaoogudesta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02570005">
+<ITEM nro="host02570005" y="1887">
 <META>
 <ID>H, Ostrov 257 (5)</ID> &lt; <LOC>Simuna khk., Selli v. &amp;lt; Piibe v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Ants Kurg</NIMI>, <ELUL>62 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Orjusest ostja</TYP_YHT>
@@ -9768,7 +9768,7 @@ Orjusest ostmine
 <V>Arju adrakurgedelta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02570006">
+<ITEM nro="host02570006" y="1887">
 <META>
 <ID>H, Ostrov 257/8 (6)</ID> &lt; <LOC>Simuna khk., Selli v. &amp;lt; Piibe v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Ants Kurg</NIMI>, <ELUL>62 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Jänese õhkamine</TYP_YHT>
@@ -9804,7 +9804,7 @@ Orjusest ostmine
 <V>Vägevaks Viru varesed.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02580007">
+<ITEM nro="host02580007" y="1887">
 <META>
 <ID>H, Ostrov 258/9 (7)</ID> &lt; <LOC>Simuna khk., Selli v. &amp;lt; Piibe v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Ants Kurg</NIMI>, <ELUL>62 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP>
@@ -9827,7 +9827,7 @@ Vaene ja rikas vald
 <V>Vilepilli viidas vilja.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02590008">
+<ITEM nro="host02590008" y="1887">
 <META>
 <ID>H, Ostrov 259 (8)</ID> &lt; <LOC>Simuna khk., Selli v. &amp;lt; Piibe v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Ants Kurg</NIMI>, <ELUL>62 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Hoidke hoonetesse!</TYP_YHT>
@@ -9849,7 +9849,7 @@ Karskuse õpetus neidudele
 <V>Röökijad on rüpessagi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02590009">
+<ITEM nro="host02590009" y="1887">
 <META>
 <ID>H, Ostrov 259 (9)</ID> &lt; <LOC>Simuna khk., Selli v. &amp;lt; Piibe v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Ants Kurg</NIMI>, <ELUL>62 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Hiire pulmad</TYP_YHT>
@@ -9871,7 +9871,7 @@ Hiire pulm
 <V>Poisid poole soapa'alle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02600010">
+<ITEM nro="host02600010" y="1887">
 <META>
 <ID>H, Ostrov 260 (10)</ID> &lt; <LOC>Simuna khk., Selli v. &amp;lt; Piibe v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Ants Kurg</NIMI>, <ELUL>62 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP>
@@ -9897,7 +9897,7 @@ Neiu küla
 <V>Katsun neidu karvavahe</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02610011">
+<ITEM nro="host02610011" y="1887">
 <META>
 <ID>H, Ostrov 261 (11)</ID> &lt; <LOC>Simuna khk., Vägeva v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kleitsmanni ema</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP>
@@ -9914,7 +9914,7 @@ Vanatüdruku pilge
 <V>Sõrmed risti surma pool.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02610012">
+<ITEM nro="host02610012" y="1887">
 <META>
 <ID>H, Ostrov 261 (12)</ID> &lt; <LOC>Simuna khk., Vägeva v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kleitsmanni ema</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 </META>
@@ -9940,7 +9940,7 @@ Vanatüdruku pilge
 <V>Küll siis olen uhke mees.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02620013">
+<ITEM nro="host02620013" y="1887">
 <META>
 <ID>H, Ostrov 262 (13)</ID> &lt; <LOC>Simuna khk., Vägeva v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kleitsmanni ema</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP>
@@ -9964,7 +9964,7 @@ Neiu viidi külast
 <V>Mihkel mokka mökitama.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02620014">
+<ITEM nro="host02620014" y="1887">
 <META>
 <ID>H, Ostrov 262 (14)</ID> &lt; <LOC>Simuna khk., Vägeva v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kleitsmanni ema</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kuhu pean minema</TYP_YHT>
@@ -9991,7 +9991,7 @@ Kuhu pean minema
 <V>Sinna lähan mina alline</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02630015">
+<ITEM nro="host02630015" y="1887">
 <META>
 <ID>H, Ostrov 263 (15)</ID> &lt; <LOC>Simuna khk., Vägeva v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kleitsmanni ema</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 </META>
@@ -10016,7 +10016,7 @@ Kuhu pean minema
 <V>Puujuurel palju pereta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02630016">
+<ITEM nro="host02630016" y="1887">
 <META>
 <ID>H, Ostrov 263/4 (16)</ID> &lt; <LOC>Simuna khk., Vägeva v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kleitsmanni ema</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Hakkame, mehed, minema!</TYP_YHT>
@@ -10052,7 +10052,7 @@ Hakkame minema
 <V>Otsib mätaste vahelta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02640017">
+<ITEM nro="host02640017" y="1887">
 <META>
 <ID>H, Ostrov 264/5 (17)</ID> &lt; <LOC>Simuna khk., Vägeva v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kleitsmanni ema</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Öised orjad</TYP_YHT>
@@ -10089,7 +10089,7 @@ Hakkame minema
 <V>Kihutagu kimmelilla.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02650018">
+<ITEM nro="host02650018" y="1887">
 <META>
 <ID>H, Ostrov 265 (18)</ID> &lt; <LOC>Simuna khk., Vägeva v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kleitsmanni ema</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>_ + Hiie noormees</TYP_YHT>
@@ -10121,7 +10121,7 @@ Vastu ööd
 <V>Mõdu musta mõetemata.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02650019">
+<ITEM nro="host02650019" y="1887">
 <META>
 <ID>H, Ostrov 265/7 (19)</ID> &lt; <LOC>Simuna khk., Vägeva v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kleitsmanni ema</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kadrilaul</TYP_YHT>
@@ -10202,7 +10202,7 @@ Kui mitte pole sisse lastud
 <V>Sarvikesed allapidi. -</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02670020">
+<ITEM nro="host02670020" y="1887">
 <META>
 <ID>H, Ostrov 267/8 (20)</ID> &lt; <LOC>Simuna khk., Vägeva v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kleitsmanni ema</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Pane see tütar minule!</TYP_YHT>
@@ -10228,7 +10228,7 @@ Pane see tütar mehele
 <V>Kadakas karvade vahele.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02680021">
+<ITEM nro="host02680021" y="1887">
 <META>
 <ID>H, Ostrov 268 (21)</ID> &lt; <LOC>Simuna khk., Vägeva v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kleitsmanni ema</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Orjade tee</TYP_YHT>
@@ -10265,7 +10265,7 @@ Orjade tee
 <V>Metsa kõrk ei kõnele.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02690022">
+<ITEM nro="host02690022" y="1887">
 <META>
 <ID>H, Ostrov 269 (22)</ID> &lt; <LOC>Simuna khk., Vägeva v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kleitsmanni ema</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Oma ema ja võõrasema ootavad koju</TYP_YHT>
@@ -10307,7 +10307,7 @@ Võõras- ja oma ema ootavad koju
 <V>Kibedam on kiltre põli.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02700023">
+<ITEM nro="host02700023" y="1887">
 <META>
 <ID>H, Ostrov 270 (23)</ID> &lt; <LOC>Simuna khk., Vägeva v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kleitsmanni ema</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP>
@@ -10330,7 +10330,7 @@ Kupja pilge
 <V>Täna jälle tapelesid.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02700024">
+<ITEM nro="host02700024" y="1887">
 <META>
 <ID>H, Ostrov 270 (24)</ID> &lt; <LOC>Simuna khk., Vägeva v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kleitsmanni ema</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kubjas põrgu!</TYP_YHT>
@@ -10354,7 +10354,7 @@ Kubjas põrgu
 <V>Seardest neiul sängisambaid.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02710025">
+<ITEM nro="host02710025" y="1887">
 <META>
 <ID>H, Ostrov 271 (25)</ID> &lt; <LOC>Simuna khk., Vägeva v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kleitsmanni ema</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Meie ja teie poisid + _</TYP_YHT>
@@ -10382,7 +10382,7 @@ Meie ja teie küla poisid
 <V>Junkur kui juudas järele.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02710026">
+<ITEM nro="host02710026" y="1887">
 <META>
 <ID>H, Ostrov 271/4 (26)</ID> &lt; <LOC>Simuna khk., Vägeva v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kleitsmanni ema</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Mehetapja</TYP_YHT>
@@ -10498,7 +10498,7 @@ Maie l
 <V>Mai siis jõkke summatelles.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02740027">
+<ITEM nro="host02740027" y="1887">
 <META>
 <ID>H, Ostrov 274/5 (27)</ID> &lt; <LOC>Simuna khk., Vägeva v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kleitsmanni ema</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Helise, mets!</TYP_YHT>
@@ -10532,7 +10532,7 @@ Helise mets
 <V>Torupilli toomingasse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02750028">
+<ITEM nro="host02750028" y="1887">
 <META>
 <ID>H, Ostrov 275/6 (28)</ID> &lt; <LOC>Simuna khk., Vägeva v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kleitsmanni ema</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Suveks Soomemaale</TYP_YHT>
@@ -10566,7 +10566,7 @@ Suveks Soomemaale
 <V>Piiaparve püüdenessa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02760029">
+<ITEM nro="host02760029" y="1887">
 <META>
 <ID>H, Ostrov 276/7 (29)</ID> &lt; <LOC>Simuna khk., Vägeva v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kleitsmanni ema</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>_ + Venna kiitus</TYP_YHT>
@@ -10607,7 +10607,7 @@ Lõuna söömata
 <V>Avid suured audadesta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02770030">
+<ITEM nro="host02770030" y="1887">
 <META>
 <ID>H, Ostrov 277 (30)</ID> &lt; <LOC>Simuna khk., Vägeva v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kleitsmanni ema</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Lauliku soost</TYP_YHT>
@@ -10633,7 +10633,7 @@ Lauliku soost
 <V>Pillipuhujad pooled vennad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02770031">
+<ITEM nro="host02770031" y="1887">
 <META>
 <ID>H, Ostrov 277 (31)</ID> &lt; <LOC>Simuna khk., Vägeva v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kleitsmanni ema</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 </META>
@@ -10649,7 +10649,7 @@ Lauliku soost
 <V>Kivid kitse keeritada.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02780032">
+<ITEM nro="host02780032" y="1887">
 <META>
 <ID>H, Ostrov 278 (32)</ID> &lt; <LOC>Simuna khk., Vägeva v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kleitsmanni ema</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Lindude sasitud vili</TYP_YHT>
@@ -10668,7 +10668,7 @@ Lauliku soost
 <V>Ane allid searepaelad</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02780033">
+<ITEM nro="host02780033" y="1887">
 <META>
 <ID>H, Ostrov 278 (33)</ID> &lt; <LOC>Simuna khk., Vägeva v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kleitsmanni ema</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 </META>
@@ -10683,7 +10683,7 @@ Lauliku soost
 <V>Kõrt ei tuule kõigutada</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02780034">
+<ITEM nro="host02780034" y="1887">
 <META>
 <ID>H, Ostrov 278/9 (34)</ID> &lt; <LOC>Simuna khk., Vägeva v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kleitsmanni ema</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Võidulaulmine + Laulu võim</TYP_YHT>
@@ -10711,7 +10711,7 @@ Võistulaulmine
 <V>Mere ise einamoaksi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02790035">
+<ITEM nro="host02790035" y="1887">
 <META>
 <ID>H, Ostrov 279 (35)</ID> &lt; <LOC>Simuna khk., Vägeva v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kleitsmanni ema</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Vara vaeslapseks</TYP_YHT>
@@ -10741,7 +10741,7 @@ Vara vaeseks
 <V>Tuli leiva tuppemessa</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02800036">
+<ITEM nro="host02800036" y="1887">
 <META>
 <ID>H, Ostrov 280 (36)</ID> &lt; <LOC>Simuna khk., Vägeva v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kleitsmanni ema</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>_ + Tõuse karja saatma!</TYP_YHT>
@@ -10772,7 +10772,7 @@ Võta vaene eest ära
 <V>Tõuske üles voodiesta</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02800037">
+<ITEM nro="host02800037" y="1887">
 <META>
 <ID>H, Ostrov 280/1 (37)</ID> &lt; <LOC>Simuna khk., Vägeva v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kleitsmanni ema</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Võta väike naine!</TYP_YHT>
@@ -10797,7 +10797,7 @@ Hoiatus pikast naisest
 <V>Kitsid kirju kopelisse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02810038">
+<ITEM nro="host02810038" y="1887">
 <META>
 <ID>H, Ostrov 281/2 (38)</ID> &lt; <LOC>Simuna khk., Vägeva v.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Kleitsmanni ema</NIMI>, <ELUL>65 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Ärge põlake poisse! + Tore sõit</TYP_YHT>
@@ -10842,7 +10842,7 @@ Hoiatus pikast naisest
 <V>Kübar päha kõlletagu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02830039">
+<ITEM nro="host02830039" y="1887">
 <META>
 <ID>H, Ostrov 283 (39)</ID> &lt; <LOC>Põltsamaa khk., Lahavere k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Hel. Matvei</NIMI>, <ELUL>50 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP>
@@ -10875,7 +10875,7 @@ Padja põlemine
 <V>Kudus kassikäpulista.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02840040">
+<ITEM nro="host02840040" y="1887">
 <META>
 <ID>H, Ostrov 284 (40)</ID> &lt; <LOC>Põltsamaa khk., Lahavere k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Hel. Matvei</NIMI>, <ELUL>50 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kaevul kosija</TYP_YHT>
@@ -10906,7 +10906,7 @@ Kaevul kosija
 <V>Piitsavars on pihlakane." -</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02840041">
+<ITEM nro="host02840041" y="1887">
 <META>
 <ID>H, Ostrov 284 (41)</ID> &lt; <LOC>Põltsamaa khk., Lahavere k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Hel. Matvei</NIMI>, <ELUL>50 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Naine Narvast</TYP_YHT>
@@ -10930,7 +10930,7 @@ Naine kaugelt Narvast
 <V>Pärled päävapaiste'elle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02850042">
+<ITEM nro="host02850042" y="1887">
 <META>
 <ID>H, Ostrov 285 (42)</ID> &lt; <LOC>Põltsamaa khk., Lahavere k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Hel. Matvei</NIMI>, <ELUL>50 a.</ELUL></INF> (<TMP>1887</TMP>)
 </META>
@@ -10962,7 +10962,7 @@ Naine kaugelt Narvast
 <V>Vööd aga vöö kandijalle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02860043">
+<ITEM nro="host02860043" y="1887">
 <META>
 <ID>H, Ostrov 286/7 (43)</ID> &lt; <LOC>Põltsamaa khk., Lahavere k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Hel. Matwei</NIMI>, <ELUL>50 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Neiu linn</TYP_YHT>
@@ -11040,7 +11040,7 @@ Imelik maja
 <V>Enneaegusest emanda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02880044">
+<ITEM nro="host02880044" y="1887">
 <META>
 <ID>H, Ostrov 288 (44)</ID> &lt; <LOC>Põltsamaa khk., Lahavere k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Triina Karask</NIMI>, <ELUL>70 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP>
@@ -11082,7 +11082,7 @@ Imelik maja
 <V>Aitamata ahju peale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02890045">
+<ITEM nro="host02890045" y="1887">
 <META>
 <ID>H, Ostrov 289 (45)</ID> &lt; <LOC>Põltsamaa khk., Lahavere k.</LOC> - <COL>Mihkel Ostrow</COL> &lt; <INF><NIMI>Triina Karask</NIMI>, <ELUL>70 a.</ELUL></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Kutse jaanitulele</TYP_YHT>
@@ -11129,7 +11129,7 @@ Jaani l
 <V>Lahe olli laskemata.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02900046">
+<ITEM nro="host02900046" y="1887">
 <META>
 <ID>H, Ostrov 290/3 (46)</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 </META>
@@ -11245,7 +11245,7 @@ Jaani l
 <V>Tulge pinust puida tooma!"</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02930047">
+<ITEM nro="host02930047" y="1887">
 <META>
 <ID>H, Ostrov 293/5 (47)</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Venna sõjalugu</TYP_YHT>
@@ -11327,7 +11327,7 @@ Sõja l
 <V>Kui on meres pilliroogu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02950048">
+<ITEM nro="host02950048" y="1887">
 <META>
 <ID>H, Ostrov 295/7 (48)</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Tütre ja poja pulmad + Kodu jääb tütart nutma + Kasvatus asjatu</TYP_YHT>
@@ -11394,7 +11394,7 @@ Tütar lahkub kodust
 <V>Hooletul obusetooja.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02970049">
+<ITEM nro="host02970049" y="1887">
 <META>
 <ID>H, Ostrov 297 (49)</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Pisike punane põrsas + Seatapmine</TYP_YHT>
@@ -11432,7 +11432,7 @@ Punane põrsas
 <V>Sea lapi'id laduda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02980050">
+<ITEM nro="host02980050" y="1887">
 <META>
 <ID>H, Ostrov 298 (50)</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Õllest saar + Metsamurd</TYP_YHT>
@@ -11460,7 +11460,7 @@ Punane põrsas
 <V>Teravata kirveta</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02980051">
+<ITEM nro="host02980051" y="1887">
 <META>
 <ID>H, Ostrov 298/9 (51)</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Ema haual</TYP_YHT>
@@ -11508,7 +11508,7 @@ Ema haual
 <V>Sinilille lehmad laiad."</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host02990052">
+<ITEM nro="host02990052" y="1887">
 <META>
 <ID>H, Ostrov 299/300 (52)</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Joodikust mees</TYP_YHT>
@@ -11549,7 +11549,7 @@ Joodikul
 <V>Pihad tundsid pihlakida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host03000053">
+<ITEM nro="host03000053" y="1887">
 <META>
 <ID>H, Ostrov 300/2 (53)</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Arg kosilane</TYP_YHT>
@@ -11626,7 +11626,7 @@ Arg kosilane - püssil
 <V>Laita valla lapsukesi</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host03020054">
+<ITEM nro="host03020054" y="1887">
 <META>
 <ID>H, Ostrov 302/3 (54)</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Hiie noormees</TYP_YHT>
@@ -11676,7 +11676,7 @@ Hiielaul
 <V>Ahjukütiks läen külasse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="host03030055">
+<ITEM nro="host03030055" y="1887">
 <META>
 <ID>H, Ostrov 303/4 (55)</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Veimed teiste tehtud + Sinna soolad sulasid + Peretütar magab, vaeslaps tööl + Peretütar &amp;#x2014; kiidetav, vaeslaps &amp;#x2014; laidetav</TYP_YHT>
@@ -11728,7 +11728,7 @@ Laisk peretütar ja vaeslaps
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="host03050056">
+<ITEM nro="host03050056" y="1887">
 <META>
 <ID>H, Ostrov 305 (56)</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Mihkel Ostrow</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Miks ei mullu tulnud</TYP_YHT>

@@ -1,5 +1,5 @@
 <COLLECTION>
-<ITEM nro="hmap00210000">
+<ITEM nro="hmap00210000" y="1894">
 <META>
 <ID>H, Mapp 21/23</ID> - <COL>A. Jung</COL> (<TMP>1894</TMP>)
 <ZANR>kiri</ZANR>
@@ -41,7 +41,7 @@ Austades A. Jung
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap00240000">
+<ITEM nro="hmap00240000" y="1894">
 <META>
 <ID>H, Mapp 24</ID> &lt; <LOC>Pilistvere khk.</LOC> - <COL>A. Jung</COL> (<TMP>1894</TMP>)
 <ZANR>varia</ZANR><TYP>
@@ -64,7 +64,7 @@ Näit. laenatud on:
 <V>Viira viira dum bist toot</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00250000">
+<ITEM nro="hmap00250000" y="1894">
 <META>
 <ID>H, Mapp 25</ID> &lt; <LOC>Pilistvere khk. &amp;lt; Lüganuse khk.</LOC> - <COL>A. Jung</COL> &lt; <INF><NIMI>E. J.</NIMI></INF> (<TMP>1894</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -81,7 +81,7 @@ E.J. suust, kes teab kõnelda, et seda laulu Lüganuse pool on lauldud.
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00250003">
+<ITEM nro="hmap00250003" y="1894">
 <META>
 <ID>H, Mapp 25 (3)</ID> &lt; <LOC>Pilistvere khk.</LOC> - <COL>A. Jung</COL> (<TMP>1894</TMP>)
 <ZANR></ZANR><TYP>
@@ -97,7 +97,7 @@ Ankud, trankut, trilla tra
 <V>uhti, vii prii.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00310000">
+<ITEM nro="hmap00310000" y="1893">
 <META>
 <ID>H, Mapp 31/6</ID> &lt; <LOC>Koeru khk., Vaali v.</LOC> - <COL>Hans Anton Schultz</COL> (<TMP>1893</TMP>)
 <ZANR>kiri/regilaul</ZANR>
@@ -196,7 +196,7 @@ Tänulikult ja aupaklikult tervitan teid. T. A. Шульцъ
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00370001">
+<ITEM nro="hmap00370001" y="0">
 <META>
 <ID>H, Mapp 37 (1)</ID> &lt; <LOC>Väike-Maarja khk.</LOC> - <COL>Johans</COL>
 <TYP_YHT>Arg kosilane + Tore sõit + Oleks see mees minu!</TYP_YHT>
@@ -259,7 +259,7 @@ Arg kosilane
 <V>Vöö kui vihma vikerkaar.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00370002">
+<ITEM nro="hmap00370002" y="0">
 <META>
 <ID>H, Mapp 37/8 (2)</ID> &lt; <LOC>Väike-Maarja khk.</LOC> - <COL>Johans</COL>
 <TYP_YHT>Nekrutilaul - ÜLD</TYP_YHT>
@@ -305,7 +305,7 @@ Nekruti laul
 <V>Taevas laia mu sadula.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00380003">
+<ITEM nro="hmap00380003" y="0">
 <META>
 <ID>H, Mapp 38 (3)</ID> &lt; <LOC>Väike-Maarja khk.</LOC> - <COL>Johans</COL>
 <ZANR></ZANR>
@@ -331,7 +331,7 @@ Nekruti laul
 <V>Rott on kambris libe lind.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00390001">
+<ITEM nro="hmap00390001" y="0">
 <META>
 <ID>H, Mapp 39 (1)</ID> &lt; <LOC>Väike-Maarja khk.</LOC> - <COL>Johans</COL>
 <TYP_YHT>Venna otsija</TYP_YHT>
@@ -375,7 +375,7 @@ Venna otsija/Uppunud vend
 <V>Puise paadi ääre peal.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00390002">
+<ITEM nro="hmap00390002" y="0">
 <META>
 <ID>H, Mapp 39 (2)</ID> &lt; <LOC>Väike-Maarja khk.</LOC> - <COL>Johans</COL>
 <TYP_YHT>Kasvatus asjatu</TYP_YHT>
@@ -405,7 +405,7 @@ Kasvatus asjata
 <V>Veeres vemmalde alune.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00390003">
+<ITEM nro="hmap00390003" y="0">
 <META>
 <ID>H, Mapp 39 (3)</ID> &lt; <LOC>Väike-Maarja khk.</LOC> - <COL>Johans</COL>
 <TYP_YHT>Palve sakstele + _</TYP_YHT>
@@ -433,7 +433,7 @@ Palve sakstele
 <V>See lööb vaesta tütarlasta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00390004">
+<ITEM nro="hmap00390004" y="0">
 <META>
 <ID>H, Mapp 39/40 (4)</ID> &lt; <LOC>Väike-Maarja khk.</LOC> - <COL>Johans</COL>
 <TYP_YHT>_ + Mõisa aidast varastamas + Põgenemas + _</TYP_YHT>
@@ -513,7 +513,7 @@ Kalasaak?
 <V>Linalaka laugu suitsu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00410001">
+<ITEM nro="hmap00410001" y="0">
 <META>
 <ID>H, Mapp 41 (1)</ID> &lt; <LOC>Väike-Maarja khk.</LOC> - <COL>Johans</COL>
 </META>
@@ -534,7 +534,7 @@ Kalasaak?
 <V>Põld on paksu rohu all.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00410002">
+<ITEM nro="hmap00410002" y="0">
 <META>
 <ID>H, Mapp 41/2 (2)</ID> &lt; <LOC>Väike-Maarja khk.</LOC> - <COL>Johans</COL>
 <LLIIK>Pulmalaulud</LLIIK>
@@ -565,7 +565,7 @@ Kalasaak?
 <V>Nadu valgepea vasika.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00420003">
+<ITEM nro="hmap00420003" y="0">
 <META>
 <ID>H, Mapp 42/3 (3)</ID> &lt; <LOC>Väike-Maarja khk.</LOC> - <COL>Johans</COL>
 <TYP_YHT>Kurg ja vares</TYP_YHT>
@@ -602,7 +602,7 @@ Kurg pahandab
 <V>Vares maias liha võeras.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00440004">
+<ITEM nro="hmap00440004" y="0">
 <META>
 <ID>H, Mapp 44 (4)</ID> &lt; <LOC>Väike-Maarja khk.</LOC> - <COL>Johans</COL>
 <TYP_YHT>Metsast mehele</TYP_YHT>
@@ -629,7 +629,7 @@ Metsas pulmad
 <V>Karu kallis saanitäkku.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00440005">
+<ITEM nro="hmap00440005" y="0">
 <META>
 <ID>H, Mapp 44 (5)</ID> &lt; <LOC>Väike-Maarja khk.</LOC> - <COL>Johans</COL>
 <TYP_YHT>_ + Oleks see mees minu!</TYP_YHT>
@@ -659,7 +659,7 @@ Tule luba küsima?
 <V>Vöö kui vihma vikerkaare.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00450000">
+<ITEM nro="hmap00450000" y="0">
 <META>
 <ID>H, Mapp 45</ID> &lt; <LOC>Väike-Maarja khk.</LOC> - <COL>Johans</COL>
 </META>
@@ -690,7 +690,7 @@ Tule luba küsima?
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap00470000">
+<ITEM nro="hmap00470000" y="0">
 <META>
 <ID>H, Mapp 47</ID> &lt; <LOC>Väike-Maarja khk.</LOC> - <COL>Johans</COL>
 </META>
@@ -724,7 +724,7 @@ Tule luba küsima?
 <V>Sugu suureste pidada</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00470002">
+<ITEM nro="hmap00470002" y="0">
 <META>
 <ID>H, Mapp 47 (2)</ID> &lt; <LOC>Väike-Maarja khk.</LOC> - <COL>Johans</COL>
 <TYP_YHT>Kalajõgi</TYP_YHT>
@@ -781,7 +781,7 @@ Kalajõgi
 <V>Äia kurjus ämma kurjus.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00470003">
+<ITEM nro="hmap00470003" y="0">
 <META>
 <ID>H, Mapp 47/8 (3)</ID> &lt; <LOC>Väike-Maarja khk.</LOC> - <COL>Johans</COL>
 <TYP_YHT>_ + Meie ja teie poisid</TYP_YHT>
@@ -810,7 +810,7 @@ Kalajõgi
 <V>Sadul selgas sammeldanud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00490000">
+<ITEM nro="hmap00490000" y="0">
 <META>
 <ID>H, Mapp 49</ID> &lt; <LOC>Väike-Maarja khk.</LOC> - <COL>Johans</COL>
 <TYP_YHT>Tähemõrsja + Veere vaese vaeva tõttu + _</TYP_YHT>
@@ -865,7 +865,7 @@ Salme
 <V>Teopoisil palju tööda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00490002">
+<ITEM nro="hmap00490002" y="0">
 <META>
 <ID>H, Mapp 49/50 (2)</ID> &lt; <LOC>Väike-Maarja khk.</LOC> - <COL>Johans</COL>
 <TYP_YHT>Loomine</TYP_YHT>
@@ -908,7 +908,7 @@ Loomine
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap00500003">
+<ITEM nro="hmap00500003" y="0">
 <META>
 <ID>H, Mapp 50 (3)</ID> &lt; <LOC>Väike-Maarja khk.</LOC> - <COL>Johans</COL>
 </META>
@@ -937,7 +937,7 @@ Loomine
 <V>Lõngapakk teeb palju riiet.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00500004">
+<ITEM nro="hmap00500004" y="0">
 <META>
 <ID>H, Mapp 50 (4)</ID> &lt; <LOC>Väike-Maarja khk.</LOC> - <COL>Johans</COL>
 <TYP_YHT>Kättemaks sakstele</TYP_YHT>
@@ -964,7 +964,7 @@ Kättemaks sakstele
 <V>Ise pealta vaatamaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00510001">
+<ITEM nro="hmap00510001" y="0">
 <META>
 <ID>H, Mapp 51/2 (1)</ID> &lt; <LOC>Väike-Maarja khk.</LOC> - <COL>Johans</COL>
 <TYP_YHT>Liiri-lõõri!</TYP_YHT>
@@ -1007,7 +1007,7 @@ Liiri-lõõri
 <V>Kesket välja kena nisusse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00520002">
+<ITEM nro="hmap00520002" y="0">
 <META>
 <ID>H, Mapp 52/3 (2)</ID> &lt; <LOC>Väike-Maarja khk.</LOC> - <COL>Johans</COL>
 </META>
@@ -1028,7 +1028,7 @@ Liiri-lõõri
 <V>Muru küllal küütusida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00530003">
+<ITEM nro="hmap00530003" y="0">
 <META>
 <ID>H, Mapp 53/4 (3)</ID> &lt; <LOC>Väike-Maarja khk.</LOC> - <COL>Johans</COL>
 </META>
@@ -1054,7 +1054,7 @@ Liiri-lõõri
 <V>Haamer aurates järele.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00550001">
+<ITEM nro="hmap00550001" y="1903">
 <META>
 <ID>H, Mapp 55 (1)</ID> &lt; <LOC>Kuusalu khk., Kõnnu v., Kolga rand</LOC> - <COL>Anton Suurkask</COL> &lt; <INF><NIMI>Jakob Adler</NIMI></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Palve sakstele</TYP_YHT>
@@ -1080,7 +1080,7 @@ Palve sakstele
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap00550002">
+<ITEM nro="hmap00550002" y="1903">
 <META>
 <ID>H, Mapp 55 (2)</ID> &lt; <LOC>Kuusalu khk., Kõnnu v., Kolga rand</LOC> - <COL>Anton Suurkask</COL> &lt; <INF><NIMI>Jakob Adler</NIMI></INF> (<TMP>1903</TMP>)
 <TYP>
@@ -1105,7 +1105,7 @@ Palve sakstele
 <V>Kel on vagu laudijas.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00550003">
+<ITEM nro="hmap00550003" y="1903">
 <META>
 <ID>H, Mapp 55/6 (3)</ID> &lt; <LOC>Kuusalu khk., Kõnnu v., Kolga rand</LOC> - <COL>Anton Suurkask</COL> &lt; <INF><NIMI>Jakob Adler</NIMI></INF> (<TMP>1903</TMP>)
 </META>
@@ -1127,7 +1127,7 @@ Palve sakstele
 <V>Laamib välja, ei läe laisaks.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00560004">
+<ITEM nro="hmap00560004" y="1903">
 <META>
 <ID>H, Mapp 56 (4)</ID> &lt; <LOC>Kuusalu khk., Kõnnu v., Kolga rand</LOC> - <COL>Anton Suurkask</COL> &lt; <INF><NIMI>Jakob Adler</NIMI></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Memme vaev</TYP_YHT>
@@ -1164,7 +1164,7 @@ Memme vaev
 <V>Parksin eide puusaluida! -</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00560005">
+<ITEM nro="hmap00560005" y="1903">
 <META>
 <ID>H, Mapp 56/7 (5)</ID> &lt; <LOC>Kuusalu khk., Kõnnu v., Kolga rand</LOC> - <COL>Anton Suurkask</COL> &lt; <INF><NIMI>Jakob Adler</NIMI></INF> (<TMP>1903</TMP>)
 <LLIIK>Lori</LLIIK>
@@ -1181,7 +1181,7 @@ Memme vaev
 <V>Põllepaelu paisutama.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00570006">
+<ITEM nro="hmap00570006" y="1903">
 <META>
 <ID>H, Mapp 57 (6)</ID> &lt; <LOC>Kuusalu khk., Kõnnu v., Kolga rand</LOC> - <COL>Anton Suurkask</COL> &lt; <INF><NIMI>Jakob Adler</NIMI></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Joodikust mees</TYP_YHT>
@@ -1215,7 +1215,7 @@ Joodik mees
 <V>Noomib noorte meeste nähes!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00640000">
+<ITEM nro="hmap00640000" y="1890">
 <META>
 <ID>H, Mapp 64</ID> &lt; <LOC>Keila khk., Harku v.</LOC> - <COL>K. Annus</COL> (<TMP>1890</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -1239,7 +1239,7 @@ Joodik mees
 <V>Seia ilma seisma loodi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00650000">
+<ITEM nro="hmap00650000" y="1890">
 <META>
 <ID>H, Mapp 65</ID> &lt; <LOC>Keila khk., Harku v.</LOC> - <COL>K. Annus</COL> (<TMP>1890</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -1259,7 +1259,7 @@ Joodik mees
 <V>Kelt jõena neljaks lahkun ma</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00670000">
+<ITEM nro="hmap00670000" y="1890">
 <META>
 <ID>H, Mapp 67/8</ID> &lt; <LOC>Keila khk., Harku v.</LOC> - <COL>K. Annus</COL> (<TMP>1890</TMP>)
 <ZANR>kombekirjeldus/regilaul</ZANR>
@@ -1319,7 +1319,7 @@ Joodik mees
 <V>Dätmä tõsine tegija</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00680004">
+<ITEM nro="hmap00680004" y="1890">
 <META>
 <ID>H, Mapp 68/9 (4)</ID> &lt; <LOC>Keila khk., Harku v.</LOC> - <COL>K. Annus</COL> (<TMP>1890</TMP>)
 <ZANR>kombekirjeldus/regilaul</ZANR>
@@ -1341,7 +1341,7 @@ seal on need surnute vaimud pidanud manalas seda vett puhastama ja oidma, et nei
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap00710007">
+<ITEM nro="hmap00710007" y="1890">
 <META>
 <ID>H, Mapp 71/2 (7)</ID> &lt; <LOC>Keila khk., Harku v.</LOC> - <COL>K. Annus</COL> (<TMP>1890</TMP>)
 <ZANR>kombekirjeldus/regilaul</ZANR>
@@ -1360,7 +1360,7 @@ Muisel ajal pidanud siinsed eestlased vana jutu järel iga nüidist aastaaega ü
 <V>Neljas kui neiult end uuest leidsin</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap01320000">
+<ITEM nro="hmap01320000" y="1891">
 <META>
 <ID>H, Mapp 132</ID> &lt; <LOC>Anseküla khk.</LOC> - <COL>Jüri Maggus</COL> (<TMP>1891</TMP>)
 <TYP_YHT>Liiri-lõõri!</TYP_YHT>
@@ -1415,7 +1415,7 @@ Liiri, lõõri
 <V>Kass kahe rattaga."</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap01320002">
+<ITEM nro="hmap01320002" y="1891">
 <META>
 <ID>H, Mapp 132 (2)</ID> &lt; <LOC>Anseküla khk.</LOC> - <COL>Jüri Maggus</COL> (<TMP>1891</TMP>)
 <TYP_YHT>Vaeslaps käoks</TYP_YHT>
@@ -1436,7 +1436,7 @@ Käo sünd
 <V>Kukku, kukku, kuuku <REFR>Kukku! kukku!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap01320003">
+<ITEM nro="hmap01320003" y="1891">
 <META>
 <ID>H, Mapp 132 (3)</ID> &lt; <LOC>Anseküla khk.</LOC> - <COL>Jüri Maggus</COL> (<TMP>1891</TMP>)
 <TYP_YHT>Arg laulik</TYP_YHT>
@@ -1458,7 +1458,7 @@ Arg laulik
 <V>Ning lühised napsuandijad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap01320004">
+<ITEM nro="hmap01320004" y="1891">
 <META>
 <ID>H, Mapp 132 (4)</ID> &lt; <LOC>Anseküla khk.</LOC> - <COL>Jüri Maggus</COL> (<TMP>1891</TMP>)
 <TYP_YHT>Laula, kuni elad!</TYP_YHT><LLIIK_YHT>Laulud laulust (Laulust ja laulikust)</LLIIK_YHT></META>
@@ -1474,7 +1474,7 @@ Arg laulik
 <V>Kena kirstu keske'elle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap01330005">
+<ITEM nro="hmap01330005" y="1891">
 <META>
 <ID>H, Mapp 133/4 (5)</ID> &lt; <LOC>Anseküla khk.</LOC> - <COL>Jüri Maggus</COL> (<TMP>1891</TMP>)
 <ZANR>siirdevormiline laul</ZANR><TYP_YHT>Nekrutilaul - ÜLD</TYP_YHT>
@@ -1533,7 +1533,7 @@ Nekruti laul
 <V>Ja sada sauna seina peal.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap01340000">
+<ITEM nro="hmap01340000" y="1891">
 <META>
 <ID>H, Mapp 134</ID> &lt; <LOC>Anseküla khk.</LOC> - <COL>Jüri Maggus</COL> (<TMP>1891</TMP>)
 <ZANR></ZANR>
@@ -1558,7 +1558,7 @@ Muljutakse tulise kulbiga.
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap01340006">
+<ITEM nro="hmap01340006" y="1891">
 <META>
 <ID>H, Mapp 134 (6)</ID> &lt; <LOC>Anseküla khk.</LOC> - <COL>Jüri Maggus</COL> (<TMP>1891</TMP>)
 </META>
@@ -1593,7 +1593,7 @@ Muljutakse tulise kulbiga.
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap01370000">
+<ITEM nro="hmap01370000" y="0">
 <META>
 <ID>H, Mapp 137</ID> &lt; <LOC>Saaremaa</LOC> - <COL>M. Kool</COL>
 </META>
@@ -1610,7 +1610,7 @@ Muljutakse tulise kulbiga.
 <V>Malsast häida malgapuida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap01560000">
+<ITEM nro="hmap01560000" y="1889">
 <META>
 <ID>H, Mapp 156/7</ID> &lt; <LOC>Vändra khk., Lelle v.</LOC> - <COL>M. Kallaspolik</COL> (<TMP>1889</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -1642,7 +1642,7 @@ Osa pikemast kirjast M. Kallaspolikult &quot;Oleviku&quot; toimetusele.
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap01610001">
+<ITEM nro="hmap01610001" y="1902">
 <META>
 <ID>H, Mapp 161/2 (1)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <ZANR>ringmängulaul</ZANR>
@@ -1680,7 +1680,7 @@ Osa pikemast kirjast M. Kallaspolikult &quot;Oleviku&quot; toimetusele.
 <V>Kohvi teed ka peale juua</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap01620002">
+<ITEM nro="hmap01620002" y="1902">
 <META>
 <ID>H, Mapp 162/6 (2)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <ZANR>ringmängulaul</ZANR>
@@ -1761,7 +1761,7 @@ Osa pikemast kirjast M. Kallaspolikult &quot;Oleviku&quot; toimetusele.
 <V><REFR>Simpvai rudi rall-lall-laa</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap01660003">
+<ITEM nro="hmap01660003" y="1902">
 <META>
 <ID>H, Mapp 166/8 (3)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <ZANR>ringmängulaul</ZANR>
@@ -1790,7 +1790,7 @@ Mängijad jaotakse kahte jaosse, esimised rikas ja teised vaene mees. Rikka mehe
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap01690004">
+<ITEM nro="hmap01690004" y="1902">
 <META>
 <ID>H, Mapp 169/71 (4)</ID> &lt; <LOC>Pärnu khk., Audru v.</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <ZANR>ringmängulaul</ZANR>
@@ -1872,7 +1872,7 @@ See laul on natukene teisite kui No 2
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap01710005">
+<ITEM nro="hmap01710005" y="1902">
 <META>
 <ID>H, Mapp 171/8 (5)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <ZANR>ringmängulaul</ZANR>
@@ -2009,7 +2009,7 @@ Isa ja ema istuvad ringi sees, poeg käib nende ümber. Kui lauldud: Keda mina v
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap01780006">
+<ITEM nro="hmap01780006" y="1902">
 <META>
 <ID>H, Mapp 178/81 (6)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <ZANR>ringmängulaul</ZANR>
@@ -2079,7 +2079,7 @@ Seletus - laulu järele.
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap01810007">
+<ITEM nro="hmap01810007" y="1902">
 <META>
 <ID>H, Mapp 181/5 (7)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <ZANR>ringmängulaul</ZANR>
@@ -2152,7 +2152,7 @@ Seletus - laulu järele.
 <V>Siis vastake tal agarast</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap01850008">
+<ITEM nro="hmap01850008" y="1902">
 <META>
 <ID>H, Mapp 185/6 (8)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <ZANR>ringmängulaul</ZANR>
@@ -2188,7 +2188,7 @@ Seletus - laulu järele.
 <V>So-oh või kihelkondas.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap01860009">
+<ITEM nro="hmap01860009" y="1902">
 <META>
 <ID>H, Mapp 186/7 (9)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <ZANR>ringmängulaul</ZANR>
@@ -2224,7 +2224,7 @@ Seletus - laulu järele.
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap01880010">
+<ITEM nro="hmap01880010" y="1902">
 <META>
 <ID>H, Mapp 188 (10)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <ZANR>ringmängulaul</ZANR>
@@ -2254,7 +2254,7 @@ Seletus - laulu järele.
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap01890011">
+<ITEM nro="hmap01890011" y="1902">
 <META>
 <ID>H, Mapp 189/90 (11)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <ZANR>ringmängulaul</ZANR>
@@ -2293,7 +2293,7 @@ Seletus - laulu järele.
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap01900012">
+<ITEM nro="hmap01900012" y="1902">
 <META>
 <ID>H, Mapp 190/1 (12)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <ZANR>ringmängulaul</ZANR>
@@ -2325,7 +2325,7 @@ Seletus - laulu järele.
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap01910013">
+<ITEM nro="hmap01910013" y="1902">
 <META>
 <ID>H, Mapp 191/2 (13)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <ZANR>ringmängulaul</ZANR>
@@ -2362,7 +2362,7 @@ Seletus - laulu järele.
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap02110001">
+<ITEM nro="hmap02110001" y="1902">
 <META>
 <ID>H, Mapp 211 (1)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <TYP_YHT>Põllul pulmad + Suur härg</TYP_YHT>
@@ -2387,7 +2387,7 @@ Talgud
 <V>Kümme köenart kül´lekonti <REFR>kaske, kaske</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02110002">
+<ITEM nro="hmap02110002" y="1902">
 <META>
 <ID>H, Mapp 211/2 (2)</ID> &lt; <LOC>Pärnu khk., Audru v.</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 </META>
@@ -2399,7 +2399,7 @@ Talgud
 <V>Laulusõnad lahkemase <REFR>kaske</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02120003">
+<ITEM nro="hmap02120003" y="1902">
 <META>
 <ID>H, Mapp 212/6 (3)</ID> &lt; <LOC>Pärnu khk., Audru v.</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <TYP_YHT>Venna sõjalugu</TYP_YHT>
@@ -2479,7 +2479,7 @@ Sõjalaul
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap02160004">
+<ITEM nro="hmap02160004" y="1902">
 <META>
 <ID>H, Mapp 216/8 (4)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -2527,7 +2527,7 @@ Sõjalaul
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap02180005">
+<ITEM nro="hmap02180005" y="1902">
 <META>
 <ID>H, Mapp 218/9 (5)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -2561,7 +2561,7 @@ Sõjalaul
 <V>Sõitis auru vaabre kildu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02200006">
+<ITEM nro="hmap02200006" y="1902">
 <META>
 <ID>H, Mapp 220/1 (6)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -2591,7 +2591,7 @@ Sõjalaul
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap02210007">
+<ITEM nro="hmap02210007" y="1902">
 <META>
 <ID>H, Mapp 221/4 (7)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <TYP_YHT>Kosjahobu söötmine + Tule mulle! + Meri õue all</TYP_YHT>
@@ -2649,7 +2649,7 @@ Kosjahobu söötmine
 <V>Taarikann sul tatra eest <REFR>kaske</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02240008">
+<ITEM nro="hmap02240008" y="1902">
 <META>
 <ID>H, Mapp 224/5 (8)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 </META>
@@ -2676,7 +2676,7 @@ Kosjahobu söötmine
 <V>Öö ku vihma vikerkaart <REFR>kaske</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02250009">
+<ITEM nro="hmap02250009" y="1902">
 <META>
 <ID>H, Mapp 225/7 (9)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <TYP_YHT>Haned kadunud</TYP_YHT>
@@ -2718,7 +2718,7 @@ Haned kadunud
 <V>Keerdes kuu keskela <REFR>kaske</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02270010">
+<ITEM nro="hmap02270010" y="1902">
 <META>
 <ID>H, Mapp 227/8 (10)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <TYP_YHT>Hobuse ostjad</TYP_YHT>
@@ -2743,7 +2743,7 @@ Hobuse ostjad
 <V>Venna karja kasvamasta <REFR>kaske</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02280011">
+<ITEM nro="hmap02280011" y="1902">
 <META>
 <ID>H, Mapp 228/9 (11)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <TYP_YHT>Arg laulik</TYP_YHT>
@@ -2765,7 +2765,7 @@ Arg laulik
 <V>Ja viimaks vitsakimbuga <REFR>kaske</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02290012">
+<ITEM nro="hmap02290012" y="1902">
 <META>
 <ID>H, Mapp 229 (12)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <ZANR>siirdevormiline laul</ZANR>
@@ -2783,7 +2783,7 @@ Arg laulik
 <V>Saagu perenaestes nääd. <REFR>kaske</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02300013">
+<ITEM nro="hmap02300013" y="1902">
 <META>
 <ID>H, Mapp 230/1 (13)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <TYP_YHT>Põlvist põdema</TYP_YHT>
@@ -2812,7 +2812,7 @@ Tõbine naine
 <V>Kidurada kinnitama <REFR>kaske</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02310014">
+<ITEM nro="hmap02310014" y="1902">
 <META>
 <ID>H, Mapp 231/2 (14)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -2836,7 +2836,7 @@ Tõbine naine
 <V>Eedu tüdar luuavõru <REFR>kaske</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02320015">
+<ITEM nro="hmap02320015" y="1902">
 <META>
 <ID>H, Mapp 232/4 (15)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -2868,7 +2868,7 @@ Tõbine naine
 <V>Ja tä petab Mari silma <REFR>kaske</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02340016">
+<ITEM nro="hmap02340016" y="1902">
 <META>
 <ID>H, Mapp 234/5 (16)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -2902,7 +2902,7 @@ Tõbine naine
 <V>Et sinu süda soojas saab. <REFR>kaske</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02360017">
+<ITEM nro="hmap02360017" y="1902">
 <META>
 <ID>H, Mapp 236/7 (17)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <TYP_YHT>Loomine</TYP_YHT>
@@ -2934,7 +2934,7 @@ Loomine
 <V>Sial ta kasus neidu noori <REFR>kaske</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02370018">
+<ITEM nro="hmap02370018" y="1902">
 <META>
 <ID>H, Mapp 237/8 (18)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -2962,7 +2962,7 @@ Loomine
 <V>Ku kaua olnud vaja <REFR>kaske</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02380019">
+<ITEM nro="hmap02380019" y="1902">
 <META>
 <ID>H, Mapp 238/9 (19)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <TYP>
@@ -2981,7 +2981,7 @@ Oksad oigama
 <V>Suguvõsa soiguma <REFR>kaske</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02390020">
+<ITEM nro="hmap02390020" y="1902">
 <META>
 <ID>H, Mapp 239/40 (20)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -3000,7 +3000,7 @@ Oksad oigama
 <V>Ära põlgtud poisikesta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02400021">
+<ITEM nro="hmap02400021" y="1902">
 <META>
 <ID>H, Mapp 240/1 (21)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -3019,7 +3019,7 @@ Oksad oigama
 <V>Eluks ajaks Siiberi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02410022">
+<ITEM nro="hmap02410022" y="1902">
 <META>
 <ID>H, Mapp 241/2 (22)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -3041,7 +3041,7 @@ Oksad oigama
 <V>Suure lusti rõõmu sees.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02420023">
+<ITEM nro="hmap02420023" y="1902">
 <META>
 <ID>H, Mapp 242/3 (23)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <ZANR>siirdevormiline laul</ZANR>
@@ -3072,7 +3072,7 @@ Oksad oigama
 <V>Taga riites tatininad. <REFR>kaske</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02430024">
+<ITEM nro="hmap02430024" y="1902">
 <META>
 <ID>H, Mapp 243/4 (24)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <TYP_YHT>Lauldes läbi metsa</TYP_YHT>
@@ -3091,7 +3091,7 @@ Laulab läbi metsa
 <V>Laia paela lapilise <REFR>kaske</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02450025">
+<ITEM nro="hmap02450025" y="1902">
 <META>
 <ID>H, Mapp 245/7 (25)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 </META>
@@ -3135,7 +3135,7 @@ Laulab läbi metsa
 <V>Veere viisa visati. <REFR>kaske</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02470026">
+<ITEM nro="hmap02470026" y="1902">
 <META>
 <ID>H, Mapp 247/8 (26)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <TYP_YHT>Kits kile karja!</TYP_YHT>
@@ -3164,7 +3164,7 @@ Kits karja
 <V>Piistab pea pauna.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02480027">
+<ITEM nro="hmap02480027" y="1902">
 <META>
 <ID>H, Mapp 248/9 (27)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <ZANR>uuem rahvalaul</ZANR><TYP_YHT>Joodikust mees</TYP_YHT>
@@ -3190,7 +3190,7 @@ Joodikule
 <V>Mööda pihta pikute.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02490027">
+<ITEM nro="hmap02490027" y="1902">
 <META>
 <ID>H, Mapp 249/54 (27)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -3280,7 +3280,7 @@ Joodikule
 <V>Ega viida mehele.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02540015">
+<ITEM nro="hmap02540015" y="1902">
 <META>
 <ID>H, Mapp 254/8 (15)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <ZANR>ringmängulaul</ZANR>
@@ -3361,7 +3361,7 @@ Joodikule
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap02590029">
+<ITEM nro="hmap02590029" y="1902">
 <META>
 <ID>H, Mapp 259/60 (29)</ID> &lt; <LOC>Pärnu khk., Sauga v., Sauga</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <TYP_YHT>Imetegija + Kirp kiigel</TYP_YHT>
@@ -3394,7 +3394,7 @@ Muna sõlm
 <V>Ämmeri hännata merese. <REFR>kaske</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02860001">
+<ITEM nro="hmap02860001" y="1902">
 <META>
 <ID>H, Mapp 286/7 (1)</ID> &lt; <LOC>Pärnu khk., Audru v., Audru</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <TYP>
@@ -3423,7 +3423,7 @@ Laulu võim?
 <V>Ilu heali helkimasta. <REFR>kaske</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02870002">
+<ITEM nro="hmap02870002" y="1902">
 <META>
 <ID>H, Mapp 287/8 (2)</ID> &lt; <LOC>Pärnu khk., Audru v., Audru</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <TYP_YHT>_ + Lauliku lapsepõlv</TYP_YHT>
@@ -3449,7 +3449,7 @@ Ilu tegija
 <V>Suilinnul suured viisid. <REFR>kaske</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02880003">
+<ITEM nro="hmap02880003" y="1902">
 <META>
 <ID>H, Mapp 288/90 (3)</ID> &lt; <LOC>Pärnu khk., Audru v., Audru</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <TYP_YHT>_ + Tütar ei saa tööst palka</TYP_YHT>
@@ -3488,7 +3488,7 @@ Uhke neiu
 <V>Kinkigu neil võtmekimbu <REFR>kaske</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02900004">
+<ITEM nro="hmap02900004" y="1902">
 <META>
 <ID>H, Mapp 290/1 (4)</ID> &lt; <LOC>Pärnu khk., Audru v., Audru</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <TYP_YHT>Sõimamine</TYP_YHT>
@@ -3518,7 +3518,7 @@ Sõimulaul
 <V>Jänes jalgu sojutamas <REFR>kaske</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02910005">
+<ITEM nro="hmap02910005" y="1902">
 <META>
 <ID>H, Mapp 291/2 (5)</ID> &lt; <LOC>Pärnu khk., Audru v., Audru</LOC> - <COL>J.J. Pulst</COL> (<TMP>1902</TMP>)
 <TYP_YHT>Öösel üksi</TYP_YHT>
@@ -3546,7 +3546,7 @@ Sõimulaul
 <V>Kes oo parem pangu juure. <REFR>kaske</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02930000">
+<ITEM nro="hmap02930000" y="0">
 <META>
 <ID>H, Mapp 293</ID> &lt; <LOC>Saarde khk., Kilin</LOC>
 
@@ -3564,7 +3564,7 @@ Sõimulaul
 <V>Proua rookis käpuga.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap02990000">
+<ITEM nro="hmap02990000" y="1904">
 <META>
 <ID>H, Mapp 299/302</ID> &lt; <LOC>Halliste khk.</LOC> - <COL>H. Schulzenberg</COL> &lt; <INF><NIMI>M. Palitser</NIMI></INF> (<TMP>1904</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -3642,7 +3642,7 @@ Sõimulaul
 <V>Ei jõua ma neid lugeda</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap03060001">
+<ITEM nro="hmap03060001" y="1887">
 <META>
 <ID>H, Mapp 306 (1)</ID> &lt; <LOC>Pärnu khk.</LOC> - <COL>M. Kalbus</COL> (<TMP>1887</TMP>)
 <ZANR>andmed/regilaul</ZANR><TYP_YHT>Kass kaevus</TYP_YHT>
@@ -3689,7 +3689,7 @@ M. Kalbus
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap03080000">
+<ITEM nro="hmap03080000" y="1887">
 <META>
 <ID>H, Mapp 308</ID> &lt; <LOC>Pärnu khk.</LOC> - <COL>M. Kalbus</COL> (<TMP>1887</TMP>)
 <TYP_YHT>Suude sulg</TYP_YHT>
@@ -3713,7 +3713,7 @@ Suude sulg
 <V>Siis mina laulan halva lapse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap03090000">
+<ITEM nro="hmap03090000" y="0">
 <META>
 <ID>H, Mapp 309</ID> &lt; <LOC>Halliste khk.</LOC> - <COL>J. Sarm</COL>
 <ZANR>uuem rahvalaul</ZANR>
@@ -3749,7 +3749,7 @@ Suude sulg
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap03100000">
+<ITEM nro="hmap03100000" y="0">
 <META>
 <ID>H, Mapp 310/1</ID> &lt; <LOC>Halliste khk.</LOC> - <COL>J. Sarm</COL>
 </META>
@@ -3795,7 +3795,7 @@ Suude sulg
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap03170013">
+<ITEM nro="hmap03170013" y="1889">
 <META>
 <ID>H, Mapp 317 (13)</ID> &lt; <LOC>Viljandi khk., Viljandi</LOC> - <COL>Andres Kuusik</COL> (<TMP>1889</TMP>)
 <ZANR/><TYP_YHT>Ussisõnad</TYP_YHT>
@@ -3818,7 +3818,7 @@ Soode minnes hoiavad ussi nõelamise need sõnad kui neid soo ääres ära loets
 <V>Kannu alla kammeresse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap03630001">
+<ITEM nro="hmap03630001" y="1889">
 <META>
 <ID>H, Mapp 363 (1)</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Karl Moks</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Tule mulle!</TYP_YHT>
@@ -3850,7 +3850,7 @@ Tule mulle
 <V>Varale vaatajaksi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap03630002">
+<ITEM nro="hmap03630002" y="1889">
 <META>
 <ID>H, Mapp 363/4 (2)</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Karl Moks</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Varga õpetamine</TYP_YHT>
@@ -3932,7 +3932,7 @@ Maha tõmmatud laul
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap03640003">
+<ITEM nro="hmap03640003" y="1889">
 <META>
 <ID>H, Mapp 364/5 (3)</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Karl Moks</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Pajamäng</TYP_YHT>
@@ -3987,7 +3987,7 @@ Pajamäng
 <V>Paa sangade saeda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap03650004">
+<ITEM nro="hmap03650004" y="1889">
 <META>
 <ID>H, Mapp 365/6 (4)</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Karl Moks</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Tütarde tapja</TYP_YHT>
@@ -4034,7 +4034,7 @@ Tütarde tapja
 <V>Ajad minda vetta tooma.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap03660005">
+<ITEM nro="hmap03660005" y="1889">
 <META>
 <ID>H, Mapp 366 (5)</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Karl Moks</COL> (<TMP>1889</TMP>)
 <TYP>
@@ -4052,7 +4052,7 @@ Mis annan võõrastele
 <V>Tuhkru tupp oli tõmbamata</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap03660006">
+<ITEM nro="hmap03660006" y="1889">
 <META>
 <ID>H, Mapp 366 (6)</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Karl Moks</COL> (<TMP>1889</TMP>)
 </META>
@@ -4069,7 +4069,7 @@ Mis annan võõrastele
 <V>Viimati vihad umalad</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap03670001">
+<ITEM nro="hmap03670001" y="1889">
 <META>
 <ID>H, Mapp 367 (1)</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Karl Moks</COL> (<TMP>1889</TMP>)
 <LLIIK>Lori</LLIIK>
@@ -4091,7 +4091,7 @@ Mis annan võõrastele
 <V>Petab peretüterida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap03670002">
+<ITEM nro="hmap03670002" y="1889">
 <META>
 <ID>H, Mapp 367 (2)</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Karl Moks</COL> (<TMP>1889</TMP>)
 <LLIIK>Lori</LLIIK>
@@ -4107,7 +4107,7 @@ Mis annan võõrastele
 <V>Ja oma mees ora peossa</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap03670003">
+<ITEM nro="hmap03670003" y="1889">
 <META>
 <ID>H, Mapp 367 (3)</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Karl Moks</COL> (<TMP>1889</TMP>)
 <LLIIK>Lori</LLIIK>
@@ -4125,7 +4125,7 @@ Mis annan võõrastele
 <V>Väravista värsikeisi</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap03670004">
+<ITEM nro="hmap03670004" y="1889">
 <META>
 <ID>H, Mapp 367/8 (4)</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Karl Moks</COL> (<TMP>1889</TMP>)
 <LLIIK>Lori</LLIIK>
@@ -4151,7 +4151,7 @@ Mis annan võõrastele
 <V>Sõjaaegne sammalsek.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap03680000">
+<ITEM nro="hmap03680000" y="1889">
 <META>
 <ID>H, Mapp 368</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Karl Moks</COL> (<TMP>1889</TMP>)
 <LLIIK>Lori</LLIIK>
@@ -4173,7 +4173,7 @@ Mis annan võõrastele
 <V>Mädand kopsu kaelkott</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap03680005">
+<ITEM nro="hmap03680005" y="1889">
 <META>
 <ID>H, Mapp 368 (5)</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Karl Moks</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Lauliku sõim</TYP_YHT>
@@ -4196,7 +4196,7 @@ Halb ja hea laulik
 <V>Pealta keele killingida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap03690001">
+<ITEM nro="hmap03690001" y="1879">
 <META>
 <ID>H, Mapp 369 (1)</ID> &lt; <LOC>Pilistvere khk.</LOC> - <COL>Karl Moks</COL> (<TMP>1879</TMP>)
 <LLIIK>Lori</LLIIK>
@@ -4224,7 +4224,7 @@ Halb ja hea laulik
 <V>Hästi laulda, kõri kõerutada</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap03690002">
+<ITEM nro="hmap03690002" y="1879">
 <META>
 <ID>H, Mapp 369 (2)</ID> &lt; <LOC>Pilistvere khk.</LOC> - <COL>Karl Moks</COL> (<TMP>1879</TMP>)
 <LLIIK>Lori</LLIIK>
@@ -4239,7 +4239,7 @@ Halb ja hea laulik
 <V>Magu muuasa maalutada</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap03690003">
+<ITEM nro="hmap03690003" y="1879">
 <META>
 <ID>H, Mapp 369 (3)</ID> &lt; <LOC>Pilistvere khk.</LOC> - <COL>Karl Moks</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Lauliku sõim</TYP_YHT>
@@ -4258,7 +4258,7 @@ Halb ja hea laulik
 <V>Ahju alla sütejaksi</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap03690004">
+<ITEM nro="hmap03690004" y="1879">
 <META>
 <ID>H, Mapp 369 (4)</ID> &lt; <LOC>Pilistvere khk.</LOC> - <COL>Karl Moks</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -4275,7 +4275,7 @@ Paljas pea
 <V>Rangi Riinu rinnakarvad</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap03690005">
+<ITEM nro="hmap03690005" y="1879">
 <META>
 <ID>H, Mapp 369/70 (5)</ID> &lt; <LOC>Pilistvere khk.</LOC> - <COL>Karl Moks</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Poisi ja neiu matus</TYP_YHT>
@@ -4319,7 +4319,7 @@ Poisi ja neiu matus
 <V>Õde karjub karda pärge</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap03700006">
+<ITEM nro="hmap03700006" y="1879">
 <META>
 <ID>H, Mapp 370 (6)</ID> &lt; <LOC>Pilistvere khk.</LOC> - <COL>Karl Moks</COL> (<TMP>1879</TMP>)
 <LLIIK>Lori</LLIIK>
@@ -4337,7 +4337,7 @@ Poisi ja neiu matus
 <V>Viir kamitsas ja pea jala kül´les kinni</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap03710000">
+<ITEM nro="hmap03710000" y="1889">
 <META>
 <ID>H, Mapp 371/2</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Karl Moks</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Kaevul kosija</TYP_YHT>
@@ -4417,7 +4417,7 @@ Kaevul kosija
 <V>Nao vööd naastolised.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap03720000">
+<ITEM nro="hmap03720000" y="1889">
 <META>
 <ID>H, Mapp 372/3</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Karl Moks</COL> (<TMP>1889</TMP>)
 <TYP>
@@ -4450,7 +4450,7 @@ Kaas ei pane kasvama
 <V>Kummuli kulu seessa</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap0373000a">
+<ITEM nro="hmap0373000a" y="1889">
 <META>
 <ID>H, Mapp 373</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Karl Moks</COL> (<TMP>1889</TMP>)
 </META>
@@ -4462,7 +4462,7 @@ Kaas ei pane kasvama
 <V>Nad kui rasvapullid.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap0373000b">
+<ITEM nro="hmap0373000b" y="1889">
 <META>
 <ID>H, Mapp 373</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Karl Moks</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Õlu</TYP_YHT>
@@ -4500,7 +4500,7 @@ Kaas ei pane kasvama
 <V>Poisid pooli saapatelle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap0374000a">
+<ITEM nro="hmap0374000a" y="1889">
 <META>
 <ID>H, Mapp 374</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Karl Moks</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Memme vaev</TYP_YHT>
@@ -4531,7 +4531,7 @@ Memme vaev
 <V>Mõtlid linnaje minema.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap0374000b">
+<ITEM nro="hmap0374000b" y="1889">
 <META>
 <ID>H, Mapp 374/5</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Karl Moks</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Tütarde tapja</TYP_YHT>
@@ -4603,7 +4603,7 @@ Tütarde tapja
 <V>Ema lee lõuka'alle</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap03750000">
+<ITEM nro="hmap03750000" y="1889">
 <META>
 <ID>H, Mapp 375/7</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Karl Moks</COL> (<TMP>1889</TMP>)
 </META>
@@ -4661,7 +4661,7 @@ Tütarde tapja
 <V>See'p on saadelnud sõnuda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap0377000a">
+<ITEM nro="hmap0377000a" y="1889">
 <META>
 <ID>H, Mapp 377</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Karl Moks</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Oleks see mees minu!</TYP_YHT>
@@ -4696,7 +4696,7 @@ Oleks
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap0377000b">
+<ITEM nro="hmap0377000b" y="1889">
 <META>
 <ID>H, Mapp 377/8</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Karl Moks</COL> (<TMP>1889</TMP>)
 <TYP>
@@ -4738,7 +4738,7 @@ Tule luba küsima
 <V>Käterätikud kälile.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap03780000">
+<ITEM nro="hmap03780000" y="1889">
 <META>
 <ID>H, Mapp 378</ID> &lt; <LOC>Põltsamaa khk.</LOC> - <COL>Karl Moks</COL> (<TMP>1889</TMP>)
 <TYP_YHT>Varga õpetamine</TYP_YHT>
@@ -4804,7 +4804,7 @@ Varga õpetamine
 <V>Homme hulge otsitakse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap04090002">
+<ITEM nro="hmap04090002" y="1888">
 <META>
 <ID>H, Mapp 409 (2)</ID> &lt; <LOC>Kodavere khk.</LOC> (<TMP>1888</TMP>)
 <ZANR>siirdevormiline laul</ZANR>
@@ -4823,7 +4823,7 @@ Varga õpetamine
 <V>kadak karvade vahele.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap04220000">
+<ITEM nro="hmap04220000" y="1900">
 <META>
 <ID>H, Mapp 422/3</ID> &lt; <LOC>Tartu-Maarja khk., Ropka v., Ropka m. &amp;lt; Kursi khk., Laeva v.</LOC> - <COL>Johannes Kool</COL> (<TMP>1900</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 423.</ANDMEVIIDE>
@@ -4850,7 +4850,7 @@ Varga õpetamine
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap0423000a">
+<ITEM nro="hmap0423000a" y="1900">
 <META>
 <ID>H, Mapp 423</ID> &lt; <LOC>Tartu-Maarja khk., Ropka v., Ropka m. &amp;lt; Kursi khk., Laeva v.</LOC> - <COL>Johannes Kool</COL> (<TMP>1900</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 423.</ANDMEVIIDE>
@@ -4870,7 +4870,7 @@ Varga õpetamine
 <V>Iga püha pühad inglid.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap0423000b">
+<ITEM nro="hmap0423000b" y="1900">
 <META>
 <ID>H, Mapp 423</ID> &lt; <LOC>Tartu-Maarja khk., Ropka v., Ropka m.</LOC> - <COL>Johannes Kool</COL> (<TMP>1900</TMP>)
 <TYP>
@@ -4884,7 +4884,7 @@ Laeva vallas ligi 22 aastat tagasi lauldud neid laule.
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap0423000c">
+<ITEM nro="hmap0423000c" y="1900">
 <META>
 <ID>H, Mapp 423/4</ID> &lt; <LOC>Tartu-Maarja khk., Ropka v., Ropka m.</LOC> - <COL>Johannes Kool</COL> (<TMP>1900</TMP>)
 </META>
@@ -4923,7 +4923,7 @@ Laeva vallas ligi 22 aastat tagasi lauldud neid laule.
 <V>Kaasas meil ka kannelsepa <REFR>-</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap04250000">
+<ITEM nro="hmap04250000" y="1900">
 <META>
 <ID>H, Mapp 425/6</ID> &lt; <LOC>Tartu-Maarja khk., Ropka v., Ropka m.</LOC> - <COL>Johannes Kool</COL> (<TMP>1900</TMP>)
 <TYP>
@@ -4940,7 +4940,7 @@ Mulgid tulnud meie maale vana vankreloksikesega, vana obesekreo ees. Tartlased p
 <V>seda riskem poiss."</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap04250004">
+<ITEM nro="hmap04250004" y="1900">
 <META>
 <ID>H, Mapp 425 (4)</ID> &lt; <LOC>Tartu-Maarja khk., Ropka v., Ropka m.</LOC> - <COL>Johannes Kool</COL> (<TMP>1900</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -4965,7 +4965,7 @@ Sel laulul on viis ka, mida külapoisid tihti laulavad. Viisigi võib edespidi �
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap04260001">
+<ITEM nro="hmap04260001" y="1900">
 <META>
 <ID>H, Mapp 426 (1)</ID> &lt; <LOC>Tartu-Maarja khk., Ropka v., Ropka m.</LOC> - <COL>Johannes Kool</COL> (<TMP>1900</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -4977,7 +4977,7 @@ Sel laulul on viis ka, mida külapoisid tihti laulavad. Viisigi võib edespidi �
 <V>Ja paksu putru leevaga.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap04260002">
+<ITEM nro="hmap04260002" y="1900">
 <META>
 <ID>H, Mapp 426 (2)</ID> &lt; <LOC>Tartu-Maarja khk., Ropka v., Ropka m.</LOC> - <COL>Johannes Kool</COL> (<TMP>1900</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -4990,7 +4990,7 @@ Sel laulul on viis ka, mida külapoisid tihti laulavad. Viisigi võib edespidi �
 <V>Ja kümme rubla mulle saas.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap04260003">
+<ITEM nro="hmap04260003" y="1900">
 <META>
 <ID>H, Mapp 426 (3)</ID> &lt; <LOC>Tartu-Maarja khk., Ropka v., Ropka m.</LOC> - <COL>Johannes Kool</COL> (<TMP>1900</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -5007,7 +5007,7 @@ Sel laulul on viis ka, mida külapoisid tihti laulavad. Viisigi võib edespidi �
 <V>Ei mulgi palvest oolita</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap04270001">
+<ITEM nro="hmap04270001" y="1900">
 <META>
 <ID>H, Mapp 427 (1)</ID> &lt; <LOC>Tartu-Maarja khk., Ropka v., Ropka m.</LOC> - <COL>Johannes Kool</COL> (<TMP>1900</TMP>)
 <ZANR/><TYP_YHT>Ussisõnad</TYP_YHT>
@@ -5036,7 +5036,7 @@ Kui uss hammustab, peab järgmisi sõnu paistetuse alanemiseks lugema:
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap04290000">
+<ITEM nro="hmap04290000" y="1900">
 <META>
 <ID>H, Mapp 429</ID> &lt; <LOC>Tartu-Maarja khk., Ropka v., Ropka m.</LOC> - <COL>Johannes Kool</COL> (<TMP>1900</TMP>)
 <TYP>
@@ -5050,7 +5050,7 @@ Kel hambad eest ära, selle sõnad ei pea mõjuma. Kelle käed haiged, selle tri
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap04360000">
+<ITEM nro="hmap04360000" y="1900">
 <META>
 <ID>H, Mapp 436</ID> &lt; <LOC>Tartu-Maarja khk., Ropka v., Ropka m.</LOC> - <COL>Johannes Kool</COL> (<TMP>1900</TMP>)
 <TYP>
@@ -5073,7 +5073,7 @@ Laeva talupoisid laulnud:
 <V>Ja täiu pastla ääreni.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap04380000">
+<ITEM nro="hmap04380000" y="1900">
 <META>
 <ID>H, Mapp 438</ID> &lt; <LOC>Tartu-Maarja khk., Ropka v., Ropka m.</LOC> - <COL>Johannes Kool</COL> (<TMP>1900</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -5100,7 +5100,7 @@ Reola pool palju lauldav laul:
 <V>Kolm aastat kaheksa kuud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap04390000">
+<ITEM nro="hmap04390000" y="1900">
 <META>
 <ID>H, Mapp 439</ID> &lt; <LOC>Tartu-Maarja khk., Ropka v., Ropka m.</LOC> - <COL>Johannes Kool</COL> (<TMP>1900</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -5115,7 +5115,7 @@ Ema ütel: hõissa jne asemele lauletakse Ropka vallas, &quot;Ema ütel hõissa&
 <V>Oma lori ajavad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap04400000">
+<ITEM nro="hmap04400000" y="1900">
 <META>
 <ID>H, Mapp 440</ID> &lt; <LOC>Tartu-Maarja khk., Ropka v., Ropka m.</LOC> - <COL>Johannes Kool</COL> (<TMP>1900</TMP>)
 <ZANR>loodushäälend</ZANR><TYP>
@@ -5138,7 +5138,7 @@ Lepalinnulaul on järgmine:
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap04430000">
+<ITEM nro="hmap04430000" y="1900">
 <META>
 <ID>H, Mapp 443/4</ID> &lt; <LOC>Tartu-Maarja khk., Ropka v., Ropka m.</LOC> - <COL>Johannes Kool</COL> (<TMP>1900</TMP>)
 </META>
@@ -5156,7 +5156,7 @@ Vana-Kuuste metsas leitud kivi (&amp;quot;maa kivi&amp;quot;) kus peal seisnud k
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap04610000">
+<ITEM nro="hmap04610000" y="1900">
 <META>
 <ID>H, Mapp 461</ID> &lt; <LOC>Tartu-Maarja khk., Ropka v., Ropka m.</LOC> - <COL>Johannes Kool</COL> (<TMP>1900</TMP>)
 <ZANR>andmed/regilaul</ZANR>
@@ -5171,7 +5171,7 @@ Lapsel venitatakse kura jalga, kui üks jalg teisest pikem on, võetakse kolm ke
 <V>Saagu minu laps tervest!"</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap04790000">
+<ITEM nro="hmap04790000" y="1892">
 <META>
 <ID>H, Mapp 479</ID> &lt; <LOC>Tartu linn</LOC> - <COL>Jakop Weijker, voorimees</COL> (<TMP>1892</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -5248,7 +5248,7 @@ Lapsel venitatakse kura jalga, kui üks jalg teisest pikem on, võetakse kolm ke
 <V>Ma tegi nii kui tütruk ka.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap04800000">
+<ITEM nro="hmap04800000" y="1892">
 <META>
 <ID>H, Mapp 480</ID> &lt; <LOC>Tartu linn</LOC> - <COL>Jakop Weijker, voorimees</COL> (<TMP>1892</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -5311,7 +5311,7 @@ Lapsel venitatakse kura jalga, kui üks jalg teisest pikem on, võetakse kolm ke
 <V>Temä ei saa keski petta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap04850000">
+<ITEM nro="hmap04850000" y="1892">
 <META>
 <ID>H, Mapp 485/6</ID> &lt; <LOC>Tartu linn</LOC> - <COL>Jakop Weijker, voorimees</COL> (<TMP>1892</TMP>)
 <TYP_YHT>_ + Kass kaevus</TYP_YHT>
@@ -5369,7 +5369,7 @@ Lapsel venitatakse kura jalga, kui üks jalg teisest pikem on, võetakse kolm ke
 <V>Selle suure vaiva peräst</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap05030002">
+<ITEM nro="hmap05030002" y="1892">
 <META>
 <ID>H, Mapp 503 (2)</ID> &lt; <LOC>Kambja khk.</LOC> - <COL>Mihkel Kulberg</COL> (<TMP>1892</TMP>)
 <TYP>
@@ -5385,7 +5385,7 @@ Härg ootab jõule
 <V>ja juta juttu ajada.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap05340000">
+<ITEM nro="hmap05340000" y="1887">
 <META>
 <ID>H, Mapp 534</ID> - <COL>A. J. Siiun</COL> &lt; <INF><NIMI>O. Martinson</NIMI></INF> (<TMP>1887</TMP>)
 <TYP_YHT>Arg kosilane</TYP_YHT>
@@ -5443,7 +5443,7 @@ Arg kosilane
 <V>Perepojad peenikesed.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06030000">
+<ITEM nro="hmap06030000" y="1904">
 <META>
 <ID>H, Mapp 603/4</ID> &lt; <LOC>Urvaste khk.</LOC> - <COL>A. Lüüs</COL> &lt; <INF><NIMI>Juhan Kangro</NIMI></INF> (<TMP>1904</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 606.</ANDMEVIIDE>
@@ -5719,7 +5719,7 @@ Peigmehe laul oma pruuti mõtelden
 <V>Kik maa tühi põrm.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06050000">
+<ITEM nro="hmap06050000" y="1904">
 <META>
 <ID>H, Mapp 605/6</ID> &lt; <LOC>Urvaste khk.</LOC> - <COL>A. Lüüs</COL> &lt; <INF><NIMI>Juhan Kangro</NIMI></INF> (<TMP>1904</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 606.</ANDMEVIIDE>
@@ -5849,7 +5849,7 @@ Peigmehe laul oma pruuti mõtelden
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06060000">
+<ITEM nro="hmap06060000" y="1904">
 <META>
 <ID>H, Mapp 606</ID> &lt; <LOC>Tartu linn</LOC> - <COL>A. Lüüs</COL> (<TMP>1904</TMP>)
 <ZANR>andmed/uuem rahvalaul</ZANR>
@@ -5866,7 +5866,7 @@ Need kaks laulu on ühest vanast kirjutatud "laulikust" välja kirjutetud. Nad o
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap06070001">
+<ITEM nro="hmap06070001" y="1903">
 <META>
 <ID>H, Mapp 607 (1)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Katre Treial</NIMI>, <ELUL>60. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Meie ja teie poisid</TYP_YHT>
@@ -5927,7 +5927,7 @@ Tähendus: Neo - need; ku - kui; os´ä - osjad (хвощъ) vaanü - vaenu; ed�
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap06070002">
+<ITEM nro="hmap06070002" y="1903">
 <META>
 <ID>H, Mapp 607 (2)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Katre Treial</NIMI>, <ELUL>60. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Tule mulle!</TYP_YHT>
@@ -5960,7 +5960,7 @@ Tähendus: salitu, &quot;salima&quot; üteldakse siis, kui rannast (Võõbsust) 
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06070003">
+<ITEM nro="hmap06070003" y="1903">
 <META>
 <ID>H, Mapp 607/8 (3)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Liisa Semm</NIMI></INF> (<TMP>1903</TMP>)
 <TYP>
@@ -5986,7 +5986,7 @@ Tähendus: juusk - jookseb: ruug - pilliroog.
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06080004">
+<ITEM nro="hmap06080004" y="1903">
 <META>
 <ID>H, Mapp 608 (4)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Ewa Semm-Järveots</NIMI>, <ELUL>83. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Joodikust mees</TYP_YHT>
@@ -6074,7 +6074,7 @@ Joodik mees
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap06090005">
+<ITEM nro="hmap06090005" y="1903">
 <META>
 <ID>H, Mapp 609 (5)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Ewa Semm-Järveots</NIMI>, <ELUL>83. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP>
@@ -6103,7 +6103,7 @@ Töö timukale
 <V>Varas vaiva kitäskellä.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06090006">
+<ITEM nro="hmap06090006" y="1903">
 <META>
 <ID>H, Mapp 609/10 (6)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Ewa Semm-Järveots</NIMI>, <ELUL>83. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Oma ema ja võõrasema ootavad koju</TYP_YHT>
@@ -6183,7 +6183,7 @@ Oma ja võõrasema ootavad koju
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap06100007">
+<ITEM nro="hmap06100007" y="1903">
 <META>
 <ID>H, Mapp 610 (7)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Ewa Semm-Järveots</NIMI>, <ELUL>83. a.</ELUL></INF> (<TMP>1903</TMP>)
 </META>
@@ -6220,7 +6220,7 @@ Oma ja võõrasema ootavad koju
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap06100008">
+<ITEM nro="hmap06100008" y="1903">
 <META>
 <ID>H, Mapp 610 (8)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Ewa Semm-Järveots</NIMI>, <ELUL>83. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP>
@@ -6250,7 +6250,7 @@ Täh.: Kärsä, Ah´ä, Sõmmõrpalo - kohad; neida - neid, see koha; näädesis
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06110009">
+<ITEM nro="hmap06110009" y="1903">
 <META>
 <ID>H, Mapp 611/2 (9)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Katre Treial</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Suur tamm + Tähemõrsja</TYP_YHT>
@@ -6398,7 +6398,7 @@ Suur tamm
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap06120010">
+<ITEM nro="hmap06120010" y="1903">
 <META>
 <ID>H, Mapp 612 (10)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Katre Treial</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP>
@@ -6425,7 +6425,7 @@ Suur tamm
 <V>Kaaso ratso kandenen.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06120011">
+<ITEM nro="hmap06120011" y="1903">
 <META>
 <ID>H, Mapp 612 (11)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Katre Treial</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1903</TMP>)
 </META>
@@ -6441,7 +6441,7 @@ Suur tamm
 <V>Sõrmõ vipse veeritseh</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06130012">
+<ITEM nro="hmap06130012" y="1903">
 <META>
 <ID>H, Mapp 613 (12)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Ewa Semm-Järveots</NIMI>, <ELUL>83. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP>
@@ -6479,7 +6479,7 @@ Virkuseõpetus
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap06130013">
+<ITEM nro="hmap06130013" y="1903">
 <META>
 <ID>H, Mapp 613 (13)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Ewa Semm-Järveots</NIMI>, <ELUL>83. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Poisid põlgavad</TYP_YHT>
@@ -6518,7 +6518,7 @@ Poisid põlgavad, pole häid riideid
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap06130014">
+<ITEM nro="hmap06130014" y="1903">
 <META>
 <ID>H, Mapp 613 (14)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Katre Treial</NIMI>, <ELUL>60. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Löö poisil pool pead! + Poiss loodud petma</TYP_YHT>
@@ -6562,7 +6562,7 @@ Kohtus:
 <V>Keha keevä katlahe.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06140015">
+<ITEM nro="hmap06140015" y="1903">
 <META>
 <ID>H, Mapp 614 (15)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Katre Treial</NIMI>, <ELUL>60. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Ema haual</TYP_YHT>
@@ -6626,7 +6626,7 @@ Vaata ka H, Mapp 621 (40) &amp;lt; Põlva khk., Põlva v., Vanaküla - Johann Se
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap06140016">
+<ITEM nro="hmap06140016" y="1903">
 <META>
 <ID>H, Mapp 614 (16)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Ewa Semm-Järveots</NIMI>, <ELUL>83. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Kolm kätkit + Lauliku lapsepõlv</TYP_YHT>
@@ -6660,7 +6660,7 @@ Kolm hälli
 <V>Säält ma raie raamatuhe.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06150017">
+<ITEM nro="hmap06150017" y="1903">
 <META>
 <ID>H, Mapp 615 (17)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Ewa Semm-Järveots</NIMI>, <ELUL>83. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Koka kiitus</TYP_YHT>
@@ -6683,7 +6683,7 @@ Koka kiitus
 <V>Paksost käünü pa'a mano</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06150018">
+<ITEM nro="hmap06150018" y="1903">
 <META>
 <ID>H, Mapp 615 (18)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Ewa Semm-Järveots</NIMI>, <ELUL>83. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP>
@@ -6704,7 +6704,7 @@ Koka kiitus
 <V>Kaet kar´ä saatmine.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06150019">
+<ITEM nro="hmap06150019" y="1903">
 <META>
 <ID>H, Mapp 615 (19)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Ewa Semm-Järveots</NIMI>, <ELUL>83. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP>
@@ -6739,7 +6739,7 @@ Koka kiitus
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap06150020">
+<ITEM nro="hmap06150020" y="1903">
 <META>
 <ID>H, Mapp 615 (20)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Ewa Semm-Järveots</NIMI>, <ELUL>83. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP>
@@ -6765,7 +6765,7 @@ Neiu matus
 <V>Maa veret mardikit.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06150021">
+<ITEM nro="hmap06150021" y="1903">
 <META>
 <ID>H, Mapp 615/6 (21)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Ewa Semm-Järveots</NIMI>, <ELUL>83. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP>
@@ -6792,7 +6792,7 @@ Laimaja sajatus
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap06160000">
+<ITEM nro="hmap06160000" y="1903">
 <META>
 <ID>H, Mapp 616</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Katre Treial</NIMI>, <ELUL>60. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Lauliku vaev + Hädine hääl</TYP_YHT>
@@ -6822,7 +6822,7 @@ Tõisend<MRKSNR>*1</MRKSNR>:
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap06160022">
+<ITEM nro="hmap06160022" y="1903">
 <META>
 <ID>H, Mapp 616 (22)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Ewa Semm-Järveots</NIMI>, <ELUL>83. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Lauliku vaev + Ega rikas reht peksa</TYP_YHT>
@@ -6865,7 +6865,7 @@ Vaata ka teisendit H, Mapp 616 &amp;lt; Põlva khk., Põlva v., Vanaküla - Joha
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap06160023">
+<ITEM nro="hmap06160023" y="1903">
 <META>
 <ID>H, Mapp 616 (23)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Ewa Semm-Järveots</NIMI>, <ELUL>83. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Puud pole ühepikkused</TYP_YHT>
@@ -6890,7 +6890,7 @@ Vaata ka teisendit H, Mapp 616 &amp;lt; Põlva khk., Põlva v., Vanaküla - Joha
 <V>Üteh paakäh paanüpaik.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06160024">
+<ITEM nro="hmap06160024" y="1903">
 <META>
 <ID>H, Mapp 616/7 (24)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Ewa Semm-Järveots</NIMI>, <ELUL>83. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Ehted varastatud</TYP_YHT>
@@ -6920,7 +6920,7 @@ Ehted varastatud
 <V>Nutteh noorte veljo mano.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06170025">
+<ITEM nro="hmap06170025" y="1903">
 <META>
 <ID>H, Mapp 617 (25)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Katre Treial</NIMI>, <ELUL>60. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Tütar kodus</TYP_YHT>
@@ -6983,7 +6983,7 @@ Ilus neiu isakodus
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap06170026">
+<ITEM nro="hmap06170026" y="1903">
 <META>
 <ID>H, Mapp 617 (26)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Katre Treial</NIMI>, <ELUL>60. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Kägu, kuku kuiv suvi!</TYP_YHT>
@@ -7005,7 +7005,7 @@ Kägu kukub kullast suve
 <V>Hele'eta haanänkut.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06180020">
+<ITEM nro="hmap06180020" y="1903">
 <META>
 <ID>H, Mapp 618 (20)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Ewa Semm-Järveots</NIMI>, <ELUL>83. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Kuld jälje peal</TYP_YHT>
@@ -7052,7 +7052,7 @@ Kuld jälje peal
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap06180028">
+<ITEM nro="hmap06180028" y="1903">
 <META>
 <ID>H, Mapp 618 (28)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Katre Treial</NIMI>, <ELUL>60. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Vihm, üle vaeslapsest</TYP_YHT>
@@ -7081,7 +7081,7 @@ Vihm, ära kasta
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap06180029">
+<ITEM nro="hmap06180029" y="1903">
 <META>
 <ID>H, Mapp 618 (29)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Ewa Semm-Järveots</NIMI>, <ELUL>83. a.</ELUL></INF> (<TMP>1903</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -7119,7 +7119,7 @@ Täh. Seda laulu lauldakse harilikult pulmas, mõrsja kodus, peigmehe laitmiseks
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap06190031">
+<ITEM nro="hmap06190031" y="1903">
 <META>
 <ID>H, Mapp 619 (31)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Ewa Semm-Järveots</NIMI>, <ELUL>83. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Vihm, üle vaeslapsest</TYP_YHT>
@@ -7146,7 +7146,7 @@ Täh. Seda laulu lauldakse harilikult pulmas, mõrsja kodus, peigmehe laitmiseks
 <V>Tahenõ tammõladvah.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06190032">
+<ITEM nro="hmap06190032" y="1903">
 <META>
 <ID>H, Mapp 619 (32)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Katre Treial</NIMI>, <ELUL>60. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Arg laulik</TYP_YHT>
@@ -7167,7 +7167,7 @@ Arg laulik
 <V>Laske laalu lainile.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06190033">
+<ITEM nro="hmap06190033" y="1903">
 <META>
 <ID>H, Mapp 619 (33)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Katre Treial</NIMI>, <ELUL>60. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Võta naine töölt</TYP_YHT>
@@ -7231,7 +7231,7 @@ Võta naine töölt
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap06200034">
+<ITEM nro="hmap06200034" y="1903">
 <META>
 <ID>H, Mapp 620 (34)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Katre Treial</NIMI>, <ELUL>60. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Kuldnaine</TYP_YHT>
@@ -7261,7 +7261,7 @@ Kuldnaine
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap06200035">
+<ITEM nro="hmap06200035" y="1903">
 <META>
 <ID>H, Mapp 620 (35)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Katre Treial</NIMI>, <ELUL>60. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Suur olgu sulase naine + Must aitab</TYP_YHT>
@@ -7300,7 +7300,7 @@ Kuldnaine
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap06200036">
+<ITEM nro="hmap06200036" y="1903">
 <META>
 <ID>H, Mapp 620 (36)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Katre Treial</NIMI>, <ELUL>60. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Sajaks vihma, saaks magada</TYP_YHT>
@@ -7318,7 +7318,7 @@ Sajaks vihma, saaks magada
 <V>Saotsõl jäl' sann kütta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06200037">
+<ITEM nro="hmap06200037" y="1903">
 <META>
 <ID>H, Mapp 620 (37)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Katre Treial</NIMI>, <ELUL>60. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP>
@@ -7334,7 +7334,7 @@ Sajaks vihma, saaks magada
 <V>Kolgiti no kosilaisi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06200038">
+<ITEM nro="hmap06200038" y="1903">
 <META>
 <ID>H, Mapp 620 (38)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Katre Treial</NIMI>, <ELUL>60. a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP>
@@ -7354,7 +7354,7 @@ Hoia au
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap06210039">
+<ITEM nro="hmap06210039" y="1903">
 <META>
 <ID>H, Mapp 621 (39)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>M. Peterson</NIMI></INF> (<TMP>1903</TMP>)
 <TYP>
@@ -7378,7 +7378,7 @@ Hoia au
 <V>Kaasa hobõst kaienen.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06210040">
+<ITEM nro="hmap06210040" y="1903">
 <META>
 <ID>H, Mapp 621 (40)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>M. Peterson</NIMI></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Vara vaeslapseks + Ema ja armud</TYP_YHT>
@@ -7444,7 +7444,7 @@ Vaata ka H, Mapp 614 (15) &amp;lt; Põlva khk., Põlva v., Vanaküla - Johann Se
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap0622000a">
+<ITEM nro="hmap0622000a" y="1903">
 <META>
 <ID>H, Mapp 622 (a)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> (<TMP>1903</TMP>)
 <ZANR/><TYP_YHT>Tii, tii, tihane</TYP_YHT>
@@ -7468,7 +7468,7 @@ a)
 <V>Väikost liinast vähki tuvva.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap0622000b">
+<ITEM nro="hmap0622000b" y="1903">
 <META>
 <ID>H, Mapp 622 (b)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> (<TMP>1903</TMP>)
 <ZANR>andmed/regilaul</ZANR><TYP_YHT>Koer läheb karja</TYP_YHT>
@@ -7513,7 +7513,7 @@ Lapsepõlve mälestused
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap06220041">
+<ITEM nro="hmap06220041" y="1903">
 <META>
 <ID>H, Mapp 622 (41)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>M. Peterson</NIMI></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Joodiku kojukutsumine</TYP_YHT>
@@ -7577,7 +7577,7 @@ Joodiku kojukutsumine
 <V>Ega osta alõvist.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06220042">
+<ITEM nro="hmap06220042" y="1903">
 <META>
 <ID>H, Mapp 622 (42)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> (<TMP>1903</TMP>)
 <TYP>
@@ -7592,7 +7592,7 @@ Ema ja muud omaksed
 <V>Hella ema arm.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06470044">
+<ITEM nro="hmap06470044" y="1903">
 <META>
 <ID>H, Mapp 647 (44)</ID> &lt; <LOC>Setu</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Petseri takast</NIMI>, <ELUL>setu neiu suust</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Hobuse otsija</TYP_YHT>
@@ -7680,7 +7680,7 @@ Hobuse otsija
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap06470045">
+<ITEM nro="hmap06470045" y="1903">
 <META>
 <ID>H, Mapp 647 (45)</ID> &lt; <LOC>Setu</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>setu peiu suust</NIMI></INF> (<TMP>1903</TMP>)
 </META>
@@ -7702,7 +7702,7 @@ Hobuse otsija
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap06480046">
+<ITEM nro="hmap06480046" y="1903">
 <META>
 <ID>H, Mapp 648 (46)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Ann Tobreluts</NIMI></INF> (<TMP>1903</TMP>)
 <TYP>
@@ -7728,7 +7728,7 @@ Hobuse otsija
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap06480047">
+<ITEM nro="hmap06480047" y="1903">
 <META>
 <ID>H, Mapp 648/9 (47)</ID> &lt; <LOC>Setu</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>setu neiu suust</NIMI></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Kalmuneiu</TYP_YHT>
@@ -7866,7 +7866,7 @@ Kalmuneiu
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap06500048">
+<ITEM nro="hmap06500048" y="1903">
 <META>
 <ID>H, Mapp 650 (48)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Ewa Lillo</NIMI></INF> (<TMP>1903</TMP>)
 <TYP>
@@ -7892,7 +7892,7 @@ Kalmuneiu
 <V>Kõivoladvah kõigutõtti.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06500049">
+<ITEM nro="hmap06500049" y="1903">
 <META>
 <ID>H, Mapp 650 (49)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Miili Runthal</NIMI></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Keda tapan?</TYP_YHT>
@@ -7928,7 +7928,7 @@ Kalmuneiu
 <V>Kui na kõik mul kasu toova.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06500050">
+<ITEM nro="hmap06500050" y="1903">
 <META>
 <ID>H, Mapp 650 (50)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Kudä Saara</NIMI></INF> (<TMP>1903</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -7943,7 +7943,7 @@ Kalmuneiu
 <V>Inne kui ma ära koolõ.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06500051">
+<ITEM nro="hmap06500051" y="1903">
 <META>
 <ID>H, Mapp 650 (51)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Kudä Saara</NIMI></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Must naine</TYP_YHT>
@@ -7965,7 +7965,7 @@ Must naine
 <V>Natukõsõ nabaotsa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06630052">
+<ITEM nro="hmap06630052" y="1903">
 <META>
 <ID>H, Mapp 663/4 (52)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Mari Leotoots</NIMI></INF> (<TMP>1903</TMP>)
 <TYP>
@@ -8070,7 +8070,7 @@ Nooriku virkuse õpetus
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap06640052">
+<ITEM nro="hmap06640052" y="1903">
 <META>
 <ID>H, Mapp 664 (52)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Mari Leotoots</NIMI></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Noorik kodu käimas</TYP_YHT>
@@ -8121,7 +8121,7 @@ Kodu käimas
 <V>Päähä putus havvõliha.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06650053">
+<ITEM nro="hmap06650053" y="1903">
 <META>
 <ID>H, Mapp 665 (53)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Mari Leotoots</NIMI></INF> (<TMP>1903</TMP>)
 <TYP>
@@ -8185,7 +8185,7 @@ Täh.: Kirjutan nagu &quot;Vana Kandles&quot; sõnad: &quot;kiä, näio, saie, v
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06650054">
+<ITEM nro="hmap06650054" y="1903">
 <META>
 <ID>H, Mapp 665/6 (54)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Mari Leotoots</NIMI></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Aitüma imetamast</TYP_YHT>
@@ -8241,7 +8241,7 @@ Aitüma imetamast
 <V>Kui tark Tarto tii.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06660055">
+<ITEM nro="hmap06660055" y="1903">
 <META>
 <ID>H, Mapp 666 (55)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Mari Leotoots</NIMI></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Tule mulle!</TYP_YHT>
@@ -8284,7 +8284,7 @@ Tule mulle
 <V>Kistavar´s käe kulluti.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06710056">
+<ITEM nro="hmap06710056" y="1903">
 <META>
 <ID>H, Mapp 671 (56)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Mari Leotoots</NIMI></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Asjatult loodud</TYP_YHT>
@@ -8307,7 +8307,7 @@ Asjata loodud
 <V>Alailma armõtus.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06710057">
+<ITEM nro="hmap06710057" y="1903">
 <META>
 <ID>H, Mapp 671 (57)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Mari Lutsar</NIMI></INF> (<TMP>1903</TMP>)
 <TYP>
@@ -8330,7 +8330,7 @@ Poisid viidud, neiud norus
 <V>Vaiki saisva vahaladva.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06710058">
+<ITEM nro="hmap06710058" y="1903">
 <META>
 <ID>H, Mapp 671 (58)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Ewa Lillo</NIMI></INF> (<TMP>1903</TMP>)
 <TYP>
@@ -8352,7 +8352,7 @@ Neiu kutsub poisse
 <V>Põllõ all küdsed põrss.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06710059">
+<ITEM nro="hmap06710059" y="1903">
 <META>
 <ID>H, Mapp 671 (59)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Kudä Saara</NIMI></INF> (<TMP>1903</TMP>)
 <TYP>
@@ -8383,7 +8383,7 @@ Naise tapja
 <V>Vaskõvaati vitsutõt.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06710060">
+<ITEM nro="hmap06710060" y="1903">
 <META>
 <ID>H, Mapp 671/2 (60)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Kudä Saara</NIMI></INF> (<TMP>1903</TMP>)
 <TYP>
@@ -8424,7 +8424,7 @@ Naise tapja
 <V>Kalaluu saa kala jaos.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06720061">
+<ITEM nro="hmap06720061" y="1903">
 <META>
 <ID>H, Mapp 672/3 (61)</ID> &lt; <LOC>Põlva khk., Põlva v., Vanaküla</LOC> - <COL>Johann Semm</COL> &lt; <INF><NIMI>Miili Runthal</NIMI></INF> (<TMP>1903</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -8481,7 +8481,7 @@ Tähendus: sel laulul on uuema aja maik juures. Kirjutasin üles, et etteütleja
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06870000">
+<ITEM nro="hmap06870000" y="1904">
 <META>
 <ID>H, Mapp 687/8</ID> &lt; <LOC>Vastseliina khk.</LOC> - <COL>R. Silts</COL> &lt; <INF><NIMI>Liisa Peetson</NIMI></INF> (<TMP>1904</TMP>)
 <TYP_YHT>Ema haual</TYP_YHT>
@@ -8543,7 +8543,7 @@ Ema haual
 <V>Mäto ise mata no marjakene.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06890000">
+<ITEM nro="hmap06890000" y="1904">
 <META>
 <ID>H, Mapp 689/90</ID> &lt; <LOC>Vastseliina khk.</LOC> - <COL>R. Silts</COL> &lt; <INF><NIMI>Liisa Peetson</NIMI></INF> (<TMP>1904</TMP>)
 </META>
@@ -8587,7 +8587,7 @@ Ema haual
 <V>Uneta kallist kasupõlve.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06910000">
+<ITEM nro="hmap06910000" y="0">
 <META>
 <ID>H, Mapp 691</ID>
 <ZANR>kiri</ZANR>
@@ -8598,7 +8598,7 @@ Siin saadan Teile, auväärt õpetajahärra, ka kaks setu laulu ühes viisidega,
 </L>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06920000">
+<ITEM nro="hmap06920000" y="0">
 <META>
 <ID>H, Mapp 692</ID> &lt; <LOC>Karula</LOC>
 <ZANR>siirdevormiline laul</ZANR>
@@ -8659,7 +8659,7 @@ Täh.: Mõned püüdvad seda laulu setu keele järele laulda ja ütlevad sees, m
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06930000">
+<ITEM nro="hmap06930000" y="0">
 <META>
 <ID>H, Mapp 693</ID> &lt; <LOC>Helme khk., Jõgeves</LOC>
 </META>
@@ -8750,7 +8750,7 @@ Tähendus: esimese laulu kirjutasin ma Karula kihelkonnast, tõise aga Helme kih
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06950000">
+<ITEM nro="hmap06950000" y="1903">
 <META>
 <ID>H, Mapp 695</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> (<TMP>1903</TMP>)
 <ZANR>kiri</ZANR>
@@ -8774,7 +8774,7 @@ Olge nõnda lahke ja andke mull' teada, kas ja kuipalju on keegi saatnud Teil Ä
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap06980001">
+<ITEM nro="hmap06980001" y="1903">
 <META>
 <ID>H, Mapp 698 (1)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Liisa Jakobson</NIMI></INF> (<TMP>1903</TMP>)
 <TYP>
@@ -8801,7 +8801,7 @@ Ei ole õpetajat
 <V>Tõeteele juhataja.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06980002">
+<ITEM nro="hmap06980002" y="1903">
 <META>
 <ID>H, Mapp 698 (2)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Liisa Jakobson</NIMI></INF> (<TMP>1903</TMP>)
 <TYP>
@@ -8820,7 +8820,7 @@ Vennad ei võta
 <V>Tädipoja tävve mehe.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06980003">
+<ITEM nro="hmap06980003" y="1903">
 <META>
 <ID>H, Mapp 698 (3)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Liisa Jakobson</NIMI></INF> (<TMP>1903</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -8835,7 +8835,7 @@ Vennad ei võta
 <V>Usse kuru kullusista.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06990004">
+<ITEM nro="hmap06990004" y="1903">
 <META>
 <ID>H, Mapp 699 (4)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Liisa Jakobson</NIMI></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Tütarde tapja</TYP_YHT>
@@ -8874,7 +8874,7 @@ Tütarde tapja
 <V>Maie maani lätte'esta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06990005">
+<ITEM nro="hmap06990005" y="1903">
 <META>
 <ID>H, Mapp 699 (5)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Liisa Jakobson</NIMI></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Venna sõjalugu</TYP_YHT>
@@ -8924,7 +8924,7 @@ Sõjalaul
 <V>Vainukäte vaie'elta</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap06990006">
+<ITEM nro="hmap06990006" y="1903">
 <META>
 <ID>H, Mapp 699 (6)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Liisa Jakobson</NIMI></INF> (<TMP>1903</TMP>)
 <TYP>
@@ -8949,7 +8949,7 @@ Pole lauljat
 <V>Ära ma kälil käe anna.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07000007">
+<ITEM nro="hmap07000007" y="1903">
 <META>
 <ID>H, Mapp 700 (7)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Liisa Jakobson</NIMI></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Arg laulik + Lauliku sõim</TYP_YHT>
@@ -8975,7 +8975,7 @@ Arg laulik
 <V>Hääli ära põlgenesta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07000008">
+<ITEM nro="hmap07000008" y="1903">
 <META>
 <ID>H, Mapp 700 (8)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Liisa Jakobson</NIMI></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Ema haual</TYP_YHT>
@@ -9008,7 +9008,7 @@ Ema haual
 <V>Maarja vakka valmistegu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07000009">
+<ITEM nro="hmap07000009" y="1903">
 <META>
 <ID>H, Mapp 700 (9)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>E. Raudsepp</NIMI></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Suude sulg</TYP_YHT>
@@ -9032,7 +9032,7 @@ Suude sulg
 <V>Leila suvvilinnokene.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07000010">
+<ITEM nro="hmap07000010" y="1903">
 <META>
 <ID>H, Mapp 700/1 (10)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>E. Raudsepp</NIMI></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Ori taevas + Orja palk</TYP_YHT>
@@ -9111,7 +9111,7 @@ Ori taevas
 <V>Juvven kaksed kaalasooni.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07010011">
+<ITEM nro="hmap07010011" y="1903">
 <META>
 <ID>H, Mapp 701 (11)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>E. Raudsepp</NIMI></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Arg laulik</TYP_YHT>
@@ -9137,7 +9137,7 @@ Arg laulik
 <V>Vene vägi merda mööda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07010012">
+<ITEM nro="hmap07010012" y="1903">
 <META>
 <ID>H, Mapp 701/2 (12)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>E. Raudsepp</NIMI></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Ema ja armud + Nutust järv + _</TYP_YHT>
@@ -9201,7 +9201,7 @@ Ema ja armud
 <V><REFR>Oh hale....</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07020013">
+<ITEM nro="hmap07020013" y="1903">
 <META>
 <ID>H, Mapp 702 (13)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>E. Raudsepp</NIMI></INF> (<TMP>1903</TMP>)
 <TYP>
@@ -9241,7 +9241,7 @@ Isa- ja mehekodus
 <V>Tarre torro tõugatenna</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07020014">
+<ITEM nro="hmap07020014" y="1903">
 <META>
 <ID>H, Mapp 702 (14)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>E. Raudsepp</NIMI></INF> (<TMP>1903</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -9286,7 +9286,7 @@ Isa- ja mehekodus
 <V>Kodo jääd sa kopitama.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07110000">
+<ITEM nro="hmap07110000" y="1903">
 <META>
 <ID>H, Mapp 711/2</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Ädu Tõnnisson</NIMI>, <ELUL>sünd. 1829 a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Venna sõjalugu</TYP_YHT>
@@ -9360,7 +9360,7 @@ Sõjalaul
 <V>Käe kakkes koste'enna.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07120002">
+<ITEM nro="hmap07120002" y="1903">
 <META>
 <ID>H, Mapp 712 (2)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Ädu Tõnnisson</NIMI>, <ELUL>sünd. 1829 a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Siin on ilus õitsipaik</TYP_YHT>
@@ -9382,7 +9382,7 @@ Sõjalaul
 <V>Varik valjaste visate.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07130000">
+<ITEM nro="hmap07130000" y="1904">
 <META>
 <ID>H, Mapp 713/4</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Liisa Jakobson</NIMI></INF> (<TMP>1904</TMP>)
 <TYP_YHT>Ema haual</TYP_YHT>
@@ -9426,7 +9426,7 @@ Ema haual
 <V>Maarja vakka valmistagu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07140002">
+<ITEM nro="hmap07140002" y="1904">
 <META>
 <ID>H, Mapp 714 (2)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Liisa Jakobson</NIMI></INF> (<TMP>1904</TMP>)
 <TYP>
@@ -9450,7 +9450,7 @@ Neiu matus
 <V>Seda ütle ma sinule</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07140003">
+<ITEM nro="hmap07140003" y="1904">
 <META>
 <ID>H, Mapp 714/5 (3)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Liisa Jakobson</NIMI></INF> (<TMP>1904</TMP>)
 <TYP_YHT>Kosilane laisas talus</TYP_YHT>
@@ -9495,7 +9495,7 @@ Kosilane laisas talus
 <V>Läbi sõge sõnajala.......</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07150004">
+<ITEM nro="hmap07150004" y="1904">
 <META>
 <ID>H, Mapp 715 (4)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Liisa Jakobson</NIMI></INF> (<TMP>1904</TMP>)
 <TYP_YHT>Noorena võtsin kirbu kinni</TYP_YHT>
@@ -9515,7 +9515,7 @@ Noorena võtsin kirbu kinni
 <V>Varesele vastu võtti</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07170000">
+<ITEM nro="hmap07170000" y="1903">
 <META>
 <ID>H, Mapp 717</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Ädu Tõnnisson</NIMI>, <ELUL>sünd. 1829 a.</ELUL></INF> (<TMP>1903</TMP>)
 </META>
@@ -9528,7 +9528,7 @@ Noorena võtsin kirbu kinni
 <V>Velle hooled hoonena</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07170001">
+<ITEM nro="hmap07170001" y="1903">
 <META>
 <ID>H, Mapp 717 (1)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Ädu Tõnnisson</NIMI>, <ELUL>sünd. 1829 a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>_ + Ma laulan mere maaks</TYP_YHT>
@@ -9557,7 +9557,7 @@ Laulab jõuluni
 <V>Mere vattu võisemesse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07170002">
+<ITEM nro="hmap07170002" y="1903">
 <META>
 <ID>H, Mapp 717 (2)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Ädu Tõnnisson</NIMI>, <ELUL>sünd. 1829 a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Hea hääl + Hääl ära viidud</TYP_YHT>
@@ -9588,7 +9588,7 @@ Endine hääl
 <V>Sarve hääl sai Saksamaale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07170003">
+<ITEM nro="hmap07170003" y="1903">
 <META>
 <ID>H, Mapp 717 (3)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Ädu Tõnnisson</NIMI>, <ELUL>sünd. 1829 a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Lauliku lapsepõlv</TYP_YHT>
@@ -9621,7 +9621,7 @@ Lauliku lapsepõli
 <V>Sõna õppe hullukene</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07170004">
+<ITEM nro="hmap07170004" y="1903">
 <META>
 <ID>H, Mapp 717 (4)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Ädu Tõnnisson</NIMI>, <ELUL>sünd. 1829 a.</ELUL></INF> (<TMP>1903</TMP>) 
 <TYP>
@@ -9647,7 +9647,7 @@ Kuri naine
 <V>Siis sai otsa ommetegi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07180005">
+<ITEM nro="hmap07180005" y="1903">
 <META>
 <ID>H, Mapp 718 (5)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Ädu Tõnnisson</NIMI>, <ELUL>sünd. 1829 a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Kalajõgi</TYP_YHT>
@@ -9681,7 +9681,7 @@ Kalajõgi
 <V>Saksa poisile ta kübare.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07180006">
+<ITEM nro="hmap07180006" y="1903">
 <META>
 <ID>H, Mapp 718 (6)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Ädu Tõnnisson</NIMI>, <ELUL>sünd. 1829 a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Tuulest talguhobu</TYP_YHT>
@@ -9720,7 +9720,7 @@ Heinast hobu
 <V>Korstena kodade päält</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07180007">
+<ITEM nro="hmap07180007" y="1903">
 <META>
 <ID>H, Mapp 718 (7)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Ädu Tõnnisson</NIMI>, <ELUL>sünd. 1829 a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Riia rikkumine</TYP_YHT>
@@ -9763,7 +9763,7 @@ Riia rikkumine
 <V>Võnnu võtme valusemba.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07180008">
+<ITEM nro="hmap07180008" y="1903">
 <META>
 <ID>H, Mapp 718 (8)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Ädu Tõnnisson</NIMI>, <ELUL>sünd. 1829 a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Päike ohje päästma</TYP_YHT>
@@ -9792,7 +9792,7 @@ Päike ohje päästma
 <V>Ohju vai arutamaije.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07190009">
+<ITEM nro="hmap07190009" y="1903">
 <META>
 <ID>H, Mapp 719 (9)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Ädu Tõnnisson</NIMI>, <ELUL>sünd. 1829 a.</ELUL></INF> (<TMP>1903</TMP>)
 </META>
@@ -9826,7 +9826,7 @@ Päike ohje päästma
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap07190010">
+<ITEM nro="hmap07190010" y="1903">
 <META>
 <ID>H, Mapp 719 (10)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Ädu Tõnnisson</NIMI>, <ELUL>sünd. 1829 a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Naine Narvast</TYP_YHT>
@@ -9875,7 +9875,7 @@ Narvast naine
 <V>Peramitse peiju känga.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07190011">
+<ITEM nro="hmap07190011" y="1903">
 <META>
 <ID>H, Mapp 719 (11)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Ädu Tõnnisson</NIMI>, <ELUL>sünd. 1829 a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Neiu linn</TYP_YHT>
@@ -9899,7 +9899,7 @@ Narvast naine
 <V>Läve pääle lääne lindu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07190012">
+<ITEM nro="hmap07190012" y="1903">
 <META>
 <ID>H, Mapp 719 (12)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Ädu Tõnnisson</NIMI>, <ELUL>sünd. 1829 a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP>
@@ -9921,7 +9921,7 @@ Poiss tõuseb neiu juurest
 <V>Teotab tüdruk tigeve.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07190013">
+<ITEM nro="hmap07190013" y="1903">
 <META>
 <ID>H, Mapp 719/20 (13)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Ädu Tõnnisson</NIMI>, <ELUL>sünd. 1829 a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Tule mulle!</TYP_YHT>
@@ -9992,7 +9992,7 @@ Tule mulle
 <V>Vatss päiva valgel</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07200014">
+<ITEM nro="hmap07200014" y="1903">
 <META>
 <ID>H, Mapp 720/1 (14)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Ädu Tõnnisson</NIMI>, <ELUL>sünd. 1829 a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Hobuse otsija + Neli metsa</TYP_YHT>
@@ -10085,7 +10085,7 @@ Hobuse otsija
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap07210015">
+<ITEM nro="hmap07210015" y="1903">
 <META>
 <ID>H, Mapp 721 (15)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Ädu Tõnnisson</NIMI>, <ELUL>sünd. 1829 a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Vares ootab hobuse surma</TYP_YHT>
@@ -10125,7 +10125,7 @@ Mõned küla naised hakkanud seda laulu kuuldes pilkades naerma, siis laultud ni
 <V>Õgvast sai obeste looga.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07210016">
+<ITEM nro="hmap07210016" y="1903">
 <META>
 <ID>H, Mapp 721 (16)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Ädu Tõnnisson</NIMI>, <ELUL>sünd. 1829 a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Ladvad lindudele + Käokiri</TYP_YHT>
@@ -10163,7 +10163,7 @@ Ladvad lindudele
 <V>Päiva pööra päitelenna.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07210017">
+<ITEM nro="hmap07210017" y="1903">
 <META>
 <ID>H, Mapp 721 (17)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Ädu Tõnnisson</NIMI>, <ELUL>sünd. 1829 a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Mind ei kutsutud</TYP_YHT>
@@ -10184,7 +10184,7 @@ Mind ei kutsutud
 <V>Rikkas laste risti ema.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07220018">
+<ITEM nro="hmap07220018" y="1903">
 <META>
 <ID>H, Mapp 722 (18)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Ädu Tõnnisson</NIMI>, <ELUL>sünd. 1829 a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Väravamäng</TYP_YHT>
@@ -10241,7 +10241,7 @@ Väravamäng
 <V><REFR>u.k.v.v.</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07220019">
+<ITEM nro="hmap07220019" y="1903">
 <META>
 <ID>H, Mapp 722/3 (19)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Ädu Tõnnisson</NIMI>, <ELUL>sünd. 1829 a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Põll põrmune + Kaevul kosija + _</TYP_YHT>
@@ -10304,7 +10304,7 @@ Põll põrmune
 <V>Musta mustale mõule.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07230020">
+<ITEM nro="hmap07230020" y="1903">
 <META>
 <ID>H, Mapp 723 (20)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Ädu Tõnnisson</NIMI>, <ELUL>sünd. 1829 a.</ELUL></INF> (<TMP>1903</TMP>)
 <LLIIK>Kiigelaulud</LLIIK>
@@ -10350,7 +10350,7 @@ Põll põrmune
 <V>Seo mu vana emale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07230021">
+<ITEM nro="hmap07230021" y="1903">
 <META>
 <ID>H, Mapp 723/4 (21)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Ädu Tõnnisson</NIMI>, <ELUL>sünd. 1829 a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP_YHT>Pajamäng</TYP_YHT>
@@ -10413,7 +10413,7 @@ Pajamäng
 <V>Teravide kirveeta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07240022">
+<ITEM nro="hmap07240022" y="1903">
 <META>
 <ID>H, Mapp 724 (22)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Ädu Tõnnisson</NIMI>, <ELUL>sünd. 1829 a.</ELUL></INF> (<TMP>1903</TMP>)
 <TYP>
@@ -10437,7 +10437,7 @@ Arvati vanaks
 <V>Nõdra otsan nõrgutedi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07240023">
+<ITEM nro="hmap07240023" y="1903">
 <META>
 <ID>H, Mapp 724 (23)</ID> &lt; <LOC>Valga linn</LOC> - <COL>Johannes Undritz</COL> &lt; <INF><NIMI>Ädu Tõnnisson</NIMI>, <ELUL>sünd. 1829 a.</ELUL></INF> (<TMP>1903</TMP>)
 </META>
@@ -10455,7 +10455,7 @@ Arvati vanaks
 <V>Nii kuis liikub lija mõtsa</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07310002">
+<ITEM nro="hmap07310002" y="1873">
 <META>
 <ID>H, Mapp 731/3 (2)</ID> &lt; <LOC>Vastseliina khk. &amp;lt; Setu</LOC> - <COL>Wictor Stein</COL> (<TMP>1873</TMP>)
 <ZANR>kombekirjeldus/regilaul</ZANR>
@@ -10484,7 +10484,7 @@ Die Worte waren kaum gesungen, da ergriff Tikes Tochter eine Ofenkrücke mit der
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap07330000">
+<ITEM nro="hmap07330000" y="1873">
 <META>
 <ID>H, Mapp 733</ID> &lt; <LOC>Vastseliina khk. &amp;lt; Setu</LOC> - <COL>Wictor Stein</COL> (<TMP>1873</TMP>)
 <ZANR>kombekirjeldus/regilaul</ZANR>
@@ -10499,7 +10499,7 @@ Ueber Puuk sind von Hurt und Anderen Abhandlungen veröffentlicht worden, in den
 <V>Sünni, sünni Teedokene."</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07440007">
+<ITEM nro="hmap07440007" y="1873">
 <META>
 <ID>H, Mapp 744/5 (7)</ID> &lt; <LOC>Vastseliina khk. &amp;lt; Setu</LOC> - <COL>Wictor Stein</COL> (<TMP>1873</TMP>)
 <ZANR>kombekirjeldus/regilaul</ZANR>
@@ -10533,7 +10533,7 @@ Schliesslich soll der Bettler ein böser Geist gewesen sein, dem einst Olew sein
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap07500002">
+<ITEM nro="hmap07500002" y="1873">
 <META>
 <ID>H, Mapp 750/4 (2)</ID> &lt; <LOC>Vastseliina khk. &amp;lt; Setu</LOC> - <COL>Wictor Stein</COL> (<TMP>1873</TMP>)
 <ZANR>kombekirjeldus/regilaul</ZANR>
@@ -10600,7 +10600,7 @@ Ich kom̄e noch auf die Opfergaben zurück. Die Milch <PAG>pag. 754</PAG> so zur
 <V>Luba lehmile piima.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07540003">
+<ITEM nro="hmap07540003" y="1873">
 <META>
 <ID>H, Mapp 754/5 (3)</ID> &lt; <LOC>Vastseliina khk. &amp;lt; Setu</LOC> - <COL>Wictor Stein</COL> (<TMP>1873</TMP>)
 <ZANR>kombekirjeldus/regilaul</ZANR>
@@ -10638,7 +10638,7 @@ Diese Formel deutet auf Ukko verehrung, den̄ wie schon früher bemerkt scheinte
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap07550004">
+<ITEM nro="hmap07550004" y="1873">
 <META>
 <ID>H, Mapp 755/7 (4)</ID> &lt; <LOC>Vastseliina khk. &amp;lt; Setu</LOC> - <COL>Wictor Stein</COL> (<TMP>1873</TMP>)
 <ZANR>kombekirjeldus/regilaul</ZANR>
@@ -10683,7 +10683,7 @@ Beim Schlachten der Schaafen, die für diesen Zweck bestim̄t sind, wird folgend
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap07570005">
+<ITEM nro="hmap07570005" y="1873">
 <META>
 <ID>H, Mapp 757/8 (5)</ID> &lt; <LOC>Vastseliina khk. &amp;lt; Setu</LOC> - <COL>Wictor Stein</COL> (<TMP>1873</TMP>)
 <ZANR>kombekirjeldus/regilaul</ZANR>
@@ -10712,7 +10712,7 @@ Das Gebet beim Schlachten der Schweine lautet:
 <V>Uma armo armuga.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07590001">
+<ITEM nro="hmap07590001" y="1873">
 <META>
 <ID>H, Mapp 759/60 (1)</ID> &lt; <LOC>Vastseliina khk. &amp;lt; Setu</LOC> - <COL>Wictor Stein</COL> (<TMP>1873</TMP>)
 <ZANR>kombekirjeldus/regilaul</ZANR>
@@ -10737,7 +10737,7 @@ Wanderer, die dem püha kuusk vorübergehen, sprachen folgende Worte:
 <V>Heldusega edasi. -</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07610005">
+<ITEM nro="hmap07610005" y="1873">
 <META>
 <ID>H, Mapp 761/3 (5)</ID> &lt; <LOC>Vastseliina khk. &amp;lt; Setu</LOC> - <COL>Wictor Stein</COL> (<TMP>1873</TMP>)
 <ZANR>kombekirjeldus/regilaul</ZANR>
@@ -10783,7 +10783,7 @@ c.
 <V>Vana tont tuhad kord.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07630007">
+<ITEM nro="hmap07630007" y="1873">
 <META>
 <ID>H, Mapp 763/5 (7)</ID> &lt; <LOC>Vastseliina khk. &amp;lt; Setu</LOC> - <COL>Wictor Stein</COL> (<TMP>1873</TMP>)
 <ZANR/><TYP_YHT>Ussisõnad</TYP_YHT>
@@ -10851,7 +10851,7 @@ Schlangenformel:
 <V>Kui ojan vet.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07650008">
+<ITEM nro="hmap07650008" y="1873">
 <META>
 <ID>H, Mapp 765 (8)</ID> &lt; <LOC>Vastseliina khk. &amp;lt; Setu</LOC> - <COL>Wictor Stein</COL> (<TMP>1873</TMP>)
 <ZANR></ZANR>
@@ -10864,7 +10864,7 @@ Schlangenformel:
 <V>Kiike suurembat surma.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07650009">
+<ITEM nro="hmap07650009" y="1873">
 <META>
 <ID>H, Mapp 765/6 (9)</ID> &lt; <LOC>Vastseliina khk. &amp;lt; Setu</LOC> - <COL>Wictor Stein</COL> (<TMP>1873</TMP>)
 </META>
@@ -10879,7 +10879,7 @@ Schlangenformel:
 <V>Pääte päival valusa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07660010">
+<ITEM nro="hmap07660010" y="1873">
 <META>
 <ID>H, Mapp 766 (10)</ID> &lt; <LOC>Vastseliina khk. &amp;lt; Setu</LOC> - <COL>Wictor Stein</COL> (<TMP>1873</TMP>)
 <ZANR></ZANR><TYP>
@@ -10905,7 +10905,7 @@ b.
 <V>Kui maast a vee vähk. -</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07660011">
+<ITEM nro="hmap07660011" y="1873">
 <META>
 <ID>H, Mapp 766 (11)</ID> &lt; <LOC>Vastseliina khk. &amp;lt; Setu</LOC> - <COL>Wictor Stein</COL> (<TMP>1873</TMP>)
 <ZANR></ZANR>
@@ -10918,7 +10918,7 @@ b.
 <V>Savi sööma, saiba otsa sittale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07660012">
+<ITEM nro="hmap07660012" y="1873">
 <META>
 <ID>H, Mapp 766 (12)</ID> &lt; <LOC>Vastseliina khk. &amp;lt; Setu</LOC> - <COL>Wictor Stein</COL> (<TMP>1873</TMP>)
 <ZANR></ZANR>
@@ -10931,7 +10931,7 @@ b.
 <V>Avita seda last. -</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07670013">
+<ITEM nro="hmap07670013" y="1873">
 <META>
 <ID>H, Mapp 767 (13)</ID> &lt; <LOC>Vastseliina khk. &amp;lt; Setu</LOC> - <COL>Wictor Stein</COL> (<TMP>1873</TMP>)
 <ZANR></ZANR>
@@ -10947,7 +10947,7 @@ Dem Leidenden müssen 3 Knaben 3 Mal in's Gelenk beissen. Jeder Knabe muss dabei
 <V>Kitsi iks purus, käsi kõvvas.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07670014">
+<ITEM nro="hmap07670014" y="1873">
 <META>
 <ID>H, Mapp 767/72 (14)</ID> &lt; <LOC>Vastseliina khk. &amp;lt; Setu</LOC> - <COL>Wictor Stein</COL> (<TMP>1873</TMP>)
 <ZANR></ZANR><TYP>
@@ -11115,7 +11115,7 @@ Formel beim Quästen kleiner Knaben:
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap07720015">
+<ITEM nro="hmap07720015" y="1873">
 <META>
 <ID>H, Mapp 772/3 (15)</ID> &lt; <LOC>Vastseliina khk. &amp;lt; Setu</LOC> - <COL>Wictor Stein</COL> (<TMP>1873</TMP>)
 <ZANR>siirdevormiline laul</ZANR>
@@ -11153,7 +11153,7 @@ Formel beim Quästen kleiner Knaben:
 <V>Jlma sehes elad sina.-</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07740016">
+<ITEM nro="hmap07740016" y="1873">
 <META>
 <ID>H, Mapp 774 (16)</ID> &lt; <LOC>Vastseliina khk. &amp;lt; Setu</LOC> - <COL>Wictor Stein</COL> (<TMP>1873</TMP>)
 </META>
@@ -11171,7 +11171,7 @@ Formel beim Quästen kleiner Knaben:
 <V>Munal mittu tuhatida.-</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07740017">
+<ITEM nro="hmap07740017" y="1873">
 <META>
 <ID>H, Mapp 774 (17)</ID> &lt; <LOC>Vastseliina khk. &amp;lt; Setu</LOC> - <COL>Wictor Stein</COL> (<TMP>1873</TMP>)
 <ZANR>loodushäälend</ZANR>
@@ -11192,7 +11192,7 @@ a.
 <V>Häbi saagu te'l, häbi saagu te'l.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07750018">
+<ITEM nro="hmap07750018" y="1873">
 <META>
 <ID>H, Mapp 775 (18)</ID> &lt; <LOC>Vastseliina khk. &amp;lt; Setu</LOC> - <COL>Wictor Stein</COL> (<TMP>1873</TMP>)
 <ZANR></ZANR>
@@ -11208,7 +11208,7 @@ Damit die Schnecke ihre Hörner zeigen soll, spricht man folgende Worte:
 <V>Anna mino au kätte.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07750019">
+<ITEM nro="hmap07750019" y="1873">
 <META>
 <ID>H, Mapp 775 (19)</ID> &lt; <LOC>Vastseliina khk. &amp;lt; Setu</LOC> - <COL>Wictor Stein</COL> (<TMP>1873</TMP>)
 </META>
@@ -11219,7 +11219,7 @@ Damit die Schnecke ihre Hörner zeigen soll, spricht man folgende Worte:
 <V>Mi mamma niidi varas!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07750020">
+<ITEM nro="hmap07750020" y="1873">
 <META>
 <ID>H, Mapp 775 (20)</ID> &lt; <LOC>Vastseliina khk. &amp;lt; Setu</LOC> - <COL>Wictor Stein</COL> (<TMP>1873</TMP>)
 <ZANR></ZANR>
@@ -11230,7 +11230,7 @@ Damit die Schnecke ihre Hörner zeigen soll, spricht man folgende Worte:
 <V>Kui ei anna tappa so. -</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07780002">
+<ITEM nro="hmap07780002" y="1873">
 <META>
 <ID>H, Mapp 778/80 (2)</ID> &lt; <LOC>Vastseliina khk. &amp;lt; Setu</LOC> - <COL>Wictor Stein</COL> (<TMP>1873</TMP>)
 <ZANR>keel</ZANR>
@@ -11271,7 +11271,7 @@ Die Män̄erkleidung ist einfacher und die Bezeichnungen sind dieselben, wie bei
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07800003">
+<ITEM nro="hmap07800003" y="1873">
 <META>
 <ID>H, Mapp 780/1 (3)</ID> &lt; <LOC>Vastseliina khk. &amp;lt; Setu</LOC> - <COL>Wictor Stein</COL> (<TMP>1873</TMP>)
 <ZANR>keel</ZANR>
@@ -11304,7 +11304,7 @@ Pärg, die Krone. -
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07810004">
+<ITEM nro="hmap07810004" y="1873">
 <META>
 <ID>H, Mapp 781/2 (4)</ID> &lt; <LOC>Vastseliina khk. &amp;lt; Setu</LOC> - <COL>Wictor Stein</COL> (<TMP>1873</TMP>)
 <ZANR>keel</ZANR>
@@ -11325,7 +11325,7 @@ Tubinitsa kinda, Fausthandschuhe. -
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07820005">
+<ITEM nro="hmap07820005" y="1873">
 <META>
 <ID>H, Mapp 782 (5)</ID> &lt; <LOC>Vastseliina khk. &amp;lt; Setu</LOC> - <COL>Wictor Stein</COL> (<TMP>1873</TMP>)
 <ZANR>keel</ZANR>
@@ -11351,7 +11351,7 @@ Tit, der Hodensack.-
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap07830006">
+<ITEM nro="hmap07830006" y="1873">
 <META>
 <ID>H, Mapp 783/4 (6)</ID> &lt; <LOC>Vastseliina khk. &amp;lt; Setu</LOC> - <COL>Wictor Stein</COL> (<TMP>1873</TMP>)
 <ZANR>keel</ZANR>
@@ -11382,7 +11382,7 @@ Oka rahvas sind die Toolamaaschen weil sie statt om = o sagen.
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap08130000">
+<ITEM nro="hmap08130000" y="1903">
 <META>
 <ID>H, Mapp 813/6</ID> &lt; <LOC>Riia</LOC> - <COL>Aleksander Waltin</COL> (<TMP>1903</TMP>)
 <TYP>
@@ -11434,7 +11434,7 @@ Kirjutaja nimi kirillitsas
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap08190000">
+<ITEM nro="hmap08190000" y="1903">
 <META>
 <ID>H, Mapp 819/41</ID> &lt; <LOC>Riia &amp;lt; Saaremaa</LOC> - <COL>Aleksander Waltin</COL> (<TMP>1903</TMP>)
 <ZANR>jutt/uuem rahvalaul</ZANR>
@@ -11605,7 +11605,7 @@ Jagup sööb isuga, keerab, kui söögiisu täis, nahkkotti selja tagast ette v�
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap08410000">
+<ITEM nro="hmap08410000" y="1903">
 <META>
 <ID>H, Mapp 841/2</ID> &lt; <LOC>Riia &amp;lt; Saaremaa</LOC> - <COL>Aleksander Waltin</COL> (<TMP>1903</TMP>)
 <ZANR>naljand</ZANR>
@@ -11633,7 +11633,7 @@ Teine kord: jällegi astub kojamees haamer kaes kööki veekraani juure, vaadeld
 <V>So, so,..... Ich sachte an Frau das unsere Herni eben gestorben ist, ---!"</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap08700000">
+<ITEM nro="hmap08700000" y="1903">
 <META>
 <ID>H, Mapp 870/1</ID> &lt; <LOC>Riia &amp;lt; Saaremaa</LOC> - <COL>Aleksander Waltin</COL> (<TMP>1903</TMP>)
 <ZANR>jutt/regilaul</ZANR>
@@ -11671,7 +11671,7 @@ Peremees võtnud ahju harki ja kihutand kerjaja välja
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap09180001">
+<ITEM nro="hmap09180001" y="1903">
 <META>
 <ID>H, Mapp 918 (1)</ID> &lt; <LOC>Riia &amp;lt; Valjala khk.</LOC> - <COL>Aleksander Waltin</COL> &lt; <INF><NIMI>Mart Rõutak</NIMI></INF> (<TMP>1903</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -11683,7 +11683,7 @@ Peremees võtnud ahju harki ja kihutand kerjaja välja
 <V>Et mehed ei näe päikest kuud</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap09180002">
+<ITEM nro="hmap09180002" y="1903">
 <META>
 <ID>H, Mapp 918 (2)</ID> &lt; <LOC>Riia &amp;lt; Valjala khk.</LOC> - <COL>Aleksander Waltin</COL> &lt; <INF><NIMI>Mart Rõutak</NIMI></INF> (<TMP>1903</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -11695,7 +11695,7 @@ Peremees võtnud ahju harki ja kihutand kerjaja välja
 <V>Miina kaenla magama.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap09180003">
+<ITEM nro="hmap09180003" y="1903">
 <META>
 <ID>H, Mapp 918/9 (3)</ID> &lt; <LOC>Riia &amp;lt; Valjala khk.</LOC> - <COL>Aleksander Waltin</COL> &lt; <INF><NIMI>Mart Rõutak</NIMI></INF> (<TMP>1903</TMP>)
 <ZANR>siirdevormiline laul</ZANR>
@@ -11716,7 +11716,7 @@ Peremees võtnud ahju harki ja kihutand kerjaja välja
 <V>Keele otsa kuulikest<U>e</U></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap09190004">
+<ITEM nro="hmap09190004" y="1903">
 <META>
 <ID>H, Mapp 919 (4)</ID> &lt; <LOC>Riia &amp;lt; Valjala khk.</LOC> - <COL>Aleksander Waltin</COL> &lt; <INF><NIMI>tundmata muhulane</NIMI></INF> (<TMP>1903</TMP>)
 <ZANR>siirdevormiline laul</ZANR>
@@ -11728,7 +11728,7 @@ Peremees võtnud ahju harki ja kihutand kerjaja välja
 <V>Põllunukki lajemale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap09190005">
+<ITEM nro="hmap09190005" y="1903">
 <META>
 <ID>H, Mapp 919 (5)</ID> &lt; <LOC>Riia &amp;lt; Valjala khk.</LOC> - <COL>Aleksander Waltin</COL> &lt; <INF><NIMI>Mihkel Veske</NIMI></INF> (<TMP>1903</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -11740,7 +11740,7 @@ Peremees võtnud ahju harki ja kihutand kerjaja välja
 <V>Siis on seitsme härja jõudu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap09400000">
+<ITEM nro="hmap09400000" y="1903">
 <META>
 <ID>H, Mapp 940</ID> &lt; <LOC>Riia</LOC> - <COL>Aleksander Waltin</COL> (<TMP>1903</TMP>)
 <ZANR>kiri</ZANR>
@@ -11755,7 +11755,7 @@ Palun mu ridasid ka vanavara kirja võtta; ma olen need miski teadvuseta, kas k�
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap09670014">
+<ITEM nro="hmap09670014" y="1902">
 <META>
 <ID>H, Mapp 967 (14)</ID> &lt; <LOC>Venemaa, Ozernitsa</LOC> - <COL>J. Reimann</COL> (<TMP>1902</TMP>)
 <ZANR>jutt/siirdevormiline laul</ZANR>
@@ -11772,7 +11772,7 @@ Sandi pois tulnud perese armu andeid paluma. Sell ajal, ja praegugi veol, on pru
 <V>''Kihvad lõugas kihvatasid."</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap09720002">
+<ITEM nro="hmap09720002" y="1902">
 <META>
 <ID>H, Mapp 972 (2)</ID> &lt; <LOC>Venemaa, Ozernitsa</LOC> - <COL>J. Reimann</COL> (<TMP>1902</TMP>)
 <ZANR></ZANR>
@@ -11797,7 +11797,7 @@ Sandi pois tulnud perese armu andeid paluma. Sell ajal, ja praegugi veol, on pru
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap09940000">
+<ITEM nro="hmap09940000" y="1901">
 <META>
 <ID>H, Mapp 994</ID> &lt; <LOC>Venemaa, Ozernitsa</LOC> - <COL>J. Reimann</COL> (<TMP>1901</TMP>)
 <ZANR>kiri</ZANR>
@@ -11813,7 +11813,7 @@ J. Reimann
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10110001">
+<ITEM nro="hmap10110001" y="1899">
 <META>
 <ID>H, Mapp 1011 (1)</ID> &lt; <LOC>Ingerimaa, Simititsa &amp;lt; Kuusalu khk., Kolga v.</LOC> - <COL>M. Mikiver</COL> (<TMP>1899</TMP>)
 <TYP>
@@ -11843,7 +11843,7 @@ Lüpsilaul
 <V>Voeras voida voerutanne</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10110002">
+<ITEM nro="hmap10110002" y="1899">
 <META>
 <ID>H, Mapp 1011 (2)</ID> &lt; <LOC>Ingerimaa, Simititsa &amp;lt; Kuusalu khk., Kolga v.</LOC> - <COL>M. Mikiver</COL> (<TMP>1899</TMP>)
 <TYP_YHT>Vahelt vaene</TYP_YHT>
@@ -11869,7 +11869,7 @@ Vahelt vaene
 <V>Kena langa kehrämaie</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10110003">
+<ITEM nro="hmap10110003" y="1899">
 <META>
 <ID>H, Mapp 1011 (3)</ID> &lt; <LOC>Ingerimaa, Simititsa &amp;lt; Kuusalu khk., Kolga v.</LOC> - <COL>M. Mikiver</COL> (<TMP>1899</TMP>)
 <TYP_YHT>Suure lamba mäng</TYP_YHT>
@@ -11894,7 +11894,7 @@ Lambamäng
 <V>Saba kui see tuulivihta</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10110004">
+<ITEM nro="hmap10110004" y="1899">
 <META>
 <ID>H, Mapp 1011 (4)</ID> &lt; <LOC>Ingerimaa, Simititsa &amp;lt; Kuusalu khk., Kolga v.</LOC> - <COL>M. Mikiver</COL> (<TMP>1899</TMP>)
 <ZANR>labajalalaul</ZANR>
@@ -11919,7 +11919,7 @@ Lambamäng
 <V>Vieras maa veripisara</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10120005">
+<ITEM nro="hmap10120005" y="1899">
 <META>
 <ID>H, Mapp 1012 (5)</ID> &lt; <LOC>Ingerimaa, Simititsa &amp;lt; Kuusalu khk., Kolga v.</LOC> - <COL>M. Mikiver</COL> (<TMP>1899</TMP>)
 </META>
@@ -11942,7 +11942,7 @@ Lambamäng
 <V>Peiu hoosta hoidajassa</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10120006">
+<ITEM nro="hmap10120006" y="1899">
 <META>
 <ID>H, Mapp 1012 (6)</ID> &lt; <LOC>Ingerimaa, Simititsa &amp;lt; Kuusalu khk., Kolga v.</LOC> - <COL>M. Mikiver</COL> (<TMP>1899</TMP>)
 <ZANR></ZANR>
@@ -11961,7 +11961,7 @@ Lambamäng
 <V>Üle oue horsi notkub</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10120007">
+<ITEM nro="hmap10120007" y="1899">
 <META>
 <ID>H, Mapp 1012 (7)</ID> &lt; <LOC>Ingerimaa, Simititsa &amp;lt; Kuusalu khk., Kolga v.</LOC> - <COL>M. Mikiver</COL> (<TMP>1899</TMP>)
 <TYP_YHT>Lust on minna lonkurile</TYP_YHT>
@@ -11986,7 +11986,7 @@ Lust minna luukarile
 <V>Moskoti muretsemaie</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10120008">
+<ITEM nro="hmap10120008" y="1899">
 <META>
 <ID>H, Mapp 1012/4 (8)</ID> &lt; <LOC>Ingerimaa, Simititsa &amp;lt; Kuusalu khk., Kolga v.</LOC> - <COL>M. Mikiver</COL> (<TMP>1899</TMP>)
 <TYP_YHT>Müüdud neiu</TYP_YHT>
@@ -12151,7 +12151,7 @@ Müüdud neiu
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap10140009">
+<ITEM nro="hmap10140009" y="1899">
 <META>
 <ID>H, Mapp 1014 (9)</ID> &lt; <LOC>Ingerimaa, Simititsa &amp;lt; Kuusalu khk., Kolga v.</LOC> - <COL>M. Mikiver</COL> (<TMP>1899</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -12171,7 +12171,7 @@ Müüdud neiu
 <V>Vai olid sandid saajanaised</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10140010">
+<ITEM nro="hmap10140010" y="1899">
 <META>
 <ID>H, Mapp 1014 (10)</ID> &lt; <LOC>Ingerimaa, Simititsa &amp;lt; Kuusalu khk., Kolga v.</LOC> - <COL>M. Mikiver</COL> (<TMP>1899</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -12185,7 +12185,7 @@ Müüdud neiu
 <V>Ega ol'd sandid saajanaised</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10140011">
+<ITEM nro="hmap10140011" y="1899">
 <META>
 <ID>H, Mapp 1014 (11)</ID> &lt; <LOC>Ingerimaa, Simititsa &amp;lt; Kuusalu khk., Kolga v.</LOC> - <COL>M. Mikiver</COL> (<TMP>1899</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -12209,7 +12209,7 @@ Müüdud neiu
 <V>Kaasike linad libedad</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10140012">
+<ITEM nro="hmap10140012" y="1899">
 <META>
 <ID>H, Mapp 1014 (12)</ID> &lt; <LOC>Ingerimaa, Simititsa &amp;lt; Kuusalu khk., Kolga v.</LOC> - <COL>M. Mikiver</COL> (<TMP>1899</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -12224,7 +12224,7 @@ Müüdud neiu
 <V>Nüüd miel mihele mennä</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10140013">
+<ITEM nro="hmap10140013" y="1899">
 <META>
 <ID>H, Mapp 1014 (13)</ID> &lt; <LOC>Ingerimaa, Simititsa &amp;lt; Kuusalu khk., Kolga v.</LOC> - <COL>M. Mikiver</COL> (<TMP>1899</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -12239,7 +12239,7 @@ Müüdud neiu
 <V>Varsakabja kapukaida</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10150014">
+<ITEM nro="hmap10150014" y="1899">
 <META>
 <ID>H, Mapp 1015 (14)</ID> &lt; <LOC>Ingerimaa, Simititsa &amp;lt; Kuusalu khk., Kolga v.</LOC> - <COL>M. Mikiver</COL> (<TMP>1899</TMP>)
 <TYP_YHT>Kodu kaugel + Kaasa kaugel</TYP_YHT>
@@ -12281,7 +12281,7 @@ Kodu kaugel
 <V>Mitu ouna oksa'assa</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10150015">
+<ITEM nro="hmap10150015" y="1899">
 <META>
 <ID>H, Mapp 1015 (15)</ID> &lt; <LOC>Ingerimaa, Simititsa &amp;lt; Kuusalu khk., Kolga v.</LOC> - <COL>M. Mikiver</COL> (<TMP>1899</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -12295,7 +12295,7 @@ Kodu kaugel
 <V>Kaasanaine naaburissa</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10150016">
+<ITEM nro="hmap10150016" y="1899">
 <META>
 <ID>H, Mapp 1015 (16)</ID> &lt; <LOC>Ingerimaa, Simititsa &amp;lt; Kuusalu khk., Kolga v.</LOC> - <COL>M. Mikiver</COL> (<TMP>1899</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -12323,7 +12323,7 @@ Kodu kaugel
 <V>Vaskealjast vaalimaie</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10150017">
+<ITEM nro="hmap10150017" y="1899">
 <META>
 <ID>H, Mapp 1015 (17)</ID> &lt; <LOC>Ingerimaa, Simititsa &amp;lt; Kuusalu khk., Kolga v.</LOC> - <COL>M. Mikiver</COL> (<TMP>1899</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -12348,7 +12348,7 @@ Kodu kaugel
 <V>Meie pruut on polle'eta</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10150018">
+<ITEM nro="hmap10150018" y="1899">
 <META>
 <ID>H, Mapp 1015/6 (18)</ID> &lt; <LOC>Ingerimaa, Simititsa &amp;lt; Kuusalu khk., Kolga v.</LOC> - <COL>M. Mikiver</COL> (<TMP>1899</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -12366,7 +12366,7 @@ Kodu kaugel
 <V>Tanunarmad nastul lüüä</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10160019">
+<ITEM nro="hmap10160019" y="1899">
 <META>
 <ID>H, Mapp 1016 (19)</ID> &lt; <LOC>Ingerimaa, Simititsa &amp;lt; Kuusalu khk., Kolga v.</LOC> - <COL>M. Mikiver</COL> (<TMP>1899</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -12380,7 +12380,7 @@ Kodu kaugel
 <V>Tuttavaksi me tuleme</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10160020">
+<ITEM nro="hmap10160020" y="1899">
 <META>
 <ID>H, Mapp 1016 (20)</ID> &lt; <LOC>Ingerimaa, Simititsa &amp;lt; Kuusalu khk., Kolga v.</LOC> - <COL>M. Mikiver</COL> (<TMP>1899</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -12402,7 +12402,7 @@ Kodu kaugel
 <V>Käi ei pordude kärinäd</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10160021">
+<ITEM nro="hmap10160021" y="1899">
 <META>
 <ID>H, Mapp 1016 (21)</ID> &lt; <LOC>Ingerimaa, Simititsa &amp;lt; Kuusalu khk., Kolga v.</LOC> - <COL>M. Mikiver</COL> (<TMP>1899</TMP>)
 <TYP>
@@ -12429,7 +12429,7 @@ Laimaja sajatus
 <V>Tühjä jutu tostejale</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10160022">
+<ITEM nro="hmap10160022" y="1899">
 <META>
 <ID>H, Mapp 1016 (22)</ID> &lt; <LOC>Ingerimaa, Simititsa &amp;lt; Kuusalu khk., Kolga v.</LOC> - <COL>M. Mikiver</COL> (<TMP>1899</TMP>)
 <LLIIK>Pulmalaulud(?)</LLIIK>
@@ -12464,7 +12464,7 @@ Laimaja sajatus
 <V>Minu möödä mennessäsä</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10170023">
+<ITEM nro="hmap10170023" y="1899">
 <META>
 <ID>H, Mapp 1017 (23)</ID> &lt; <LOC>Ingerimaa, Simititsa &amp;lt; Kuusalu khk., Kolga v.</LOC> - <COL>M. Mikiver</COL> (<TMP>1899</TMP>)
 <TYP>
@@ -12498,7 +12498,7 @@ Neiud kurvad, kosilased surnud
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap10170024">
+<ITEM nro="hmap10170024" y="1899">
 <META>
 <ID>H, Mapp 1017 (24)</ID> &lt; <LOC>Ingerimaa, Simititsa &amp;lt; Kuusalu khk., Kolga v.</LOC> - <COL>M. Mikiver</COL> (<TMP>1899</TMP>)
 <TYP>
@@ -12526,7 +12526,7 @@ Ei lubanud mehele minna
 <V>Üle mää mihe hiaksi</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10170025">
+<ITEM nro="hmap10170025" y="1899">
 <META>
 <ID>H, Mapp 1017/8 (25)</ID> &lt; <LOC>Ingerimaa, Simititsa &amp;lt; Kuusalu khk., Kolga v.</LOC> - <COL>M. Mikiver</COL> (<TMP>1899</TMP>)
 <TYP_YHT>Kiige katsumine + Kallis kiik</TYP_YHT>
@@ -12581,7 +12581,7 @@ Kiige katsumine
 <V>Kiigesamba saajessasi</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10180026">
+<ITEM nro="hmap10180026" y="1899">
 <META>
 <ID>H, Mapp 1018 (26)</ID> &lt; <LOC>Ingerimaa, Simititsa &amp;lt; Kuusalu khk., Kolga v.</LOC> - <COL>M. Mikiver</COL> (<TMP>1899</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -12628,7 +12628,7 @@ Kiige katsumine
 <V>Leiväraasud raamatussa</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10180027">
+<ITEM nro="hmap10180027" y="1899">
 <META>
 <ID>H, Mapp 1018 (27)</ID> &lt; <LOC>Ingerimaa, Simititsa &amp;lt; Kuusalu khk., Kolga v.</LOC> - <COL>M. Mikiver</COL> (<TMP>1899</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -12651,7 +12651,7 @@ Kiige katsumine
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap1027000a">
+<ITEM nro="hmap1027000a" y="0">
 <META>
 <ID>H, Mapp 1027</ID> - <COL>L. Ignatius</COL>
 </META>
@@ -12684,7 +12684,7 @@ Põlved põhku poevad<MRKSNR>*1</MRKSNR>
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap1027000b">
+<ITEM nro="hmap1027000b" y="0">
 <META>
 <ID>H, Mapp 1027</ID> - <COL>L. Ignatius</COL>
 </META>
@@ -12708,7 +12708,7 @@ Põlved põhku poevad<MRKSNR>*1</MRKSNR>
 <V>Kullerkuppe kulmu peäle</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap1027000c">
+<ITEM nro="hmap1027000c" y="0">
 <META>
 <ID>H, Mapp 1027</ID> - <COL>L. Ignatius</COL>
 <TYP_YHT>Kitsas kiik</TYP_YHT>
@@ -12749,7 +12749,7 @@ Kitsas kiik
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap1027000d">
+<ITEM nro="hmap1027000d" y="0">
 <META>
 <ID>H, Mapp 1027</ID> - <COL>L. Ignatius</COL>
 </META>
@@ -12769,7 +12769,7 @@ Kitsas kiik
 <V>Keige pioma vaadi, rahaga.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10300000">
+<ITEM nro="hmap10300000" y="0">
 <META>
 <ID>H, Mapp 1030</ID> - <COL>L. Ignatius</COL>
 </META>
@@ -12786,7 +12786,7 @@ B:
 <V>Kastid keige täiega</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10310020">
+<ITEM nro="hmap10310020" y="0">
 <META>
 <ID>H, Mapp 1031 (20)</ID>
 <LLIIK>Pulmalaulud</LLIIK>
@@ -12819,7 +12819,7 @@ Kõrval saksakeelne gooti kirjas laulu tõlge.
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap10310021">
+<ITEM nro="hmap10310021" y="0">
 <META>
 <ID>H, Mapp 1031 (21)</ID>
 <LLIIK>Pulmalaulud</LLIIK>
@@ -12858,7 +12858,7 @@ Kõrval saksakeelne gooti kirjas osaline laulu tõlge.
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap10320022">
+<ITEM nro="hmap10320022" y="0">
 <META>
 <ID>H, Mapp 1032 (22)</ID>
 <LLIIK>Pulmalaulud</LLIIK>
@@ -12890,7 +12890,7 @@ Arusaamatu saksakeelne gooti kirjas märkus.
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap10320023">
+<ITEM nro="hmap10320023" y="0">
 <META>
 <ID>H, Mapp 1032/3 (23)</ID>
 <LLIIK>Pulmalaulud</LLIIK>
@@ -12940,7 +12940,7 @@ Arusaamatu saksakeelne gooti kirjas märkus.
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap10330024">
+<ITEM nro="hmap10330024" y="0">
 <META>
 <ID>H, Mapp 1033/5 (24)</ID>
 <LLIIK>Pulmalaulud</LLIIK>
@@ -13024,7 +13024,7 @@ Arusaamatu saksakeelne gooti kirjas märkus.
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap10330033">
+<ITEM nro="hmap10330033" y="0">
 <META>
 <ID>H, Mapp 1033 (33)</ID>
 <LLIIK>Pulmalaulud</LLIIK>
@@ -13057,7 +13057,7 @@ Arusaamatu saksakeelne gooti kirjas märkus.
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap10350025">
+<ITEM nro="hmap10350025" y="0">
 <META>
 <ID>H, Mapp 1035 (25)</ID>
 <LLIIK>Pulmalaulud</LLIIK>
@@ -13095,7 +13095,7 @@ Arusaamatu saksakeelne gooti kirjas märkus.
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap10350026">
+<ITEM nro="hmap10350026" y="0">
 <META>
 <ID>H, Mapp 1035 (26)</ID>
 <LLIIK>Pulmalaulud</LLIIK>
@@ -13137,7 +13137,7 @@ Arusaamatu saksakeelne gooti kirjas märkus.
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap10350027">
+<ITEM nro="hmap10350027" y="0">
 <META>
 <ID>H, Mapp 1035/6 (27)</ID>
 <LLIIK>Pulmalaulud</LLIIK>
@@ -13195,7 +13195,7 @@ Arusaamatu saksakeelne gooti kirjas märkus.
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap10360028">
+<ITEM nro="hmap10360028" y="0">
 <META>
 <ID>H, Mapp 1036 (28)</ID>
 <LLIIK>Pulmalaulud</LLIIK>
@@ -13247,7 +13247,7 @@ Arusaamatu saksakeelne gooti kirjas märkus.
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap10370029">
+<ITEM nro="hmap10370029" y="0">
 <META>
 <ID>H, Mapp 1037 (29)</ID>
 <LLIIK>Pulmalaulud</LLIIK>
@@ -13295,7 +13295,7 @@ Arusaamatu saksakeelne gooti kirjas märkus.
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap10370030">
+<ITEM nro="hmap10370030" y="0">
 <META>
 <ID>H, Mapp 1037 (30)</ID>
 <LLIIK>Pulmalaulud</LLIIK>
@@ -13325,7 +13325,7 @@ Arusaamatu saksakeelne gooti kirjas märkus.
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap10370031">
+<ITEM nro="hmap10370031" y="0">
 <META>
 <ID>H, Mapp 1037/8 (31)</ID>
 <LLIIK>Pulmalaulud</LLIIK>
@@ -13388,7 +13388,7 @@ Arusaamatu saksakeelne gooti kirjas märkus.
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap10380032">
+<ITEM nro="hmap10380032" y="0">
 <META>
 <ID>H, Mapp 1038 (32)</ID>
 <LLIIK>Pulmalaulud</LLIIK>
@@ -13433,7 +13433,7 @@ Arusaamatu saksakeelne gooti kirjas märkus.
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap10450001">
+<ITEM nro="hmap10450001" y="0">
 <META>
 <ID>H, Mapp 1045/6 (1)</ID>
 <ZANR>siirdevormiline laul</ZANR>
@@ -13467,7 +13467,7 @@ Arusaamatu saksakeelne gooti kirjas märkus.
 <V>Siidisukad umbeskingad <REFR>kaske</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10460002">
+<ITEM nro="hmap10460002" y="0">
 <META>
 <ID>H, Mapp 1046/7 (2)</ID>
 <ZANR>siirdevormiline laul</ZANR>
@@ -13505,7 +13505,7 @@ Arusaamatu saksakeelne gooti kirjas märkus.
 <V>Vaese vangi valukisa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10470003">
+<ITEM nro="hmap10470003" y="0">
 <META>
 <ID>H, Mapp 1047/50 (3)</ID>
 <ZANR>siirdevormiline laul</ZANR>
@@ -13568,7 +13568,7 @@ Arusaamatu saksakeelne gooti kirjas märkus.
 <V>Perse lahti ka-lartsti</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10500004">
+<ITEM nro="hmap10500004" y="0">
 <META>
 <ID>H, Mapp 1050/2 (4)</ID>
 </META>
@@ -13636,7 +13636,7 @@ Arusaamatu saksakeelne gooti kirjas märkus.
 <V>Munnikotid korralisel</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10750001">
+<ITEM nro="hmap10750001" y="1888">
 <META>
 <ID>H, Mapp 1075 (1)</ID> - <COL>Karl Richard Sprohgis</COL> (<TMP>1888?</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -13671,7 +13671,7 @@ Arusaamatu saksakeelne gooti kirjas märkus.
 <V>Ja matab endist pimedust</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10850000">
+<ITEM nro="hmap10850000" y="1888">
 <META>
 <ID>H, Mapp 1085/6</ID> - <COL>Karl Richard Sprohgis</COL> (<TMP>1888?</TMP>)
 <ZANR></ZANR>
@@ -13708,7 +13708,7 @@ Arusaamatu saksakeelne gooti kirjas märkus.
 <V>Vöö vööl kui Riia liin.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10850012">
+<ITEM nro="hmap10850012" y="1888">
 <META>
 <ID>H, Mapp 1085 (12)</ID> - <COL>Karl Richard Sprohgis</COL> (<TMP>1888?</TMP>)
 <TYP_YHT>Käopojad põues + Kägu kukub</TYP_YHT><LLIIK_YHT>Looduslaulud (Loomad ja linnud - Loomad ja linnud)</LLIIK_YHT></META>
@@ -13732,7 +13732,7 @@ Arusaamatu saksakeelne gooti kirjas märkus.
 <V>Paugub puieraiujale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10860000">
+<ITEM nro="hmap10860000" y="1888">
 <META>
 <ID>H, Mapp 1086</ID> - <COL>Karl Richard Sprohgis</COL> (<TMP>1888?</TMP>)
 <TYP>
@@ -13749,7 +13749,7 @@ Võta tütar teole
 <V>Pane päeva paberisse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap10860013">
+<ITEM nro="hmap10860013" y="1888">
 <META>
 <ID>H, Mapp 1086 (13)</ID> - <COL>Karl Richard Sprohgis</COL> (<TMP>1888?</TMP>)
 <TYP_YHT>Tilluke teomees + Nutust järv</TYP_YHT>
@@ -13788,7 +13788,7 @@ Tilluke teopoiss
 <V><REFR>vaat luuli vat vat luuli</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap1090000a">
+<ITEM nro="hmap1090000a" y="1888">
 <META>
 <ID>H, Mapp 1090</ID> - <COL>Karl Richard Sprohgis</COL> (<TMP>1888?</TMP>)
 </META>
@@ -13804,7 +13804,7 @@ Tilluke teopoiss
 <V>Laulurästäs rinnussen.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap1090000b">
+<ITEM nro="hmap1090000b" y="1888">
 <META>
 <ID>H, Mapp 1090</ID> - <COL>Karl Richard Sprohgis</COL> (<TMP>1888?</TMP>)
 <TYP_YHT>Tilluke teomees</TYP_YHT>
@@ -13850,7 +13850,7 @@ Tilluke teopoiss
 <V>Suvel me oles söömätä.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap11260000">
+<ITEM nro="hmap11260000" y="0">
 <META>
 <ID>H, Mapp 1126</ID>
 <ZANR>uuem rahvalaul</ZANR>
@@ -13874,7 +13874,7 @@ Tilluke teopoiss
 <V>Siis jääb keik rahvas kuulama</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap11350000">
+<ITEM nro="hmap11350000" y="1874">
 <META>
 <ID>H, Mapp 1135/6</ID> - <COL>M. Maante</COL> (<TMP>1874</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -13964,7 +13964,7 @@ Tilluke teopoiss
 <V>Paremaks läks Toomas siis.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap11410001">
+<ITEM nro="hmap11410001" y="0">
 <META>
 <ID>H, Mapp 1141/2 (1)</ID>
 <TYP_YHT>Hiire pulmad + Tütar ei saa tööst palka</TYP_YHT>
@@ -14001,7 +14001,7 @@ Roti pulmad
 <V>Vaenelaps - sain vaevasta!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap1142002a">
+<ITEM nro="hmap1142002a" y="0">
 <META>
 <ID>H, Mapp 1142 (2)</ID>
 <TYP_YHT>Helise, mets! + Hea hääl</TYP_YHT>
@@ -14033,7 +14033,7 @@ Helise mets
 <V>Toru toominga ladvasse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap1142002b">
+<ITEM nro="hmap1142002b" y="0">
 <META>
 <ID>H, Mapp 1142/3 (2)</ID>
 <TYP_YHT>Orjade tee</TYP_YHT>
@@ -14072,7 +14072,7 @@ Orjade tee
 <V>Väli lai ei laida meida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap11430003">
+<ITEM nro="hmap11430003" y="0">
 <META>
 <ID>H, Mapp 1143/4 (3)</ID>
 <TYP>
@@ -14102,7 +14102,7 @@ Haavade vihtlemine
 <V>Enne kui kalmu lunastab!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap11440004">
+<ITEM nro="hmap11440004" y="0">
 <META>
 <ID>H, Mapp 1144/6 (4)</ID>
 <TYP_YHT>Lõikuselaul - ÜLD + Halb sirp</TYP_YHT>
@@ -14158,7 +14158,7 @@ Lõikuse laul
 <V>Siis mu põlluke põgeneb.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap11460005">
+<ITEM nro="hmap11460005" y="0">
 <META>
 <ID>H, Mapp 1146/8 (5)</ID>
 <TYP_YHT>Venna sõjalugu</TYP_YHT>
@@ -14234,7 +14234,7 @@ Vend küsib:
 <V>Puna palenukkidesta!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap1163000a">
+<ITEM nro="hmap1163000a" y="0">
 <META>
 <ID>H, Mapp 1163</ID>
 <ZANR>uuem rahvalaul</ZANR>
@@ -14250,7 +14250,7 @@ Vend küsib:
 <V>Kurbtuses nutuga</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap1163000b">
+<ITEM nro="hmap1163000b" y="0">
 <META>
 <ID>H, Mapp 1163/4</ID>
 </META>
@@ -14284,7 +14284,7 @@ Vend küsib:
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap11640000">
+<ITEM nro="hmap11640000" y="0">
 <META>
 <ID>H, Mapp 1164</ID>
 <ZANR>uuem rahvalaul</ZANR>
@@ -14304,7 +14304,7 @@ Vend küsib:
 <V>Tema vastu põlema</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap1165000a">
+<ITEM nro="hmap1165000a" y="0">
 <META>
 <ID>H, Mapp 1165</ID>
 <ZANR>andmed</ZANR>
@@ -14316,7 +14316,7 @@ Need on Vana rahva pulma laulud paremad peli Neil ei olnud, kes Niisugused laula
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap1165000b">
+<ITEM nro="hmap1165000b" y="0">
 <META>
 <ID>H, Mapp 1165</ID>
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1165.</ANDMEVIIDE>
@@ -14338,7 +14338,7 @@ Need on Vana rahva pulma laulud paremad peli Neil ei olnud, kes Niisugused laula
 <V>Siis Peet jähi varse soiko</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap1165000c">
+<ITEM nro="hmap1165000c" y="0">
 <META>
 <ID>H, Mapp 1165</ID>
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1165.</ANDMEVIIDE>
@@ -14352,7 +14352,7 @@ Need on Vana rahva pulma laulud paremad peli Neil ei olnud, kes Niisugused laula
 <V>Ma toon puid ja peerohalgo</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap1165000d">
+<ITEM nro="hmap1165000d" y="0">
 <META>
 <ID>H, Mapp 1165</ID>
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1165.</ANDMEVIIDE>
@@ -14366,7 +14366,7 @@ Need on Vana rahva pulma laulud paremad peli Neil ei olnud, kes Niisugused laula
 <V>Jumala velinge kahju ei tee</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap1166000a">
+<ITEM nro="hmap1166000a" y="0">
 <META>
 <ID>H, Mapp 1166</ID>
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1165.</ANDMEVIIDE>
@@ -14394,7 +14394,7 @@ Need on Vana rahva pulma laulud paremad peli Neil ei olnud, kes Niisugused laula
 <V>Seda rõõmu vaatsid roti pere</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap1166000b">
+<ITEM nro="hmap1166000b" y="0">
 <META>
 <ID>H, Mapp 1166</ID>
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1165.</ANDMEVIIDE>
@@ -14410,7 +14410,7 @@ Need on Vana rahva pulma laulud paremad peli Neil ei olnud, kes Niisugused laula
 <V>Solli koke eest elus pai</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap11670000">
+<ITEM nro="hmap11670000" y="0">
 <META>
 <ID>H, Mapp 1167/70</ID>
 <ZANR>uuem rahvalaul</ZANR>
@@ -14578,7 +14578,7 @@ Need on Vana rahva pulma laulud paremad peli Neil ei olnud, kes Niisugused laula
 <V>Kord jõuab, et hingab ka õnsade und.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap1171000a">
+<ITEM nro="hmap1171000a" y="0">
 <META>
 <ID>H, Mapp 1171</ID>
 </META>
@@ -14597,7 +14597,7 @@ Need on Vana rahva pulma laulud paremad peli Neil ei olnud, kes Niisugused laula
 <V>Kellel muile kui sinule</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap1171000b">
+<ITEM nro="hmap1171000b" y="0">
 <META>
 <ID>H, Mapp 1171</ID>
 </META>
@@ -14628,7 +14628,7 @@ Need on Vana rahva pulma laulud paremad peli Neil ei olnud, kes Niisugused laula
 <V>Kasukas kahel mõlimil</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap11720000">
+<ITEM nro="hmap11720000" y="0">
 <META>
 <ID>H, Mapp 1172</ID>
 </META>
@@ -14647,7 +14647,7 @@ Need on Vana rahva pulma laulud paremad peli Neil ei olnud, kes Niisugused laula
 <V>Oora piima ta imenud</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap11720001">
+<ITEM nro="hmap11720001" y="0">
 <META>
 <ID>H, Mapp 1172 (1)</ID>
 </META>
@@ -14667,7 +14667,7 @@ Sis II <MRKSNR>*1</MRKSNR>
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap11720002">
+<ITEM nro="hmap11720002" y="0">
 <META>
 <ID>H, Mapp 1172 (2)</ID>
 </META>
@@ -14699,7 +14699,7 @@ Algaks nagu eelmise lauluga
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap1173000a">
+<ITEM nro="hmap1173000a" y="0">
 <META>
 <ID>H, Mapp 1173</ID>
 </META>
@@ -14720,7 +14720,7 @@ Esimene rida loetamatu, kuna köite ülemine äär on rebenenud.
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap1173000b">
+<ITEM nro="hmap1173000b" y="0">
 <META>
 <ID>H, Mapp 1173</ID>
 </META>
@@ -14742,7 +14742,7 @@ Esimene rida loetamatu, kuna köite ülemine äär on rebenenud.
 <V>Kõht mul kannab kõrgid põlled</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap1175000a">
+<ITEM nro="hmap1175000a" y="0">
 <META>
 <ID>H, Mapp 1175</ID>
 <TYP_YHT>Unenägu</TYP_YHT>
@@ -14771,7 +14771,7 @@ Unenägu
 <V>Sarapuu su saateja.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap1175000b">
+<ITEM nro="hmap1175000b" y="0">
 <META>
 <ID>H, Mapp 1175</ID>
 </META>
@@ -14782,7 +14782,7 @@ Unenägu
 <V>Siis kui pääsen põrguesta</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap11770000">
+<ITEM nro="hmap11770000" y="0">
 <META>
 <ID>H, Mapp 1177</ID> - <COL>A. Kurrikoff</COL>
 <ZANR/><TYP_YHT>Määramata</TYP_YHT>
@@ -14864,7 +14864,7 @@ Omalooming
 <V>Hans viis nooriku koduje.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap11790000">
+<ITEM nro="hmap11790000" y="0">
 <META>
 <ID>H, Mapp 1179</ID> - <COL>A. Kurrikoff</COL>
 <ZANR/><TYP_YHT>Määramata</TYP_YHT>
@@ -15007,7 +15007,7 @@ Omalooming
 <V>Toob meil taevast jälle toibo.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap11800000">
+<ITEM nro="hmap11800000" y="0">
 <META>
 <ID>H, Mapp 1180</ID> - <COL>A. Kurrikoff</COL>
 <ZANR/><TYP_YHT>Määramata</TYP_YHT>
@@ -15093,7 +15093,7 @@ Omalooming
 <V>Said ka rohkest saaja sõitu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap11930000">
+<ITEM nro="hmap11930000" y="0">
 <META>
 <ID>H, Mapp 1193</ID>
 <ZANR>uuem rahvalaul</ZANR>
@@ -15129,7 +15129,7 @@ Omalooming
 <V>Vaid lahket lauluvana.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap11970000">
+<ITEM nro="hmap11970000" y="0">
 <META>
 <ID>H, Mapp 1197</ID>
 <ZANR>uuem rahvalaul</ZANR>
@@ -15147,7 +15147,7 @@ Omalooming
 <V>Liha see saab mõisa kantud</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap12020000">
+<ITEM nro="hmap12020000" y="0">
 <META>
 <ID>H, Mapp 1202/3</ID>
 <ZANR>uuem rahvalaul</ZANR>
@@ -15183,7 +15183,7 @@ Omalooming
 <V>Keelt ta ei änam taggem</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap12050000">
+<ITEM nro="hmap12050000" y="0">
 <META>
 <ID>H, Mapp 1205</ID>
 <TYP_YHT>Lauliku sõim</TYP_YHT>
@@ -15204,7 +15204,7 @@ Lauliku sõim
 <V>Küla kaiod kägavad</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap1206000a">
+<ITEM nro="hmap1206000a" y="0">
 <META>
 <ID>H, Mapp 1206</ID>
 <ZANR>uuem rahvalaul</ZANR>
@@ -15229,7 +15229,7 @@ Lauliku sõim
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap1206000b">
+<ITEM nro="hmap1206000b" y="0">
 <META>
 <ID>H, Mapp 1206/7</ID>
 <ZANR>siirdevormiline laul</ZANR>
@@ -15317,7 +15317,7 @@ Lauliku sõim
 <V>Kalli raha eest neid müüa</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap12080000">
+<ITEM nro="hmap12080000" y="0">
 <META>
 <ID>H, Mapp 1208</ID>
 <ZANR>uuem rahvalaul</ZANR>
@@ -15339,7 +15339,7 @@ Lauliku sõim
 <V>Kindlad et nad oidvad meid</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap12130001">
+<ITEM nro="hmap12130001" y="0">
 <META>
 <ID>H, Mapp 1213/4 (1)</ID>
 </META>
@@ -15400,7 +15400,7 @@ Lauliku sõim
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap12150002">
+<ITEM nro="hmap12150002" y="0">
 <META>
 <ID>H, Mapp 1215/6 (2)</ID>
 </META>
@@ -15442,7 +15442,7 @@ Lauliku sõim
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap12160003">
+<ITEM nro="hmap12160003" y="0">
 <META>
 <ID>H, Mapp 1216, 1219 (3)</ID>
 </META>
@@ -15476,7 +15476,7 @@ Lauliku sõim
 <V>Sealt ma laps need laulud võtsin</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap12180000">
+<ITEM nro="hmap12180000" y="0">
 <META>
 <ID>H, Mapp 1218</ID>
 </META>
@@ -15513,7 +15513,7 @@ Laulu algab pooliku värsiga, algust ei leitud.
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hmap12200000">
+<ITEM nro="hmap12200000" y="0">
 <META>
 <ID>H, Mapp 1220</ID>
 <ZANR>uuem rahvalaul</ZANR>
@@ -15546,7 +15546,7 @@ Laulu algab pooliku värsiga, algust ei leitud.
 <V>Neil saerekarvad pauna sees.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap12220000">
+<ITEM nro="hmap12220000" y="0">
 <META>
 <ID>H, Mapp 1222</ID>
 <ZANR>uuem rahvalaul</ZANR>
@@ -15612,7 +15612,7 @@ Laulu algab pooliku värsiga, algust ei leitud.
 <V>Saadan ära oma maale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap12230000">
+<ITEM nro="hmap12230000" y="0">
 <META>
 <ID>H, Mapp 1223</ID>
 <ZANR>uuem rahvalaul</ZANR>
@@ -15636,7 +15636,7 @@ Laulu algab pooliku värsiga, algust ei leitud.
 <V>Vaid iga päeva vanemas</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap12260001">
+<ITEM nro="hmap12260001" y="0">
 <META>
 <ID>H, Mapp 1226 (1)</ID>
 <LLIIK>Pulmalaulud</LLIIK>
@@ -15662,7 +15662,7 @@ Laulu algab pooliku värsiga, algust ei leitud.
 <V>Taldrik tano lae peäle</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap12260002">
+<ITEM nro="hmap12260002" y="0">
 <META>
 <ID>H, Mapp 1226 (2)</ID>
 <LLIIK>Pulmalaulud</LLIIK>
@@ -15681,7 +15681,7 @@ Laulu algab pooliku värsiga, algust ei leitud.
 <V>Alla aknad ette pannud</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap12260003">
+<ITEM nro="hmap12260003" y="0">
 <META>
 <ID>H, Mapp 1226 (3)</ID>
 <ZANR>uuem rahvalaul</ZANR>
@@ -15700,7 +15700,7 @@ Laulu algab pooliku värsiga, algust ei leitud.
 <V>Mari kandi kõkki</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap12270004">
+<ITEM nro="hmap12270004" y="0">
 <META>
 <ID>H, Mapp 1227 (4)</ID>
 <TYP_YHT>Hollandi sulane</TYP_YHT>
@@ -15741,7 +15741,7 @@ Hollandi sulane
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap12270005">
+<ITEM nro="hmap12270005" y="0">
 <META>
 <ID>H, Mapp 1227 (5)</ID>
 <TYP_YHT>Mikult tuld toomas</TYP_YHT>
@@ -15775,7 +15775,7 @@ Mikult tuld toomas
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hmap12280006">
+<ITEM nro="hmap12280006" y="0">
 <META>
 <ID>H, Mapp 1228 (6)</ID>
 </META>
@@ -15798,7 +15798,7 @@ Mikult tuld toomas
 <V>Kuue venna kulutuse</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap12280007">
+<ITEM nro="hmap12280007" y="0">
 <META>
 <ID>H, Mapp 1228 (7)</ID>
 <TYP_YHT>Miks ei mullu tulnud</TYP_YHT>
@@ -15821,7 +15821,7 @@ Miks mullu ei tulnud
 <V>Katkud kaelast kudrused</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap12370000">
+<ITEM nro="hmap12370000" y="0">
 <META>
 <ID>H, Mapp 1237/8</ID> - <COL>J. Ainson</COL>
 <TYP_YHT>Kaevul kosija + Kalmuneiu</TYP_YHT>
@@ -15927,7 +15927,7 @@ Kaevul kosija
 <V>Poig pane tähes taivaesse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hmap12390000">
+<ITEM nro="hmap12390000" y="0">
 <META>
 <ID>H, Mapp 1239</ID>
 </META>

@@ -1,5 +1,5 @@
 <COLLECTION>
-<ITEM nro="hpee00030001">
+<ITEM nro="hpee00030001" y="1879">
 <META>
 <ID>H, Peet 3 (1)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Lauliku vaev</TYP_YHT>
@@ -15,7 +15,7 @@ Lauliku vaev
 <V>Laulu laalan teist muretsen.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00030002">
+<ITEM nro="hpee00030002" y="1879">
 <META>
 <ID>H, Peet 3 (2)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Hea hääl</TYP_YHT>
@@ -34,7 +34,7 @@ Hää hääl
 <V>Vene vilespilli ääle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00030003">
+<ITEM nro="hpee00030003" y="1879">
 <META>
 <ID>H, Peet 3/4 (3)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -72,7 +72,7 @@ Nooriku kaebtus
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hpee00040004">
+<ITEM nro="hpee00040004" y="1879">
 <META>
 <ID>H, Peet 4/5 (4)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Sala neiusid vaatamas</TYP_YHT>
@@ -98,7 +98,7 @@ Sala neiusid vaatlemas
 <V>Pärjapää minu pärälta</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00050005">
+<ITEM nro="hpee00050005" y="1879">
 <META>
 <ID>H, Peet 5/6 (5)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 </META>
@@ -127,7 +127,7 @@ Sala neiusid vaatlemas
 <V>Oolas otsa kandamine</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00060006">
+<ITEM nro="hpee00060006" y="1879">
 <META>
 <ID>H, Peet 6/7 (6)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Suude sulg</TYP_YHT>
@@ -161,7 +161,7 @@ Küla ütel
 <V>Paeatan veel partsi moodi</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00070007">
+<ITEM nro="hpee00070007" y="1879">
 <META>
 <ID>H, Peet 7/8 (7)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Poisi ja neiu matus</TYP_YHT>
@@ -196,7 +196,7 @@ Neiu ja poisi matus
 <V>Iga lauba Lahmussa saksad</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00080008">
+<ITEM nro="hpee00080008" y="1879">
 <META>
 <ID>H, Peet 8/10 (8)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kotkas kaare alt + Neli neidu</TYP_YHT>
@@ -240,7 +240,7 @@ Kotkas kaare alt
 <V>Jalad alta arvast metsäst</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00100009">
+<ITEM nro="hpee00100009" y="1879">
 <META>
 <ID>H, Peet 10/1 (9)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Riia rikkumine</TYP_YHT>
@@ -273,7 +273,7 @@ Riia rikkumine
 <V>Talna tabad tugevamad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00110010">
+<ITEM nro="hpee00110010" y="1879">
 <META>
 <ID>H, Peet 11 (10)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -289,7 +289,7 @@ Laisk naine naerab
 <V>Laidab laanekarvaline</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00110011">
+<ITEM nro="hpee00110011" y="1879">
 <META>
 <ID>H, Peet 11/2 (11)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -321,7 +321,7 @@ Murelaul
 <V>Leinäsauna sammelita.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00120012">
+<ITEM nro="hpee00120012" y="1879">
 <META>
 <ID>H, Peet 12/3 (12)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kättemaks sakstele</TYP_YHT>
@@ -342,7 +342,7 @@ Kättemaks sakstele
 <V>Saksad saatu rookimaie</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00130013">
+<ITEM nro="hpee00130013" y="1879">
 <META>
 <ID>H, Peet 13/4 (13)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Laulu võim + Hea hääl + Lauliku vaev</TYP_YHT>
@@ -377,7 +377,7 @@ Laulu võim
 <V>Kõnelen metsa kõmiseb</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00140014">
+<ITEM nro="hpee00140014" y="1879">
 <META>
 <ID>H, Peet 14/5 (14)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 </META>
@@ -403,7 +403,7 @@ Laulu võim
 <V>Laon loo laane pääle</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00150015">
+<ITEM nro="hpee00150015" y="1879">
 <META>
 <ID>H, Peet 15 (15)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -426,7 +426,7 @@ Laulu võim
 <V>Lastel laasta korjata</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00150016">
+<ITEM nro="hpee00150016" y="1879">
 <META>
 <ID>H, Peet 15/7 (16)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Humal hõikas + Õlu viib meeled peast</TYP_YHT>
@@ -468,7 +468,7 @@ Humal
 <V>Kui ei pidajad pirise.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00170017">
+<ITEM nro="hpee00170017" y="1879">
 <META>
 <ID>H, Peet 17/22 (17)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Haned kadunud</TYP_YHT>
@@ -582,7 +582,7 @@ Haned kadunud
 <V>Kakutuda kudruskaelad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00220018">
+<ITEM nro="hpee00220018" y="1879">
 <META>
 <ID>H, Peet 22/4 (18)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Venna otsija</TYP_YHT>
@@ -641,7 +641,7 @@ Venna otsija
 <V>Purlak jõi vellä punada</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00240019">
+<ITEM nro="hpee00240019" y="1879">
 <META>
 <ID>H, Peet 24/6 (19)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Must naine</TYP_YHT>
@@ -690,7 +690,7 @@ Must naine
 <V>Kuldarooni prouakene</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00260020">
+<ITEM nro="hpee00260020" y="1879">
 <META>
 <ID>H, Peet 26 (20)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Imelik maja</TYP_YHT>
@@ -707,7 +707,7 @@ Tuule tuba
 <V>Elu ilma ääre pääle</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00260021">
+<ITEM nro="hpee00260021" y="1879">
 <META>
 <ID>H, Peet 26/7 (21)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -739,7 +739,7 @@ Peretütar ja vaenelaps
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hpee00270022">
+<ITEM nro="hpee00270022" y="1879">
 <META>
 <ID>H, Peet 27 (22)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -757,7 +757,7 @@ Elame ilusti
 <V>Kenä kirstu keske'elle</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00270023">
+<ITEM nro="hpee00270023" y="1879">
 <META>
 <ID>H, Peet 27/8 (23)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Ema haual</TYP_YHT>
@@ -785,7 +785,7 @@ Ema haual
 <V>Vara võõraste varale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00280024">
+<ITEM nro="hpee00280024" y="1879">
 <META>
 <ID>H, Peet 28/9 (24)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Must naine</TYP_YHT>
@@ -813,7 +813,7 @@ Must naine
 <V>Valgem kõige valla ulgast.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00290025">
+<ITEM nro="hpee00290025" y="1879">
 <META>
 <ID>H, Peet 29/30 (25)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Tamm lääb tantsima + Ei ole tantsitajat</TYP_YHT>
@@ -849,7 +849,7 @@ Tantsu l
 <V>Küll ma kõnnis kõrgemini.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00300026">
+<ITEM nro="hpee00300026" y="1879">
 <META>
 <ID>H, Peet 30 (26)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Ajage kari siia!</TYP_YHT>
@@ -870,7 +870,7 @@ Ajage kari siia
 <V>Tule kodu kirjak lehmä.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00300027">
+<ITEM nro="hpee00300027" y="1879">
 <META>
 <ID>H, Peet 30/1 (27)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <ZANR>labajalalaul</ZANR><TYP>
@@ -886,7 +886,7 @@ Tee luuda
 <V>Sia pääpool sisse</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00310027">
+<ITEM nro="hpee00310027" y="1879">
 <META>
 <ID>H, Peet 31/2 (27)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -924,7 +924,7 @@ Ilus tütar isakodus ja mehekodus
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hpee00320028">
+<ITEM nro="hpee00320028" y="1879">
 <META>
 <ID>H, Peet 32 (28)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Risus vili</TYP_YHT>
@@ -942,7 +942,7 @@ Vilu vilja viinud
 <V>Kust saab pulmalinnassida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00320029">
+<ITEM nro="hpee00320029" y="1879">
 <META>
 <ID>H, Peet 32 (29)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -960,7 +960,7 @@ Laisk peretütar
 <V>Isä aidast vällä toodud</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00320030">
+<ITEM nro="hpee00320030" y="1879">
 <META>
 <ID>H, Peet 32/3 (30)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -987,7 +987,7 @@ Neiu kaup kambris
 <V>emä põlvede ees</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00330031">
+<ITEM nro="hpee00330031" y="1879">
 <META>
 <ID>H, Peet 33/4 (31)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -1007,7 +1007,7 @@ Kehvaks kasvanud
 <V>Kuldakingä kiitsutaja</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00340032">
+<ITEM nro="hpee00340032" y="1879">
 <META>
 <ID>H, Peet 34/6 (32)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -1057,7 +1057,7 @@ Kehvaks kasvanud
 <V>Juhatust mu jutudesta</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00360033">
+<ITEM nro="hpee00360033" y="1879">
 <META>
 <ID>H, Peet 36/7 (33)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -1081,7 +1081,7 @@ Kehvaks kasvanud
 <V>Tulge jälle teista korda</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00370034">
+<ITEM nro="hpee00370034" y="1879">
 <META>
 <ID>H, Peet 37/8 (34)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Asjatult loodud + Käseb tules magada</TYP_YHT>
@@ -1115,7 +1115,7 @@ Asjata loodud
 <V>Silus pääd ja pistis silmä</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00380035">
+<ITEM nro="hpee00380035" y="1879">
 <META>
 <ID>H, Peet 38 (35)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Veere venna juurde</TYP_YHT>
@@ -1133,7 +1133,7 @@ Veere, päev
 <V>Kullatud kõrendid möödä</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00380036">
+<ITEM nro="hpee00380036" y="1879">
 <META>
 <ID>H, Peet 38 (36)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -1151,7 +1151,7 @@ Peretütar ja vaenelaps
 <V>Öö oidsin isä obusta</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00380037">
+<ITEM nro="hpee00380037" y="1879">
 <META>
 <ID>H, Peet 38/9 (37)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Orja palk</TYP_YHT>
@@ -1179,7 +1179,7 @@ Orja palk
 <V>Ei tule vaene ei võta vaeva.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00390038">
+<ITEM nro="hpee00390038" y="1879">
 <META>
 <ID>H, Peet 39/40 (38)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -1198,7 +1198,7 @@ Poisid pungassilmad
 <V>Roppis käisid kui need rondid.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00400039">
+<ITEM nro="hpee00400039" y="1879">
 <META>
 <ID>H, Peet 40 (39)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -1217,7 +1217,7 @@ Uhkelt poistest mööda
 <V>Kukke kuldaõrre pääle</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00400040">
+<ITEM nro="hpee00400040" y="1879">
 <META>
 <ID>H, Peet 40/1 (40)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -1236,7 +1236,7 @@ Uhkelt poistest mööda
 <V>Vaskevarvu veeretada</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00410041">
+<ITEM nro="hpee00410041" y="1879">
 <META>
 <ID>H, Peet 41/2 (41)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Laulu võim + Küla jääb kuulama + _ + Orjade tee</TYP_YHT>
@@ -1272,7 +1272,7 @@ Laulu võim
 <V>Kust on Maarja maale tulnud</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00420042">
+<ITEM nro="hpee00420042" y="1879">
 <META>
 <ID>H, Peet 42 (42)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Lauliku soost</TYP_YHT>
@@ -1288,7 +1288,7 @@ Lauliku soost
 <V>Veeretaja vennänaene</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00420043">
+<ITEM nro="hpee00420043" y="1879">
 <META>
 <ID>H, Peet 42/3 (43)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Õunapuu + Kiigel kartlik + Kiik kiunub kindaid</TYP_YHT>
@@ -1332,7 +1332,7 @@ Lauliku soost
 <V>Äiu äidä säärepaelu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00430044">
+<ITEM nro="hpee00430044" y="1879">
 <META>
 <ID>H, Peet 43/4 (44)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <LLIIK>Lastelaulud</LLIIK>
@@ -1347,7 +1347,7 @@ Lauliku soost
 <V>Saba selgä mallerpuile</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00440045">
+<ITEM nro="hpee00440045" y="1879">
 <META>
 <ID>H, Peet 44 (45)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kättemaks sakstele</TYP_YHT>
@@ -1372,7 +1372,7 @@ Kättemaks sakstele
 <V>Valitseja vagu aeama.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00440046">
+<ITEM nro="hpee00440046" y="1879">
 <META>
 <ID>H, Peet 44/5 (46)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -1387,7 +1387,7 @@ Puust teopoiss
 <V>Saetud saarejuurikista</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00450047">
+<ITEM nro="hpee00450047" y="1879">
 <META>
 <ID>H, Peet 45 (47)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -1405,7 +1405,7 @@ Hoiatas suure naise eest
 <V>Ulluke usinakene.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00450048">
+<ITEM nro="hpee00450048" y="1879">
 <META>
 <ID>H, Peet 45/6 (48)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Varga õpetamine</TYP_YHT>
@@ -1437,7 +1437,7 @@ Hoiatas suure naise eest
 <V>Kas tuleb Aadu järele</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00460049">
+<ITEM nro="hpee00460049" y="1879">
 <META>
 <ID>H, Peet 46 (49)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Karjasepõli</TYP_YHT>
@@ -1456,7 +1456,7 @@ Karjasepõlv
 <V>Igäpäe pää ligeda</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00470050">
+<ITEM nro="hpee00470050" y="1879">
 <META>
 <ID>H, Peet 47 (50)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Sulasele seeni süüa</TYP_YHT>
@@ -1475,7 +1475,7 @@ Sulase halb söök
 <V>Perenaese perset vastu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00470051">
+<ITEM nro="hpee00470051" y="1879">
 <META>
 <ID>H, Peet 47/8 (51)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Ennem kivi kui poisi juures</TYP_YHT>
@@ -1500,7 +1500,7 @@ Enne kivi kui poisi juures
 <V>Maa pääle Mardikesi</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00480052">
+<ITEM nro="hpee00480052" y="1879">
 <META>
 <ID>H, Peet 48 (52)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Hirmus mõis</TYP_YHT>
@@ -1518,7 +1518,7 @@ Hirmus mõis
 <V>Ikki tuigub toomingane</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00480053">
+<ITEM nro="hpee00480053" y="1879">
 <META>
 <ID>H, Peet 48 (53)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -1533,7 +1533,7 @@ Poissmehe põli
 <V>Naene kallis katsumata</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00480054">
+<ITEM nro="hpee00480054" y="1879">
 <META>
 <ID>H, Peet 48/9 (54)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Loomad vilja söönud</TYP_YHT>
@@ -1563,7 +1563,7 @@ Loomad vilja viinud
 <V>Saba sai Saksa taaderisse</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00490055">
+<ITEM nro="hpee00490055" y="1879">
 <META>
 <ID>H, Peet 49/50 (55)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Vanapoisid müürile magama</TYP_YHT>
@@ -1588,7 +1588,7 @@ Vanapoiste pilge
 <V>Kari käinud kallastessa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00500056">
+<ITEM nro="hpee00500056" y="1879">
 <META>
 <ID>H, Peet 50/1 (56)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -1614,7 +1614,7 @@ Korratu talu
 <V>Kolmas rottide ronida</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00510057">
+<ITEM nro="hpee00510057" y="1879">
 <META>
 <ID>H, Peet 51/2 (57)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 </META>
@@ -1653,7 +1653,7 @@ Korratu talu
 <V>Lepäleenta rüübätasse</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00520058">
+<ITEM nro="hpee00520058" y="1879">
 <META>
 <ID>H, Peet 52/4 (58)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Hollandi sulane</TYP_YHT>
@@ -1698,7 +1698,7 @@ Hollandi sulane
 <V>Kivikausid killa-kõlla.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00540059">
+<ITEM nro="hpee00540059" y="1879">
 <META>
 <ID>H, Peet 54/5 (59)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kupja sajatus</TYP_YHT>
@@ -1736,7 +1736,7 @@ Kupja sajatus
 <V>Siis sind pannas Maarja mulda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00550060">
+<ITEM nro="hpee00550060" y="1879">
 <META>
 <ID>H, Peet 55/6 (60)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Orja palk</TYP_YHT>
@@ -1769,7 +1769,7 @@ Orja palk
 <V>Kangapaagid kainalisse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00560061">
+<ITEM nro="hpee00560061" y="1879">
 <META>
 <ID>H, Peet 56/7 (61)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Surma sajatus</TYP_YHT>
@@ -1795,7 +1795,7 @@ Surma sajatus
 <V>Kaseladval kasvatanud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00570062">
+<ITEM nro="hpee00570062" y="1879">
 <META>
 <ID>H, Peet 57/8 (62)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Käopojad põues</TYP_YHT>
@@ -1835,7 +1835,7 @@ Käopoeg
 <V>Tärkmes olli täienahka.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00580063">
+<ITEM nro="hpee00580063" y="1879">
 <META>
 <ID>H, Peet 58/60 (63)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 </META>
@@ -1894,7 +1894,7 @@ Käopoeg
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hpee00610064">
+<ITEM nro="hpee00610064" y="1879">
 <META>
 <ID>H, Peet 61 (64)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>_ + Halva ilmaga tööl</TYP_YHT>
@@ -1918,7 +1918,7 @@ Vara võtsin naise
 <V>Kärpis kellä otsakese.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00610065">
+<ITEM nro="hpee00610065" y="1879">
 <META>
 <ID>H, Peet 61/2 (65)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>_ + Lauliku vaev</TYP_YHT>
@@ -1944,7 +1944,7 @@ Loodad kündma
 <V>Rehe peksän see unetan.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00620066">
+<ITEM nro="hpee00620066" y="1879">
 <META>
 <ID>H, Peet 62/6 (66)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Keda tapan? + Kass kaevus + Kaevul kosija + Oleks see mees minu!</TYP_YHT>
@@ -2058,7 +2058,7 @@ Loomade tapmine
 <V>Sii o' aida kui alevi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00670067">
+<ITEM nro="hpee00670067" y="1879">
 <META>
 <ID>H, Peet 67 (67)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Neiu tahab taganeda</TYP_YHT>
@@ -2090,7 +2090,7 @@ Pruut tahab taganeda
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00680068">
+<ITEM nro="hpee00680068" y="1879">
 <META>
 <ID>H, Peet 68 (68)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -2114,7 +2114,7 @@ Murelaul
 <V>Mehenaine meelitada.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00680069">
+<ITEM nro="hpee00680069" y="1879">
 <META>
 <ID>H, Peet 68/9 (69)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Ühtelaulmine</TYP_YHT>
@@ -2149,7 +2149,7 @@ Kokkusaamine
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hpee00690070">
+<ITEM nro="hpee00690070" y="1879">
 <META>
 <ID>H, Peet 69 (70)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Lauliku sõim</TYP_YHT>
@@ -2168,7 +2168,7 @@ Halb laulik
 <V>Kits on kurgu kinni pannud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00700071">
+<ITEM nro="hpee00700071" y="1879">
 <META>
 <ID>H, Peet 70 (71)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Lauliku sõim</TYP_YHT>
@@ -2194,7 +2194,7 @@ Halb laulik
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hpee00700073">
+<ITEM nro="hpee00700073" y="1879">
 <META>
 <ID>H, Peet 70/1 (73)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Lauliku sõim</TYP_YHT>
@@ -2213,7 +2213,7 @@ Halb laulik
 <V>Vana Reinu rinnakarvad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00710072">
+<ITEM nro="hpee00710072" y="1879">
 <META>
 <ID>H, Peet 71 (72)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Lauliku sõim</TYP_YHT>
@@ -2233,7 +2233,7 @@ Halb laulik
 <V>Suu sul soolika limaga</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00710074">
+<ITEM nro="hpee00710074" y="1879">
 <META>
 <ID>H, Peet 71 (74)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -2251,7 +2251,7 @@ Sõimatud poiss
 <V>Vana kunti koogutanud</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00710075">
+<ITEM nro="hpee00710075" y="1879">
 <META>
 <ID>H, Peet 71 (75)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Lauliku sõim</TYP_YHT>
@@ -2269,7 +2269,7 @@ Halb laulik
 <V>Pime ilma peidelita</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00710076">
+<ITEM nro="hpee00710076" y="1879">
 <META>
 <ID>H, Peet 71/2 (76)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Neiuhulk laiali</TYP_YHT>
@@ -2291,7 +2291,7 @@ Neiuhulk laiali
 <V>Kesäpõldu keske'elle</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00720077">
+<ITEM nro="hpee00720077" y="1879">
 <META>
 <ID>H, Peet 72/3 (77)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Tähemõrsja</TYP_YHT>
@@ -2325,7 +2325,7 @@ Salme
 <V>Läksin aga tillu tähele</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00730078">
+<ITEM nro="hpee00730078" y="1879">
 <META>
 <ID>H, Peet 73 (78)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -2344,7 +2344,7 @@ Arg kosilane / Puud
 <V>Kuues salka kuusepuida</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00740079">
+<ITEM nro="hpee00740079" y="1879">
 <META>
 <ID>H, Peet 74/5 (79)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Tule mulle!</TYP_YHT>
@@ -2380,7 +2380,7 @@ Tule mulle
 <V>Mulle tulles meile saies</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00750080">
+<ITEM nro="hpee00750080" y="1879">
 <META>
 <ID>H, Peet 75/6 (80)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Halb kündja</TYP_YHT>
@@ -2415,7 +2415,7 @@ Halb kündja
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hpee00760081">
+<ITEM nro="hpee00760081" y="1879">
 <META>
 <ID>H, Peet 76 (81)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Halb kündja</TYP_YHT>
@@ -2433,7 +2433,7 @@ Halb kündja
 <V>Sinilillidel sigidä</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00760082">
+<ITEM nro="hpee00760082" y="1879">
 <META>
 <ID>H, Peet 76 (82)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Halb kündja</TYP_YHT>
@@ -2453,7 +2453,7 @@ Halb kündja
 <V>Rükki robieinäline</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00760083">
+<ITEM nro="hpee00760083" y="1879">
 <META>
 <ID>H, Peet 76/8 (83)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -2494,7 +2494,7 @@ Unekirikus neiusid valimas
 <V>Saksa karpi kaalarätti.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00780084">
+<ITEM nro="hpee00780084" y="1879">
 <META>
 <ID>H, Peet 78/9 (84)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Öösel üksi + Kus istun - seal itken</TYP_YHT>
@@ -2527,7 +2527,7 @@ Unekirikus neiusid valimas
 <V>Joomata pale higine.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00790085">
+<ITEM nro="hpee00790085" y="1879">
 <META>
 <ID>H, Peet 79/80 (85)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Lauliku sõim</TYP_YHT>
@@ -2564,7 +2564,7 @@ Halb laulik ja hea laulik
 <V>Suuri kulli suutanud</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00800086">
+<ITEM nro="hpee00800086" y="1879">
 <META>
 <ID>H, Peet 80 (86)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -2581,7 +2581,7 @@ Tahab töötegijat naist
 <V>Laia raamatu lugeja.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00810087">
+<ITEM nro="hpee00810087" y="1879">
 <META>
 <ID>H, Peet 81/4 (87)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Venna sõjalugu</TYP_YHT>
@@ -2675,7 +2675,7 @@ Sõja laul
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hpee00840088">
+<ITEM nro="hpee00840088" y="1879">
 <META>
 <ID>H, Peet 84/5 (88)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Humal hõikas + Õlu viib meeled peast</TYP_YHT>
@@ -2702,7 +2702,7 @@ Humal
 <V>Tüdrikud pärjed peosse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00850089">
+<ITEM nro="hpee00850089" y="1879">
 <META>
 <ID>H, Peet 85 (89)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Müüme ära karjakese!</TYP_YHT>
@@ -2723,7 +2723,7 @@ Müü kari ära
 <V>Liksub-laksub laadateeda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00850090">
+<ITEM nro="hpee00850090" y="1879">
 <META>
 <ID>H, Peet 85/6 (90)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Ennem kivi kui poisi juures</TYP_YHT>
@@ -2746,7 +2746,7 @@ Enne kivi kui poisi juures
 <V>Katsub neiul kuppeida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00860091">
+<ITEM nro="hpee00860091" y="1879">
 <META>
 <ID>H, Peet 86 (91)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -2760,7 +2760,7 @@ Kurjal mehel
 <V>Ennem kui kurja ämmä kodu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00860092">
+<ITEM nro="hpee00860092" y="1879">
 <META>
 <ID>H, Peet 86 (92)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Saksa asemel sandile</TYP_YHT>
@@ -2777,7 +2777,7 @@ Saksa asemel sandile
 <V>Isändäl ilus emändä.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00860093">
+<ITEM nro="hpee00860093" y="1879">
 <META>
 <ID>H, Peet 86/7 (93)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 </META>
@@ -2804,7 +2804,7 @@ Saksa asemel sandile
 <V>Paha pahnasse pöörätä.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00870094">
+<ITEM nro="hpee00870094" y="1879">
 <META>
 <ID>H, Peet 87 (94)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -2818,7 +2818,7 @@ Hommiku hooled
 <V>Põrand pühki puhtaesse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00880095">
+<ITEM nro="hpee00880095" y="1879">
 <META>
 <ID>H, Peet 88 (95)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Imemaa</TYP_YHT><LLIIK_YHT>Laulud meelelahutamiseks (Teekäigulaulud)</LLIIK_YHT></META>
@@ -2834,7 +2834,7 @@ Hommiku hooled
 <V>Anid al´lasta õbeda</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00880096">
+<ITEM nro="hpee00880096" y="1879">
 <META>
 <ID>H, Peet 88/9 (96)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Öösel üksi</TYP_YHT>
@@ -2864,7 +2864,7 @@ Hommiku hooled
 <V>Lutik uhke, ei löönd lusti.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00890097">
+<ITEM nro="hpee00890097" y="1879">
 <META>
 <ID>H, Peet 89/90 (97)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -2903,7 +2903,7 @@ Neiud öösel käimas
 <V>Enne kui kärpä käärib kaari.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00900098">
+<ITEM nro="hpee00900098" y="1879">
 <META>
 <ID>H, Peet 90/1 (98)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Must võinuks muidu joosta</TYP_YHT>
@@ -2923,7 +2923,7 @@ Halva kuulsusega neiud
 <V>Alt on ammu naesukene.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00910099">
+<ITEM nro="hpee00910099" y="1879">
 <META>
 <ID>H, Peet 91 (99)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Ei tule sinule!</TYP_YHT>
@@ -2944,7 +2944,7 @@ Ei lähe sinule
 <V>Tatti taperi tahuda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00910100">
+<ITEM nro="hpee00910100" y="1879">
 <META>
 <ID>H, Peet 91/2 (100)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>_ + Arg kosilane</TYP_YHT>
@@ -2973,7 +2973,7 @@ Neiunälg / Neiu püüdja
 <V>Kullal üles kaalunesse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00920101">
+<ITEM nro="hpee00920101" y="1879">
 <META>
 <ID>H, Peet 92/3 (101)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Ennem kivi kui poisi juures</TYP_YHT>
@@ -2999,7 +2999,7 @@ Enne kivi kui poisi juures
 <V>Lauluräästäs rätikusse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00930102">
+<ITEM nro="hpee00930102" y="1879">
 <META>
 <ID>H, Peet 93 (102)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Heinateolaul - AJUTINE</TYP_YHT>
@@ -3021,7 +3021,7 @@ Virgad neiud lõbu pärast niitmas
 <V>Vaske'elle veerukille.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00930103">
+<ITEM nro="hpee00930103" y="1879">
 <META>
 <ID>H, Peet 93/7 (103)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 </META>
@@ -3104,7 +3104,7 @@ Virgad neiud lõbu pärast niitmas
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hpee00970104">
+<ITEM nro="hpee00970104" y="1879">
 <META>
 <ID>H, Peet 97 (104)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kolm kosilast</TYP_YHT>
@@ -3133,7 +3133,7 @@ Virgad neiud lõbu pärast niitmas
 <V>Oma valla vaevastelle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00980105">
+<ITEM nro="hpee00980105" y="1879">
 <META>
 <ID>H, Peet 98 (105)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -3148,7 +3148,7 @@ Neiude pilge
 <V>Korrakotti kandemaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00980106">
+<ITEM nro="hpee00980106" y="1879">
 <META>
 <ID>H, Peet 98/9 (106)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Mere pühkimine + Pühkmed karjaaeda + Kuulus kuhjalooja</TYP_YHT>
@@ -3181,7 +3181,7 @@ Mere pühkimine
 <V>Akki Arju piiri pääle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee00990107">
+<ITEM nro="hpee00990107" y="1879">
 <META>
 <ID>H, Peet 99/100 (107)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kasvatus asjatu + Memme vaev</TYP_YHT>
@@ -3215,7 +3215,7 @@ Kasvatus asjata
 <V>Ennem kui minda kasvatasid.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01000108">
+<ITEM nro="hpee01000108" y="1879">
 <META>
 <ID>H, Peet 100 (108)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kasvatus asjatu + Memme vaev</TYP_YHT>
@@ -3236,7 +3236,7 @@ Kasvatus asjata
 <V>Taeva veerta vaatamaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01000109">
+<ITEM nro="hpee01000109" y="1879">
 <META>
 <ID>H, Peet 100/1 (109)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -3253,7 +3253,7 @@ Soldati laul
 <V>Tuhat poissi polgu pääle</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01010110">
+<ITEM nro="hpee01010110" y="1879">
 <META>
 <ID>H, Peet 101 (110)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Asjatult loodud</TYP_YHT>
@@ -3274,7 +3274,7 @@ Asjata loodud
 <V>Õe õbesõrmusasse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01010111">
+<ITEM nro="hpee01010111" y="1879">
 <META>
 <ID>H, Peet 101/2 (111)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -3313,7 +3313,7 @@ Asjata loodud
 <V>Nurga pääle ruutulised.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01030112">
+<ITEM nro="hpee01030112" y="1879">
 <META>
 <ID>H, Peet 103/4 (112)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -3358,7 +3358,7 @@ Põlgtud laps
 <V>Vendädest väl´lä visatud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01040113">
+<ITEM nro="hpee01040113" y="1879">
 <META>
 <ID>H, Peet 104/5 (113)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Uni ei anna uuta kuube</TYP_YHT>
@@ -3386,7 +3386,7 @@ Uni ei anna uuta kuube
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hpee01050114">
+<ITEM nro="hpee01050114" y="1879">
 <META>
 <ID>H, Peet 105 (114)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Hiljuke</TYP_YHT>
@@ -3405,7 +3405,7 @@ Hiljuke
 <V>Enneaegsest asjaline.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01050115">
+<ITEM nro="hpee01050115" y="1879">
 <META>
 <ID>H, Peet 105/6 (115)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -3426,7 +3426,7 @@ Nõrk teotüdruk
 <V>Sõrmed sõstrepuu lülistä.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01060116">
+<ITEM nro="hpee01060116" y="1879">
 <META>
 <ID>H, Peet 106 (116)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Isa härjad toitnud</TYP_YHT>
@@ -3442,7 +3442,7 @@ Isa loomad toidavad
 <V>Äte ärjäd nänne lehmäd.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01060117">
+<ITEM nro="hpee01060117" y="1879">
 <META>
 <ID>H, Peet 106 (117)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -3458,7 +3458,7 @@ Vaenelaps / Pisut puna
 <V>Vähä verda palge'esse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01060118">
+<ITEM nro="hpee01060118" y="1879">
 <META>
 <ID>H, Peet 106/7 (118)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Toida või tapa!</TYP_YHT>
@@ -3480,7 +3480,7 @@ Toida või tapa
 <V>Reetallad tantsimaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01070119">
+<ITEM nro="hpee01070119" y="1879">
 <META>
 <ID>H, Peet 107 (119)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -3494,7 +3494,7 @@ Orjapõli
 <V>Sagedaste peksetasse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01070120">
+<ITEM nro="hpee01070120" y="1879">
 <META>
 <ID>H, Peet 107/8 (120)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Sepp + Täid kaladeks</TYP_YHT>
@@ -3530,7 +3530,7 @@ Sepp
 <V>Purikatel kirjud kül´led.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01080121">
+<ITEM nro="hpee01080121" y="1879">
 <META>
 <ID>H, Peet 108/9 (121)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Täid kaladeks</TYP_YHT>
@@ -3551,7 +3551,7 @@ Täid kaladeks
 <V>Siginesid siigädesse</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01090122">
+<ITEM nro="hpee01090122" y="1879">
 <META>
 <ID>H, Peet 109/11 (122)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kosjahobu söötmine + Oleks see mees minu! + Kaevul kosija</TYP_YHT>
@@ -3613,7 +3613,7 @@ Kosjahobu söötmine
 <V>Põlle alta pilutud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01110123">
+<ITEM nro="hpee01110123" y="1879">
 <META>
 <ID>H, Peet 111 (123)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -3627,7 +3627,7 @@ Hoolimata mees
 <V>Tunamuldsid taaderida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01110124">
+<ITEM nro="hpee01110124" y="1879">
 <META>
 <ID>H, Peet 111/3 (124)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Leinamäng</TYP_YHT>
@@ -3686,7 +3686,7 @@ Ringi mäng</CPT>
 <V>Karga isi kaasikusse <REFR> nukku </REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01130125">
+<ITEM nro="hpee01130125" y="1879">
 <META>
 <ID>H, Peet 113/4 (125)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Oldermannimäng</TYP_YHT>
@@ -3737,7 +3737,7 @@ Ringimäng.</CPT>
 <V><REFR>Ollermanni villerkääri jungeproo</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01140126">
+<ITEM nro="hpee01140126" y="1879">
 <META>
 <ID>H, Peet 114/6 (126)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Oma ema ja võõrasema ootavad koju</TYP_YHT>
@@ -3785,7 +3785,7 @@ Oma ja võõrasema ootavad koju
 <V>Aganist või annan muile.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01160127">
+<ITEM nro="hpee01160127" y="1879">
 <META>
 <ID>H, Peet 116 (127)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Poisid põlgavad</TYP_YHT>
@@ -3802,7 +3802,7 @@ Poisid põlgvad, pole ehteid
 <V>Egä emät elme ostmas.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01160128">
+<ITEM nro="hpee01160128" y="1879">
 <META>
 <ID>H, Peet 116/7 (128)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Palju püütud neiu</TYP_YHT>
@@ -3822,7 +3822,7 @@ Palju püütud neiu
 <V>Karjavitsal tahtijida</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01170129">
+<ITEM nro="hpee01170129" y="1879">
 <META>
 <ID>H, Peet 117/8 (129)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Ema haual</TYP_YHT>
@@ -3865,7 +3865,7 @@ Ema haual
 <V>Kihelkonnas kiunutajid.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01180130">
+<ITEM nro="hpee01180130" y="1879">
 <META>
 <ID>H, Peet 118/20 (130)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Ema haual</TYP_YHT>
@@ -3914,7 +3914,7 @@ Ema haual
 <V>Teine verda sel´la alla.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01200131">
+<ITEM nro="hpee01200131" y="1879">
 <META>
 <ID>H, Peet 120/2 (131)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Ema haual</TYP_YHT>
@@ -3969,7 +3969,7 @@ Ema haual
 <V>Juussed salguni sasinud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01220132">
+<ITEM nro="hpee01220132" y="1879">
 <META>
 <ID>H, Peet 122/4 (132)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Ema haual</TYP_YHT>
@@ -4021,7 +4021,7 @@ Ema haual
 <V>Raibe auasta ülenend.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01240133">
+<ITEM nro="hpee01240133" y="1879">
 <META>
 <ID>H, Peet 124 (133)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Metsast mehele</TYP_YHT>
@@ -4047,7 +4047,7 @@ Pulmad metsas
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hpee01250134">
+<ITEM nro="hpee01250134" y="1879">
 <META>
 <ID>H, Peet 125 (134)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -4067,7 +4067,7 @@ Ilus Mari
 <V>Talve tangu maitsemata.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01250135">
+<ITEM nro="hpee01250135" y="1879">
 <META>
 <ID>H, Peet 125/6 (135)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Hundi hurjutamine</TYP_YHT>
@@ -4090,7 +4090,7 @@ Karjane hundile
 <V>Punasida paelasida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01260136">
+<ITEM nro="hpee01260136" y="1879">
 <META>
 <ID>H, Peet 126 (136)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Ajage kari siia!</TYP_YHT>
@@ -4106,7 +4106,7 @@ Ajage kari siia
 <V>Lage lammaste lugeda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01260137">
+<ITEM nro="hpee01260137" y="1879">
 <META>
 <ID>H, Peet 126 (137)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -4122,7 +4122,7 @@ Nõia õuest läbi
 <V>Mul on manu Maari einäd</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01260138">
+<ITEM nro="hpee01260138" y="1879">
 <META>
 <ID>H, Peet 126/7 (138)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Millal saan omile? + Noorik kodu käimas</TYP_YHT>
@@ -4151,7 +4151,7 @@ Millal saan isale
 <V>Nõrgakesta nõudemaie</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01270139">
+<ITEM nro="hpee01270139" y="1879">
 <META>
 <ID>H, Peet 127 (139)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 </META>
@@ -4162,7 +4162,7 @@ Millal saan isale
 <V>Mina ihun irmu päräst</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01270140">
+<ITEM nro="hpee01270140" y="1879">
 <META>
 <ID>H, Peet 127/8 (140)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Laulu võim + _</TYP_YHT>
@@ -4187,7 +4187,7 @@ Laulu võim
 <V>Musta mulla pööräjässe</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01280141">
+<ITEM nro="hpee01280141" y="1879">
 <META>
 <ID>H, Peet 128/9 (141)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Virkuseõpetus neiule + _</TYP_YHT>
@@ -4220,7 +4220,7 @@ Virkuse õpetus neiule
 <V>Kallis naene kasvatanud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01290142">
+<ITEM nro="hpee01290142" y="1879">
 <META>
 <ID>H, Peet 129/30 (142)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>_ + Kolm metsa</TYP_YHT>
@@ -4255,7 +4255,7 @@ Halb kiik
 <V>Abivaemud pannud parre.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01300143">
+<ITEM nro="hpee01300143" y="1879">
 <META>
 <ID>H, Peet 130/1 (143)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Tore neiu + Ära usu poisi juttu</TYP_YHT>
@@ -4296,7 +4296,7 @@ Tore neiu
 <V>Ja rannast raha andijaida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01310144">
+<ITEM nro="hpee01310144" y="1879">
 <META>
 <ID>H, Peet 131/2 (144)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kari kadunud + _</TYP_YHT>
@@ -4325,7 +4325,7 @@ Kari kadunud / arul
 <V>Käbi tahab suurta käänäkuda</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01320145">
+<ITEM nro="hpee01320145" y="1879">
 <META>
 <ID>H, Peet 132/6 (145)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kuldnaine + Oleks see mees minu! + Kaevul kosija + Tule mulle!</TYP_YHT>
@@ -4431,7 +4431,7 @@ Kuldnaine
 <V>Isi istub otsa pääl</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01360146">
+<ITEM nro="hpee01360146" y="1879">
 <META>
 <ID>H, Peet 136/7 (146)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -4459,7 +4459,7 @@ Oma ema ootab koju
 <V>Kuldakappa kaendelesse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01370147">
+<ITEM nro="hpee01370147" y="1879">
 <META>
 <ID>H, Peet 137/8 (147)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -4486,7 +4486,7 @@ Saks tuleb põllule
 <V>Karjamaad karu karata</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01380148">
+<ITEM nro="hpee01380148" y="1879">
 <META>
 <ID>H, Peet 138 (148)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -4504,7 +4504,7 @@ Kirikus kena
 <V>Isä konksile koristas</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01390149">
+<ITEM nro="hpee01390149" y="1879">
 <META>
 <ID>H, Peet 139/40 (149)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Karske neiu</TYP_YHT>
@@ -4545,7 +4545,7 @@ Karske neiu
 <V>Saksamaa sirgemad sibulad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01400150">
+<ITEM nro="hpee01400150" y="1879">
 <META>
 <ID>H, Peet 140/1 (150)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -4569,7 +4569,7 @@ Karske neiu
 <V>Kassi kustud kaerasida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01410151">
+<ITEM nro="hpee01410151" y="1879">
 <META>
 <ID>H, Peet 141/2 (151)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Arg laulik + Karjasel kuri kodu + _</TYP_YHT>
@@ -4624,7 +4624,7 @@ Arg laulik
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hpee01420152">
+<ITEM nro="hpee01420152" y="1879">
 <META>
 <ID>H, Peet 142/3 (152)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 </META>
@@ -4640,7 +4640,7 @@ Arg laulik
 <V>Sisa seemet pildumasta</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01430153">
+<ITEM nro="hpee01430153" y="1879">
 <META>
 <ID>H, Peet 143 (153)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kus istun - seal itken + _</TYP_YHT>
@@ -4662,7 +4662,7 @@ Kus istun - iken
 <V>Äniläsel mitu äältä</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01430154">
+<ITEM nro="hpee01430154" y="1879">
 <META>
 <ID>H, Peet 143/4 (154)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 </META>
@@ -4683,7 +4683,7 @@ Kus istun - iken
 <V>Varesed vana vaskeda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01440155">
+<ITEM nro="hpee01440155" y="1879">
 <META>
 <ID>H, Peet 144 (155)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Arg kosilane</TYP_YHT>
@@ -4705,7 +4705,7 @@ Arg kosilane
 <V>Püüdsin aga küläneidusida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01450156">
+<ITEM nro="hpee01450156" y="1879">
 <META>
 <ID>H, Peet 145 (156)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Ei rikast rahasse panda</TYP_YHT>
@@ -4725,7 +4725,7 @@ Täna kuld - homme muld
 <V>Emä seotud siidiksed</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01450157">
+<ITEM nro="hpee01450157" y="1879">
 <META>
 <ID>H, Peet 145/6 (157)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Asjata kasvanud - soldatiks saanud</TYP_YHT>
@@ -4752,7 +4752,7 @@ Asjata kasvatatud - soldatiks
 <V>Nutust silmi kuevatada</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01460158">
+<ITEM nro="hpee01460158" y="1879">
 <META>
 <ID>H, Peet 146 (158)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Hiire pulmad</TYP_YHT>
@@ -4774,7 +4774,7 @@ Hiire pulmad
 <V>Rebäne olli roa tegijä</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01460159">
+<ITEM nro="hpee01460159" y="1879">
 <META>
 <ID>H, Peet 146/7 (159)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -4796,7 +4796,7 @@ Vihane neiu
 <V>Parsile pasaemändät.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01470160">
+<ITEM nro="hpee01470160" y="1879">
 <META>
 <ID>H, Peet 147 (160)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Memme vaev</TYP_YHT>
@@ -4820,7 +4820,7 @@ Memme vaev
 <V>Tuhkru ruuna tundijalle</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01480161">
+<ITEM nro="hpee01480161" y="1879">
 <META>
 <ID>H, Peet 148 (161)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Lauliku sõim</TYP_YHT>
@@ -4846,7 +4846,7 @@ Halb laulik
 <V>Arakatega aru pidäma</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01480162">
+<ITEM nro="hpee01480162" y="1879">
 <META>
 <ID>H, Peet 148/9 (162)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Lauliku sõim</TYP_YHT>
@@ -4878,7 +4878,7 @@ Halb laulik
 <V>Emä karjaskepi naeal.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01490163">
+<ITEM nro="hpee01490163" y="1879">
 <META>
 <ID>H, Peet 149/50 (163)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Lauliku sõim</TYP_YHT>
@@ -4901,7 +4901,7 @@ Halb laulik
 <V>Katad kanneli kuminad</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01500164">
+<ITEM nro="hpee01500164" y="1879">
 <META>
 <ID>H, Peet 150 (164)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Lauliku sõim</TYP_YHT>
@@ -4927,7 +4927,7 @@ Halb laulik
 <V>Siis tule väl´lä laulemaie</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01500165">
+<ITEM nro="hpee01500165" y="1879">
 <META>
 <ID>H, Peet 150/1 (165)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Lauliku sõim</TYP_YHT>
@@ -4955,7 +4955,7 @@ Halb laulik
 <V>Viie sepä uuendatud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01510166">
+<ITEM nro="hpee01510166" y="1879">
 <META>
 <ID>H, Peet 151/2 (166)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 </META>
@@ -4987,7 +4987,7 @@ Halb laulik
 <V>Pekskem keeltä kerge'este.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01520167">
+<ITEM nro="hpee01520167" y="1879">
 <META>
 <ID>H, Peet 152/3 (167)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Hiire pulmad + Kass kaevus</TYP_YHT>
@@ -5023,7 +5023,7 @@ Hiire pulmad
 <V>Kahessa kasuvõsuda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01540168">
+<ITEM nro="hpee01540168" y="1879">
 <META>
 <ID>H, Peet 154 (168)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -5043,7 +5043,7 @@ Sügav mets
 <V>Kuuda kuuele aastale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01540169">
+<ITEM nro="hpee01540169" y="1879">
 <META>
 <ID>H, Peet 154/6 (169)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kitse krapp</TYP_YHT>
@@ -5098,7 +5098,7 @@ Kits-krapp
 <V>Kuni aeas tare põlema.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01560170">
+<ITEM nro="hpee01560170" y="1879">
 <META>
 <ID>H, Peet 156/7 (170)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Vaeslaps nutab lihast linna + _</TYP_YHT>
@@ -5129,7 +5129,7 @@ Noorik ei unusta isa uues kohas
 <V>Sõdsi suure sao varju</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01560172">
+<ITEM nro="hpee01560172" y="1879">
 <META>
 <ID>H, Peet 156 (172)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Rikas hüüab reeks</TYP_YHT>
@@ -5151,7 +5151,7 @@ Rikas sõimab reeks
 <V>Rahakaile rattaida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01570171">
+<ITEM nro="hpee01570171" y="1879">
 <META>
 <ID>H, Peet 157/8 (171)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Vara vaeslapseks</TYP_YHT>
@@ -5176,7 +5176,7 @@ Vara vaeseks
 <V>Kasudes saan kaalakirjä</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01580173">
+<ITEM nro="hpee01580173" y="1879">
 <META>
 <ID>H, Peet 158/9 (173)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 </META>
@@ -5199,7 +5199,7 @@ Vara vaeseks
 <V>Ommiku oravakarva.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01590174">
+<ITEM nro="hpee01590174" y="1879">
 <META>
 <ID>H, Peet 159/60 (174)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 </META>
@@ -5230,7 +5230,7 @@ Vara vaeseks
 <V>Elgis Elmi linna vasta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01600175">
+<ITEM nro="hpee01600175" y="1879">
 <META>
 <ID>H, Peet 160 (175)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -5245,7 +5245,7 @@ Vara vaeseks
 <V>Kangru keräd kõravad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01610176">
+<ITEM nro="hpee01610176" y="1879">
 <META>
 <ID>H, Peet 161/2 (176)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kosjahobu söötmine + Kosilane laisas talus + Tule mulle!</TYP_YHT>
@@ -5300,7 +5300,7 @@ Kosjahobu söötmine
 <V>Virka looma siit vidädä</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01630177">
+<ITEM nro="hpee01630177" y="1879">
 <META>
 <ID>H, Peet 163/5 (177)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Võtaks naise, kardab kurja + Mõisa aidast varastamas</TYP_YHT>
@@ -5357,7 +5357,7 @@ Võtaks naise, kardab kurja
 <V>Vaeseme' vihma varjuke.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01650178">
+<ITEM nro="hpee01650178" y="1879">
 <META>
 <ID>H, Peet 165/6 (178)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Suude sulg</TYP_YHT>
@@ -5389,7 +5389,7 @@ Suude sulg
 <V>Pajatas ma pardsi moodi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01660179">
+<ITEM nro="hpee01660179" y="1879">
 <META>
 <ID>H, Peet 166/7 (179)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Ori lahkub + Põlatud laps</TYP_YHT>
@@ -5425,7 +5425,7 @@ Sulane läheb ära
 <V>Kallist ettekandijada</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01670180">
+<ITEM nro="hpee01670180" y="1879">
 <META>
 <ID>H, Peet 167/9 (180)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Varga õpetamine</TYP_YHT>
@@ -5482,7 +5482,7 @@ Sulane läheb ära
 <V>Vanaemä vaka ääres</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01690181">
+<ITEM nro="hpee01690181" y="1879">
 <META>
 <ID>H, Peet 169/70 (181)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -5516,7 +5516,7 @@ Kupja peksja
 <V>Kurjast saad kuradi keppi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01700182">
+<ITEM nro="hpee01700182" y="1879">
 <META>
 <ID>H, Peet 170/1 (182)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -5554,7 +5554,7 @@ Kupja peksja
 <V>Kägäriku käärib pätsi</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01720183">
+<ITEM nro="hpee01720183" y="1879">
 <META>
 <ID>H, Peet 172/3 (183)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Teng, hobu, naine + Öösel üksi</TYP_YHT>
@@ -5599,7 +5599,7 @@ Teng - hobu, naine
 <V>Kuiva koorikse naeale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01730184">
+<ITEM nro="hpee01730184" y="1879">
 <META>
 <ID>H, Peet 173/5 (184)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Ehted riisutud</TYP_YHT>
@@ -5661,7 +5661,7 @@ Ehted riisutud
 <V>Sõrmukse sõmerakarva.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01760185">
+<ITEM nro="hpee01760185" y="1879">
 <META>
 <ID>H, Peet 176/7 (185)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Karske neiu</TYP_YHT>
@@ -5698,7 +5698,7 @@ Karske neiu
 <V>Karu eessä kange täkku.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01770186">
+<ITEM nro="hpee01770186" y="1879">
 <META>
 <ID>H, Peet 177/9 (186)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Härjad murtud</TYP_YHT>
@@ -5751,7 +5751,7 @@ Härjad murtud
 <V>Siis saab kätte ärjäpaarid.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01790187">
+<ITEM nro="hpee01790187" y="1879">
 <META>
 <ID>H, Peet 179/80 (187)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Pere ütles: &quot;Peksa naist!&quot;</TYP_YHT>
@@ -5784,7 +5784,7 @@ Pere ütel peksa naine
 <V>Labus jalgu laskemaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01800188">
+<ITEM nro="hpee01800188" y="1879">
 <META>
 <ID>H, Peet 180/1 (188)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kupja kolm tütart + Imelik laulik</TYP_YHT>
@@ -5818,7 +5818,7 @@ Kupja kolm tütart
 <V>Loo võtsin lutsu suust.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01810189">
+<ITEM nro="hpee01810189" y="1879">
 <META>
 <ID>H, Peet 181 (189)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Hakkame, mehed, minema!</TYP_YHT>
@@ -5843,7 +5843,7 @@ Hakkame minema
 <V>Kabjad kuldse kannustesse</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01810190">
+<ITEM nro="hpee01810190" y="1879">
 <META>
 <ID>H, Peet 181/2 (190)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -5865,7 +5865,7 @@ Vaenelaps
 <V>See mu targaks tegijä.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01820191">
+<ITEM nro="hpee01820191" y="1879">
 <META>
 <ID>H, Peet 182 (191)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Õitsilaul</TYP_YHT>
@@ -5886,7 +5886,7 @@ Vaenelaps
 <V>Leeri lööme lepä otsa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01830192">
+<ITEM nro="hpee01830192" y="1879">
 <META>
 <ID>H, Peet 183 (192)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>_ + Venna otsija</TYP_YHT>
@@ -5910,7 +5910,7 @@ Vaenelaps
 <V>Alla vette vajunud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01830193">
+<ITEM nro="hpee01830193" y="1879">
 <META>
 <ID>H, Peet 183/4 (193)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -5935,7 +5935,7 @@ Neiu matus / Kuulake minu järele
 <V>Terasista tehtud kokku.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01840194">
+<ITEM nro="hpee01840194" y="1879">
 <META>
 <ID>H, Peet 184/6 (194)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Imelik maja + Imetegija + _ + _</TYP_YHT>
@@ -6004,7 +6004,7 @@ Tuule tuba
 <V>Küünär pääle kümne süllä.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01860195">
+<ITEM nro="hpee01860195" y="1879">
 <META>
 <ID>H, Peet 186/7 (195)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Tarbepuude raiumine + Isa härjad toitnud</TYP_YHT>
@@ -6034,7 +6034,7 @@ Puuraiuja
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hpee01870196">
+<ITEM nro="hpee01870196" y="1879">
 <META>
 <ID>H, Peet 187/8 (196)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Saani tegemine + _ + _</TYP_YHT>
@@ -6071,7 +6071,7 @@ Saan
 <V>Lint on ääres linnakirja.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01880197">
+<ITEM nro="hpee01880197" y="1879">
 <META>
 <ID>H, Peet 188/9 (197)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Laisk vitsutaja</TYP_YHT>
@@ -6097,7 +6097,7 @@ Vitsad metsa
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hpee01890198">
+<ITEM nro="hpee01890198" y="1879">
 <META>
 <ID>H, Peet 189 (198)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -6120,7 +6120,7 @@ Laulge, muidu laida
 <V>Anikaelad kaagutate</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01890199">
+<ITEM nro="hpee01890199" y="1879">
 <META>
 <ID>H, Peet 189/90 (199)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -6143,7 +6143,7 @@ Laulge, muidu laida
 <V>Siis saad otsa ometegi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01900200">
+<ITEM nro="hpee01900200" y="1879">
 <META>
 <ID>H, Peet 190 (200)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Pisike punane põrsas</TYP_YHT>
@@ -6163,7 +6163,7 @@ Pisike punane põrsas
 <V>Läätsäst läbi tultanessa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01900201">
+<ITEM nro="hpee01900201" y="1879">
 <META>
 <ID>H, Peet 190/1 (201)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -6184,7 +6184,7 @@ Kodu
 <V>Ase aki tiivä alla.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01910202">
+<ITEM nro="hpee01910202" y="1879">
 <META>
 <ID>H, Peet 191/2 (202)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kiik sobimatul kohal + Õunapuu</TYP_YHT>
@@ -6230,7 +6230,7 @@ Kiik halval kohal
 <V>Põlved peeni põllekesta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01930203">
+<ITEM nro="hpee01930203" y="1879">
 <META>
 <ID>H, Peet 193 (203)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -6253,7 +6253,7 @@ Laisk talutütar
 <V>Uduselle hommikulle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01930204">
+<ITEM nro="hpee01930204" y="1879">
 <META>
 <ID>H, Peet 193/5 (204)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Orja palk</TYP_YHT>
@@ -6294,7 +6294,7 @@ Orja palk
 <V>Egä ei sõrmed sõsterista.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01950205">
+<ITEM nro="hpee01950205" y="1879">
 <META>
 <ID>H, Peet 195 (205)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Halva ilmaga tööl</TYP_YHT>
@@ -6321,7 +6321,7 @@ Halval ilmal tööl
 <V>Vala vaskne kellakene.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01950206">
+<ITEM nro="hpee01950206" y="1879">
 <META>
 <ID>H, Peet 195/7 (206)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kättemaks sakstele + _</TYP_YHT>
@@ -6360,7 +6360,7 @@ Kättemaks sakstele
 <V>Raha raipest andemasta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01970207">
+<ITEM nro="hpee01970207" y="1879">
 <META>
 <ID>H, Peet 197/8 (207)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Neiu linn</TYP_YHT>
@@ -6393,7 +6393,7 @@ Imelik maja
 <V>Vaesel lapsel vihmavari.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01980208">
+<ITEM nro="hpee01980208" y="1879">
 <META>
 <ID>H, Peet 198 (208)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Suur tamm</TYP_YHT>
@@ -6416,7 +6416,7 @@ Suur tamm
 <V>Vaesellapsel vihmavarju.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01980209">
+<ITEM nro="hpee01980209" y="1879">
 <META>
 <ID>H, Peet 198/9 (209)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kolm metsa + Arg kosilane</TYP_YHT>
@@ -6451,7 +6451,7 @@ Suur tamm
 <V>Egä võrku neiu võtta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee01990210">
+<ITEM nro="hpee01990210" y="1879">
 <META>
 <ID>H, Peet 199/200 (210)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -6468,7 +6468,7 @@ Poiste lori
 <V>Kui need Pille piimäkoogid.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02000211">
+<ITEM nro="hpee02000211" y="1879">
 <META>
 <ID>H, Peet 200/1 (211)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -6498,7 +6498,7 @@ Neiud öösel käimas
 <V>Kärpä käänäb kaari paksu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02010212">
+<ITEM nro="hpee02010212" y="1879">
 <META>
 <ID>H, Peet 201 (212)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Oodatakse koju tööle + Karjasel kuri kodu</TYP_YHT>
@@ -6522,7 +6522,7 @@ Kes koju ootab
 <V>Kõik minu karvu karganesse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02010213">
+<ITEM nro="hpee02010213" y="1879">
 <META>
 <ID>H, Peet 201/2 (213)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Palve sakstele</TYP_YHT>
@@ -6548,7 +6548,7 @@ Palve sakstele
 <V>Sääl nad nutvad, sääl nad ulvad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02020214">
+<ITEM nro="hpee02020214" y="1879">
 <META>
 <ID>H, Peet 202/3 (214)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Öösel üksi</TYP_YHT>
@@ -6576,7 +6576,7 @@ Palve sakstele
 <V>Kirbu kül´led kistulised.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02030215">
+<ITEM nro="hpee02030215" y="1879">
 <META>
 <ID>H, Peet 203/4 (215)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 </META>
@@ -6617,7 +6617,7 @@ Palve sakstele
 <V>Kaste vastase kasuka.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02040216">
+<ITEM nro="hpee02040216" y="1879">
 <META>
 <ID>H, Peet 204/5 (216)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kiik kiunub kindaid</TYP_YHT>
@@ -6654,7 +6654,7 @@ Kiige kidisemine
 <V>Kiigupuu punaööksi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02060217">
+<ITEM nro="hpee02060217" y="1879">
 <META>
 <ID>H, Peet 206/7 (217)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kiigel kartlik</TYP_YHT>
@@ -6690,7 +6690,7 @@ Kiigel kartlik
 <V>Ristikese maasta riisuks.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02070218">
+<ITEM nro="hpee02070218" y="1879">
 <META>
 <ID>H, Peet 207 (218)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kiik sobimatul kohal</TYP_YHT>
@@ -6721,7 +6721,7 @@ Kiik halval kohal
 <V>Ma ole vee vellenaene.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02080219">
+<ITEM nro="hpee02080219" y="1879">
 <META>
 <ID>H, Peet 208 (219)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Õunapuu</TYP_YHT>
@@ -6751,7 +6751,7 @@ Kiik halval kohal
 <V>Selleg' peti peiu noore.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02080220">
+<ITEM nro="hpee02080220" y="1879">
 <META>
 <ID>H, Peet 208/10 (220)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>_ + Imelik maja + Tule mulle!</TYP_YHT>
@@ -6803,7 +6803,7 @@ Ilus neiu
 <V>Pihuks puruks poolirauad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02100221">
+<ITEM nro="hpee02100221" y="1879">
 <META>
 <ID>H, Peet 210/2 (221)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Põlvist põdema</TYP_YHT>
@@ -6861,7 +6861,7 @@ Tõbine naine
 <V>Tõiste naiste sarnatsegi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02130222">
+<ITEM nro="hpee02130222" y="1879">
 <META>
 <ID>H, Peet 213 (222)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -6876,7 +6876,7 @@ Elage ilusti
 <V>Kaunist kasupõlve aega /: :/</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02130223">
+<ITEM nro="hpee02130223" y="1879">
 <META>
 <ID>H, Peet 213/4 (223)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Luust sõrmus</TYP_YHT>
@@ -6909,7 +6909,7 @@ Meri - luust sõrmus
 <V>Poisikese põlveluista.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02140224">
+<ITEM nro="hpee02140224" y="1879">
 <META>
 <ID>H, Peet 214/9 (224)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 </META>
@@ -7021,7 +7021,7 @@ Meri - luust sõrmus
 <V>Pilliroosta paitama.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02190225">
+<ITEM nro="hpee02190225" y="1879">
 <META>
 <ID>H, Peet 219/23 (225)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kolm kosilast + Noorik kodu käimas</TYP_YHT>
@@ -7124,7 +7124,7 @@ Meri - luust sõrmus
 <V>Silmälaud langelesid</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02230226">
+<ITEM nro="hpee02230226" y="1879">
 <META>
 <ID>H, Peet 223/5 (226)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Orjade tee + _</TYP_YHT>
@@ -7165,7 +7165,7 @@ Orjade tee
 <V>Läks siis õue üppämaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02250227">
+<ITEM nro="hpee02250227" y="1879">
 <META>
 <ID>H, Peet 225 (227)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>_ + Metsast mehele</TYP_YHT>
@@ -7195,7 +7195,7 @@ Orjade tee
 <V>Pihlakas oli peiopoissi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02260228">
+<ITEM nro="hpee02260228" y="1879">
 <META>
 <ID>H, Peet 226/7 (228)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Hirmus mõis + _</TYP_YHT>
@@ -7234,7 +7234,7 @@ Hirmus mõis
 <V>Pisukesi pilpa'asse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02270229">
+<ITEM nro="hpee02270229" y="1879">
 <META>
 <ID>H, Peet 227/8 (229)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Võidulaulmine + Imelik laulik</TYP_YHT>
@@ -7267,7 +7267,7 @@ Võistulaulmine
 <V>Päevä poolt marjad magusad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02280230">
+<ITEM nro="hpee02280230" y="1879">
 <META>
 <ID>H, Peet 228/30 (230)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 </META>
@@ -7311,7 +7311,7 @@ Võistulaulmine
 <V>Sees on suured saksa söögid</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02300231">
+<ITEM nro="hpee02300231" y="1879">
 <META>
 <ID>H, Peet 230/2 (231)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kes arvab Hansu meheks + Neiu tahab taganeda + Luust laev + Vahelt vaene</TYP_YHT>
@@ -7379,7 +7379,7 @@ Hans ei arvatud meheks
 <V>Õbelõnga lõksutaja</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02320232">
+<ITEM nro="hpee02320232" y="1879">
 <META>
 <ID>H, Peet 232/4 (232)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 </META>
@@ -7414,7 +7414,7 @@ Hans ei arvatud meheks
 <V>Lehm tõi tprutsi täkukese.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02340233">
+<ITEM nro="hpee02340233" y="1879">
 <META>
 <ID>H, Peet 234/5 (233)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Arg kosilane</TYP_YHT>
@@ -7468,7 +7468,7 @@ Puud
 <V>Õbedal lunastamine.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02360234">
+<ITEM nro="hpee02360234" y="1879">
 <META>
 <ID>H, Peet 236 (234)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Memme vaev</TYP_YHT>
@@ -7495,7 +7495,7 @@ Memme vaev
 <V>Mitu ommikut uneta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02360235">
+<ITEM nro="hpee02360235" y="1879">
 <META>
 <ID>H, Peet 236/7 (235)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -7514,7 +7514,7 @@ Laulge, laisad
 <V>Tõista päevä tõusevada.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02370236">
+<ITEM nro="hpee02370236" y="1879">
 <META>
 <ID>H, Peet 237 (236)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -7531,7 +7531,7 @@ Laulge, laisad
 <V>Värävast vällä vemmel kaela.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02370237">
+<ITEM nro="hpee02370237" y="1879">
 <META>
 <ID>H, Peet 237/8 (237)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <ZANR>loodushäälend</ZANR><TYP>
@@ -7555,7 +7555,7 @@ Kesälind laulis
 <V>Oru Jaak oma sulasta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02380238">
+<ITEM nro="hpee02380238" y="1879">
 <META>
 <ID>H, Peet 238 (238)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>_ + Noorik kodu käimas</TYP_YHT>
@@ -7575,7 +7575,7 @@ Millal sünnib kosja minna
 <V>Keväde on laiad laened.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02380239">
+<ITEM nro="hpee02380239" y="1879">
 <META>
 <ID>H, Peet 238/9 (239)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Tall taeva all + Kosjahobu söötmine</TYP_YHT>
@@ -7601,7 +7601,7 @@ Tall taeva all
 <V>Teise teki saani pääle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02390240">
+<ITEM nro="hpee02390240" y="1879">
 <META>
 <ID>H, Peet 239 (240)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <ZANR>varia</ZANR><TYP>
@@ -7618,7 +7618,7 @@ Vananaise pilge
 <V>Talvel kuivand einäkesed</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02390241">
+<ITEM nro="hpee02390241" y="1879">
 <META>
 <ID>H, Peet 239/40 (241)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <ZANR/>
@@ -7643,7 +7643,7 @@ Vananaise pilge
 <V>Maani maksakarvalise.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02400242">
+<ITEM nro="hpee02400242" y="1879">
 <META>
 <ID>H, Peet 240 (242)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Metsast mehele</TYP_YHT>
@@ -7665,7 +7665,7 @@ Pulmad metsas
 <V>Arumaal on armud armsad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02410243">
+<ITEM nro="hpee02410243" y="1879">
 <META>
 <ID>H, Peet 241/2 (243)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Rikas - inetu, vaene - ilus + Kus istun - seal itken</TYP_YHT>
@@ -7711,7 +7711,7 @@ Inetu rikas - ilus vaene
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hpee02420244">
+<ITEM nro="hpee02420244" y="1879">
 <META>
 <ID>H, Peet 242 (244)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -7729,7 +7729,7 @@ Kust omasteks saime
 <V>Säält me tulive tuttevesse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02420245">
+<ITEM nro="hpee02420245" y="1879">
 <META>
 <ID>H, Peet 242/3 (245)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -7761,7 +7761,7 @@ Poisid kurvad, neiud surnud
 <V>Külämeeste kül´leluista</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02430246">
+<ITEM nro="hpee02430246" y="1879">
 <META>
 <ID>H, Peet 243/4 (246)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -7788,7 +7788,7 @@ Poisid kurvad, neiud surnud
 <V>Väänet vitsa vellenaine</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02440247">
+<ITEM nro="hpee02440247" y="1879">
 <META>
 <ID>H, Peet 244/5 (247)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Lähme marjule! + Õllest saar</TYP_YHT>
@@ -7831,7 +7831,7 @@ Marjul
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hpee02460248">
+<ITEM nro="hpee02460248" y="1879">
 <META>
 <ID>H, Peet 246 (248)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -7847,7 +7847,7 @@ Pikad noored mehed
 <V>Jalad alta arva metsa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02460249">
+<ITEM nro="hpee02460249" y="1879">
 <META>
 <ID>H, Peet 246/7 (249)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Meie ja teie poisid + _</TYP_YHT>
@@ -7880,7 +7880,7 @@ Meie ja teie küla poisid
 <V>Ahjud arkide varale</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02470250">
+<ITEM nro="hpee02470250" y="1879">
 <META>
 <ID>H, Peet 247 (250)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Sillad soodele</TYP_YHT>
@@ -7899,7 +7899,7 @@ Sillad soodele
 <V>Obu ei oma kabjukesta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02470251">
+<ITEM nro="hpee02470251" y="1879">
 <META>
 <ID>H, Peet 247/8 (251)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Poiste pilge</TYP_YHT>
@@ -7930,7 +7930,7 @@ Poiste pilge
 <V>Kivi-või-servä sel´lä alla.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02480252">
+<ITEM nro="hpee02480252" y="1879">
 <META>
 <ID>H, Peet 248/9 (252)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Õitsilaul + Öösel üksi</TYP_YHT>
@@ -7950,7 +7950,7 @@ Poiste pilge
 <V>Pöörsin sel´lä leidsin seinä</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02490253">
+<ITEM nro="hpee02490253" y="1879">
 <META>
 <ID>H, Peet 249/50 (253)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Must naine</TYP_YHT>
@@ -7982,7 +7982,7 @@ Must naine
 <V>Tuna-või-mullu teise poole</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02500254">
+<ITEM nro="hpee02500254" y="1879">
 <META>
 <ID>H, Peet 250 (254)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Võtaks naise, kardab kurja</TYP_YHT>
@@ -8009,7 +8009,7 @@ Võtaks naise kardab kurja
 <V>Voi voi voi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02500255">
+<ITEM nro="hpee02500255" y="1879">
 <META>
 <ID>H, Peet 250/1 (255)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Tule mulle!</TYP_YHT>
@@ -8036,7 +8036,7 @@ Tule mulle
 <V>Uue kaasa uinutada.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02510256">
+<ITEM nro="hpee02510256" y="1879">
 <META>
 <ID>H, Peet 251/3 (256)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Neli neidu</TYP_YHT>
@@ -8080,7 +8080,7 @@ Tule mulle
 <V>Keha keskelt keeru metsä</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02530257">
+<ITEM nro="hpee02530257" y="1879">
 <META>
 <ID>H, Peet 253 (257)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -8106,7 +8106,7 @@ Legend
 <V>Pühä risti hoone'esse</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02540258">
+<ITEM nro="hpee02540258" y="1879">
 <META>
 <ID>H, Peet 254 (258)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>_ + Oleks see mees minu!</TYP_YHT>
@@ -8134,7 +8134,7 @@ Legend
 <V>Kindad tal Kilingu kirjä</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02540259">
+<ITEM nro="hpee02540259" y="1879">
 <META>
 <ID>H, Peet 254/5 (259)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -8158,7 +8158,7 @@ Kahetsus halva mõrsja üle
 <V>Reit saab ruunal ringutada</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02550260">
+<ITEM nro="hpee02550260" y="1879">
 <META>
 <ID>H, Peet 255/8 (260)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Ema haual</TYP_YHT>
@@ -8224,7 +8224,7 @@ Ema haual
 <V>Veimevakka valmistagu</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02580261">
+<ITEM nro="hpee02580261" y="1879">
 <META>
 <ID>H, Peet 258/9 (261)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 </META>
@@ -8250,7 +8250,7 @@ Ema haual
 <V>Ei annud midägi minule</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02590262">
+<ITEM nro="hpee02590262" y="1879">
 <META>
 <ID>H, Peet 259/61 (262)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 </META>
@@ -8298,7 +8298,7 @@ Ema haual
 <V>Kübär tal pääle kui see küisi</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02600271">
+<ITEM nro="hpee02600271" y="1879">
 <META>
 <ID>H, Peet 260/70 (271)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Luust laev + _</TYP_YHT>
@@ -8332,7 +8332,7 @@ Luust laev
 <V>Tahtis tahmatsi käsije.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02610263">
+<ITEM nro="hpee02610263" y="1879">
 <META>
 <ID>H, Peet 261/2 (263)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kosjahobu söötmine + Tule mulle!</TYP_YHT>
@@ -8371,7 +8371,7 @@ Kosjahobu söötmine
 <V>Koda koerakaegastesta</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02620264">
+<ITEM nro="hpee02620264" y="1879">
 <META>
 <ID>H, Peet 262/3 (264)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kättemaks sakstele + Sillad soodele</TYP_YHT>
@@ -8398,7 +8398,7 @@ Kättemaks sakstele
 <V>Elu ilma ääre pääle</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02630265">
+<ITEM nro="hpee02630265" y="1879">
 <META>
 <ID>H, Peet 263 (265)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -8417,7 +8417,7 @@ Sügav mets
 <V>Kuuda kuuele aastale</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02630266">
+<ITEM nro="hpee02630266" y="1879">
 <META>
 <ID>H, Peet 263 (266)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Rikka härg ja vaese vares</TYP_YHT>
@@ -8437,7 +8437,7 @@ Varesetapja
 <V>Rind sai Riiä kirjutajalle</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02640267">
+<ITEM nro="hpee02640267" y="1879">
 <META>
 <ID>H, Peet 264/5 (267)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kitse krapp</TYP_YHT>
@@ -8489,7 +8489,7 @@ Kits-krapp
 <V>Toa nurgad naksumaie</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02650268">
+<ITEM nro="hpee02650268" y="1879">
 <META>
 <ID>H, Peet 265/6 (268)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Ratassäng</TYP_YHT>
@@ -8511,7 +8511,7 @@ Saan
 <V>Muilta mailta Malle musta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02660269">
+<ITEM nro="hpee02660269" y="1879">
 <META>
 <ID>H, Peet 266/7 (269)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <ZANR/>
@@ -8539,7 +8539,7 @@ Saan
 <V>Maani maksakarvalise.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02670270">
+<ITEM nro="hpee02670270" y="1879">
 <META>
 <ID>H, Peet 267/9 (270)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Karske neiu</TYP_YHT>
@@ -8597,7 +8597,7 @@ Karske neiu
 <V>Keerud köied lõikan katki.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02700272">
+<ITEM nro="hpee02700272" y="1879">
 <META>
 <ID>H, Peet 270/2 (272)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Härjad murtud</TYP_YHT>
@@ -8653,7 +8653,7 @@ Härjad murtud
 <V>Ristu Riiä ruubelida</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02720273">
+<ITEM nro="hpee02720273" y="1879">
 <META>
 <ID>H, Peet 272/3 (273)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -8673,7 +8673,7 @@ Poisid pungassilmad
 <V>Kui need külä noored poisid.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02730274">
+<ITEM nro="hpee02730274" y="1879">
 <META>
 <ID>H, Peet 273 (274)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Õitsilekutse</TYP_YHT>
@@ -8694,7 +8694,7 @@ Poisid pungassilmad
 <V>Karjakorral kal´l' on apu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02730275">
+<ITEM nro="hpee02730275" y="1879">
 <META>
 <ID>H, Peet 273 (275)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Taevas tantsis</TYP_YHT>
@@ -8712,7 +8712,7 @@ Taevas tantsis
 <V>Vikerkaar lõi viiulida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02730276">
+<ITEM nro="hpee02730276" y="1879">
 <META>
 <ID>H, Peet 273/4 (276)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Loomad vilja söönud + Sarvepuhuja</TYP_YHT>
@@ -8748,7 +8748,7 @@ Loomad vilja söönud
 <V>See on vana vaskne pasun.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02750277">
+<ITEM nro="hpee02750277" y="1879">
 <META>
 <ID>H, Peet 275 (277)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -8763,7 +8763,7 @@ Vanatüdruku pilge
 <V>Neist saab soosse silda tehä</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02750278">
+<ITEM nro="hpee02750278" y="1879">
 <META>
 <ID>H, Peet 275 (278)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Rikas hüüab reeks</TYP_YHT>
@@ -8788,7 +8788,7 @@ Rikas sõimab
 <V>Puida pääle pannetasse</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02760279">
+<ITEM nro="hpee02760279" y="1879">
 <META>
 <ID>H, Peet 276 (279)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Laulu võim</TYP_YHT>
@@ -8816,7 +8816,7 @@ Laulu võim
 <V>Laulu latika ninästa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02760280">
+<ITEM nro="hpee02760280" y="1879">
 <META>
 <ID>H, Peet 276/8 (280)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Haned kadunud</TYP_YHT>
@@ -8860,7 +8860,7 @@ Haned kadunud
 <V>Rasvapallid panni päälä.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02780281">
+<ITEM nro="hpee02780281" y="1879">
 <META>
 <ID>H, Peet 278/9 (281)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Halb kündja</TYP_YHT>
@@ -8892,7 +8892,7 @@ Halb kündja
 <V>Kül´leluust ollid künnirauad</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02790282">
+<ITEM nro="hpee02790282" y="1879">
 <META>
 <ID>H, Peet 279/80 (282)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -8927,7 +8927,7 @@ Korratu talu
 <V>Pekskem keelta kerge'esta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02800283">
+<ITEM nro="hpee02800283" y="1879">
 <META>
 <ID>H, Peet 280/1 (283)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Käopojad põues</TYP_YHT>
@@ -8950,7 +8950,7 @@ Käopoeg
 <V>Pääle panen kuldapurti</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02810284">
+<ITEM nro="hpee02810284" y="1879">
 <META>
 <ID>H, Peet 281 (284)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 </META>
@@ -8963,7 +8963,7 @@ Käopoeg
 <V>Ame ammaste vahele</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02810285">
+<ITEM nro="hpee02810285" y="1879">
 <META>
 <ID>H, Peet 281 (285)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Remmelgane rüü</TYP_YHT>
@@ -8981,7 +8981,7 @@ Imelik rüüd
 <V>Püksid püüsulgedesta</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02810286">
+<ITEM nro="hpee02810286" y="1879">
 <META>
 <ID>H, Peet 281/2 (286)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <ZANR/>
@@ -9009,7 +9009,7 @@ Imelik rüüd
 <V>Käissed Käbliku külässe</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02820287">
+<ITEM nro="hpee02820287" y="1879">
 <META>
 <ID>H, Peet 282/3 (287)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Võta mulle naine, muidu...</TYP_YHT>
@@ -9031,7 +9031,7 @@ Võta naine muidu murran neidusi ?
 <V>Sääl ma kargan kassi viisi</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02830288">
+<ITEM nro="hpee02830288" y="1879">
 <META>
 <ID>H, Peet 283 (288)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Tall taeva all</TYP_YHT>
@@ -9051,7 +9051,7 @@ Tall taeva all
 <V>Aganikku allid märäd</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02830289">
+<ITEM nro="hpee02830289" y="1879">
 <META>
 <ID>H, Peet 283/4 (289)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Must naine</TYP_YHT>
@@ -9084,7 +9084,7 @@ Must naine
 <V>Põletas põkad mõlemad</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02840290">
+<ITEM nro="hpee02840290" y="1879">
 <META>
 <ID>H, Peet 284/5 (290)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -9107,7 +9107,7 @@ Laisk naine naerab
 <V>Sigadel sees röbeldä</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02850291">
+<ITEM nro="hpee02850291" y="1879">
 <META>
 <ID>H, Peet 285/7 (291)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 </META>
@@ -9155,7 +9155,7 @@ Laisk naine naerab
 <V>Vaeselapse varjupaika</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02870292">
+<ITEM nro="hpee02870292" y="1879">
 <META>
 <ID>H, Peet 287/9 (292)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>_ + _ + Kasvatus asjatu</TYP_YHT>
@@ -9205,7 +9205,7 @@ Ilus küla
 <V>Jõekallas kasvatanu</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02890293">
+<ITEM nro="hpee02890293" y="1879">
 <META>
 <ID>H, Peet 289/90 (293)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kalajõgi + Kalad vees + Rannas saab värsket kala</TYP_YHT>
@@ -9246,7 +9246,7 @@ Kalajõgi
 <V>Mis lask laksu laine'elle</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02900294">
+<ITEM nro="hpee02900294" y="1879">
 <META>
 <ID>H, Peet 290/1 (294)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 </META>
@@ -9271,7 +9271,7 @@ Kalajõgi
 <V>Väl´län väitse poolelesi</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02910295">
+<ITEM nro="hpee02910295" y="1879">
 <META>
 <ID>H, Peet 291 (295)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>_ + Meremehe riided</TYP_YHT>
@@ -9290,7 +9290,7 @@ Neiu otsija / neiu veli
 <V>Kalanahk olli kasuka pääl</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02910296">
+<ITEM nro="hpee02910296" y="1879">
 <META>
 <ID>H, Peet 291/2 (296)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Saani tegemine + Oleks see mees minu!</TYP_YHT>
@@ -9325,7 +9325,7 @@ Saan
 <V>Talve tangu maitsemata</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02920297">
+<ITEM nro="hpee02920297" y="1879">
 <META>
 <ID>H, Peet 292/3 (297)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -9344,7 +9344,7 @@ Ilus neiu
 <V>Kakku kanna keerisselle</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02930298">
+<ITEM nro="hpee02930298" y="1879">
 <META>
 <ID>H, Peet 293/4 (298)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -9384,7 +9384,7 @@ Ilus neiu
 <V>Leidsin laadast laugu talle</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02940299">
+<ITEM nro="hpee02940299" y="1879">
 <META>
 <ID>H, Peet 294/5 (299)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -9411,7 +9411,7 @@ Sulane ootab süüa
 <V>Kesvavett ei keele pääle</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02950300">
+<ITEM nro="hpee02950300" y="1879">
 <META>
 <ID>H, Peet 295/7 (300)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Oma ema ja võõrasema ootavad koju</TYP_YHT>
@@ -9465,7 +9465,7 @@ Oma ja võõrasema ootab koju
 <V>Vaadist õllest joonul juua</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02970301">
+<ITEM nro="hpee02970301" y="1879">
 <META>
 <ID>H, Peet 297/9 (301)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 </META>
@@ -9507,7 +9507,7 @@ Oma ja võõrasema ootab koju
 <V>Kat'sid kallist kaubalinna</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee02990302">
+<ITEM nro="hpee02990302" y="1879">
 <META>
 <ID>H, Peet 299/300 (302)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -9529,7 +9529,7 @@ Palju laulu
 <V>Alta ammaste alanes</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03000303">
+<ITEM nro="hpee03000303" y="1879">
 <META>
 <ID>H, Peet 300 (303)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Valetab karjase peale</TYP_YHT>
@@ -9552,7 +9552,7 @@ Vanamees valetab, et kari kadunud
 <V>Oea kääräd käänetasse</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03000304">
+<ITEM nro="hpee03000304" y="1879">
 <META>
 <ID>H, Peet 300/1 (304)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Sundija sulane</TYP_YHT>
@@ -9583,7 +9583,7 @@ Sundija sulane
 <V>Laterissa laiskeleda</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03010305">
+<ITEM nro="hpee03010305" y="1879">
 <META>
 <ID>H, Peet 301/2 (305)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Tuulest talguhobu + _</TYP_YHT>
@@ -9608,7 +9608,7 @@ Heinast hobu
 <V>Vene varsad viisäkamad</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03020306">
+<ITEM nro="hpee03020306" y="1879">
 <META>
 <ID>H, Peet 302/3 (306)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>_ + Poisi ja neiu matus</TYP_YHT>
@@ -9653,7 +9653,7 @@ Neiu ja poisi kohus
 <V>Saksa sirgemad sibulad</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03030307">
+<ITEM nro="hpee03030307" y="1879">
 <META>
 <ID>H, Peet 303/5 (307)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -9693,7 +9693,7 @@ Neiud öösel käimas
 <V>Valge mees verevalaja</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03050308">
+<ITEM nro="hpee03050308" y="1879">
 <META>
 <ID>H, Peet 305 (308)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Sakste sajatus</TYP_YHT>
@@ -9714,7 +9714,7 @@ Sakste sajatus
 <V>Kirikuärrä keset põrgut</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03050309">
+<ITEM nro="hpee03050309" y="1879">
 <META>
 <ID>H, Peet 305/6 (309)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Palve sakstele</TYP_YHT>
@@ -9740,7 +9740,7 @@ Palve sakstele
 <V>Vaesed lapsed vardaesse</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03060310">
+<ITEM nro="hpee03060310" y="1879">
 <META>
 <ID>H, Peet 306/7 (310)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Orjusest ostja + _</TYP_YHT>
@@ -9781,7 +9781,7 @@ Orjusest ostja
 <V>Kes nüüd armu annud meile</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03070311">
+<ITEM nro="hpee03070311" y="1879">
 <META>
 <ID>H, Peet 307/8 (311)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -9799,7 +9799,7 @@ Tundmata saatus
 <V>Arjun angerja kalu</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03080312">
+<ITEM nro="hpee03080312" y="1879">
 <META>
 <ID>H, Peet 308/9 (312)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Must naine + _</TYP_YHT>
@@ -9836,7 +9836,7 @@ Must naine
 <V>Musta kuue muutsutanu</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03090313">
+<ITEM nro="hpee03090313" y="1879">
 <META>
 <ID>H, Peet 309/11 (313)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -9880,7 +9880,7 @@ Soldati l
 <V>Sinna ei näe neiu silmäd</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03110314">
+<ITEM nro="hpee03110314" y="1879">
 <META>
 <ID>H, Peet 311 (314)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Õllest saar + Kalajõgi</TYP_YHT>
@@ -9906,7 +9906,7 @@ Vitsast mets
 <V>Purika kül´led pugalad</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03110315">
+<ITEM nro="hpee03110315" y="1879">
 <META>
 <ID>H, Peet 311/2 (315)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -9929,7 +9929,7 @@ Poisid pungassilmad
 <V>Teisepoole portsakase</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03120316">
+<ITEM nro="hpee03120316" y="1879">
 <META>
 <ID>H, Peet 312/4 (316)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Karske neiu</TYP_YHT>
@@ -9986,7 +9986,7 @@ Karske neiu
 <V>Salge nutsid suured saksad</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03140317">
+<ITEM nro="hpee03140317" y="1879">
 <META>
 <ID>H, Peet 314/6 (317)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Orja palk</TYP_YHT>
@@ -10041,7 +10041,7 @@ Orja palk
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hpee03160318">
+<ITEM nro="hpee03160318" y="1879">
 <META>
 <ID>H, Peet 316/7 (318)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>_ + Oleks see neiu minu! + Petis peiu</TYP_YHT>
@@ -10082,7 +10082,7 @@ Karskuse õpetus neiule
 <V>Tõuse portu saada karja</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03170319">
+<ITEM nro="hpee03170319" y="1879">
 <META>
 <ID>H, Peet 317/8 (319)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Neiu linn</TYP_YHT>
@@ -10108,7 +10108,7 @@ Tuule tuba
 <V>Põrand paksust paasidest</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03180320">
+<ITEM nro="hpee03180320" y="1879">
 <META>
 <ID>H, Peet 318 (320)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Öösel õitsis, päeval karjas</TYP_YHT>
@@ -10131,7 +10131,7 @@ Pisut saab ori magada
 <V>Paugu ei kinni panne'enne</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03180321">
+<ITEM nro="hpee03180321" y="1879">
 <META>
 <ID>H, Peet 318/9 (321)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -10146,7 +10146,7 @@ Pisut saab ori magada
 <V>Istemed ilatsemaie</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03190322">
+<ITEM nro="hpee03190322" y="1879">
 <META>
 <ID>H, Peet 319/20 (322)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <ZANR>siirdevormiline laul</ZANR><TYP>
@@ -10176,7 +10176,7 @@ Neiud nutvad
 <V>Kõige liider liidre isä</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03200323">
+<ITEM nro="hpee03200323" y="1879">
 <META>
 <ID>H, Peet 320 (323)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -10203,7 +10203,7 @@ Meie poisid
 <V>Alli sammud arvas jäänud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03210324">
+<ITEM nro="hpee03210324" y="1879">
 <META>
 <ID>H, Peet 321 (324)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 </META>
@@ -10231,7 +10231,7 @@ Meie poisid
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hpee03210325">
+<ITEM nro="hpee03210325" y="1879">
 <META>
 <ID>H, Peet 321/2 (325)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Poisid põlgavad</TYP_YHT>
@@ -10267,7 +10267,7 @@ Poisid põlgvad, pole ehteid
 <V>Rikaste manu magama</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03230326">
+<ITEM nro="hpee03230326" y="1879">
 <META>
 <ID>H, Peet 323/4 (326)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 </META>
@@ -10299,7 +10299,7 @@ Poisid põlgvad, pole ehteid
 <V>Siis sai meesi kui see teisi</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03240327">
+<ITEM nro="hpee03240327" y="1879">
 <META>
 <ID>H, Peet 324/6 (327)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>_ + Kosjahobu söötmine + Sala neiusid vaatamas</TYP_YHT>
@@ -10359,7 +10359,7 @@ Tall taeva all ?
 <V>Sületäied sünnitsamad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03260328">
+<ITEM nro="hpee03260328" y="1879">
 <META>
 <ID>H, Peet 326/7 (328)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -10390,7 +10390,7 @@ Kuld
 <V>Tinakannu tilksati.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03270329">
+<ITEM nro="hpee03270329" y="1879">
 <META>
 <ID>H, Peet 327/8 (329)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Tule mulle!</TYP_YHT>
@@ -10427,7 +10427,7 @@ Tule mulle
 <V>Salv on servi sammalida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03280330">
+<ITEM nro="hpee03280330" y="1879">
 <META>
 <ID>H, Peet 328/31 (330)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Joodiku kojukutsumine + Ema haual</TYP_YHT>
@@ -10501,7 +10501,7 @@ Joodiku kodukutse
 <V>Abikaasaks armastud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03310331">
+<ITEM nro="hpee03310331" y="1879">
 <META>
 <ID>H, Peet 331/3 (331)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -10539,7 +10539,7 @@ Soldati l
 <V>Pää kuninga kübärassa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03330332">
+<ITEM nro="hpee03330332" y="1879">
 <META>
 <ID>H, Peet 333/4 (332)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Tere, kõrts + _</TYP_YHT>
@@ -10574,7 +10574,7 @@ Kõrtsi tervitus
 <V>Ladus lõnga laskemaie</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03340333">
+<ITEM nro="hpee03340333" y="1879">
 <META>
 <ID>H, Peet 334 (333)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Õhtu ja hommik + Öösel üksi + Kaasa kaugel</TYP_YHT>
@@ -10600,7 +10600,7 @@ Kõrtsi tervitus
 <V>Taga aga laia lauametsä</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03340334">
+<ITEM nro="hpee03340334" y="1879">
 <META>
 <ID>H, Peet 334/5 (334)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Tilluke teomees + Hobune varastatud</TYP_YHT>
@@ -10640,7 +10640,7 @@ Tilluke teopoiss
 <V>Ja Rõngu nurmel roksatas</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03360335">
+<ITEM nro="hpee03360335" y="1879">
 <META>
 <ID>H, Peet 336 (335)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>_ + Nutust järv</TYP_YHT>
@@ -10665,7 +10665,7 @@ Kus istun-iken
 <V>Neitsikestel närtsu peske</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03360336">
+<ITEM nro="hpee03360336" y="1879">
 <META>
 <ID>H, Peet 336/7 (336)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Luust sõrmus</TYP_YHT>
@@ -10700,7 +10700,7 @@ Meri - luust sõrmus
 <V>Kalameeste kaalaluista</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03370337">
+<ITEM nro="hpee03370337" y="1879">
 <META>
 <ID>H, Peet 337/8 (337)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -10729,7 +10729,7 @@ Kurjal mehel
 <V>Ennem kui vaeselapse vaevas</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03380338">
+<ITEM nro="hpee03380338" y="1879">
 <META>
 <ID>H, Peet 338/40 (338)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>_ + Oleks see mees minu!</TYP_YHT>
@@ -10769,7 +10769,7 @@ Kurjal mehel
 <V>Jalutu jänese silmäd</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03400339">
+<ITEM nro="hpee03400339" y="1879">
 <META>
 <ID>H, Peet 340/1 (339)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Sala neiusid vaatamas + Oleks see neiu minu!</TYP_YHT>
@@ -10818,7 +10818,7 @@ Sala neiusid vaatlemas
 <V>Väl´lä kargab kaukaesta</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03410340">
+<ITEM nro="hpee03410340" y="1879">
 <META>
 <ID>H, Peet 341/4 (340)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Haned kadunud</TYP_YHT>
@@ -10880,7 +10880,7 @@ Haned kadunud
 <V>Liigert laagert lastanesse</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03440341">
+<ITEM nro="hpee03440341" y="1879">
 <META>
 <ID>H, Peet 344/5 (341)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Päike ohje päästma</TYP_YHT>
@@ -10911,7 +10911,7 @@ Päike ohjasid päästma
 <V>Päitsid valla päästemaie</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03450342">
+<ITEM nro="hpee03450342" y="1879">
 <META>
 <ID>H, Peet 345/6 (342)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 </META>
@@ -10943,7 +10943,7 @@ Päike ohjasid päästma
 <V>Kauple ei kana kaendelasta</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03460343">
+<ITEM nro="hpee03460343" y="1879">
 <META>
 <ID>H, Peet 346/7 (343)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Tähemõrsja</TYP_YHT>
@@ -10976,7 +10976,7 @@ Salme
 <V>Kuda lää mina sinule</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03470344">
+<ITEM nro="hpee03470344" y="1879">
 <META>
 <ID>H, Peet 347/50 (344)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Laulu võim + Arg laulik + Käokiri + Laulud tööl õpitud</TYP_YHT>
@@ -11048,7 +11048,7 @@ Laulu võim
 <V>Keel mul kiskus kiuste laulu</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03500345">
+<ITEM nro="hpee03500345" y="1879">
 <META>
 <ID>H, Peet 350 (345)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kärdu perse hääl</TYP_YHT>
@@ -11076,7 +11076,7 @@ Poiste lori
 <V>Olli jälle Kärdu pordu perse</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03500346">
+<ITEM nro="hpee03500346" y="1879">
 <META>
 <ID>H, Peet 350/2 (346)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -11121,7 +11121,7 @@ Poiste lori
 <V>Pöörä selgä sinna poole</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03520347">
+<ITEM nro="hpee03520347" y="1879">
 <META>
 <ID>H, Peet 352/3 (347)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -11151,7 +11151,7 @@ Poiste lori
 <V>Käterätik varna pääle</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03530348">
+<ITEM nro="hpee03530348" y="1879">
 <META>
 <ID>H, Peet 353/4 (348)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -11174,7 +11174,7 @@ Poiste lori
 <V>Suu saab supi maitsejasse</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03540349">
+<ITEM nro="hpee03540349" y="1879">
 <META>
 <ID>H, Peet 354/5 (349)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -11197,7 +11197,7 @@ Poiste lori
 <V>Seisäte te seinä ääres</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03550350">
+<ITEM nro="hpee03550350" y="1879">
 <META>
 <ID>H, Peet 355 (350)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -11211,7 +11211,7 @@ Poiste lori
 <V>Ait jäi arvas rõõviesta</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03550351">
+<ITEM nro="hpee03550351" y="1879">
 <META>
 <ID>H, Peet 355/6 (351)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -11234,7 +11234,7 @@ Peigmees:
 <V>Jänesalt jalad nobedad</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03560352">
+<ITEM nro="hpee03560352" y="1879">
 <META>
 <ID>H, Peet 356 (352)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -11252,7 +11252,7 @@ Peigmees:
 <V>Kellel kannate kanikid</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03560353">
+<ITEM nro="hpee03560353" y="1879">
 <META>
 <ID>H, Peet 356 (353)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -11266,7 +11266,7 @@ Peigmees:
 <V>Salve kaaru saadit' raisku</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03570354">
+<ITEM nro="hpee03570354" y="1879">
 <META>
 <ID>H, Peet 357 (354)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -11281,7 +11281,7 @@ Peigmees:
 <V>Ehk me kallume kaeusse</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03570355">
+<ITEM nro="hpee03570355" y="1879">
 <META>
 <ID>H, Peet 357/8 (355)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -11314,7 +11314,7 @@ Pruut:
 <V>Suurde sukad kõrke kingäd</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03580356">
+<ITEM nro="hpee03580356" y="1879">
 <META>
 <ID>H, Peet 358 (356)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -11329,7 +11329,7 @@ Pruut:
 <V>Seitse teistä tõusemaie</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03580357">
+<ITEM nro="hpee03580357" y="1879">
 <META>
 <ID>H, Peet 358/9 (357)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -11355,7 +11355,7 @@ Pruut:
 <V>Kal´la kõige karja juua</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03590358">
+<ITEM nro="hpee03590358" y="1879">
 <META>
 <ID>H, Peet 359/60 (358)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -11378,7 +11378,7 @@ Pruut:
 <V>Südämesse setu korda</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03600359">
+<ITEM nro="hpee03600359" y="1879">
 <META>
 <ID>H, Peet 360/1 (359)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -11407,7 +11407,7 @@ Pruut:
 <V>Äbenenud ämärikku</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03610360">
+<ITEM nro="hpee03610360" y="1879">
 <META>
 <ID>H, Peet 361/2 (360)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -11429,7 +11429,7 @@ Vana naine valetab, et neiu kodus kasvanud
 <V>Mullikite murduesse</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03620361">
+<ITEM nro="hpee03620361" y="1879">
 <META>
 <ID>H, Peet 362 (361)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -11449,7 +11449,7 @@ Vana naine valetab, et neiu kodus kasvanud
 <V>Siin olli siivu soputanud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03620362">
+<ITEM nro="hpee03620362" y="1879">
 <META>
 <ID>H, Peet 362/3 (362)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Imelik maja</TYP_YHT><LLIIK_YHT>Laulud meelelahutamiseks (Teekäigulaulud)</LLIIK_YHT></META>
@@ -11468,7 +11468,7 @@ Vana naine valetab, et neiu kodus kasvanud
 <V>Toa pääle tuulelaevad</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03630363">
+<ITEM nro="hpee03630363" y="1879">
 <META>
 <ID>H, Peet 363 (363)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -11489,7 +11489,7 @@ Mitu orja
 <V>Kündijä olli kümnes orja</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03630364">
+<ITEM nro="hpee03630364" y="1879">
 <META>
 <ID>H, Peet 363/4 (364)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Unenägu</TYP_YHT>
@@ -11516,7 +11516,7 @@ Unenägu
 <V>Tooming tutti neiukene</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03640365">
+<ITEM nro="hpee03640365" y="1879">
 <META>
 <ID>H, Peet 364/5 (365)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Põlvist põdema</TYP_YHT>
@@ -11555,7 +11555,7 @@ Tõbine naine
 <V>Mudu mulda küll minema</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03660366">
+<ITEM nro="hpee03660366" y="1879">
 <META>
 <ID>H, Peet 366/7 (366)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Tütar kodus + Nuttev tamm</TYP_YHT>
@@ -11599,7 +11599,7 @@ Ainuke tütar
 <V>Karjavitsa kaasikusse</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03670367">
+<ITEM nro="hpee03670367" y="1879">
 <META>
 <ID>H, Peet 367/8 (367)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Talgute tänu + Suur härg</TYP_YHT>
@@ -11632,7 +11632,7 @@ Talguse laul
 <V>Kelle rasu raiskamata</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03680368">
+<ITEM nro="hpee03680368" y="1879">
 <META>
 <ID>H, Peet 368 (368)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <ZANR></ZANR><TYP>
@@ -11649,7 +11649,7 @@ Talguse laul
 <V>Põrguaua põhjaratas</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03680369">
+<ITEM nro="hpee03680369" y="1879">
 <META>
 <ID>H, Peet 368 (369)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Hollandi sulane</TYP_YHT>
@@ -11666,7 +11666,7 @@ Hollandi sulane
 <V>Liiverlant laia kasuka</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03690370">
+<ITEM nro="hpee03690370" y="1879">
 <META>
 <ID>H, Peet 369 (370)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <ZANR></ZANR><TYP>
@@ -11683,7 +11683,7 @@ Hollandi sulane
 <V>Ärä kadus noakene</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03690371">
+<ITEM nro="hpee03690371" y="1879">
 <META>
 <ID>H, Peet 369 (371)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Tall taeva all</TYP_YHT>
@@ -11701,7 +11701,7 @@ Tall taeva all
 <V>Saksa poisile kübärä</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03690372">
+<ITEM nro="hpee03690372" y="1879">
 <META>
 <ID>H, Peet 369/70 (372)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Parmu matus</TYP_YHT>
@@ -11723,7 +11723,7 @@ Parmu matus
 <V>Sikk see suure sarvega</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03700373">
+<ITEM nro="hpee03700373" y="1879">
 <META>
 <ID>H, Peet 370/1 (373)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Suude sulg</TYP_YHT>
@@ -11758,7 +11758,7 @@ Küla ütel
 <V>Pajataksin partsi moodu</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03710374">
+<ITEM nro="hpee03710374" y="1879">
 <META>
 <ID>H, Peet 371/2 (374)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Liiri-lõõri!</TYP_YHT>
@@ -11803,7 +11803,7 @@ Liiri, lõõri
 <V>Raudratastega, vaskvarrastega</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03730375">
+<ITEM nro="hpee03730375" y="1879">
 <META>
 <ID>H, Peet 373/3 (375)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -11820,7 +11820,7 @@ Poiste lori
 <V>Arva üles anumida</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03730376">
+<ITEM nro="hpee03730376" y="1879">
 <META>
 <ID>H, Peet 373 (376)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Remmelgane rüü</TYP_YHT><LLIIK_YHT>Töölaulud (Naistetööd)</LLIIK_YHT></META>
@@ -11840,7 +11840,7 @@ Poiste lori
 <V>Katavad kadakamarjad</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03730377">
+<ITEM nro="hpee03730377" y="1879">
 <META>
 <ID>H, Peet 373/4 (377)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -11856,7 +11856,7 @@ Poiste lori
 <V>Kangru kerä kõravad</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03740378">
+<ITEM nro="hpee03740378" y="1879">
 <META>
 <ID>H, Peet 374 (378)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Karjasepõli</TYP_YHT>
@@ -11873,7 +11873,7 @@ Poiste lori
 <V>Elu einä niitijälle</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03740379">
+<ITEM nro="hpee03740379" y="1879">
 <META>
 <ID>H, Peet 374/6 (379)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -11920,7 +11920,7 @@ Ilus tütar isakodus
 <V>Nädälis saand emä nähä</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03760380">
+<ITEM nro="hpee03760380" y="1879">
 <META>
 <ID>H, Peet 376 (380)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Metsast mehele</TYP_YHT>
@@ -11934,7 +11934,7 @@ Pulmad metsas
 <V>Jänes veike peiupoissi</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03760381">
+<ITEM nro="hpee03760381" y="1879">
 <META>
 <ID>H, Peet 376/7 (381)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Ema haual</TYP_YHT>
@@ -11963,7 +11963,7 @@ Ema haual
 <V>Ei või tõusta ei tõota</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03770382">
+<ITEM nro="hpee03770382" y="1879">
 <META>
 <ID>H, Peet 377 (382)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <ZANR>loodushäälend</ZANR><TYP>
@@ -11979,7 +11979,7 @@ Pääsukese laul
 <V>Kiskus siis viimäti katki karkääksti</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03770383">
+<ITEM nro="hpee03770383" y="1879">
 <META>
 <ID>H, Peet 377 (383)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Sirbiviskamise laul</TYP_YHT><LLIIK_YHT>Töölaulud (Lõikuslaulud)</LLIIK_YHT></META>
@@ -11990,7 +11990,7 @@ Pääsukese laul
 <V>Selle vastu peigmees sõuab</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03780384">
+<ITEM nro="hpee03780384" y="1879">
 <META>
 <ID>H, Peet 378 (384)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -12005,7 +12005,7 @@ Murelaul
 <V>Tanu tahku lati otsa</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03780385">
+<ITEM nro="hpee03780385" y="1879">
 <META>
 <ID>H, Peet 378 (385)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kalapüük</TYP_YHT>
@@ -12026,7 +12026,7 @@ Kalapüük
 <V>Lutsu kül´led loogelised</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03780386">
+<ITEM nro="hpee03780386" y="1879">
 <META>
 <ID>H, Peet 378/9 (386)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Palve sakstele</TYP_YHT>
@@ -12049,7 +12049,7 @@ Palve sakstele
 <V>Varas valla päälikusse</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03790387">
+<ITEM nro="hpee03790387" y="1879">
 <META>
 <ID>H, Peet 379 (387)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Isa härjad toitnud</TYP_YHT>
@@ -12066,7 +12066,7 @@ Isa loomad toidavad
 <V>Äte ärjäd memme lehmäd</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03790388">
+<ITEM nro="hpee03790388" y="1879">
 <META>
 <ID>H, Peet 379/80 (388)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Luust sõrmus</TYP_YHT>
@@ -12090,7 +12090,7 @@ Meri - luust sõrmus
 <V>Oma vennä otsaluista</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03800389">
+<ITEM nro="hpee03800389" y="1879">
 <META>
 <ID>H, Peet 380 (389)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kari kadunud</TYP_YHT>
@@ -12109,7 +12109,7 @@ Kari kadunud
 <V>Käe kõrvalt velle kõrvi</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03800390">
+<ITEM nro="hpee03800390" y="1879">
 <META>
 <ID>H, Peet 380/1 (390)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Liiri-lõõri!</TYP_YHT>
@@ -12146,7 +12146,7 @@ Liiri, lõõri
 <V>Püss on pihuks põrmuks läinud</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03810391">
+<ITEM nro="hpee03810391" y="1879">
 <META>
 <ID>H, Peet 381 (391)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <ZANR/><TYP_YHT>Hunt kukele</TYP_YHT>
@@ -12166,7 +12166,7 @@ Tere, tiipajalga
 <V>Käsib kärssä käimä tulla</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03820392">
+<ITEM nro="hpee03820392" y="1879">
 <META>
 <ID>H, Peet 382 (392)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Rõõmus nekrut</TYP_YHT>
@@ -12187,7 +12187,7 @@ Rõõmus soldat
 <V>Maademarsjas soodesõkjas</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03820393">
+<ITEM nro="hpee03820393" y="1879">
 <META>
 <ID>H, Peet 382/3 (393)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -12213,7 +12213,7 @@ Laula, muidu laidan
 <V>Küipoega kellel küidäd</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03830394">
+<ITEM nro="hpee03830394" y="1879">
 <META>
 <ID>H, Peet 383 (394)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kohus koju minna</TYP_YHT>
@@ -12241,7 +12241,7 @@ Kohus koju minna
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hpee03830395">
+<ITEM nro="hpee03830395" y="1879">
 <META>
 <ID>H, Peet 383/4 (395)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kättemaks sakstele</TYP_YHT>
@@ -12268,7 +12268,7 @@ Kättemaks sakstele
 <V>Äestäs ärä mätismaada</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03840396">
+<ITEM nro="hpee03840396" y="1879">
 <META>
 <ID>H, Peet 384/5 (396)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Talgute laitja</TYP_YHT>
@@ -12292,7 +12292,7 @@ Valelik valetab, et talgused otsas
 <V>Anumad alvale aritud</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03850397">
+<ITEM nro="hpee03850397" y="1879">
 <META>
 <ID>H, Peet 385/6 (397)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 </META>
@@ -12319,7 +12319,7 @@ Valelik valetab, et talgused otsas
 <V>Aki Arjumaa neitsida</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03860398">
+<ITEM nro="hpee03860398" y="1879">
 <META>
 <ID>H, Peet 386 (398)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -12333,7 +12333,7 @@ Sugulased tööl
 <V>Kandis teri kotiga</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03860399">
+<ITEM nro="hpee03860399" y="1879">
 <META>
 <ID>H, Peet 386 (399)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Kiidan teohobust</TYP_YHT>
@@ -12350,7 +12350,7 @@ Teohobuse kiitus
 <V>Kimmel võib kivä vidädä</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03860400">
+<ITEM nro="hpee03860400" y="1879">
 <META>
 <ID>H, Peet 386/7 (400)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -12366,7 +12366,7 @@ Metsas laulmine
 <V>Orud vasta uikamaie</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03870401">
+<ITEM nro="hpee03870401" y="1879">
 <META>
 <ID>H, Peet 387 (401)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Memme vaev</TYP_YHT>
@@ -12389,7 +12389,7 @@ Memme vaev
 <V>Vaaksin suurta vallatusta</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03870402">
+<ITEM nro="hpee03870402" y="1879">
 <META>
 <ID>H, Peet 387/9 (402)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Luust sõrmus</TYP_YHT>
@@ -12432,7 +12432,7 @@ Meri - luust sõrmus
 <V>Sinna saanud sinna jäänud</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03890403">
+<ITEM nro="hpee03890403" y="1879">
 <META>
 <ID>H, Peet 389/90 (403)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Unenägu</TYP_YHT>
@@ -12465,7 +12465,7 @@ Unenägu
 <V>Veli viiässe veneläses</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03900404">
+<ITEM nro="hpee03900404" y="1879">
 <META>
 <ID>H, Peet 390/1 (404)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Õllest saar + Kalajõgi</TYP_YHT>
@@ -12500,7 +12500,7 @@ Vitsast mets
 <V>Sääl kasvis kalu karjakaupa</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03910405">
+<ITEM nro="hpee03910405" y="1879">
 <META>
 <ID>H, Peet 391 (405)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -12521,7 +12521,7 @@ Tantsu laul
 <V>Ja andsin tütre arjakulle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03910406">
+<ITEM nro="hpee03910406" y="1879">
 <META>
 <ID>H, Peet 391/2 (406)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP>
@@ -12538,7 +12538,7 @@ Kosilased tulevad
 <V>Välja otsas jo oleva.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03920407">
+<ITEM nro="hpee03920407" y="1879">
 <META>
 <ID>H, Peet 392 (407)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Tuul lõi arud laiali</TYP_YHT>
@@ -12563,7 +12563,7 @@ Poiste lori
 <V>Parmul paras sisse minnä.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03920408">
+<ITEM nro="hpee03920408" y="1879">
 <META>
 <ID>H, Peet 392/3 (408)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -12580,7 +12580,7 @@ Poiste lori
 <V>Libiseme lätte'esse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03930409">
+<ITEM nro="hpee03930409" y="1879">
 <META>
 <ID>H, Peet 393 (409)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Neiu tahab taganeda</TYP_YHT>
@@ -12602,7 +12602,7 @@ Neiu tahab taganeda
 <V>Ommen mõisas peksä saame.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03930410">
+<ITEM nro="hpee03930410" y="1879">
 <META>
 <ID>H, Peet 393/4 (410)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Küllap hiired heietavad</TYP_YHT>
@@ -12620,7 +12620,7 @@ Laisk ketraja
 <V>Rotid lõime lõksutavad</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03940411">
+<ITEM nro="hpee03940411" y="1879">
 <META>
 <ID>H, Peet 394 (411)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -12638,7 +12638,7 @@ Laisk ketraja
 <V>Kerä kõrva küüritama</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03940412">
+<ITEM nro="hpee03940412" y="1879">
 <META>
 <ID>H, Peet 394/6 (412)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Isa- ja mehekodus</TYP_YHT>
@@ -12681,7 +12681,7 @@ Isa ja mehe kodus ?
 <V>Tõusu kaaki saada karja</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03960413">
+<ITEM nro="hpee03960413" y="1879">
 <META>
 <ID>H, Peet 396/8 (413)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <ZANR>siirdevormiline laul</ZANR><TYP_YHT>Rõõmus nekrut</TYP_YHT>
@@ -12736,7 +12736,7 @@ Rõõmus soldat
 <V>Lahingite läbi leidsin</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03980414">
+<ITEM nro="hpee03980414" y="1879">
 <META>
 <ID>H, Peet 398/9 (414)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Orjade tee + Kulla põlemine</TYP_YHT>
@@ -12778,7 +12778,7 @@ Orjade tee
 <V>Veidikese viiendälle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hpee03990415">
+<ITEM nro="hpee03990415" y="1879">
 <META>
 <ID>H, Peet 399/401 (415)</ID> &lt; <LOC>Viljandi khk.</LOC> - <COL>J. Peet</COL> (<TMP>1879</TMP>)
 <TYP_YHT>Liiri-lõõri!</TYP_YHT>

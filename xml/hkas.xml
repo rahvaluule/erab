@@ -1,5 +1,5 @@
 <COLLECTION>
-<ITEM nro="hkas00010000">
+<ITEM nro="hkas00010000" y="0">
 <META>
 <ID>H, Kase 1</ID> - <COL>Leena Kase</COL>
 <ZANR>andmed</ZANR>
@@ -24,7 +24,7 @@ L. Kase
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hkas00010001">
+<ITEM nro="hkas00010001" y="1868">
 <META>
 <ID>H, Kase 1 (1)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -82,7 +82,7 @@ Hulgas pole lauljaid
 <V>Kui puudus näiul sõnuje.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00010002">
+<ITEM nro="hkas00010002" y="1868">
 <META>
 <ID>H, Kase 1/a (2)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -115,7 +115,7 @@ Palju sõnu - metsa murd
 <V>Vaidlem' nii teonädali.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00020004">
+<ITEM nro="hkas00020004" y="1868">
 <META>
 <ID>H, Kase 2/a (4)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -159,7 +159,7 @@ Ei ole laulikut
 <V>Ele ääli, kume kurku.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00020007">
+<ITEM nro="hkas00020007" y="1868">
 <META>
 <ID>H, Kase 2a/3 (7)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -221,7 +221,7 @@ Küla ütel
 <V>Kurvakarik kainelenna.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00030008">
+<ITEM nro="hkas00030008" y="1868">
 <META>
 <ID>H, Kase 3/a (8)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -310,7 +310,7 @@ Küla ütel
 <V>Jalatalla laaderessa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00040009">
+<ITEM nro="hkas00040009" y="1868">
 <META>
 <ID>H, Kase 4 (9)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -348,7 +348,7 @@ Memme vaev
 <V>Nibul niidu veere pääle</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00040010">
+<ITEM nro="hkas00040010" y="1868">
 <META>
 <ID>H, Kase 4/a (10)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -416,7 +416,7 @@ Memme vaev
 <V>Luts meil loob loogelisi</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00050012">
+<ITEM nro="hkas00050012" y="1868">
 <META>
 <ID>H, Kase 5/a (12)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -450,7 +450,7 @@ Neiu hulk laiali
 <V>Suu vald, söame valda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00060015">
+<ITEM nro="hkas00060015" y="1868">
 <META>
 <ID>H, Kase 6/a (15)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -491,7 +491,7 @@ Neiu hulk laiali
 <V>Karda ei kau kedagi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00070018">
+<ITEM nro="hkas00070018" y="1868">
 <META>
 <ID>H, Kase 7/a (18)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -533,7 +533,7 @@ Venna kiitus - laitus
 <V>Palberel and' ärjapaari.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00080020">
+<ITEM nro="hkas00080020" y="1868">
 <META>
 <ID>H, Kase 8/a (20)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -604,7 +604,7 @@ Kosjahobu söötmine
 <V>Söö esi, sööda obene.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00090022">
+<ITEM nro="hkas00090022" y="1868">
 <META>
 <ID>H, Kase 9/a (22)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -679,7 +679,7 @@ Poiss tõuseb kui kuu
 <V>Arjun aanu amme'eida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00100025">
+<ITEM nro="hkas00100025" y="1868">
 <META>
 <ID>H, Kase 10 (25)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -708,7 +708,7 @@ Poisid pungassilmad
 <V>Kase kandu tüdrukusse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00100026">
+<ITEM nro="hkas00100026" y="1868">
 <META>
 <ID>H, Kase 10 (26)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -736,7 +736,7 @@ Vanapoisi pilge
 <V>Kümme vana ruuna vastu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00110028">
+<ITEM nro="hkas00110028" y="1868">
 <META>
 <ID>H, Kase 11/2 (28)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -891,7 +891,7 @@ Vaeslaps
 <V>Maari kikas kirgateleb</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00120029">
+<ITEM nro="hkas00120029" y="1868">
 <META>
 <ID>H, Kase 12/a (29)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -986,7 +986,7 @@ Tütar marjul
 <V>Armu alla langenesse</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00130031">
+<ITEM nro="hkas00130031" y="1868">
 <META>
 <ID>H, Kase 13 (31)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -1039,7 +1039,7 @@ Päeva päästmine
 <V>See säält sihest silmatie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00140034">
+<ITEM nro="hkas00140034" y="1868">
 <META>
 <ID>H, Kase 14 (34)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -1083,7 +1083,7 @@ Neiu ei lähe meremehele
 <V>Kata mere karjatsida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00140035">
+<ITEM nro="hkas00140035" y="1868">
 <META>
 <ID>H, Kase 14/a (35)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -1133,7 +1133,7 @@ Kodu kuri
 <V>Visantille veeringille.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00150037">
+<ITEM nro="hkas00150037" y="1868">
 <META>
 <ID>H, Kase 15 (37)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -1178,7 +1178,7 @@ Maarja tee
 <V>Ken või tegi kihlakeedi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00150038">
+<ITEM nro="hkas00150038" y="1868">
 <META>
 <ID>H, Kase 15/a (38)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -1210,7 +1210,7 @@ Mis vastu tuleb
 <V>Siin küll veerev velle paari.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00160041">
+<ITEM nro="hkas00160041" y="1868">
 <META>
 <ID>H, Kase 16 (41)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -1266,7 +1266,7 @@ Neiu ei taha mehele
 <V>Kaalakirja kullalise.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00180043">
+<ITEM nro="hkas00180043" y="1868">
 <META>
 <ID>H, Kase 18/a (43)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -1342,7 +1342,7 @@ Kägu - karu - peoleo
 <V>Sandil vaesel saajakese</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00190045">
+<ITEM nro="hkas00190045" y="1868">
 <META>
 <ID>H, Kase 19 (45)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -1387,7 +1387,7 @@ Sugu laiali
 <V>Vanempida valateme.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas001a0003">
+<ITEM nro="hkas001a0003" y="1868">
 <META>
 <ID>H, Kase 1a/2 (3)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -1484,7 +1484,7 @@ Ei tohi laulda
 <V>Laulu võtti, leilu leisi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00200048">
+<ITEM nro="hkas00200048" y="1868">
 <META>
 <ID>H, Kase 20 (48)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -1504,7 +1504,7 @@ Ei ole omast
 <V>Karu o karjuja kanane.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00200049">
+<ITEM nro="hkas00200049" y="1868">
 <META>
 <ID>H, Kase 20/a (49)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -1574,7 +1574,7 @@ Põlatud laps
 <V>Ema päälta päärätti.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00210051">
+<ITEM nro="hkas00210051" y="1868">
 <META>
 <ID>H, Kase 21 (51)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -1600,7 +1600,7 @@ Must naine
 <V>Siis oli näiu, mi oli muile.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00210052">
+<ITEM nro="hkas00210052" y="1868">
 <META>
 <ID>H, Kase 21 (52)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -1643,7 +1643,7 @@ Helmed kadunud
 <V>Otsekohe ukatusse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00210053">
+<ITEM nro="hkas00210053" y="1868">
 <META>
 <ID>H, Kase 21/a (53)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -1704,7 +1704,7 @@ Haned kadunud
 <V>Sääl ep oli teie ani.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00220055">
+<ITEM nro="hkas00220055" y="1868">
 <META>
 <ID>H, Kase 22 (55)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -1749,7 +1749,7 @@ Sepp
 <V>Alaspakku alla õlma.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00220056">
+<ITEM nro="hkas00220056" y="1868">
 <META>
 <ID>H, Kase 22/a (56)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -1819,7 +1819,7 @@ Nurganaine
 <V>Liivan mu lina libeve.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00230058">
+<ITEM nro="hkas00230058" y="1868">
 <META>
 <ID>H, Kase 23/a (58)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -1854,7 +1854,7 @@ Unenägu
 <V>Saarest ära saadetesse</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00240061">
+<ITEM nro="hkas00240061" y="1868">
 <META>
 <ID>H, Kase 24 (61)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -1890,7 +1890,7 @@ Lähme ära siit maalt
 <V>Kakum' kaara pöörusida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00240062">
+<ITEM nro="hkas00240062" y="1868">
 <META>
 <ID>H, Kase 24/a (62)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -1949,7 +1949,7 @@ Tare tegemine
 <V>Tüdruku käetoesse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00250064">
+<ITEM nro="hkas00250064" y="1868">
 <META>
 <ID>H, Kase 25/a (64)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -1994,7 +1994,7 @@ Kaubamehed
 <V>Ilvese ihu puhusta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00260067">
+<ITEM nro="hkas00260067" y="1868">
 <META>
 <ID>H, Kase 26 (67)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -2012,7 +2012,7 @@ Kaubamehed
 <V>Kallas vee kaalalegi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00270072">
+<ITEM nro="hkas00270072" y="1868">
 <META>
 <ID>H, Kase 27 (72)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -2046,7 +2046,7 @@ Kaubamehed
 <V>Laanest ladvatu pedaje.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00270073">
+<ITEM nro="hkas00270073" y="1868">
 <META>
 <ID>H, Kase 27 (73)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -2079,7 +2079,7 @@ Kaubamehed
 <V>Pahatse pagane küüne.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00270074">
+<ITEM nro="hkas00270074" y="1868">
 <META>
 <ID>H, Kase 27/a (74)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -2127,7 +2127,7 @@ Laul küla kohal
 <V>Kevadelt o näiu kehva.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00290078">
+<ITEM nro="hkas00290078" y="1868">
 <META>
 <ID>H, Kase 29/a (78)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -2207,7 +2207,7 @@ Ori taevas
 <V>Küll o saanu üle jäänu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas002a0005">
+<ITEM nro="hkas002a0005" y="1868">
 <META>
 <ID>H, Kase 2a (5)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -2238,7 +2238,7 @@ Laulu võim
 <V>Mere põhja põrmatusse</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas002a0006">
+<ITEM nro="hkas002a0006" y="1868">
 <META>
 <ID>H, Kase 2a (6)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -2281,7 +2281,7 @@ Endine hääl
 <V>Siin küll veerev velle paari.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00300080">
+<ITEM nro="hkas00300080" y="1868">
 <META>
 <ID>H, Kase 30 (80)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -2312,7 +2312,7 @@ Ilm udune, et sugu vihane
 <V>Sest ep taevas tahmatettu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00310084">
+<ITEM nro="hkas00310084" y="1868">
 <META>
 <ID>H, Kase 31 (84)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -2336,7 +2336,7 @@ Vihm üle
 <V>Latse lakuv leemekese.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00310085">
+<ITEM nro="hkas00310085" y="1868">
 <META>
 <ID>H, Kase 31 (85)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -2366,7 +2366,7 @@ Päev, lõunasse
 <V>Oaleemi uule pääle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00320087">
+<ITEM nro="hkas00320087" y="1868">
 <META>
 <ID>H, Kase 32 (87)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -2399,7 +2399,7 @@ Päev, lõunasse
 <V>Mure musta kõndimaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00320088">
+<ITEM nro="hkas00320088" y="1868">
 <META>
 <ID>H, Kase 32 (88)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -2435,7 +2435,7 @@ Hobuse otsimine
 <V>Aaste anipajuda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00330091">
+<ITEM nro="hkas00330091" y="1868">
 <META>
 <ID>H, Kase 33 (91)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -2454,7 +2454,7 @@ Neiupüüdjad
 <V>Kabla kinniköitajalle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00330092">
+<ITEM nro="hkas00330092" y="1868">
 <META>
 <ID>H, Kase 33/a (92)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -2509,7 +2509,7 @@ Karske neiu
 <V>Ilves ta enge ülendi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00340095">
+<ITEM nro="hkas00340095" y="1868">
 <META>
 <ID>H, Kase 34 (95)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -2539,7 +2539,7 @@ Kuri põlv karjastel
 <V>Kolmas sööb ära koguni.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00340096">
+<ITEM nro="hkas00340096" y="1868">
 <META>
 <ID>H, Kase 34 (96)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -2562,7 +2562,7 @@ Hollandi sulane
 <V>See mul palgas pakutesse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00340097">
+<ITEM nro="hkas00340097" y="1868">
 <META>
 <ID>H, Kase 34/a (97)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -2597,7 +2597,7 @@ Karjastelaul
 <V>Kitsi kirju kopelesse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00350101">
+<ITEM nro="hkas00350101" y="1868">
 <META>
 <ID>H, Kase 35 (101)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -2622,7 +2622,7 @@ Noormehed norus, et vili ei kasva
 <V>Norun noore poisikese.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00350102">
+<ITEM nro="hkas00350102" y="1868">
 <META>
 <ID>H, Kase 35/6 (102)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -2729,7 +2729,7 @@ Heinaniidu laul
 <V>Tüdruku veevedaja.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00360103">
+<ITEM nro="hkas00360103" y="1868">
 <META>
 <ID>H, Kase 36 (103)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -2751,7 +2751,7 @@ Heinaniidu laul
 <V>Sõsar saaren söödi saia. <REFR>üles</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00360104">
+<ITEM nro="hkas00360104" y="1868">
 <META>
 <ID>H, Kase 36 (104)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -2766,7 +2766,7 @@ Heinaniidu laul
 <V>Panem' me käsile pakki</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00360105">
+<ITEM nro="hkas00360105" y="1868">
 <META>
 <ID>H, Kase 36/a (105)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -2810,7 +2810,7 @@ Tahuiu, Tahuiu
 <V>Pika põllu ma pöete.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00360113">
+<ITEM nro="hkas00360113" y="1868">
 <META>
 <ID>H, Kase 38 (113)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -2834,7 +2834,7 @@ Lüpsilaul
 <V>Saial ärasaatemista.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00370108">
+<ITEM nro="hkas00370108" y="1868">
 <META>
 <ID>H, Kase 37 (108)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -2870,7 +2870,7 @@ Ema asjata kasvatanud
 <V>Latse ikke laine'elle</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00370109">
+<ITEM nro="hkas00370109" y="1868">
 <META>
 <ID>H, Kase 37 (109)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -2906,7 +2906,7 @@ Orjad tahavad õhtule.
 <V>Teolatse tõiva laastid.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00380111">
+<ITEM nro="hkas00380111" y="1868">
 <META>
 <ID>H, Kase 38 (111)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -2927,7 +2927,7 @@ Palve sakstele
 <V>Teolatsi teibe'esse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00380112">
+<ITEM nro="hkas00380112" y="1868">
 <META>
 <ID>H, Kase 38 (112)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -2951,7 +2951,7 @@ Orjad tahavad õhtule.
 <V>Luupaine enese selga.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00380114">
+<ITEM nro="hkas00380114" y="1868">
 <META>
 <ID>H, Kase 38 (114)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -2971,7 +2971,7 @@ Lüpsilaul
 <V>Anna'i piima pikkaända.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00390119">
+<ITEM nro="hkas00390119" y="1868">
 <META>
 <ID>H, Kase 39 (119)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -3015,7 +3015,7 @@ Noormehed norus, et neiud surnud
 <V>Vahapää teie valade.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00390120">
+<ITEM nro="hkas00390120" y="1868">
 <META>
 <ID>H, Kase 39 (120)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -3035,7 +3035,7 @@ Naine kaugelt Narvast
 <V>Rohipõlle Rootsimaalta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00400126">
+<ITEM nro="hkas00400126" y="1868">
 <META>
 <ID>H, Kase 40 (126)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -3064,7 +3064,7 @@ Halb laulik
 <V>Häälesta ädapasune.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00400127">
+<ITEM nro="hkas00400127" y="1868">
 <META>
 <ID>H, Kase 40 (127)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -3095,7 +3095,7 @@ Sõimajale
 <V>Nina nurgan nuuskimista.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00410130">
+<ITEM nro="hkas00410130" y="1868">
 <META>
 <ID>H, Kase 41 (130)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -3116,7 +3116,7 @@ Kari koju
 <V>Piitsve piimalinnukese.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00410131">
+<ITEM nro="hkas00410131" y="1879">
 <META>
 <ID>H, Kase 41 (131)</ID> &lt; <LOC>Helme khk., Kärstna v.</LOC> - <COL>Leena Kase</COL> &lt; <INF><NIMI>ühelt naiselt</NIMI></INF> (<TMP>1879</TMP>)
 <TYP_YHT>Hea hääl</TYP_YHT>
@@ -3145,7 +3145,7 @@ Endine hääl
 <V>Kurgust kullatse ubine.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00410132">
+<ITEM nro="hkas00410132" y="1879">
 <META>
 <ID>H, Kase 41/a (132)</ID> &lt; <LOC>? Helme khk., Kärstna v.</LOC> - <COL>Leena Kase</COL> &lt; <INF><NIMI>ühelt naiselt</NIMI></INF> (<TMP>1879</TMP>)
 <TYP_YHT>Tulge tuleval aastal</TYP_YHT>
@@ -3198,7 +3198,7 @@ Ei noorelt mehele
 <V>Amet tee aiu penile.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00420134">
+<ITEM nro="hkas00420134" y="1879">
 <META>
 <ID>H, Kase 42/a (134)</ID> &lt; <LOC>? Helme khk., Kärstna v.</LOC> - <COL>Leena Kase</COL> &lt; <INF><NIMI>ühelt naiselt</NIMI></INF> (<TMP>1879</TMP>)
 <TYP_YHT>_ + Imed</TYP_YHT>
@@ -3279,7 +3279,7 @@ Vaeslaps
 <V>See o ütsi vaenelatsi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00430136">
+<ITEM nro="hkas00430136" y="1879">
 <META>
 <ID>H, Kase 43 (136)</ID> &lt; <LOC>? Helme khk., Kärstna v.</LOC> - <COL>Leena Kase</COL> &lt; <INF><NIMI>ühelt naiselt</NIMI></INF> (<TMP>1879</TMP>)
 </META>
@@ -3316,7 +3316,7 @@ Vaeslaps
 <V>Avi ambid laksutenna.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00430137">
+<ITEM nro="hkas00430137" y="1879">
 <META>
 <ID>H, Kase 43/a (137)</ID> &lt; <LOC>? Helme khk., Kärstna v.</LOC> - <COL>Leena Kase</COL> &lt; <INF><NIMI>ühelt naiselt</NIMI></INF> (<TMP>1879</TMP>)
 </META>
@@ -3350,7 +3350,7 @@ Vaeslaps
 <V>Kiht lääs risti keidissida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00440141">
+<ITEM nro="hkas00440141" y="1879">
 <META>
 <ID>H, Kase 44 (141)</ID> &lt; <LOC>? Helme khk., Kärstna v.</LOC> - <COL>Leena Kase</COL> &lt; <INF><NIMI>ühelt naiselt</NIMI></INF> (<TMP>1879</TMP>)
 <TYP_YHT>Lauliku sõim + Võidulaulmine</TYP_YHT>
@@ -3380,7 +3380,7 @@ Halb laulik / Lauliku sõim
 <V>Kiuste sõnu kiskumaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00440142">
+<ITEM nro="hkas00440142" y="1879">
 <META>
 <ID>H, Kase 44 (142)</ID> &lt; <LOC>? Helme khk., Kärstna v.</LOC> - <COL>Leena Kase</COL> &lt; <INF><NIMI>ühelt naiselt</NIMI></INF> (<TMP>1879</TMP>)
 <TYP>
@@ -3402,7 +3402,7 @@ Laimajale
 <V>Tee veere vitsapuida</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00440143">
+<ITEM nro="hkas00440143" y="1879">
 <META>
 <ID>H, Kase 44 (143)</ID> &lt; <LOC>? Helme khk., Kärstna v.</LOC> - <COL>Leena Kase</COL> &lt; <INF><NIMI>ühelt naiselt</NIMI></INF> (<TMP>1879</TMP>)
 <TYP>
@@ -3418,7 +3418,7 @@ Laimajale
 <V>Vana atal augutusta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00450148">
+<ITEM nro="hkas00450148" y="1879">
 <META>
 <ID>H, Kase 45 (148)</ID> &lt; <LOC>? Helme khk., Kärstna v.</LOC> - <COL>Leena Kase</COL> &lt; <INF><NIMI>ühelt naiselt</NIMI></INF> (<TMP>1879</TMP>)
 <TYP>
@@ -3437,7 +3437,7 @@ Laimajale
 <V>Riia neitside nimele.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00450149">
+<ITEM nro="hkas00450149" y="1879">
 <META>
 <ID>H, Kase 45 (149)</ID> &lt; <LOC>? Helme khk., Kärstna v.</LOC> - <COL>Leena Kase</COL> &lt; <INF><NIMI>ühelt naiselt</NIMI></INF> (<TMP>1879</TMP>)
 <TYP>
@@ -3451,7 +3451,7 @@ Lapsetapja neiu
 <V>Kolmante sa kuusikusse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00450150">
+<ITEM nro="hkas00450150" y="1879">
 <META>
 <ID>H, Kase 45 (150)</ID> &lt; <LOC>? Helme khk., Kärstna v.</LOC> - <COL>Leena Kase</COL> &lt; <INF><NIMI>ühelt naiselt</NIMI></INF> (<TMP>1879</TMP>)
 </META>
@@ -3462,7 +3462,7 @@ Lapsetapja neiu
 <V>Abin auda kaevamenne.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00450151">
+<ITEM nro="hkas00450151" y="1879">
 <META>
 <ID>H, Kase 45 (151)</ID> &lt; <LOC>? Helme khk., Kärstna v.</LOC> - <COL>Leena Kase</COL> &lt; <INF><NIMI>ühelt naiselt</NIMI></INF> (<TMP>1879</TMP>)
 <TYP_YHT>Lauliku sõim</TYP_YHT>
@@ -3499,7 +3499,7 @@ Halb laulik
 <V>Kits sul keele kinni panden.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00460156">
+<ITEM nro="hkas00460156" y="1879">
 <META>
 <ID>H, Kase 46 (156)</ID> &lt; <LOC>? Helme khk., Kärstna v.</LOC> - <COL>Leena Kase</COL> &lt; <INF><NIMI>ühelt naiselt</NIMI></INF> (<TMP>1879</TMP>)
 <TYP>
@@ -3515,7 +3515,7 @@ Laisad poisid
 <V>Tukud teeda käienna</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00460157">
+<ITEM nro="hkas00460157" y="1879">
 <META>
 <ID>H, Kase 46 (157)</ID> &lt; <LOC>? Helme khk., Kärstna v.</LOC> - <COL>Leena Kase</COL> &lt; <INF><NIMI>ühelt naiselt</NIMI></INF> (<TMP>1879</TMP>)
 <TYP_YHT>Poiste pilge</TYP_YHT>
@@ -3535,7 +3535,7 @@ Poiste pilge
 <V>Paa alla audumaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00470001">
+<ITEM nro="hkas00470001" y="1868">
 <META>
 <ID>H, Kase 47 (1)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -3582,7 +3582,7 @@ Kiigele ehtimine
 <V>Elin eitus Elme'esse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00470002">
+<ITEM nro="hkas00470002" y="1868">
 <META>
 <ID>H, Kase 47/a (2)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -3634,7 +3634,7 @@ Kiige laul / Kiigel kartlik
 <V>Karsikse maast kasisi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00480004">
+<ITEM nro="hkas00480004" y="1868">
 <META>
 <ID>H, Kase 48/a (4)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -3697,7 +3697,7 @@ Kiik halval kohal
 <V>Raput meida raske'esta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00490007">
+<ITEM nro="hkas00490007" y="1868">
 <META>
 <ID>H, Kase 49 (7)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -3741,7 +3741,7 @@ Kiigelaul
 <V>Varukablade vahele.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00490008">
+<ITEM nro="hkas00490008" y="1868">
 <META>
 <ID>H, Kase 49/a (8)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -3787,7 +3787,7 @@ Kiigelaul
 <V>Õõrs mul õbe päielesse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas004a0011">
+<ITEM nro="hkas004a0011" y="1868">
 <META>
 <ID>H, Kase 4a/5 (11)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -3884,7 +3884,7 @@ Laula suukene
 <V>Taevas armu tal ajagu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00500012">
+<ITEM nro="hkas00500012" y="1868">
 <META>
 <ID>H, Kase 50 (12)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -3940,7 +3940,7 @@ Jaanilaul
 <V><REFR>Jaaniga, Jaaniga!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00510002">
+<ITEM nro="hkas00510002" y="1868">
 <META>
 <ID>H, Kase 51/a (2)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -3992,7 +3992,7 @@ Jaanilaul
 <V>Kivi all o kiskujatta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00520000">
+<ITEM nro="hkas00520000" y="1868">
 <META>
 <ID>H, Kase 52/6a</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -4477,7 +4477,7 @@ Oli laul lõpetatud, siis võeti uks lahti ja Märdid hakkasivad minema. Minnes 
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00570000">
+<ITEM nro="hkas00570000" y="1868">
 <META>
 <ID>H, Kase 57/8a</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -4670,7 +4670,7 @@ Kui Kadrid ära läksivad, siis andsivad igaüks omast vitsakimbust oksa perenai
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00590001">
+<ITEM nro="hkas00590001" y="1868">
 <META>
 <ID>H, Kase 59/a (1)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -4775,7 +4775,7 @@ Minijad lasksivad need pajad - nõnda, nagu oleks nad katki läinud - käest lah
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hkas005a0013">
+<ITEM nro="hkas005a0013" y="1868">
 <META>
 <ID>H, Kase 5a (13)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -4817,7 +4817,7 @@ Oodake neiud
 <V>Kanden kaasa valle'eida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas005a0014">
+<ITEM nro="hkas005a0014" y="1868">
 <META>
 <ID>H, Kase 5a/6 (14)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -4899,7 +4899,7 @@ Karske neiu
 <V>Vahapää teie valate.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00610004">
+<ITEM nro="hkas00610004" y="1868">
 <META>
 <ID>H, Kase 61/2 (4)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -5180,7 +5180,7 @@ Kelle ees lauldi, see pani vähakene udsi palaja sisse. - Kui umalad ja linnakse
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hkas00620005">
+<ITEM nro="hkas00620005" y="1868">
 <META>
 <ID>H, Kase 62/2a (5)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -5414,7 +5414,7 @@ Nüüd näitasivad kanad igaüks oma jalga ja küsisivad: "Kas see oli?" Teistel
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00630001">
+<ITEM nro="hkas00630001" y="1868">
 <META>
 <ID>H, Kase 63 (1)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -5451,7 +5451,7 @@ Nüüd näitasivad kanad igaüks oma jalga ja küsisivad: "Kas see oli?" Teistel
 <V>Veel enam iväda. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00630002">
+<ITEM nro="hkas00630002" y="1868">
 <META>
 <ID>H, Kase 63 (2)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -5473,7 +5473,7 @@ Nüüd näitasivad kanad igaüks oma jalga ja küsisivad: "Kas see oli?" Teistel
 <V>Küll o säärta saapa täisi. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00640004">
+<ITEM nro="hkas00640004" y="1868">
 <META>
 <ID>H, Kase 64 (4)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -5499,7 +5499,7 @@ Nüüd näitasivad kanad igaüks oma jalga ja küsisivad: "Kas see oli?" Teistel
 <V>Äraviija väratille <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00640005">
+<ITEM nro="hkas00640005" y="1868">
 <META>
 <ID>H, Kase 64/4a (5)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -5544,7 +5544,7 @@ Nüüd näitasivad kanad igaüks oma jalga ja küsisivad: "Kas see oli?" Teistel
 <V>Ukat' ära esa obesta <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00650009">
+<ITEM nro="hkas00650009" y="1868">
 <META>
 <ID>H, Kase 65/6 (9)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -5670,7 +5670,7 @@ Nüüd näitasivad kanad igaüks oma jalga ja küsisivad: "Kas see oli?" Teistel
 <V>Kui ei laula laudakonda. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00660010">
+<ITEM nro="hkas00660010" y="1868">
 <META>
 <ID>H, Kase 66 (10)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -5707,7 +5707,7 @@ Nüüd näitasivad kanad igaüks oma jalga ja küsisivad: "Kas see oli?" Teistel
 <V>Kui meil tarvis siis me tapam'. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00670012">
+<ITEM nro="hkas00670012" y="1868">
 <META>
 <ID>H, Kase 67 (12)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -5746,7 +5746,7 @@ Nüüd näitasivad kanad igaüks oma jalga ja küsisivad: "Kas see oli?" Teistel
 <V>Kala toob kavest meresta. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00670013">
+<ITEM nro="hkas00670013" y="1868">
 <META>
 <ID>H, Kase 67/a (13)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -5805,7 +5805,7 @@ Nüüd näitasivad kanad igaüks oma jalga ja küsisivad: "Kas see oli?" Teistel
 <V>Mine kaaki, saada karja. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00680015">
+<ITEM nro="hkas00680015" y="1868">
 <META>
 <ID>H, Kase 68/9 (15)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -5882,7 +5882,7 @@ Nüüd näitasivad kanad igaüks oma jalga ja küsisivad: "Kas see oli?" Teistel
 <V>Iki tahad tahma kätte. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00690016">
+<ITEM nro="hkas00690016" y="1868">
 <META>
 <ID>H, Kase 69/9a (16)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -5946,7 +5946,7 @@ Nüüd näitasivad kanad igaüks oma jalga ja küsisivad: "Kas see oli?" Teistel
 <V>Söö esi sööda obene. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas006a0016">
+<ITEM nro="hkas006a0016" y="1868">
 <META>
 <ID>H, Kase 6a (16)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -5982,7 +5982,7 @@ Ei hooli uhkeist
 <V>Parts ma pajuallikusta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas006a0017">
+<ITEM nro="hkas006a0017" y="1868">
 <META>
 <ID>H, Kase 6a/7 (17)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -6063,7 +6063,7 @@ Ammu lubatud
 <V>Maadele ei marga pääle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00700018">
+<ITEM nro="hkas00700018" y="1868">
 <META>
 <ID>H, Kase 70 (18)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -6091,7 +6091,7 @@ Ammu lubatud
 <V>Abi Arju saarikille. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00700019">
+<ITEM nro="hkas00700019" y="1868">
 <META>
 <ID>H, Kase 70/70a (19)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -6113,7 +6113,7 @@ Ammu lubatud
 <V>Polin velle põrmatulta. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00710021">
+<ITEM nro="hkas00710021" y="1868">
 <META>
 <ID>H, Kase 71 (21)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -6139,7 +6139,7 @@ Ammu lubatud
 <V>Nibul niidu veere pääle. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00710022">
+<ITEM nro="hkas00710022" y="1868">
 <META>
 <ID>H, Kase 71/1a (22)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -6199,7 +6199,7 @@ Ammu lubatud
 <V>Amet tee aiupenile. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00720025">
+<ITEM nro="hkas00720025" y="1868">
 <META>
 <ID>H, Kase 72 (25)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -6226,7 +6226,7 @@ Ammu lubatud
 <V>Tammepakk tare lävele. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00720026">
+<ITEM nro="hkas00720026" y="1868">
 <META>
 <ID>H, Kase 72/2a (26)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -6265,7 +6265,7 @@ Ammu lubatud
 <V>Kopsuna elu kuradi. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00730029">
+<ITEM nro="hkas00730029" y="1868">
 <META>
 <ID>H, Kase 73 (29)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -6290,7 +6290,7 @@ Ammu lubatud
 <V>Kõrva kullalehekese. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00730030">
+<ITEM nro="hkas00730030" y="1868">
 <META>
 <ID>H, Kase 73/a (30)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -6342,7 +6342,7 @@ Ammu lubatud
 <V>Soovse suurta toogutusta. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00750036">
+<ITEM nro="hkas00750036" y="1868">
 <META>
 <ID>H, Kase 75 (36)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -6369,7 +6369,7 @@ Ammu lubatud
 <V>Vana alva avaskille. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00750037">
+<ITEM nro="hkas00750037" y="1868">
 <META>
 <ID>H, Kase 75/a (37)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -6402,7 +6402,7 @@ Ammu lubatud
 <V>Laua pääle laulatettu. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00760040">
+<ITEM nro="hkas00760040" y="1868">
 <META>
 <ID>H, Kase 76/a (40)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -6467,7 +6467,7 @@ Ammu lubatud
 <V>Ernevarsina vabised. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00770042">
+<ITEM nro="hkas00770042" y="1868">
 <META>
 <ID>H, Kase 77 (42)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -6484,7 +6484,7 @@ Ammu lubatud
 <V>Alli aisuna karate. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00770043">
+<ITEM nro="hkas00770043" y="1868">
 <META>
 <ID>H, Kase 77/a (43)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -6509,7 +6509,7 @@ Ammu lubatud
 <V>Lase tibu laine'elle. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00780045">
+<ITEM nro="hkas00780045" y="1868">
 <META>
 <ID>H, Kase 78/a (45)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -6552,7 +6552,7 @@ Ammu lubatud
 <V>Välla lää rada rahane. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00790049">
+<ITEM nro="hkas00790049" y="1868">
 <META>
 <ID>H, Kase 79 (49)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -6599,7 +6599,7 @@ Ammu lubatud
 <V>Mi me eila esi joodim'. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas007a0019">
+<ITEM nro="hkas007a0019" y="1868">
 <META>
 <ID>H, Kase 7a/8 (19)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -6663,7 +6663,7 @@ Uppunud vend
 <V>Sihant ep oli meie velle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00800052">
+<ITEM nro="hkas00800052" y="1868">
 <META>
 <ID>H, Kase 80 (52)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -6683,7 +6683,7 @@ Uppunud vend
 <V>Lääme lauda laulamaie. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00800053">
+<ITEM nro="hkas00800053" y="1868">
 <META>
 <ID>H, Kase 80 (53)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -6713,7 +6713,7 @@ Uppunud vend
 <V>Kaege me kannustegi. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00800054">
+<ITEM nro="hkas00800054" y="1868">
 <META>
 <ID>H, Kase 80/a (54)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -6733,7 +6733,7 @@ Uppunud vend
 <V>Uput' urgide vahele. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00820057">
+<ITEM nro="hkas00820057" y="1868">
 <META>
 <ID>H, Kase 82 (57)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -6764,7 +6764,7 @@ Uppunud vend
 <V>Arju kanga ta kudade. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00820058">
+<ITEM nro="hkas00820058" y="1868">
 <META>
 <ID>H, Kase 82/a (58)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -6810,7 +6810,7 @@ Uppunud vend
 <V>Ta om tellile terave. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00830061">
+<ITEM nro="hkas00830061" y="1868">
 <META>
 <ID>H, Kase 83 (61)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -6847,7 +6847,7 @@ Uppunud vend
 <V>Sa oled töösta tüdinu. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00830062">
+<ITEM nro="hkas00830062" y="1868">
 <META>
 <ID>H, Kase 83 (62)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -6861,7 +6861,7 @@ Uppunud vend
 <V>Kui o meie väuda <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00830063">
+<ITEM nro="hkas00830063" y="1868">
 <META>
 <ID>H, Kase 83 (63)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -6880,7 +6880,7 @@ Uppunud vend
 <V>Meesi katab katussida. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00840066">
+<ITEM nro="hkas00840066" y="1868">
 <META>
 <ID>H, Kase 84 (66)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -6902,7 +6902,7 @@ Uppunud vend
 <V>Tüdruk pooletöllakille. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00840067">
+<ITEM nro="hkas00840067" y="1868">
 <META>
 <ID>H, Kase 84 (67)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -6930,7 +6930,7 @@ Joodiku hobune
 <V>Silma sööve, suu valati. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00840068">
+<ITEM nro="hkas00840068" y="1868">
 <META>
 <ID>H, Kase 84 (68)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -6950,7 +6950,7 @@ Joodiku hobune
 <V>Üte vääri silmakarva <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00850071">
+<ITEM nro="hkas00850071" y="1868">
 <META>
 <ID>H, Kase 85 (71)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -6971,7 +6971,7 @@ Joodiku hobune
 <V>Veimi saa vibuninule. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00850072">
+<ITEM nro="hkas00850072" y="1868">
 <META>
 <ID>H, Kase 85 (72)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -6995,7 +6995,7 @@ Joodiku hobune
 <V>Nõgel nõrksi sõrmenegi. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00850073">
+<ITEM nro="hkas00850073" y="1868">
 <META>
 <ID>H, Kase 85/a (73)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -7027,7 +7027,7 @@ Joodiku hobune
 <V>Talve aas ahju paiste'elle. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00860001">
+<ITEM nro="hkas00860001" y="1868">
 <META>
 <ID>H, Kase 86 (1)</ID> &lt; <LOC>Rõuge khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -7059,7 +7059,7 @@ Imelik maja
 <V>Omast armsast abikaasast.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00860002">
+<ITEM nro="hkas00860002" y="1868">
 <META>
 <ID>H, Kase 86 (2)</ID> &lt; <LOC>Rõuge khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -7093,7 +7093,7 @@ Kuri mõis
 <V>Kohe suitsi suure räti.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00870005">
+<ITEM nro="hkas00870005" y="1868">
 <META>
 <ID>H, Kase 87 (5)</ID> &lt; <LOC>Rõuge khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -7113,7 +7113,7 @@ Kus olid
 <V>Oma papa palleldelle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00870006">
+<ITEM nro="hkas00870006" y="1868">
 <META>
 <ID>H, Kase 87 (6)</ID> &lt; <LOC>Rõuge khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -7153,7 +7153,7 @@ Palju raha
 <V>Uue kaasa uinutella.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00870007">
+<ITEM nro="hkas00870007" y="1868">
 <META>
 <ID>H, Kase 87/a (7)</ID> &lt; <LOC>Rõuge khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -7190,7 +7190,7 @@ Tule mulle
 <V>Käe viipse veeritsihe.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00880009">
+<ITEM nro="hkas00880009" y="1868">
 <META>
 <ID>H, Kase 88 (9)</ID> &lt; <LOC>Rõuge khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -7230,7 +7230,7 @@ Mitu halba ilma pääl
 <V>Imekannel iluline.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00880010">
+<ITEM nro="hkas00880010" y="1868">
 <META>
 <ID>H, Kase 88/a (10)</ID> &lt; <LOC>Rõuge khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -7257,7 +7257,7 @@ Palju tütreid
 <V>Palju põllepidajida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00890014">
+<ITEM nro="hkas00890014" y="1868">
 <META>
 <ID>H, Kase 89 (14)</ID> &lt; <LOC>Rõuge khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -7289,7 +7289,7 @@ Palju tütreid
 <V>Tuima'i mi tüterie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00890015">
+<ITEM nro="hkas00890015" y="1868">
 <META>
 <ID>H, Kase 89/90 (15)</ID> &lt; <LOC>Rõuge khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -7374,7 +7374,7 @@ Sõja l.
 <V>Sõan om kallis kaalarauda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas008a0021">
+<ITEM nro="hkas008a0021" y="1868">
 <META>
 <ID>H, Kase 8a/9 (21)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -7461,7 +7461,7 @@ Arg kosilane
 <V>Näiu rahal massetesse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00900016">
+<ITEM nro="hkas00900016" y="1868">
 <META>
 <ID>H, Kase 90 (16)</ID> &lt; <LOC>Rõuge khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -7488,7 +7488,7 @@ Imed
 <V>Veli vereva kassiga.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00900017">
+<ITEM nro="hkas00900017" y="1868">
 <META>
 <ID>H, Kase 90 (17)</ID> &lt; <LOC>Rõuge khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -7513,7 +7513,7 @@ Joodiku laul
 <V>Hiire piutsva hiussienna.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00900018">
+<ITEM nro="hkas00900018" y="1868">
 <META>
 <ID>H, Kase 90/a (18)</ID> &lt; <LOC>Rõuge khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -7549,7 +7549,7 @@ Ema haual
 <V>Astu ainus päivassegi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00910021">
+<ITEM nro="hkas00910021" y="1868">
 <META>
 <ID>H, Kase 91 (21)</ID> &lt; <LOC>Rõuge khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -7574,7 +7574,7 @@ Ema haual
 <V>Näiu põskist piserdenu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00910022">
+<ITEM nro="hkas00910022" y="1868">
 <META>
 <ID>H, Kase 91/2 (22)</ID> &lt; <LOC>Rõuge khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -7668,7 +7668,7 @@ Tule mulle
 <V>Käünü esä karjakõrra.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00920001">
+<ITEM nro="hkas00920001" y="1868">
 <META>
 <ID>H, Kase 92/3a (1)</ID> &lt; <LOC>Halliste khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -7804,7 +7804,7 @@ Maie laul
 <V>Ma su saada Saksamaale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00920023">
+<ITEM nro="hkas00920023" y="1868">
 <META>
 <ID>H, Kase 92 (23)</ID> &lt; <LOC>Rõuge khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -7837,7 +7837,7 @@ Salme neiu
 <V>Ago ei näe palju vaiva.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00940003">
+<ITEM nro="hkas00940003" y="1868">
 <META>
 <ID>H, Kase 94/a (3)</ID> &lt; <LOC>Halliste khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <TYP_YHT>_ + Ori taevas + Orja palk</TYP_YHT>
@@ -7915,7 +7915,7 @@ Orja hool
 <V>Küll o saanu, üle jäänu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00950006">
+<ITEM nro="hkas00950006" y="1868">
 <META>
 <ID>H, Kase 95 (6)</ID> &lt; <LOC>Halliste khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -7941,7 +7941,7 @@ Laisk talu
 <V>Akneruudi roostetetu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas00950007">
+<ITEM nro="hkas00950007" y="1868">
 <META>
 <ID>H, Kase 95 (7)</ID> &lt; <LOC>Halliste khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -7967,7 +7967,7 @@ Imed
 <V>Pand ta nisa niisemesse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas0098000a">
+<ITEM nro="hkas0098000a" y="1868">
 <META>
 <ID>H, Kase 98</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -8001,7 +8001,7 @@ Kas kadripäev ka majalindude püha oli, ei ole ma kusagilt teada saanud. Üleü
 <V>Lõimeotsa lepenessi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas0098000b">
+<ITEM nro="hkas0098000b" y="1868">
 <META>
 <ID>H, Kase 98/9a</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -8084,7 +8084,7 @@ Pikema jõulukommete kirjelduse osad
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hkas009a0023">
+<ITEM nro="hkas009a0023" y="1868">
 <META>
 <ID>H, Kase 9a (23)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -8122,7 +8122,7 @@ Pikema jõulukommete kirjelduse osad
 <V>Viitsi es tulla vesile.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas009a0024">
+<ITEM nro="hkas009a0024" y="1868">
 <META>
 <ID>H, Kase 9a/10 (24)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -8162,7 +8162,7 @@ Neiu nälg
 <V>Seli selgest allikusta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas01060000">
+<ITEM nro="hkas01060000" y="1868">
 <META>
 <ID>H, Kase 106</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -8199,7 +8199,7 @@ Must, Halliste ja Karksi kihelkondade üleüldine värv olla uuema aja oma, sest
 <V>Valged kaugelt vaadetesse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas01070000">
+<ITEM nro="hkas01070000" y="1868">
 <META>
 <ID>H, Kase 107</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -8230,7 +8230,7 @@ Pikema töö ja riiete kombestiku osa.
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hkas010a0027">
+<ITEM nro="hkas010a0027" y="1868">
 <META>
 <ID>H, Kase 10a (27)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -8296,7 +8296,7 @@ Ema õpetus surres
 <V>Ilu pea pikena linuna.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas01100001">
+<ITEM nro="hkas01100001" y="1868">
 <META>
 <ID>H, Kase 110 (1)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -8319,7 +8319,7 @@ Orja hool
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hkas01100002">
+<ITEM nro="hkas01100002" y="1868">
 <META>
 <ID>H, Kase 110 (2)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -8340,7 +8340,7 @@ Petis peiu
 <V>Vannub päeval valge'elle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas01100003">
+<ITEM nro="hkas01100003" y="1868">
 <META>
 <ID>H, Kase 110/a (3)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -8365,7 +8365,7 @@ Enne kivi kui poisi juures
 <V>Poiss ei jäta puttumede.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas01120000">
+<ITEM nro="hkas01120000" y="1868">
 <META>
 <ID>H, Kase 112</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -8400,7 +8400,7 @@ Põlgtud laps
 <V>Silmakulmu kui sibula.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas012a0030">
+<ITEM nro="hkas012a0030" y="1868">
 <META>
 <ID>H, Kase 12a/3 (30)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -8433,7 +8433,7 @@ Põlgtud laps
 <V>Peiu tüttere töötegija.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas013a0032">
+<ITEM nro="hkas013a0032" y="1868">
 <META>
 <ID>H, Kase 13a (32)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -8471,7 +8471,7 @@ Põlgtud laps
 <V>Kuue luku kotte'elle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas013a0033">
+<ITEM nro="hkas013a0033" y="1868">
 <META>
 <ID>H, Kase 13a/4 (33)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -8525,7 +8525,7 @@ Riia rikkumine
 <V>Võnnu võteme iluse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas014a0036">
+<ITEM nro="hkas014a0036" y="1868">
 <META>
 <ID>H, Kase 14a/5 (36)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -8572,7 +8572,7 @@ Kust tunnen kodu
 <V>Ees otsast ta isunu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas015a0039">
+<ITEM nro="hkas015a0039" y="1868">
 <META>
 <ID>H, Kase 15a (39)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -8623,7 +8623,7 @@ Hiielaul
 <V>Pakipaberi kähena.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas015a0040">
+<ITEM nro="hkas015a0040" y="1868">
 <META>
 <ID>H, Kase 15a/6 (40)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -8658,7 +8658,7 @@ Mööda äia kodust
 <V>Kodu kingit kolmantelle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas016a0042">
+<ITEM nro="hkas016a0042" y="1868">
 <META>
 <ID>H, Kase 16a/18 (42)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -8883,7 +8883,7 @@ Lina
 <V>Sõsare sõna kõnesse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas018a0044">
+<ITEM nro="hkas018a0044" y="1868">
 <META>
 <ID>H, Kase 18a/19 (44)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -8929,7 +8929,7 @@ Lina
 <V>Kimlel toov' killingida</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas019a0046">
+<ITEM nro="hkas019a0046" y="1868">
 <META>
 <ID>H, Kase 19a (46)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -8979,7 +8979,7 @@ Uppund vend
 <V>Kaubalaua lage'esse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas019a0047">
+<ITEM nro="hkas019a0047" y="1868">
 <META>
 <ID>H, Kase 19a/20 (47)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -9029,7 +9029,7 @@ Venna kosja ehtimine
 <V>Istu isanti iluna.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas020a0050">
+<ITEM nro="hkas020a0050" y="1868">
 <META>
 <ID>H, Kase 20a (50)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -9064,7 +9064,7 @@ Vana kosija
 <V>Annad kui udsupadjale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas021a0054">
+<ITEM nro="hkas021a0054" y="1868">
 <META>
 <ID>H, Kase 21a (54)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -9103,7 +9103,7 @@ Meri õues
 <V>Oma meeste otsaluista.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas022a0057">
+<ITEM nro="hkas022a0057" y="1868">
 <META>
 <ID>H, Kase 22a/3 (57)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -9151,7 +9151,7 @@ Mitu halba ilma pääl
 <V>Kodu minnan kolmat kõrra.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas023a0059">
+<ITEM nro="hkas023a0059" y="1868">
 <META>
 <ID>H, Kase 23a (59)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -9193,7 +9193,7 @@ Unenägu
 <V>Aig o pessä pehmeid patju.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas023a0060">
+<ITEM nro="hkas023a0060" y="1868">
 <META>
 <ID>H, Kase 23a/4 (60)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -9229,7 +9229,7 @@ Tamm tantsib
 <V>Seob pääle suure siidi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas024a0063">
+<ITEM nro="hkas024a0063" y="1868">
 <META>
 <ID>H, Kase 24a/5 (63)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -9280,7 +9280,7 @@ Tamm tantsib
 <V>Kui me kolmi kokku saame.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas025a0065">
+<ITEM nro="hkas025a0065" y="1868">
 <META>
 <ID>H, Kase 25a (65)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -9316,7 +9316,7 @@ Mis viga Virus elada
 <V>Kik saa nälga enne näta</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas025a0066">
+<ITEM nro="hkas025a0066" y="1868">
 <META>
 <ID>H, Kase 25a/6 (66)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -9383,7 +9383,7 @@ Mõistatuslaul
 <V>Kaar o katearuline.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas026a0068">
+<ITEM nro="hkas026a0068" y="1868">
 <META>
 <ID>H, Kase 26a (68)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -9402,7 +9402,7 @@ Elagem neiud noored
 <V>Oma saadus alla särgi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas026a0069">
+<ITEM nro="hkas026a0069" y="1868">
 <META>
 <ID>H, Kase 26a (69)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -9427,7 +9427,7 @@ Kalajõgi
 <V>Säre suure, selja musta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas026a0070">
+<ITEM nro="hkas026a0070" y="1868">
 <META>
 <ID>H, Kase 26a (70)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -9447,7 +9447,7 @@ Soo suur sute võsu
 <V>Söödule söametüki.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas026a0071">
+<ITEM nro="hkas026a0071" y="1868">
 <META>
 <ID>H, Kase 26a (71)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -9471,7 +9471,7 @@ Soo suur sute võsu
 <V>Ei ma siiski siin ei kurda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas027a0075">
+<ITEM nro="hkas027a0075" y="1868">
 <META>
 <ID>H, Kase 27a/8a (75)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -9573,7 +9573,7 @@ Sõja l
 <V>Kallis kange pääg' obene.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas028a0076">
+<ITEM nro="hkas028a0076" y="1868">
 <META>
 <ID>H, Kase 28a (76)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -9609,7 +9609,7 @@ Nekrutiks
 <V>Kige ea ella velle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas028a0077">
+<ITEM nro="hkas028a0077" y="1868">
 <META>
 <ID>H, Kase 28a/9 (77)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -9645,7 +9645,7 @@ Nekrutiks
 <V>Kase valge, ni valvave.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas029a0079">
+<ITEM nro="hkas029a0079" y="1868">
 <META>
 <ID>H, Kase 29a/30 (79)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -9699,7 +9699,7 @@ Orja elu - orjusest ostmine
 <V>Viib meid vihma rändsakusta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas030a0081">
+<ITEM nro="hkas030a0081" y="1868">
 <META>
 <ID>H, Kase 30a (81)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -9725,7 +9725,7 @@ Tuul ära puhu, omaksed merel
 <V>Näiu verda valge'esse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas030a0082">
+<ITEM nro="hkas030a0082" y="1868">
 <META>
 <ID>H, Kase 30a (82)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -9759,7 +9759,7 @@ Vihm üle
 <V>Tüdruku lumilinuse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas030a0083">
+<ITEM nro="hkas030a0083" y="1868">
 <META>
 <ID>H, Kase 30a/1 (83)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -9802,7 +9802,7 @@ Vihm üle
 <V>Sinna mu märga mädanes.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas031a0086">
+<ITEM nro="hkas031a0086" y="1868">
 <META>
 <ID>H, Kase 31a (86)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -9862,7 +9862,7 @@ Veere, päev
 <V>Või ma eida ella sõrme!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas032a0089">
+<ITEM nro="hkas032a0089" y="1868">
 <META>
 <ID>H, Kase 32a (89)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -9898,7 +9898,7 @@ Kari kadunud
 <V>Asti esi aie karja.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas032a0090">
+<ITEM nro="hkas032a0090" y="1868">
 <META>
 <ID>H, Kase 32a/3 (90)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -9951,7 +9951,7 @@ Maarja magab taevas
 <V>Suure kirja sukke'esse</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas033a0093">
+<ITEM nro="hkas033a0093" y="1868">
 <META>
 <ID>H, Kase 33a (93)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -9980,7 +9980,7 @@ Joodiku laul
 <V>Sõõm sai selgeda õluta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas033a0094">
+<ITEM nro="hkas033a0094" y="1868">
 <META>
 <ID>H, Kase 33a/4 (94)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -10012,7 +10012,7 @@ Ei kasva karjas
 <V>Nobe noore koore pääle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas034a0098">
+<ITEM nro="hkas034a0098" y="1868">
 <META>
 <ID>H, Kase 34a (98)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -10035,7 +10035,7 @@ Vara tõusis varaseke / Varane vaenelaps
 <V>Päe napru pähnimesta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas034a0099">
+<ITEM nro="hkas034a0099" y="1868">
 <META>
 <ID>H, Kase 34a (99)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -10064,7 +10064,7 @@ Vaeslaps ja peretütar
 <V>Selle askel arvatesse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas034a0100">
+<ITEM nro="hkas034a0100" y="1868">
 <META>
 <ID>H, Kase 34a/5 (100)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -10090,7 +10090,7 @@ Halb kündja
 <V>Sest ep o kaara kasine.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas036a0106">
+<ITEM nro="hkas036a0106" y="1868">
 <META>
 <ID>H, Kase 36a (106)</ID> &lt; <LOC>Halliste khk. või Karksi khk. </LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -10104,7 +10104,7 @@ Halb kündja
 <V>Vaol valla võttajatta. <REFR>Üles</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas036a0107">
+<ITEM nro="hkas036a0107" y="1868">
 <META>
 <ID>H, Kase 36a (107)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -10119,7 +10119,7 @@ Halb kündja
 <V>Kessi viiasse mehele.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas037a0110">
+<ITEM nro="hkas037a0110" y="1868">
 <META>
 <ID>H, Kase 37a (110)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -10171,7 +10171,7 @@ Orjad tahavad õhtule
 <V>Ega too turbe'eida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas038a0115">
+<ITEM nro="hkas038a0115" y="1868">
 <META>
 <ID>H, Kase 38a (115)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -10189,7 +10189,7 @@ Lüpsilaul
 <V>Neljast nisast neitsi piima.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas038a0116">
+<ITEM nro="hkas038a0116" y="1868">
 <META>
 <ID>H, Kase 38a (116)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -10215,7 +10215,7 @@ Petis perenaine
 <V>Tükim türgi nisu sisse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas038a0117">
+<ITEM nro="hkas038a0117" y="1868">
 <META>
 <ID>H, Kase 38a (117)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -10233,7 +10233,7 @@ Laisk tüdruk
 <V>Veimevakk olgu vassa kõrgu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas038a0118">
+<ITEM nro="hkas038a0118" y="1868">
 <META>
 <ID>H, Kase 38a (118)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -10254,7 +10254,7 @@ Kasumise sõnad / Hälli l
 <V>Laia kaku kandajasse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas039a0121">
+<ITEM nro="hkas039a0121" y="1868">
 <META>
 <ID>H, Kase 39a (121)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -10274,7 +10274,7 @@ Ei tule sulle
 <V>Rannust raha pakkujatta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas039a0122">
+<ITEM nro="hkas039a0122" y="1868">
 <META>
 <ID>H, Kase 39a (122)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -10294,7 +10294,7 @@ Ei tule sulle
 <V>Lümbaten manu magame.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas039a0123">
+<ITEM nro="hkas039a0123" y="1868">
 <META>
 <ID>H, Kase 39a (123)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -10315,7 +10315,7 @@ Laisk tüdruk
 <V>Kolmas vastu kostamine.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas039a0124">
+<ITEM nro="hkas039a0124" y="1868">
 <META>
 <ID>H, Kase 39a (124)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -10330,7 +10330,7 @@ Uhke neiu
 <V>Rabas mööda, kui see rauda</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas039a0125">
+<ITEM nro="hkas039a0125" y="1868">
 <META>
 <ID>H, Kase 39a/40 (125)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -10364,7 +10364,7 @@ Poiste laitus ja kiitus
 <V>Kaarli kerge kargamaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas040a0128">
+<ITEM nro="hkas040a0128" y="1868">
 <META>
 <ID>H, Kase 40a (128)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -10411,7 +10411,7 @@ Palju sõnu
 <V>Sõna võlgu võttajalle</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas040a0129">
+<ITEM nro="hkas040a0129" y="1868">
 <META>
 <ID>H, Kase 40a (129)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -10435,7 +10435,7 @@ Kuused kulda
 <V>Lepa jäänu leinamaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas041a0133">
+<ITEM nro="hkas041a0133" y="1879">
 <META>
 <ID>H, Kase 41a/2 (133)</ID> &lt; <LOC>? Helme khk., Kärstna v.</LOC> - <COL>Leena Kase</COL> &lt; <INF><NIMI>ühelt naiselt</NIMI></INF> (<TMP>1879</TMP>)
 <TYP_YHT>Kust tõuseb päev + _ + _</TYP_YHT>
@@ -10490,7 +10490,7 @@ Poiss tõuseb neiude juurest
 <V>Karaten tule kammeresse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas042a0135">
+<ITEM nro="hkas042a0135" y="1879">
 <META>
 <ID>H, Kase 42a/3 (135)</ID> &lt; <LOC>? Helme khk., Kärstna v.</LOC> - <COL>Leena Kase</COL> &lt; <INF><NIMI>ühelt naiselt</NIMI></INF> (<TMP>1879</TMP>)
 <TYP>
@@ -10522,7 +10522,7 @@ Naine tuleb põllu tõttu
 <V>Märatsen tule märgarinda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas043a0138">
+<ITEM nro="hkas043a0138" y="1879">
 <META>
 <ID>H, Kase 43a (138)</ID> &lt; <LOC>? Helme khk., Kärstna v.</LOC> - <COL>Leena Kase</COL> &lt; <INF><NIMI>ühelt naiselt</NIMI></INF> (<TMP>1879</TMP>)
 <TYP_YHT>Häälerohi</TYP_YHT>
@@ -10541,7 +10541,7 @@ Halb hääl (laulik)
 <V>Lauluäälest lahkembesse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas043a0139">
+<ITEM nro="hkas043a0139" y="1879">
 <META>
 <ID>H, Kase 43a (139)</ID> &lt; <LOC>? Helme khk., Kärstna v.</LOC> - <COL>Leena Kase</COL> &lt; <INF><NIMI>ühelt naiselt</NIMI></INF> (<TMP>1879</TMP>)
 <TYP_YHT>Lauliku sõim</TYP_YHT>
@@ -10560,7 +10560,7 @@ Halb laulik
 <V>Rinnus rataste redele.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas043a0140">
+<ITEM nro="hkas043a0140" y="1879">
 <META>
 <ID>H, Kase 43a/4 (140)</ID> &lt; <LOC>? Helme khk., Kärstna v.</LOC> - <COL>Leena Kase</COL> &lt; <INF><NIMI>ühelt naiselt</NIMI></INF> (<TMP>1879</TMP>)
 <TYP_YHT>Lauliku sõim</TYP_YHT>
@@ -10585,7 +10585,7 @@ Halb laulik
 <V>Kiuste sõnu kiskumaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas044a0144">
+<ITEM nro="hkas044a0144" y="1879">
 <META>
 <ID>H, Kase 44a (144)</ID> &lt; <LOC>? Helme khk., Kärstna v.</LOC> - <COL>Leena Kase</COL> &lt; <INF><NIMI>ühelt naiselt</NIMI></INF> (<TMP>1879</TMP>)
 <TYP_YHT>Sõimamine</TYP_YHT>
@@ -10602,7 +10602,7 @@ Sõimu laul
 <V>Upute urgide vahele.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas044a0145">
+<ITEM nro="hkas044a0145" y="1879">
 <META>
 <ID>H, Kase 44a (145)</ID> &lt; <LOC>? Helme khk., Kärstna v.</LOC> - <COL>Leena Kase</COL> &lt; <INF><NIMI>ühelt naiselt</NIMI></INF> (<TMP>1879</TMP>)
 <TYP_YHT>Lauliku sõim</TYP_YHT>
@@ -10624,7 +10624,7 @@ Halb laulik
 <V>Lõua laiali lagunu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas044a0146">
+<ITEM nro="hkas044a0146" y="1879">
 <META>
 <ID>H, Kase 44a (146)</ID> &lt; <LOC>? Helme khk., Kärstna v.</LOC> - <COL>Leena Kase</COL> &lt; <INF><NIMI>ühelt naiselt</NIMI></INF> (<TMP>1879</TMP>)
 <TYP>
@@ -10650,7 +10650,7 @@ Karske neiu ?
 <V>Rüarääk või rüpe'esse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas044a0147">
+<ITEM nro="hkas044a0147" y="1879">
 <META>
 <ID>H, Kase 44a (147)</ID> &lt; <LOC>? Helme khk., Kärstna v.</LOC> - <COL>Leena Kase</COL> &lt; <INF><NIMI>ühelt naiselt</NIMI></INF> (<TMP>1879</TMP>)
 <TYP>
@@ -10665,7 +10665,7 @@ Ebapuhas neiu
 <V>Esändige eidid ända</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas045a0152">
+<ITEM nro="hkas045a0152" y="1879">
 <META>
 <ID>H, Kase 45a (152)</ID> &lt; <LOC>? Helme khk., Kärstna v.</LOC> - <COL>Leena Kase</COL> &lt; <INF><NIMI>ühelt naiselt</NIMI></INF> (<TMP>1879</TMP>)
 <TYP_YHT>Lauliku sõim</TYP_YHT>
@@ -10697,7 +10697,7 @@ Halb laulik
 <V>Ega lahe laskemaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas045a0153">
+<ITEM nro="hkas045a0153" y="1879">
 <META>
 <ID>H, Kase 45a (153)</ID> &lt; <LOC>? Helme khk., Kärstna v.</LOC> - <COL>Leena Kase</COL> &lt; <INF><NIMI>ühelt naiselt</NIMI></INF> (<TMP>1879</TMP>)
 <TYP>
@@ -10723,7 +10723,7 @@ Petjale poisile
 <V>Alla penki pistetesse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas045a0154">
+<ITEM nro="hkas045a0154" y="1879">
 <META>
 <ID>H, Kase 45a/6 (154)</ID> &lt; <LOC>? Helme khk., Kärstna v.</LOC> - <COL>Leena Kase</COL> &lt; <INF><NIMI>ühelt naiselt</NIMI></INF> (<TMP>1879</TMP>)
 <TYP_YHT>Ära võta leske!</TYP_YHT>
@@ -10774,7 +10774,7 @@ Hoiatus lesknaisest
 <V>Kirikaid jäi aljenteme.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas046a0158">
+<ITEM nro="hkas046a0158" y="1879">
 <META>
 <ID>H, Kase 46a (158)</ID> &lt; <LOC>? Helme khk., Kärstna v.</LOC> - <COL>Leena Kase</COL> &lt; <INF><NIMI>ühelt naiselt</NIMI></INF> (<TMP>1879</TMP>)
 <TYP_YHT>Poiste pilge</TYP_YHT>
@@ -10793,7 +10793,7 @@ Poiste pilge
 <V>Konna koodsuv kukurenna.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas046a0159">
+<ITEM nro="hkas046a0159" y="1879">
 <META>
 <ID>H, Kase 46a (159)</ID> &lt; <LOC>? Helme khk., Kärstna v.</LOC> - <COL>Leena Kase</COL> &lt; <INF><NIMI>ühelt naiselt</NIMI></INF> (<TMP>1879</TMP>)
 <TYP_YHT>Poiste pilge</TYP_YHT>
@@ -10820,7 +10820,7 @@ Poiste pilge
 <V>Jalust saa saksa saaniaisa</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas046a0160">
+<ITEM nro="hkas046a0160" y="1879">
 <META>
 <ID>H, Kase 46a (160)</ID> &lt; <LOC>? Helme khk., Kärstna v.</LOC> - <COL>Leena Kase</COL> &lt; <INF><NIMI>ühelt naiselt</NIMI></INF> (<TMP>1879</TMP>)
 <TYP>
@@ -10839,7 +10839,7 @@ Elame ilusti
 <V>Kakelus kala meresta</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas046a0161">
+<ITEM nro="hkas046a0161" y="1868">
 <META>
 <ID>H, Kase 46a (161)</ID> &lt; <LOC>Paistu khk., Loodi v.</LOC> - <COL>Leena Kase</COL> &lt; <INF><NIMI>üks mees</NIMI></INF> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -10856,7 +10856,7 @@ Kirik on tehtud kerjakuile
 <V>Laanta lagese maase.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas047a0003">
+<ITEM nro="hkas047a0003" y="1868">
 <META>
 <ID>H, Kase 47a/8 (3)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -10914,7 +10914,7 @@ Kiige katsumine
 <V>Kontsen kullakopikini</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas048a0005">
+<ITEM nro="hkas048a0005" y="1868">
 <META>
 <ID>H, Kase 48a (5)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -10956,7 +10956,7 @@ Kiik kõrgele
 <V>Selle viisi velle kätte.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas048a0006">
+<ITEM nro="hkas048a0006" y="1868">
 <META>
 <ID>H, Kase 48a/9 (6)</ID> &lt; <LOC>Halliste khk. või Karksi khk. </LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -10994,7 +10994,7 @@ Kiigelaul
 <V>Kate kallaku vahele.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas049a0009">
+<ITEM nro="hkas049a0009" y="1868">
 <META>
 <ID>H, Kase 49a (9)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -11017,7 +11017,7 @@ Kiigele kutse
 <V>Tooge pardsi paaritside</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas049a0010">
+<ITEM nro="hkas049a0010" y="1868">
 <META>
 <ID>H, Kase 49a (10)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -11044,7 +11044,7 @@ Ei ole kiigele mune tuua
 <V>Sei ta pardsi paaritsede.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas049a0011">
+<ITEM nro="hkas049a0011" y="1868">
 <META>
 <ID>H, Kase 49a/50 (11)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -11092,7 +11092,7 @@ Kiigelaul
 <V>Pillum' pika puu põrenti.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas050a0000">
+<ITEM nro="hkas050a0000" y="1868">
 <META>
 <ID>H, Kase 50a</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -11106,7 +11106,7 @@ Nukku mängiti enamiste ikka Jaanitule juures. Näiud käisivad ümberringi üks
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas050a0001">
+<ITEM nro="hkas050a0001" y="1868">
 <META>
 <ID>H, Kase 50a/1 (1)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -11171,7 +11171,7 @@ Nukku mängiti enamiste ikka Jaanitule juures. Näiud käisivad ümberringi üks
 <V>Peeter peris, pea seda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas051a0003">
+<ITEM nro="hkas051a0003" y="1868">
 <META>
 <ID>H, Kase 51a/2 (3)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -11224,7 +11224,7 @@ Nukku mängiti enamiste ikka Jaanitule juures. Näiud käisivad ümberringi üks
 <V>Päälta parte paugatesse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas059a0002">
+<ITEM nro="hkas059a0002" y="1868">
 <META>
 <ID>H, Kase 59a/60 (2)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -11319,7 +11319,7 @@ Nüüd jooksivad lambad määgides karjaste juurde. Karjased lugesivad järele, 
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas060a0003">
+<ITEM nro="hkas060a0003" y="1868">
 <META>
 <ID>H, Kase 60a (3)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -11382,7 +11382,7 @@ Püüdja ütles ikka: "Ei taha!" kuni viimseni. Viimast ta siis tahtis ja hakkas
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas063a0003">
+<ITEM nro="hkas063a0003" y="1868">
 <META>
 <ID>H, Kase 63a (3)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -11437,7 +11437,7 @@ Püüdja ütles ikka: "Ei taha!" kuni viimseni. Viimast ta siis tahtis ja hakkas
 <V>Tee veeren visnapuida. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas064a0006">
+<ITEM nro="hkas064a0006" y="1868">
 <META>
 <ID>H, Kase 64a (6)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -11453,7 +11453,7 @@ Püüdja ütles ikka: "Ei taha!" kuni viimseni. Viimast ta siis tahtis ja hakkas
 <V>Teime ratsul rangesida. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas064a0007">
+<ITEM nro="hkas064a0007" y="1868">
 <META>
 <ID>H, Kase 64a (7)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -11473,7 +11473,7 @@ Püüdja ütles ikka: "Ei taha!" kuni viimseni. Viimast ta siis tahtis ja hakkas
 <V>Paistus peris piiga paika. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas064a0008">
+<ITEM nro="hkas064a0008" y="1868">
 <META>
 <ID>H, Kase 64a (8)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -11499,7 +11499,7 @@ Püüdja ütles ikka: "Ei taha!" kuni viimseni. Viimast ta siis tahtis ja hakkas
 <V>Ega siin Jüri Maretet. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas066a0011">
+<ITEM nro="hkas066a0011" y="1868">
 <META>
 <ID>H, Kase 66a (11)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -11554,7 +11554,7 @@ Püüdja ütles ikka: "Ei taha!" kuni viimseni. Viimast ta siis tahtis ja hakkas
 <V>Meie kohus kulleltelle. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas067a0014">
+<ITEM nro="hkas067a0014" y="1868">
 <META>
 <ID>H, Kase 67a/8 (14)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -11612,7 +11612,7 @@ Püüdja ütles ikka: "Ei taha!" kuni viimseni. Viimast ta siis tahtis ja hakkas
 <V>Kaevaten lää kammeresse. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas069a0017">
+<ITEM nro="hkas069a0017" y="1868">
 <META>
 <ID>H, Kase 69a/70 (17)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -11676,7 +11676,7 @@ Püüdja ütles ikka: "Ei taha!" kuni viimseni. Viimast ta siis tahtis ja hakkas
 <V>Tuhantil ei tukantille. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas070a0020">
+<ITEM nro="hkas070a0020" y="1868">
 <META>
 <ID>H, Kase 70a/1 (20)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -11732,7 +11732,7 @@ Püüdja ütles ikka: "Ei taha!" kuni viimseni. Viimast ta siis tahtis ja hakkas
 <V>Küdu võtt' üva obese. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas071a0023">
+<ITEM nro="hkas071a0023" y="1868">
 <META>
 <ID>H, Kase 71a (23)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -11753,7 +11753,7 @@ Püüdja ütles ikka: "Ei taha!" kuni viimseni. Viimast ta siis tahtis ja hakkas
 <V>Tekitüken teta tööda. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas071a0024">
+<ITEM nro="hkas071a0024" y="1868">
 <META>
 <ID>H, Kase 71a/2 (24)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -11789,7 +11789,7 @@ Püüdja ütles ikka: "Ei taha!" kuni viimseni. Viimast ta siis tahtis ja hakkas
 <V>Õlekubu kurgunegi. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas072a0027">
+<ITEM nro="hkas072a0027" y="1868">
 <META>
 <ID>H, Kase 72a (27)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -11810,7 +11810,7 @@ Püüdja ütles ikka: "Ei taha!" kuni viimseni. Viimast ta siis tahtis ja hakkas
 <V>Väänut pääda pääle talla. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas072a0028">
+<ITEM nro="hkas072a0028" y="1868">
 <META>
 <ID>H, Kase 72a/3 (28)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -11844,7 +11844,7 @@ Püüdja ütles ikka: "Ei taha!" kuni viimseni. Viimast ta siis tahtis ja hakkas
 <V>See taht suurta survajatta. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas073a0031">
+<ITEM nro="hkas073a0031" y="1868">
 <META>
 <ID>H, Kase 73a (31)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -11861,7 +11861,7 @@ Püüdja ütles ikka: "Ei taha!" kuni viimseni. Viimast ta siis tahtis ja hakkas
 <V>Kakelus kala meresta. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas073a0032">
+<ITEM nro="hkas073a0032" y="1868">
 <META>
 <ID>H, Kase 73a/4a (32)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -11935,7 +11935,7 @@ Püüdja ütles ikka: "Ei taha!" kuni viimseni. Viimast ta siis tahtis ja hakkas
 <V>Toona tõise ma tähenti. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas074a0033">
+<ITEM nro="hkas074a0033" y="1868">
 <META>
 <ID>H, Kase 74a (33)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -11953,7 +11953,7 @@ Püüdja ütles ikka: "Ei taha!" kuni viimseni. Viimast ta siis tahtis ja hakkas
 <V>Padja pehmes pessajasse. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas074a0034">
+<ITEM nro="hkas074a0034" y="1868">
 <META>
 <ID>H, Kase 74a (34)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -11969,7 +11969,7 @@ Püüdja ütles ikka: "Ei taha!" kuni viimseni. Viimast ta siis tahtis ja hakkas
 <V>Velle sängu enne sääsi? <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas074a0035">
+<ITEM nro="hkas074a0035" y="1868">
 <META>
 <ID>H, Kase 74a/5 (35)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -12014,7 +12014,7 @@ Püüdja ütles ikka: "Ei taha!" kuni viimseni. Viimast ta siis tahtis ja hakkas
 <V>Laua pääle laulatettu. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas075a0038">
+<ITEM nro="hkas075a0038" y="1868">
 <META>
 <ID>H, Kase 75a (38)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -12047,7 +12047,7 @@ Püüdja ütles ikka: "Ei taha!" kuni viimseni. Viimast ta siis tahtis ja hakkas
 <V>Ei sis ike eladenna. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas075a0039">
+<ITEM nro="hkas075a0039" y="1868">
 <META>
 <ID>H, Kase 75a/6 (39)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -12088,7 +12088,7 @@ Püüdja ütles ikka: "Ei taha!" kuni viimseni. Viimast ta siis tahtis ja hakkas
 <V>Tare oodi tansulista <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas076a0041">
+<ITEM nro="hkas076a0041" y="1868">
 <META>
 <ID>H, Kase 76a/7 (41)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -12145,7 +12145,7 @@ Püüdja ütles ikka: "Ei taha!" kuni viimseni. Viimast ta siis tahtis ja hakkas
 <V>Na'ul nahka napsitesse. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas077a0044">
+<ITEM nro="hkas077a0044" y="1868">
 <META>
 <ID>H, Kase 77a/8 (44)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -12219,7 +12219,7 @@ Sillad soile
 <V>Kaos ta kaladenälga. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas078a0046">
+<ITEM nro="hkas078a0046" y="1868">
 <META>
 <ID>H, Kase 78a (46)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -12243,7 +12243,7 @@ Sillad soile
 <V>Aisa esa aida poole. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas078a0047">
+<ITEM nro="hkas078a0047" y="1868">
 <META>
 <ID>H, Kase 78a (47)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -12268,7 +12268,7 @@ Sillad soile
 <V>Kolmas keerut kesvisida <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas078a0048">
+<ITEM nro="hkas078a0048" y="1868">
 <META>
 <ID>H, Kase 78a/9 (48)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -12288,7 +12288,7 @@ Sillad soile
 <V>Pal´las aita paugatelle. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas079a0050">
+<ITEM nro="hkas079a0050" y="1868">
 <META>
 <ID>H, Kase 79a (50)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -12332,7 +12332,7 @@ Sillad soile
 <V>Meie joodim', ei ta's joo. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas079a0051">
+<ITEM nro="hkas079a0051" y="1868">
 <META>
 <ID>H, Kase 79a/80 (51)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -12358,7 +12358,7 @@ Sillad soile
 <V>Ammen tal ubine aisu. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas080a0055">
+<ITEM nro="hkas080a0055" y="1868">
 <META>
 <ID>H, Kase 80a (55)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -12391,7 +12391,7 @@ Sillad soile
 <V>Ega rappu raske rambi <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas080a0056">
+<ITEM nro="hkas080a0056" y="1868">
 <META>
 <ID>H, Kase 80a/1a (56)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -12516,7 +12516,7 @@ Nooriku õpetus
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hkas082a0059">
+<ITEM nro="hkas082a0059" y="1868">
 <META>
 <ID>H, Kase 82a (59)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -12535,7 +12535,7 @@ Nooriku õpetus
 <V>Küll o kurtajal kuruda. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas082a0060">
+<ITEM nro="hkas082a0060" y="1868">
 <META>
 <ID>H, Kase 82a (60)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -12558,7 +12558,7 @@ Nooriku õpetus
 <V>Kopsuna elukuradi. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas083a0064">
+<ITEM nro="hkas083a0064" y="1868">
 <META>
 <ID>H, Kase 83a (64)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -12603,7 +12603,7 @@ Nooriku õpetus
 <V>Teile kinda kingitesse. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas083a0065">
+<ITEM nro="hkas083a0065" y="1868">
 <META>
 <ID>H, Kase 83a (65)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -12617,7 +12617,7 @@ Nooriku õpetus
 <V>Kinda tahtve kitsipoiga. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas084a0069">
+<ITEM nro="hkas084a0069" y="1868">
 <META>
 <ID>H, Kase 84a (69)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -12654,7 +12654,7 @@ Nooriku õpetus
 <V>Keskelt lõika kikukene. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas084a0070">
+<ITEM nro="hkas084a0070" y="1868">
 <META>
 <ID>H, Kase 84a (70)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -12680,7 +12680,7 @@ Nooriku õpetus
 <V>Na'ul teki tedrekirja. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas085a0074">
+<ITEM nro="hkas085a0074" y="1868">
 <META>
 <ID>H, Kase 85a (74)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -12713,7 +12713,7 @@ Nooriku õpetus
 <V>Senna raha raiskunesse. <REFR>kaske!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas085a0075">
+<ITEM nro="hkas085a0075" y="1868">
 <META>
 <ID>H, Kase 85a (75)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -12733,7 +12733,7 @@ Nooriku õpetus
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hkas086a0003">
+<ITEM nro="hkas086a0003" y="1868">
 <META>
 <ID>H, Kase 86a (3)</ID> &lt; <LOC>Rõuge khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -12754,7 +12754,7 @@ Nooriku õpetus
 <V>Kubjas kulda ratsuge.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas086a0004">
+<ITEM nro="hkas086a0004" y="1868">
 <META>
 <ID>H, Kase 86a (4)</ID> &lt; <LOC>Rõuge khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -12802,7 +12802,7 @@ Härjalaul
 <V>Katre küla karjamaalta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas087a0008">
+<ITEM nro="hkas087a0008" y="1868">
 <META>
 <ID>H, Kase 87a/8 (8)</ID> &lt; <LOC>Rõuge khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -12861,7 +12861,7 @@ F <MRKSNR>*1</MRKSNR>
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hkas088a0011">
+<ITEM nro="hkas088a0011" y="1868">
 <META>
 <ID>H, Kase 88a (11)</ID> &lt; <LOC>Rõuge khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -12891,7 +12891,7 @@ Tiik / Nutust järv
 <V>Näiu põskista pisernu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas088a0012">
+<ITEM nro="hkas088a0012" y="1868">
 <META>
 <ID>H, Kase 88a (12)</ID> &lt; <LOC>Rõuge khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -12914,7 +12914,7 @@ Ei ole meelelist
 <V>Kaasa kaalaarmuline</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas088a0013">
+<ITEM nro="hkas088a0013" y="1868">
 <META>
 <ID>H, Kase 88a/9 (13)</ID> &lt; <LOC>Rõuge khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -12943,7 +12943,7 @@ Ei ole meelelist
 <V>Kasvatanu kallis esä.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas090a0019">
+<ITEM nro="hkas090a0019" y="1868">
 <META>
 <ID>H, Kase 90a (19)</ID> &lt; <LOC>Rõuge khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -12976,7 +12976,7 @@ Nooriku õpetus
 <V>Hööri nuia hälli alta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas090a0020">
+<ITEM nro="hkas090a0020" y="1868">
 <META>
 <ID>H, Kase 90a/1 (20)</ID> &lt; <LOC>Rõuge khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <TYP>
@@ -13022,7 +13022,7 @@ Kuri mees
 <V>Annas härja ikke'esta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas093a0002">
+<ITEM nro="hkas093a0002" y="1868">
 <META>
 <ID>H, Kase 93a (2)</ID> &lt; <LOC>Halliste khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -13056,7 +13056,7 @@ Memme vaev
 <V>Mina elliti söata.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas094a0004">
+<ITEM nro="hkas094a0004" y="1868">
 <META>
 <ID>H, Kase 94a (4)</ID> &lt; <LOC>Halliste khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -13083,7 +13083,7 @@ Kass kaevus
 <V>Kanempine karas katik.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas094a0005">
+<ITEM nro="hkas094a0005" y="1868">
 <META>
 <ID>H, Kase 94a (5)</ID> &lt; <LOC>Halliste khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -13110,7 +13110,7 @@ Küla ütel
 <V>Pengi pääle peiu risti.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas095a0000">
+<ITEM nro="hkas095a0000" y="1868">
 <META>
 <ID>H, Kase 95a</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -13144,7 +13144,7 @@ Sellel päeval söödi ka viimast kord liha, see on, et enne jälle liha ei sö�
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas096a0000">
+<ITEM nro="hkas096a0000" y="1868">
 <META>
 <ID>H, Kase 96a/7</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -13195,7 +13195,7 @@ Jaanipäeva hommiku aeti kari enne päeva tõusu välja ja ei lüpsetud lehmi, s
 <V>Mihkel neljanda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas101a0000">
+<ITEM nro="hkas101a0000" y="1868">
 <META>
 <ID>H, Kase 101a</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -13233,7 +13233,7 @@ Pikema käoga seotud kombestiku osa, millele järgneb teiste lindudega seotud ko
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hkas107a000a">
+<ITEM nro="hkas107a000a" y="1868">
 <META>
 <ID>H, Kase 107a</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -13253,7 +13253,7 @@ Pikema pulmakirjelduse osa
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hkas107a000b">
+<ITEM nro="hkas107a000b" y="1868">
 <META>
 <ID>H, Kase 107a</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -13274,7 +13274,7 @@ Pikema pulmakirjelduse osa
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hkas108a000a">
+<ITEM nro="hkas108a000a" y="1868">
 <META>
 <ID>H, Kase 108a</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -13301,7 +13301,7 @@ Pikema pulmakirjelduse osa
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hkas108a000b">
+<ITEM nro="hkas108a000b" y="1868">
 <META>
 <ID>H, Kase 108a/109</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -13342,7 +13342,7 @@ Pikema pulmakirjelduse osa
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hkas109a0001">
+<ITEM nro="hkas109a0001" y="1868">
 <META>
 <ID>H, Kase 109a (1)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -13366,7 +13366,7 @@ Vares vastama:
 <V>Seasitt naise roog.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas109a0002">
+<ITEM nro="hkas109a0002" y="1868">
 <META>
 <ID>H, Kase 109a (2)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -13386,7 +13386,7 @@ Mehik
 <V>Ega musta muna luua.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas109a0003">
+<ITEM nro="hkas109a0003" y="1868">
 <META>
 <ID>H, Kase 109a (3)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -13404,7 +13404,7 @@ Pääsuke
 <V>Satte tulle - tserr.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas109a0004">
+<ITEM nro="hkas109a0004" y="1868">
 <META>
 <ID>H, Kase 109a (4)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -13422,7 +13422,7 @@ Lõo
 <V>Pätsi puhu. -</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas110a0004">
+<ITEM nro="hkas110a0004" y="1868">
 <META>
 <ID>H, Kase 110a (4)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>
@@ -13440,7 +13440,7 @@ Sakste sajatus
 <V>Hallikuue hagu tegeme.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hkas110a0005">
+<ITEM nro="hkas110a0005" y="1868">
 <META>
 <ID>H, Kase 110a (5)</ID> &lt; <LOC>Halliste khk. või Karksi khk.</LOC> - <COL>Leena Kase</COL> (<TMP>1868</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 1.</ANDMEVIIDE>

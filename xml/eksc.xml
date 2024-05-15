@@ -1,5 +1,5 @@
 <COLLECTION>
-<ITEM nro="eksc00020000">
+<ITEM nro="eksc00020000" y="1917">
 <META>
 
 <ID>EKS c 2</ID> &lt; <LOC>Kihelkonna khk.</LOC> - <COL>A. Kaan</COL> (<TMP>1917</TMP>)
@@ -75,7 +75,7 @@
 
 </TEXT>
 </ITEM>
-<ITEM nro="eksc02270001">
+<ITEM nro="eksc02270001" y="1913">
 <META>
 <ID>EKS c 227 (1)</ID> &lt; <LOC>Maarja-Magdaleena khk., Saare v.</LOC> - <COL>Juuli Pärtelpoeg</COL> (<TMP>1913</TMP>)
 <TYP_YHT>Lauliku vaev</TYP_YHT>
@@ -93,7 +93,7 @@ Lauliku vaev
 <V>Laulu laulan teist tuletan.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="eksc02270002">
+<ITEM nro="eksc02270002" y="1913">
 <META>
 <ID>EKS c 227 (2)</ID> &lt; <LOC>Maarja-Magdaleena khk., Saare v.</LOC> - <COL>Juuli Pärtelpoeg</COL> (<TMP>1913</TMP>)
 <TYP_YHT>Kasvatus asjatu</TYP_YHT>
@@ -114,7 +114,7 @@ Asjata kasvatet
 <V>Minu tüteri mehike.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="eksc02280000">
+<ITEM nro="eksc02280000" y="1913">
 <META>
 <ID>EKS c 228</ID> &lt; <LOC>Maarja-Magdaleena khk., Saare v.</LOC> - <COL>Juuli Pärtelpoeg</COL> (<TMP>1913</TMP>)
 </META>
@@ -133,7 +133,7 @@ Asjata kasvatet
 <V>Õllevaadi otsa peale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="eksc02280007">
+<ITEM nro="eksc02280007" y="1913">
 <META>
 <ID>EKS c 228 (7)</ID> &lt; <LOC>Maarja-Magdaleena khk., Saare v.</LOC> - <COL>Juuli Pärtelpoeg</COL> (<TMP>1913</TMP>)
 <TYP_YHT>Isa- ja mehekodus</TYP_YHT>
@@ -158,7 +158,7 @@ Endine elu
 <V>Mööda pihta pikuti.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="eksc02290000">
+<ITEM nro="eksc02290000" y="1917">
 <META>
 <ID>EKS c 229</ID> &lt; <LOC>Halliste khk., Abja v.</LOC> - <COL>K. A. Hindrey</COL> (<TMP>1917</TMP>)
 </META>

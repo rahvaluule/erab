@@ -1,5 +1,5 @@
 <COLLECTION>
-<ITEM nro="eksa00530000">
+<ITEM nro="eksa00530000" y="0">
 <META>
 <ID>EKS a 53/5</ID> &lt; <LOC>Rakvere khk.</LOC> - <COL>Toomas Lepp-Wiikmann</COL>
 <TYP_YHT>Mardilaul</TYP_YHT>
@@ -79,7 +79,7 @@ Mardilaul
 <V>See soovin pereisale. -</V>
 </TEXT>
 </ITEM>
-<ITEM nro="eksa00550000">
+<ITEM nro="eksa00550000" y="0">
 <META>
 <ID>EKS a 55/6</ID> &lt; <LOC>Rakvere khk.</LOC> - <COL>Toomas Lepp-Wiikmann</COL>
 <TYP_YHT>Kadrilaul</TYP_YHT>
@@ -119,7 +119,7 @@ Kadrilaul
 <V>Siis saab kadri kaetudki</V>
 </TEXT>
 </ITEM>
-<ITEM nro="eksa00570000">
+<ITEM nro="eksa00570000" y="0">
 <META>
 <ID>EKS a 57/9</ID> &lt; <LOC>Rakvere khk.</LOC> - <COL>Toomas Lepp-Wiikmann</COL>
 <TYP_YHT>Kaevul kosija</TYP_YHT>
@@ -170,7 +170,7 @@ Kaevul kosija
 <V>Sinisirmide tagana.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="eksa00590000">
+<ITEM nro="eksa00590000" y="0">
 <META>
 <ID>EKS a 59</ID> &lt; <LOC>Rakvere khk.</LOC> - <COL>Toomas Lepp-Wiikmann</COL>
 <ZANR>ul/rl</ZANR>
@@ -201,7 +201,7 @@ Kaevul kosija
 <V>Pisuke oli põlle sees. -</V>
 </TEXT>
 </ITEM>
-<ITEM nro="eksa0059000a">
+<ITEM nro="eksa0059000a" y="0">
 <META>
 <ID>EKS a 59/61</ID> &lt; <LOC>Rakvere khk.</LOC> - <COL>Toomas Lepp-Wiikmann</COL>
 <TYP_YHT>Tütarde tapja</TYP_YHT>
@@ -277,7 +277,7 @@ Tütarde tapja
 <V>Vesi varvaste vahella. -</V>
 </TEXT>
 </ITEM>
-<ITEM nro="eksa00620000">
+<ITEM nro="eksa00620000" y="0">
 <META>
 <ID>EKS a 62/3</ID> &lt; <LOC>Rakvere khk.</LOC> - <COL>Toomas Lepp-Wiikmann</COL>
 <TYP_YHT>Põll põrmune</TYP_YHT>
