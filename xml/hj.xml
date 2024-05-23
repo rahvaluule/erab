@@ -1,5 +1,5 @@
 <COLLECTION>
-<ITEM nro="hj0200110670">
+<ITEM nro="hj0200110670" y="1886">
 <META>
 <ID>H, Jõgever 2, 11 ja 14 (670, 672)</ID> &lt; <LOC>Tori khk.</LOC> - <COL>M. Kiisk</COL> (<TMP>1886</TMP>)
 <ZANR>kiri</ZANR>
@@ -24,7 +24,7 @@ Kui "Oma Maa"'s ei kõlba, jäävad Kirjam. Seltsile.
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hj0200116704">
+<ITEM nro="hj0200116704" y="1883">
 <META>
 <ID>H, Jõgever 2, 11 (670 (4))</ID> &lt; <LOC>Tori khk.</LOC> - <COL>M. Kiisk</COL> &lt; <INF><NIMI>Ann Kiisk</NIMI></INF> (<TMP>1883</TMP>)
 <TYP>
@@ -46,7 +46,7 @@ Saks ei sallind naist
 <V>Kaeru kõige karja süia.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hj0200126715">
+<ITEM nro="hj0200126715" y="1883">
 <META>
 <ID>H, Jõgever 2, 12/3 (671 (5))</ID> &lt; <LOC>Tori khk.</LOC> - <COL>M. Kiisk</COL> &lt; <INF><NIMI>Ann Kiisk</NIMI></INF> (<TMP>1883</TMP>)
 <TYP_YHT>Loomine</TYP_YHT>
@@ -108,7 +108,7 @@ Loomise laul
 <V>Kivi veest maki magusa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hj0200136726">
+<ITEM nro="hj0200136726" y="1882">
 <META>
 <ID>H, Jõgever 2, 13/4 (672 (6))</ID> &lt; <LOC>Tori khk.</LOC> - <COL>M. Kiisk</COL> &lt; <INF><NIMI>Ann Kiisk</NIMI></INF> (<TMP>1882</TMP>)
 <TYP_YHT>Kits kile karja!</TYP_YHT><LLIIK_YHT>Lastelaulud (Ahellaulud)</LLIIK_YHT></META>
@@ -151,7 +151,7 @@ Loomise laul
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hj0200156731">
+<ITEM nro="hj0200156731" y="1888">
 <META>
 <ID>H, Jõgever 2, 15 (673 (1))</ID> &lt; <LOC>Rõngu khk., Schloss-Ringen [Suure-Rõngu] m., Piiri t.</LOC> - <COL>Mihkel Kaerick</COL> &lt; <INF><NIMI>Mihkel Rebane</NIMI></INF> (<TMP>1888</TMP>)
 <TYP_YHT>Härjad murtud</TYP_YHT>
@@ -177,7 +177,7 @@ Härjad murtud
 <V>Ise manu magamaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hj0200156742">
+<ITEM nro="hj0200156742" y="1888">
 <META>
 <ID>H, Jõgever 2, 15/17 (674 (2))</ID> &lt; <LOC>Rõngu khk., Schloss-Ringen, Piiri t.</LOC> - <COL>Mihkel Kaerick</COL> &lt; <INF><NIMI>Mihkel Rebane</NIMI></INF> (<TMP>1888</TMP>)
 <TYP_YHT>Kari kadunud + Hobuse otsija</TYP_YHT>
@@ -232,7 +232,7 @@ Kari kadunud
 <V>Ega pahas panemaies."</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hj0200180675">
+<ITEM nro="hj0200180675" y="1888">
 <META>
 <ID>H, Jõgever 2, 18 (675)</ID> &lt; <LOC>Rõngu khk., Schloss-Ringen, Piiri t.</LOC> - <COL>Mihkel Kaerick</COL> &lt; <INF><NIMI>Mihkel Rebane</NIMI></INF> (<TMP>1888</TMP>)
 <TYP_YHT>Kolm metsa</TYP_YHT>
@@ -259,7 +259,7 @@ Kari kadunud
 <V>Sääl mei' kolmi kokku saime.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hj0200196761">
+<ITEM nro="hj0200196761" y="1886">
 <META>
 <ID>H, Jõgever 2, 19/20 (676 (1))</ID> &lt; <LOC>Pilistvere khk., Kõo v.</LOC> - <COL>Jaan Bock</COL> &lt; <INF><NIMI>Madli Waltmann</NIMI></INF> (<TMP>1886</TMP>)
 <TYP_YHT>Lauliku sõim + Küla jääb kuulama</TYP_YHT>
@@ -332,7 +332,7 @@ Halb laulik - laulu võim
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hj0200216772">
+<ITEM nro="hj0200216772" y="1886">
 <META>
 <ID>H, Jõgever 2, 21/2 (677 (2))</ID> &lt; <LOC>Pilistvere khk., Kõo v.</LOC> - <COL>Jaan Bock</COL> &lt; <INF><NIMI>Madli Waltmann</NIMI></INF> (<TMP>1886</TMP>)
 <TYP_YHT>Õitsilaul</TYP_YHT>
@@ -383,7 +383,7 @@ Halb laulik - laulu võim
 <V>Oma peidu ooteleme.....</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hj0200226783">
+<ITEM nro="hj0200226783" y="1886">
 <META>
 <ID>H, Jõgever 2, 22/6 (678 (3))</ID> &lt; <LOC>Pilistvere khk., Kõo v.</LOC> - <COL>Jaan Bock</COL> &lt; <INF><NIMI>Madli Waltmann</NIMI></INF> (<TMP>1886</TMP>)
 <TYP>
@@ -517,7 +517,7 @@ Kadunud tütar
 <V>Andsid kallima kaasale.....</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hj0200266794">
+<ITEM nro="hj0200266794" y="1886">
 <META>
 <ID>H, Jõgever 2, 26/7 (679 (4))</ID> &lt; <LOC>Pilistvere khk., Kõo v. </LOC> - <COL>Jaan Bock</COL> &lt; <INF><NIMI>Madli Waltmann</NIMI></INF> (<TMP>1886</TMP>)
 <TYP>
@@ -557,7 +557,7 @@ Salme neiu
 <V>Kolga-Jaanisse kosjale....</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hj0200276805">
+<ITEM nro="hj0200276805" y="1886">
 <META>
 <ID>H, Jõgever 2, 27/34 (680 (5))</ID> &lt; <LOC>Pilistvere khk., Kõo v.</LOC> - <COL>Jaan Bock</COL> &lt; <INF><NIMI>Madli Waltmann</NIMI></INF> (<TMP>1886</TMP>)
 <LLIIK>Pulmalaulud</LLIIK>
@@ -789,7 +789,7 @@ Salme neiu
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hj0200410681">
+<ITEM nro="hj0200410681" y="1886">
 <META>
 <ID>H, Jõgever 2, 41/2 (681)</ID> &lt; <LOC>Saaremaa</LOC> - <COL>A. Küng</COL> (<TMP>1886</TMP>)
 </META>
@@ -820,7 +820,7 @@ Palun uuel aastal rohkem õigust Eesti kirja keelest räekita, siis saan mina ka
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hj0200430682">
+<ITEM nro="hj0200430682" y="1888">
 <META>
 <ID>H, Jõgever 2, 43 (682)</ID> &lt; <LOC>Laiuse khk., Kärdiku</LOC> - <COL>H. Käär</COL> (<TMP>1888</TMP>)
 <ZANR>kiri</ZANR></META>
@@ -839,7 +839,7 @@ Alamal seisvad ri'ad on rahva suust kuuldud ja kui neil peaks kudagi viisi vää
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hj0201030695">
+<ITEM nro="hj0201030695" y="0">
 <META>
 <ID>H, Jõgever 2, 103/4 (695)</ID> &lt; <LOC>?</LOC> - <COL>J. M. Jaanus</COL> &lt; <INF><NIMI>?</NIMI></INF> (<TMP>?</TMP>)
 <TYP>
@@ -878,7 +878,7 @@ Laisk naine
 <V>Tapulatile tasane.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hj0201040696">
+<ITEM nro="hj0201040696" y="0">
 <META>
 <ID>H, Jõgever 2, 104/5 (696)</ID> &lt; <LOC>?</LOC> - <COL>J. M. Jaanus</COL> &lt; <INF><NIMI>?</NIMI></INF> (<TMP>?</TMP>)
 <TYP>
@@ -919,7 +919,7 @@ Saksalapsed - laisad lapsed
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hj0201070698">
+<ITEM nro="hj0201070698" y="0">
 <META>
 <ID>H, Jõgever 2, 107 (698)</ID> &lt; <LOC>?</LOC> - <COL>J. M. Jaanus</COL> &lt; <INF><NIMI>?</NIMI></INF> (<TMP>?</TMP>)
 <TYP>
@@ -945,7 +945,7 @@ Rahva suust.
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hj0201090702">
+<ITEM nro="hj0201090702" y="1886">
 <META>
 <ID>H, Jõgever 2, 109, 112 (702)</ID> &lt; <LOC>Tori khk.</LOC> - <COL>M. Kiisk</COL> (<TMP>1886</TMP>)
 </META>
@@ -970,7 +970,7 @@ Toris, 28. Dets. 1886.
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hj0201096991">
+<ITEM nro="hj0201096991" y="1882">
 <META>
 <ID>H, Jõgever 2, 109/10 (699 (1))</ID> &lt; <LOC>Tori khk.</LOC> - <COL>M. Kiisk</COL> &lt; <INF><NIMI>Ann Kiisk</NIMI></INF> (<TMP>1882</TMP>)
 <TYP_YHT>Liiri-lõõri!</TYP_YHT>
@@ -1021,7 +1021,7 @@ Kuku kägu
 <V>Keldre kena kivise.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hj0201107002">
+<ITEM nro="hj0201107002" y="1883">
 <META>
 <ID>H, Jõgever 2, 110/1 (700 (2))</ID> &lt; <LOC>Tori khk.</LOC> - <COL>M. Kiisk</COL> &lt; <INF><NIMI>Ann Kiisk</NIMI></INF> (<TMP>1883</TMP>)
 <TYP_YHT>Müüdud neiu</TYP_YHT>
@@ -1078,7 +1078,7 @@ Müüdud neiu
 <V>Kingad jalgas tal kulugu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hj0201117013">
+<ITEM nro="hj0201117013" y="1883">
 <META>
 <ID>H, Jõgever 2, 111/2 (701 (3))</ID> &lt; <LOC>Tori khk.</LOC> - <COL>M. Kiisk</COL> &lt; <INF><NIMI>Ann Kiisk</NIMI></INF> (<TMP>1883</TMP>)
 <TYP_YHT>Teng, hobu, naine</TYP_YHT>
@@ -1107,7 +1107,7 @@ Teng-hobu-naine
 <V>Tangutera targukene.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hj0201127024">
+<ITEM nro="hj0201127024" y="1883">
 <META>
 <ID>H, Jõgever 2, 112 (702 (4))</ID> &lt; <LOC>Tori khk.</LOC> - <COL>M. Kiisk</COL> &lt; <INF><NIMI>Ann Kiisk</NIMI></INF> (<TMP>1883</TMP>)
 <TYP>
@@ -1136,7 +1136,7 @@ ul
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hj0201137031">
+<ITEM nro="hj0201137031" y="1886">
 <META>
 <ID>H, Jõgever 2, 113/6 (703 (1))</ID> &lt; <LOC>Kolga-Jaani khk., Võisiku v.</LOC> - <COL>Tõnis Lepik</COL> (<TMP>1886</TMP>)
 <TYP_YHT>Laisk kalamees</TYP_YHT>
@@ -1236,7 +1236,7 @@ Kalamehe naine
 <V>Siis sai otsa ometi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hj020118704a">
+<ITEM nro="hj020118704a" y="1887">
 <META>
 <ID>H, Jõgever 2, 118 (704)</ID> &lt; <LOC>Rannu khk., Väike-Konguta</LOC> - <COL>J. Kenkmann</COL> (<TMP>1887</TMP>)
 <TYP>
@@ -1267,7 +1267,7 @@ Täh: Viimaste Amenide aeg piigistab arst niserdatud kohta ja ütleb üheksa kor
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="hj020118704b">
+<ITEM nro="hj020118704b" y="1887">
 <META>
 <ID>H, Jõgever 2, 118 (704)</ID> &lt; <LOC>Rannu khk., Väike-Konguta</LOC> - <COL>J. Kenkmann</COL> (<TMP>1887</TMP>)
 <TYP>
@@ -1289,7 +1289,7 @@ ns
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hj0201190704">
+<ITEM nro="hj0201190704" y="1887">
 <META>
 <ID>H, Jõgever 2, 119 (704)</ID> &lt; <LOC>Rannu khk., Väike-Konguta</LOC> - <COL>J. Kenkmann</COL> (<TMP>1887</TMP>)
 <TYP_YHT>_ + Ussisõnad</TYP_YHT>
@@ -1312,7 +1312,7 @@ Sortsi suust
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hj0201300710">
+<ITEM nro="hj0201300710" y="0">
 <META>
 <ID>H, Jõgever 2, 130 (710)</ID> &lt; <LOC>Vändra khk. (?)</LOC> - <COL>J. Peterson</COL> &lt; <INF><NIMI>Mari Kummasaar</NIMI></INF>
 <TYP_YHT>Tütar mõisas</TYP_YHT>
@@ -1339,7 +1339,7 @@ Tütar mõisas
 <V>Katku karratukiriku!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hj0201507162">
+<ITEM nro="hj0201507162" y="1887">
 <META>
 <ID>H, Jõgever 2, 150/2 (716 (2))</ID> &lt; <LOC>Kursi khk., Laeva v.</LOC> - <COL>A. Jääger</COL> (<TMP>1887</TMP>)
 </META>
@@ -1362,7 +1362,7 @@ Pede kuulnud sona ia tulnud, lautanud aga paisu ära. Jga asta käib ta aga uues
 </L>
 </TEXT>
 </ITEM>
-<ITEM nro="hj0201710723">
+<ITEM nro="hj0201710723" y="1887">
 <META>
 <ID>H, Jõgever 2, 171/4 (723)</ID> &lt; <LOC>Laiuse khk., Edla k.</LOC> - <COL>H. Käär</COL> (<TMP>1887</TMP>)
 <ZANR>etnograafia/muistend/uuem rahvalaul</ZANR></META>
@@ -1393,7 +1393,7 @@ Pühapäev läinud nad nõmme peale, et, kui ussi näeks, siis ebatembu ära tee
 </L>
 </TEXT>
 </ITEM>
-<ITEM nro="hj0201740723">
+<ITEM nro="hj0201740723" y="1887">
 <META>
 <ID>H, Jõgever 2, 174 (723)</ID> &lt; <LOC>Laiuse khk., Endla k.</LOC> - <COL>H. Käär</COL> (<TMP>1887</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -1426,7 +1426,7 @@ III.
 <V>Noorushommik pühalik.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hj0201850726">
+<ITEM nro="hj0201850726" y="1888">
 <META>
 <ID>H, Jõgever 2, 185 (726)</ID> &lt; <LOC>Paistu, Holstre</LOC> - <COL>J. Lille</COL> (<TMP>1888</TMP>)
 </META>
@@ -1461,7 +1461,7 @@ Rahva suust.
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="hj0201860727">
+<ITEM nro="hj0201860727" y="1888">
 <META>
 <ID>H, Jõgever 2, 186 (727)</ID> &lt; <LOC>Paistu khk., Holstre v.</LOC> - <COL>J. Lille</COL> (<TMP>1888</TMP>)
 <TYP_YHT>_ + Sepp</TYP_YHT>
@@ -1497,7 +1497,7 @@ Rahva suust.
 <V>Küllalt ehtid kumbakile.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hj0201910872">
+<ITEM nro="hj0201910872" y="0">
 <META>
 <ID>H, Jõgever 2, 191/2 (872)</ID> &lt; <LOC>Tori khk.</LOC> - <COL>A. Madisson</COL>
 <TYP>

@@ -1,5 +1,5 @@
 <COLLECTION>
-<ITEM nro="hwIV00040000">
+<ITEM nro="hwIV00040000" y="1872">
 <META>
 <ID>H, Wiedemann IV, 4</ID> &lt; <LOC>Setumaa või Võrumaa</LOC> - <COL>Victor Stein</COL> (<TMP>1872-1873</TMP>)
 <ZANR>varia</ZANR>
@@ -24,7 +24,7 @@ Tatt
 <V>Tere viin põrgutäüde.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="hwIV00050000">
+<ITEM nro="hwIV00050000" y="1872">
 <META>
 <ID>H, Wiedemann IV, 5/7</ID> &lt; <LOC>Setumaa või Võrumaa</LOC> - <COL>Victor Stein</COL> (<TMP>1872-1873</TMP>)
 </META>
@@ -134,7 +134,7 @@ Tatt
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hwIV00110000">
+<ITEM nro="hwIV00110000" y="1872">
 <META>
 <ID>H, Wiedemann IV, 11/2</ID> &lt; <LOC>Setumaa või Võrumaa</LOC> - <COL>Victor Stein</COL> (<TMP>1872-1873</TMP>)
 <ZANR>jutt/regilaul</ZANR>
@@ -164,7 +164,7 @@ Jutu algus on siit puudu.
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="hwIV00350000">
+<ITEM nro="hwIV00350000" y="1872">
 <META>
 <ID>H, Wiedemann IV, 35/7</ID> &lt; <LOC>Setumaa või Võrumaa</LOC> (<TMP>1872-1873</TMP>)
 <ZANR>jutt/regilaul</ZANR>
@@ -183,7 +183,7 @@ Aber die falsche Schwester ergriff eine Ofenkrücke und wolte damit den Vogel er
 </L>
 </TEXT>
 </ITEM>
-<ITEM nro="hwIV00380000">
+<ITEM nro="hwIV00380000" y="1872">
 <META>
 <ID>H, Wiedemann IV, 38/40</ID> &lt; <LOC>Setumaa või Võrumaa</LOC> (<TMP>1872-1873</TMP>)
 </META>
@@ -289,7 +289,7 @@ Hohman sagt Dank es Thränen so stark, dass Wäscherin ihre Wäsche waschen kont
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="hwIV00500000">
+<ITEM nro="hwIV00500000" y="1872">
 <META>
 <ID>H, Wiedemann IV, 50</ID> &lt; <LOC>Setumaa või Võrumaa</LOC> - <COL>Victor Stein</COL> (<TMP>1872-1873</TMP>)
 </META>

@@ -1,5 +1,5 @@
 <COLLECTION>
-<ITEM nro="tem0100030001">
+<ITEM nro="tem0100030001" y="0">
 <META>
 <ID>TEM 1, 3 (1)</ID>
 </META>
@@ -14,7 +14,7 @@
 <V>Reied rattarummu moodi. . . ?</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0100030002">
+<ITEM nro="tem0100030002" y="0">
 <META>
 <ID>TEM 1, 3 (2)</ID>
 </META>
@@ -42,7 +42,7 @@
 <V>Jalad põrgu ahjuhargiks.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0100060010">
+<ITEM nro="tem0100060010" y="0">
 <META>
 <ID>TEM 1, 6 (10)</ID>
 <ZANR>jutt/regilaul</ZANR>
@@ -79,7 +79,7 @@ Selle järele tulnud vällja et ta ühe mehe õde on. Vend tahtnud oma õde ära
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem0100070000">
+<ITEM nro="tem0100070000" y="1920">
 <META>
 <ID>TEM 1, 7/a</ID> &lt; <LOC>Hiiu</LOC> - <COL>S. Kalju</COL> &lt; <INF><NIMI>Marie Kalju</NIMI>, <ELUL>50 a. &amp;lt; luuletanud ja komponeerinud Tõnis Sehla Kärdlas umbes a. 1875, sel ajal 30-35 a.</ELUL></INF> (<TMP>1920</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -150,7 +150,7 @@ noodialune tekst
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="tem0100080000">
+<ITEM nro="tem0100080000" y="0">
 <META>
 <ID>TEM 1, 8/a</ID> &lt; <LOC>Jõelähtme khk., Nehatu v., Saha k., poja juures &amp;lt; Ambla khk.</LOC> &lt; <INF><NIMI>Luise Klees, 71 a.</NIMI></INF>
 <ZANR>uuem rahvalaul</ZANR>
@@ -207,7 +207,7 @@ noodialune tekst
 <V>Lahja toobi õllelaksu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0100090000">
+<ITEM nro="tem0100090000" y="0">
 <META>
 <ID>TEM 1, 9</ID> &lt; <LOC>Jõelähtme khk., Nehatu v., Saha k., poja juures &amp;lt; Ambla khk.</LOC> &lt; <INF><NIMI>Luise Klees, 71 a.</NIMI></INF>
 <ZANR>uuem rahvalaul</ZANR>
@@ -224,7 +224,7 @@ noodialune tekst
 <V>Neid ta võtab närvelida. -</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0100100000">
+<ITEM nro="tem0100100000" y="0">
 <META>
 <ID>TEM 1, 10/a</ID>&lt; <LOC>Peetri khk. (?)</LOC>
 
@@ -250,7 +250,7 @@ noodialune tekst
 Vrd: E 53655 (6) &lt; Peetri khk., Koigi v., Sargvere k. - Adele Jürgens &lt; Mari Herpst, 73 a. (1923) ja E, StK 40, 55/6 (85) &lt; Peetri khk., Mäo-Nurmsi, Paemuru saunad - Richard Viidebaum &lt; Mari Herbst, 76 a. (1927)
 </MRKS>
 </ITEM>
-<ITEM nro="tem0100110000">
+<ITEM nro="tem0100110000" y="0">
 <META>
 <ID>TEM 1, 11/2a</ID> &lt; <LOC>Peetri khk. (?)</LOC>
 </META>
@@ -319,7 +319,7 @@ Vrd: E 53655 (6) &lt; Peetri khk., Koigi v., Sargvere k. - Adele Jürgens &lt; M
 Vrd: E 53653/4 (5) &lt; Peetri khk., Koigi v., Sargvere k. - Adele Jürgens &lt; Mari Herpst, 73 a. (1923) ja E, StK 40, 51/2 (82) &lt; Peetri khk., Mäo-Nurmsi, Paemurru saunad - Richard Viidebaum &lt; Mari Herbst, 76 a. (1927)
 </MRKS>
 </ITEM>
-<ITEM nro="tem0100140001">
+<ITEM nro="tem0100140001" y="0">
 <META>
 <ID>TEM 1, 14 (1)</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -338,7 +338,7 @@ Vrd: E 53653/4 (5) &lt; Peetri khk., Koigi v., Sargvere k. - Adele Jürgens &lt;
 <V>Ärge lapsed ära surge.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0100140002">
+<ITEM nro="tem0100140002" y="0">
 <META>
 <ID>TEM 1, 14 (2)</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -351,7 +351,7 @@ Vrd: E 53653/4 (5) &lt; Peetri khk., Koigi v., Sargvere k. - Adele Jürgens &lt;
 <V>Kassi leivaraasukesi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0100140003">
+<ITEM nro="tem0100140003" y="0">
 <META>
 <ID>TEM 1, 14/a (3)</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -372,7 +372,7 @@ Vrd: E 53653/4 (5) &lt; Peetri khk., Koigi v., Sargvere k. - Adele Jürgens &lt;
 <V>Palakas palistamata.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0100160001">
+<ITEM nro="tem0100160001" y="0">
 <META>
 <ID>TEM 1, 16 (1)</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -389,7 +389,7 @@ Vrd: E 53653/4 (5) &lt; Peetri khk., Koigi v., Sargvere k. - Adele Jürgens &lt;
 <V>Järvas sõnu jätkamas.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0100160002">
+<ITEM nro="tem0100160002" y="0">
 <META>
 <ID>TEM 1, 16/a (2)</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -427,7 +427,7 @@ Vrd: E 53653/4 (5) &lt; Peetri khk., Koigi v., Sargvere k. - Adele Jürgens &lt;
 <V>Meie kari karjaaedas.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0100170003">
+<ITEM nro="tem0100170003" y="0">
 <META>
 <ID>TEM 1, 17 (3)</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -454,7 +454,7 @@ Vrd: E 53653/4 (5) &lt; Peetri khk., Koigi v., Sargvere k. - Adele Jürgens &lt;
 <V>Siis saab terveks naine noori.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0100180000">
+<ITEM nro="tem0100180000" y="0">
 <META>
 <ID>TEM 1, 18</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -468,7 +468,7 @@ Vrd: E 53653/4 (5) &lt; Peetri khk., Koigi v., Sargvere k. - Adele Jürgens &lt;
 <V>Varsti tegin vallatust.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem010018000a">
+<ITEM nro="tem010018000a" y="0">
 <META>
 <ID>TEM 1, 18/a</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -499,7 +499,7 @@ Vrd: E 53653/4 (5) &lt; Peetri khk., Koigi v., Sargvere k. - Adele Jürgens &lt;
 <V>Raasiku rahast ribukse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0100190000">
+<ITEM nro="tem0100190000" y="0">
 <META>
 <ID>TEM 1, 19</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 <TYP_YHT>Ära puhu puna</TYP_YHT><LLIIK_YHT>Looduslaulud (Aastaajad ja loodusnähtused)</LLIIK_YHT></META>
@@ -515,7 +515,7 @@ Vrd: E 53653/4 (5) &lt; Peetri khk., Koigi v., Sargvere k. - Adele Jürgens &lt;
 <V>Hele heinakaare peale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem010019000a">
+<ITEM nro="tem010019000a" y="0">
 <META>
 <ID>TEM 1, 19</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -534,7 +534,7 @@ Vrd: E 53653/4 (5) &lt; Peetri khk., Koigi v., Sargvere k. - Adele Jürgens &lt;
 <V>Silmad sipelgapesassa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0100200000">
+<ITEM nro="tem0100200000" y="0">
 <META>
 <ID>TEM 1, 20</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -549,7 +549,7 @@ Vrd: E 53653/4 (5) &lt; Peetri khk., Koigi v., Sargvere k. - Adele Jürgens &lt;
 <V>Kümme kerpu kirjassagi</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem010020000a">
+<ITEM nro="tem010020000a" y="0">
 <META>
 <ID>TEM 1, 20</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -563,7 +563,7 @@ Vrd: E 53653/4 (5) &lt; Peetri khk., Koigi v., Sargvere k. - Adele Jürgens &lt;
 <V>Küindelata kirjutada.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem010020000b">
+<ITEM nro="tem010020000b" y="0">
 <META>
 <ID>TEM 1, 20</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -576,7 +576,7 @@ Vrd: E 53653/4 (5) &lt; Peetri khk., Koigi v., Sargvere k. - Adele Jürgens &lt;
 <V>Naene maias maasikalle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0100210000">
+<ITEM nro="tem0100210000" y="0">
 <META>
 <ID>TEM 1, 21</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -590,7 +590,7 @@ Vrd: E 53653/4 (5) &lt; Peetri khk., Koigi v., Sargvere k. - Adele Jürgens &lt;
 <V>Üleliiga ühelegi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem010021000a">
+<ITEM nro="tem010021000a" y="0">
 <META>
 <ID>TEM 1, 21</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -608,7 +608,7 @@ Vrd: E 53653/4 (5) &lt; Peetri khk., Koigi v., Sargvere k. - Adele Jürgens &lt;
 <V>Tanguvaagen tasunud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem010021000b">
+<ITEM nro="tem010021000b" y="0">
 <META>
 <ID>TEM 1, 21</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 <TYP_YHT>Must naine</TYP_YHT><LLIIK_YHT>Laulud abielust (Abielumehe põli)</LLIIK_YHT></META>
@@ -623,7 +623,7 @@ Vrd: E 53653/4 (5) &lt; Peetri khk., Koigi v., Sargvere k. - Adele Jürgens &lt;
 <V>Rumalaga ruttamaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0100220000">
+<ITEM nro="tem0100220000" y="0">
 <META>
 <ID>TEM 1, 22/a</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -660,7 +660,7 @@ Vrd: E 53653/4 (5) &lt; Peetri khk., Koigi v., Sargvere k. - Adele Jürgens &lt;
 <V>Linna viisid leesik kaupa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0100230000">
+<ITEM nro="tem0100230000" y="0">
 <META>
 <ID>TEM 1, 23</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -683,7 +683,7 @@ Vrd: E 53653/4 (5) &lt; Peetri khk., Koigi v., Sargvere k. - Adele Jürgens &lt;
 <V>Lase Leane lehte lauku.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem010023000a">
+<ITEM nro="tem010023000a" y="0">
 <META>
 <ID>TEM 1, 23/a</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -699,7 +699,7 @@ Vrd: E 53653/4 (5) &lt; Peetri khk., Koigi v., Sargvere k. - Adele Jürgens &lt;
 <V>Leiba kalaleeme kõrva.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0100240000">
+<ITEM nro="tem0100240000" y="0">
 <META>
 <ID>TEM 1, 24</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -710,7 +710,7 @@ Vrd: E 53653/4 (5) &lt; Peetri khk., Koigi v., Sargvere k. - Adele Jürgens &lt;
 <V>Suud seda üsna muidu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem010024000a">
+<ITEM nro="tem010024000a" y="0">
 <META>
 <ID>TEM 1, 24</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -739,7 +739,7 @@ Vrd: E 53653/4 (5) &lt; Peetri khk., Koigi v., Sargvere k. - Adele Jürgens &lt;
 <V>Loopere Annelt sõrmukseida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem01005a0009">
+<ITEM nro="tem01005a0009" y="0">
 <META>
 <ID>TEM 1, 5a (9)</ID>
 <ZANR>jutt/uuem rahvalaul</ZANR>
@@ -801,7 +801,7 @@ Tuleb aeg, kus kaks venda ühe kivi kallal kisuvad ja valmis on teine teist maha
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="tem01006a0012">
+<ITEM nro="tem01006a0012" y="0">
 <META>
 <ID>TEM 1, 6a (12)</ID>
 </META>
@@ -845,7 +845,7 @@ Tuleb aeg, kus kaks venda ühe kivi kallal kisuvad ja valmis on teine teist maha
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem01007a0000">
+<ITEM nro="tem01007a0000" y="1920">
 <META>
 <ID>TEM 1, 7a</ID> &lt; <LOC>Hiiu</LOC> - <COL>S. Kalju</COL> &lt; <INF><NIMI>Anna Peial</NIMI>, <ELUL>78 a.</ELUL></INF> (<TMP>1920</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -886,7 +886,7 @@ Tuleb aeg, kus kaks venda ühe kivi kallal kisuvad ja valmis on teine teist maha
 <V>Meie talgud olid head!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem01008a0000">
+<ITEM nro="tem01008a0000" y="0">
 <META>
 <ID>TEM 1, 8a/9</ID> &lt; <LOC>Jõelähtme khk., Nehatu v., Saha k., poja juures &amp;lt; Ambla khk.</LOC> &lt; <INF><NIMI>Luise Klees, 71 a.</NIMI></INF>
 <ZANR>uuem rahvalaul</ZANR>
@@ -920,7 +920,7 @@ Tuleb aeg, kus kaks venda ühe kivi kallal kisuvad ja valmis on teine teist maha
 <V>Tantsis taarinapaga. -</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem01010a0000">
+<ITEM nro="tem01010a0000" y="0">
 <META>
 <ID>TEM 1, 10a</ID> &lt; <LOC>Peetri khk. (?)</LOC>
 </META>
@@ -937,7 +937,7 @@ Tuleb aeg, kus kaks venda ühe kivi kallal kisuvad ja valmis on teine teist maha
 Vrd: E 53652 (4) &lt; Peetri khk., Koigi v., Tamsi (Huuksi) k. - Adele Jürgens &lt; Kai Berg, 91 a. (1923) ja E, StK 40, 57 (88) &lt; Peetri khk., Mäo-Nurmsi, Paemurru saunad - Richard Viidebaum &lt; Mari Herbst, 76 a. (1927)
 </MRKS>
 </ITEM>
-<ITEM nro="tem01010a000a">
+<ITEM nro="tem01010a000a" y="0">
 <META>
 <ID>TEM 1, 10a</ID> &lt; <LOC>Peetri (?)</LOC>
 <TYP_YHT>Kättemaks sakstele</TYP_YHT><LLIIK_YHT>Laulud ühiskondlikest vahekordadest (Mõis)</LLIIK_YHT></META>
@@ -954,7 +954,7 @@ Vrd: E 53652 (4) &lt; Peetri khk., Koigi v., Tamsi (Huuksi) k. - Adele Jürgens 
 Vrd: E 53651 (2) &lt; Peetri khk., Koigi v., Tamsi (Huuksi) k., Pärsi s. - Adele Jürgens &lt; Kai Berg, 91 a. (1923) ja E, StK 40, 56 (86) &lt; Peetri khk., Mäo-Nurmsi, Paemurru saunad - Richard Viidebaum &lt; Mari Herbst, 76 a. (1927)
 </MRKS>
 </ITEM>
-<ITEM nro="tem01010a00aa">
+<ITEM nro="tem01010a00aa" y="0">
 <META>
 <ID>TEM 1, 10a (a)</ID> &lt; <LOC>Peetri khk. (?)</LOC>
 </META>
@@ -969,7 +969,7 @@ Vrd: E 53651/2 (3) &lt; Peetri khk., Koigi v., Tamsi (Huuksi) k., Pärsi s. - Ad
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="tem01014a0004">
+<ITEM nro="tem01014a0004" y="0">
 <META>
 <ID>TEM 1, 14a (4)</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -982,7 +982,7 @@ Vrd: E 53651/2 (3) &lt; Peetri khk., Koigi v., Tamsi (Huuksi) k., Pärsi s. - Ad
 <V>Sinu ümber ja kuuti leikan.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem01015a0007">
+<ITEM nro="tem01015a0007" y="0">
 <META>
 <ID>TEM 1, 15a (7)</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -998,7 +998,7 @@ Vrd: E 53651/2 (3) &lt; Peetri khk., Koigi v., Tamsi (Huuksi) k., Pärsi s. - Ad
 <V>Näputäie nässe kaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem01017a0004">
+<ITEM nro="tem01017a0004" y="0">
 <META>
 <ID>TEM 1, 17a (4)</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -1015,7 +1015,7 @@ Vrd: E 53651/2 (3) &lt; Peetri khk., Koigi v., Tamsi (Huuksi) k., Pärsi s. - Ad
 <V>Kärpis sõrmeotsukesed.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem01017a0005">
+<ITEM nro="tem01017a0005" y="0">
 <META>
 <ID>TEM 1, 17a (5)</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -1039,7 +1039,7 @@ Vrd: E 53651/2 (3) &lt; Peetri khk., Koigi v., Tamsi (Huuksi) k., Pärsi s. - Ad
 <V>Kilter raudine rapsanud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem01018a0000">
+<ITEM nro="tem01018a0000" y="0">
 <META>
 <ID>TEM 1, 18a</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -1058,7 +1058,7 @@ Vrd: E 53651/2 (3) &lt; Peetri khk., Koigi v., Tamsi (Huuksi) k., Pärsi s. - Ad
 <V>Sada versta Saksamaada.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem01018a000a">
+<ITEM nro="tem01018a000a" y="0">
 <META>
 <ID>TEM 1, 18a</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -1072,7 +1072,7 @@ Vrd: E 53651/2 (3) &lt; Peetri khk., Koigi v., Tamsi (Huuksi) k., Pärsi s. - Ad
 <V>Imeb tõuku ei imetse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem01019a0000">
+<ITEM nro="tem01019a0000" y="0">
 <META>
 <ID>TEM 1, 19a</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 <TYP_YHT>Siin pole sinu oma</TYP_YHT><LLIIK_YHT>Laulud noorrahva elust (Poisid)</LLIIK_YHT></META>
@@ -1086,7 +1086,7 @@ Vrd: E 53651/2 (3) &lt; Peetri khk., Koigi v., Tamsi (Huuksi) k., Pärsi s. - Ad
 <V>Lambas sinu lapsukene.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem01019a000a">
+<ITEM nro="tem01019a000a" y="0">
 <META>
 <ID>TEM 1, 19a</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -1101,7 +1101,7 @@ Vrd: E 53651/2 (3) &lt; Peetri khk., Koigi v., Tamsi (Huuksi) k., Pärsi s. - Ad
 <V>Ikka teen eide kiidutööd.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem01019a000b">
+<ITEM nro="tem01019a000b" y="0">
 <META>
 <ID>TEM 1, 19a</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -1114,7 +1114,7 @@ Vrd: E 53651/2 (3) &lt; Peetri khk., Koigi v., Tamsi (Huuksi) k., Pärsi s. - Ad
 <V>Koolalõuga kulla väärta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem01020a0000">
+<ITEM nro="tem01020a0000" y="0">
 <META>
 <ID>TEM 1, 20a</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 <TYP_YHT>Lauliku sõim</TYP_YHT><LLIIK_YHT>Laulud laulust (Laulikute sõimlemine)</LLIIK_YHT></META>
@@ -1128,7 +1128,7 @@ Vrd: E 53651/2 (3) &lt; Peetri khk., Koigi v., Tamsi (Huuksi) k., Pärsi s. - Ad
 <V>Terita nina teravaks.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem01020a000a">
+<ITEM nro="tem01020a000a" y="0">
 <META>
 <ID>TEM 1, 20a</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -1142,7 +1142,7 @@ Vrd: E 53651/2 (3) &lt; Peetri khk., Koigi v., Tamsi (Huuksi) k., Pärsi s. - Ad
 <V>Piimapütti pillaksivad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem01020a000b">
+<ITEM nro="tem01020a000b" y="0">
 <META>
 <ID>TEM 1, 20a</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 <TYP_YHT>Palju sõnu</TYP_YHT><LLIIK_YHT>Laulud laulust (Laulust ja laulikust)</LLIIK_YHT></META>
@@ -1156,7 +1156,7 @@ Vrd: E 53651/2 (3) &lt; Peetri khk., Koigi v., Tamsi (Huuksi) k., Pärsi s. - Ad
 <V>Lood ju hullud huuletesta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem01021a0000">
+<ITEM nro="tem01021a0000" y="0">
 <META>
 <ID>TEM 1, 21a</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 <TYP_YHT>Must naine</TYP_YHT><LLIIK_YHT>Laulud abielust (Abielumehe põli)</LLIIK_YHT></META>
@@ -1172,7 +1172,7 @@ Vrd: E 53651/2 (3) &lt; Peetri khk., Koigi v., Tamsi (Huuksi) k., Pärsi s. - Ad
 <V>Pädakas küll päevakarva.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem01021a000a">
+<ITEM nro="tem01021a000a" y="0">
 <META>
 <ID>TEM 1, 21a</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 <TYP_YHT>Metsast mehele</TYP_YHT><LLIIK_YHT>Laulud noorrahva elust (Neidude õpetamine)</LLIIK_YHT></META>
@@ -1191,7 +1191,7 @@ Vrd: E 53651/2 (3) &lt; Peetri khk., Koigi v., Tamsi (Huuksi) k., Pärsi s. - Ad
 <V>Väli laia leivalauda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem01021a000b">
+<ITEM nro="tem01021a000b" y="0">
 <META>
 <ID>TEM 1, 21a/2</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -1219,7 +1219,7 @@ Vrd: E 53651/2 (3) &lt; Peetri khk., Koigi v., Tamsi (Huuksi) k., Pärsi s. - Ad
 <V>Kõlvatumad kõrvale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem01022a0000">
+<ITEM nro="tem01022a0000" y="0">
 <META>
 <ID>TEM 1, 22a</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -1237,7 +1237,7 @@ Vrd: E 53651/2 (3) &lt; Peetri khk., Koigi v., Tamsi (Huuksi) k., Pärsi s. - Ad
 <V>Sälla pööran seina leian.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem01023a0000">
+<ITEM nro="tem01023a0000" y="0">
 <META>
 <ID>TEM 1, 23a</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -1260,7 +1260,7 @@ Vrd: E 53651/2 (3) &lt; Peetri khk., Koigi v., Tamsi (Huuksi) k., Pärsi s. - Ad
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem01024a0000">
+<ITEM nro="tem01024a0000" y="0">
 <META>
 <ID>TEM 1, 24a</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -1274,7 +1274,7 @@ Vrd: E 53651/2 (3) &lt; Peetri khk., Koigi v., Tamsi (Huuksi) k., Pärsi s. - Ad
 <V>Nii kui Kambi karjakoerad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem01024a000a">
+<ITEM nro="tem01024a000a" y="0">
 <META>
 <ID>TEM 1, 24a</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -1289,7 +1289,7 @@ Vrd: E 53651/2 (3) &lt; Peetri khk., Koigi v., Tamsi (Huuksi) k., Pärsi s. - Ad
 <V>Mis on kuri kubjas löönud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem01024a000b">
+<ITEM nro="tem01024a000b" y="0">
 <META>
 <ID>TEM 1, 24a</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -1306,7 +1306,7 @@ Vrd: E 53651/2 (3) &lt; Peetri khk., Koigi v., Tamsi (Huuksi) k., Pärsi s. - Ad
 <V>Päev lääb looja lootemata.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200010001">
+<ITEM nro="tem0200010001" y="1886">
 <META>
 <ID>TEM 2, 1/3 (1)</ID> &lt; <LOC>Pöide khk.</LOC> &lt; <INF><NIMI>H. Värkli(-vana)</NIMI></INF> (<TMP>1886</TMP>)
 <TYP_YHT>Kosjahobu söötmine</TYP_YHT>
@@ -1395,7 +1395,7 @@ Kosjahobu söötmine
 <V>"Ja suure lusti, rõõmuga.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200030002">
+<ITEM nro="tem0200030002" y="1886">
 <META>
 <ID>TEM 2, 3 (2)</ID> &lt; <LOC>Pöide khk.</LOC> &lt; <INF><NIMI>H. Värkli(-vana)</NIMI></INF> (<TMP>1886</TMP>)
 </META>
@@ -1416,7 +1416,7 @@ Kosjahobu söötmine
 <V>Luba lustiste elada.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200040003">
+<ITEM nro="tem0200040003" y="1886">
 <META>
 <ID>TEM 2, 4 (3)</ID> &lt; <LOC>Pöide khk.</LOC> &lt; <INF><NIMI>H. Värkli(-vana)</NIMI></INF> (<TMP>1886</TMP>)
 <TYP_YHT>_ + Härjad ootavad pühi</TYP_YHT>
@@ -1454,7 +1454,7 @@ Orja elu
 <V>"Härja keelel' keeritleda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200040004">
+<ITEM nro="tem0200040004" y="1886">
 <META>
 <ID>TEM 2, 4/5 (4)</ID> &lt; <LOC>Pöide khk.</LOC> &lt; <INF><NIMI>H. Värkli(-vana)</NIMI></INF> (<TMP>1886</TMP>)
 <TYP_YHT>Põlvist põdema</TYP_YHT>
@@ -1500,7 +1500,7 @@ Tõbine naine
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem0200050005">
+<ITEM nro="tem0200050005" y="1886">
 <META>
 <ID>TEM 2, 5/6 (5)</ID> &lt; <LOC>Pöide khk.</LOC> &lt; <INF><NIMI>H. Värkli(-vana)</NIMI></INF> (<TMP>1886</TMP>)
 <TYP_YHT>Puhas poiss</TYP_YHT>
@@ -1544,7 +1544,7 @@ Ei enne laulatust (neiu kutsub poisi lakka)
 <V>"Karja kimbel keske aeda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200060006">
+<ITEM nro="tem0200060006" y="1886">
 <META>
 <ID>TEM 2, 6/7 (6)</ID> &lt; <LOC>Pöide khk., Uuemõisa v.</LOC> &lt; <INF><NIMI>Värnu ema</NIMI></INF> (<TMP>1886</TMP>)
 <TYP>
@@ -1589,7 +1589,7 @@ Poiss on loodud petjaks
 <V>"Ei ma sind nüüd enam taha.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200080007">
+<ITEM nro="tem0200080007" y="1886">
 <META>
 <ID>TEM 2, 8/9 (7)</ID> &lt; <LOC>Pöide khk., Uuemõisa v.</LOC> &lt; <INF><NIMI>Värnu ema</NIMI></INF> (<TMP>1886</TMP>)
 <TYP>
@@ -1642,7 +1642,7 @@ Eksinud neiu
 <V>"Karjest lasta kasvadessa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200090008">
+<ITEM nro="tem0200090008" y="1886">
 <META>
 <ID>TEM 2, 9/10 (8)</ID> &lt; <LOC>Pöide khk., Uuemõisa v.</LOC> &lt; <INF><NIMI>Värnu ema</NIMI></INF> (<TMP>1886</TMP>)
 <TYP>
@@ -1685,7 +1685,7 @@ Ilus neiu
 <V>"Seda mina kannan kainelussa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200100009">
+<ITEM nro="tem0200100009" y="1886">
 <META>
 <ID>TEM 2, 10/1 (9)</ID> &lt; <LOC>Pöide khk., Uuemõisa v.</LOC> &lt; <INF><NIMI>Andume Miina</NIMI></INF> (<TMP>1886</TMP>)
 <TYP_YHT>Tore sõit + Kaevul kosija</TYP_YHT>
@@ -1752,7 +1752,7 @@ Tore sõit
 <V>"Kauta see kaval kaasakene!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200120010">
+<ITEM nro="tem0200120010" y="1886">
 <META>
 <ID>TEM 2, 12/4 (10)</ID> &lt; <LOC>Pöide khk., Uuemõisa v.</LOC> &lt; <INF><NIMI>Andume Miina</NIMI></INF> (<TMP>1886</TMP>)
 <TYP_YHT>_ + Põll põrmune</TYP_YHT>
@@ -1840,7 +1840,7 @@ Neiu isa ja peiu kodu
 <V>"Liiva oma linalta!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200140011">
+<ITEM nro="tem0200140011" y="1886">
 <META>
 <ID>TEM 2, 14/6 (11)</ID> &lt; <LOC>Pöide khk., Uuemõisa v.</LOC> &lt; <INF><NIMI>Andume Miina</NIMI></INF> (<TMP>1886</TMP>)
 <TYP_YHT>Must naine</TYP_YHT>
@@ -1896,7 +1896,7 @@ Must naine
 <V>"Minu pilti, mis sääl pilgub! -</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200160012">
+<ITEM nro="tem0200160012" y="1886">
 <META>
 <ID>TEM 2, 16/7 (12)</ID> &lt; <LOC>Pöide khk., Uuemõisa v.</LOC> &lt; <INF><NIMI>Andume Miina</NIMI></INF> (<TMP>1886</TMP>)
 <TYP_YHT>Laevasepp + Kolm laeva + Laevahukk</TYP_YHT>
@@ -1957,7 +1957,7 @@ Laeva ehitus
 <V>Tule-aga-leeke topitakse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200180013">
+<ITEM nro="tem0200180013" y="1886">
 <META>
 <ID>TEM 2, 18/20 (13)</ID> &lt; <LOC>Pöide khk., Uuemõisa v.</LOC> &lt; <INF><NIMI>Andume Miina</NIMI></INF> (<TMP>1886</TMP>)
 <TYP_YHT>Venna sõjalugu</TYP_YHT>
@@ -2037,7 +2037,7 @@ Sõjalaul
 <V>"Nagu taevas tähtesida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200200014">
+<ITEM nro="tem0200200014" y="1886">
 <META>
 <ID>TEM 2, 20/1 (14)</ID> &lt; <LOC>Pöide khk., Uuemõisa v.</LOC> &lt; <INF><NIMI>Andume Miina</NIMI></INF> (<TMP>1886</TMP>)
 <TYP_YHT>Mustad mundrisse</TYP_YHT>
@@ -2081,7 +2081,7 @@ Mustad munderisse
 <V>"Vagu see veereb vastalt kinni!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200210015">
+<ITEM nro="tem0200210015" y="1886">
 <META>
 <ID>TEM 2, 21/3 (15)</ID> &lt; <LOC>Pöide khk., Uuemõisa v.</LOC> &lt; <INF><NIMI>Andume Miina</NIMI></INF> (<TMP>1886</TMP>)
 </META>
@@ -2139,7 +2139,7 @@ Mustad munderisse
 <V>Tulin siis tuisates teole!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200230016">
+<ITEM nro="tem0200230016" y="1886">
 <META>
 <ID>TEM 2, 23/4 (16)</ID> &lt; <LOC>Pöide khk., Uuemõisa v.</LOC> &lt; <INF><NIMI>Andume Miina</NIMI></INF> (<TMP>1886</TMP>)
 <TYP>
@@ -2175,7 +2175,7 @@ Neiu ei taha joodikule
 <V>Taadi taaldrite vahelta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200240017">
+<ITEM nro="tem0200240017" y="1886">
 <META>
 <ID>TEM 2, 24/8 (17)</ID> &lt; <LOC>Pöide khk., Uuemõisa v.</LOC> &lt; <INF><NIMI>Andume Miina</NIMI></INF> (<TMP>1886</TMP>)
 <TYP_YHT>Saani tegemine + Tore sõit + Oleks see mees minu! + Tütarde tapja</TYP_YHT>
@@ -2336,7 +2336,7 @@ Saan
 <V>Ja tulge halvad haavikusta!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200290018">
+<ITEM nro="tem0200290018" y="1886">
 <META>
 <ID>TEM 2, 29/31 (18)</ID> &lt; <LOC>Pöide khk.</LOC> &lt; <INF><NIMI>H. Värkli(-vana)</NIMI></INF> (<TMP>1886</TMP>)
 </META>
@@ -2396,7 +2396,7 @@ Saan
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem0200310019">
+<ITEM nro="tem0200310019" y="1886">
 <META>
 <ID>TEM 2, 31/2 (19)</ID> &lt; <LOC>Pöide khk.</LOC> &lt; <INF><NIMI>H. Värkli(-vana)</NIMI></INF> (<TMP>1886</TMP>)
 <ZANR>ul</ZANR><TYP_YHT>Joodikust mees</TYP_YHT>
@@ -2448,7 +2448,7 @@ Joodikul
 <V>Isa, ema ilus põli.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200320020">
+<ITEM nro="tem0200320020" y="1886">
 <META>
 <ID>TEM 2, 32/4 (20)</ID> &lt; <LOC>Pöide khk.</LOC> &lt; <INF><NIMI>H. Värkli(-vana)</NIMI></INF> (<TMP>1886</TMP>)
 <ZANR></ZANR><TYP>
@@ -2525,7 +2525,7 @@ Nooriku õpetus
 <V>Ja abikaasa armukene.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200350021">
+<ITEM nro="tem0200350021" y="1886">
 <META>
 <ID>TEM 2, 35/6 (21)</ID> &lt; <LOC>Pöide khk., Uuemõisa v.</LOC> &lt; <INF><NIMI>Andume Miina</NIMI></INF> (<TMP>1886</TMP>)
 <TYP_YHT>Lähme loojale loole! + _ + Kotkas kaare alt + Neli neidu + Sepp, tee sirp! + Mere pühkimine</TYP_YHT>
@@ -2591,7 +2591,7 @@ Loojale loole
 <V>Suurte sakste söömalaudu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200360022">
+<ITEM nro="tem0200360022" y="1886">
 <META>
 <ID>TEM 2, 36/7 (22)</ID> &lt; <LOC>Pöide khk., Uuemõisa v.</LOC> &lt; <INF><NIMI>Andume Miina</NIMI></INF> (<TMP>1886</TMP>)
 <TYP>
@@ -2637,7 +2637,7 @@ Ehted varastet
 <V>"Isa, ema hirmu all!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200370023">
+<ITEM nro="tem0200370023" y="1886">
 <META>
 <ID>TEM 2, 37/9 (23)</ID> &lt; <LOC>Pöide khk., Uuemõisa v.</LOC> &lt; <INF><NIMI>Andume Miina</NIMI></INF> (<TMP>1886</TMP>)
 <TYP_YHT>Nekrutilaul - ÜLD</TYP_YHT>
@@ -2697,7 +2697,7 @@ Nekruti laul
 <V>"Ja panen ümber kroonuvöö!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200390024">
+<ITEM nro="tem0200390024" y="1886">
 <META>
 <ID>TEM 2, 39/40 (24)</ID> &lt; <LOC>Pöide khk., Veere</LOC> &lt; <INF><NIMI>Mäe Mari</NIMI></INF> (<TMP>1886</TMP>)
 </META>
@@ -2751,7 +2751,7 @@ Nekruti laul
 <V>Korgi Niuhkna kollastega.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200400025">
+<ITEM nro="tem0200400025" y="1886">
 <META>
 <ID>TEM 2, 40/1 (25)</ID> &lt; <LOC>Pöide khk., Veere</LOC> &lt; <INF><NIMI>Mäe Mari</NIMI></INF> (<TMP>1886</TMP>)
 <ZANR>ul</ZANR>
@@ -2785,7 +2785,7 @@ Nekruti laul
 <V>Kodu olla rahu sees.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200410026">
+<ITEM nro="tem0200410026" y="1886">
 <META>
 <ID>TEM 2, 41 (26)</ID> &lt; <LOC>Pöide khk., Veere</LOC> &lt; <INF><NIMI>Mäe Mari</NIMI></INF> (<TMP>1886</TMP>)
 <TYP_YHT>Rõõmus nekrut</TYP_YHT>
@@ -2817,7 +2817,7 @@ Nekrutilaul
 <V>Lagi laksub, põrand paugub.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200420027">
+<ITEM nro="tem0200420027" y="1886">
 <META>
 <ID>TEM 2, 42 (27)</ID> &lt; <LOC>Pöide khk., Veere</LOC> &lt; <INF><NIMI>Mäe Mari</NIMI></INF> (<TMP>1886</TMP>)
 <TYP_YHT>Ei anna au käest + Soldati hooplemine + Mõisategu - ÜLD</TYP_YHT><LLIIK_YHT>Laulud noorrahva elust (Neiud) ; Laulud sõjast ja nekrutist (Nekrutilaulud) ; Laulud ühiskondlikest vahekordadest (Mõis)</LLIIK_YHT></META>
@@ -2844,7 +2844,7 @@ Nekrutilaul
 <V>Emanda paras palgaline.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200420028">
+<ITEM nro="tem0200420028" y="1886">
 <META>
 <ID>TEM 2, 42/3 (28)</ID> &lt; <LOC>Pöide khk., Veere</LOC> &lt; <INF><NIMI>Mäe Mari</NIMI></INF> (<TMP>1886</TMP>)
 <TYP_YHT>Memme vaev</TYP_YHT>
@@ -2884,7 +2884,7 @@ Memme vaev
 <V>Riinusin eide rinnaluid.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200430029">
+<ITEM nro="tem0200430029" y="1886">
 <META>
 <ID>TEM 2, 43 (29)</ID> &lt; <LOC>Pöide khk., Veere</LOC> &lt; <INF><NIMI>Mäe Mari</NIMI></INF> (<TMP>1886</TMP>)
 <TYP>
@@ -2911,7 +2911,7 @@ Memme vaev
 <V>Marjatoop see maksab palju.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200430030">
+<ITEM nro="tem0200430030" y="1886">
 <META>
 <ID>TEM 2, 43 (30)</ID> &lt; <LOC>Pöide khk., Veere</LOC> &lt; <INF><NIMI>Mäe Mari</NIMI></INF> (<TMP>1886</TMP>)
 <TYP_YHT>Ei kullad kulu kiigel</TYP_YHT><LLIIK_YHT>Kalendrilaulud (Kiigelaulud)</LLIIK_YHT></META>
@@ -2931,7 +2931,7 @@ Memme vaev
 <V>Paja taga pannelsepad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200440031">
+<ITEM nro="tem0200440031" y="1886">
 <META>
 <ID>TEM 2, 44 (31)</ID> &lt; <LOC>Pöide khk., Veere</LOC> &lt; <INF><NIMI>Mäe Mari</NIMI></INF> (<TMP>1886</TMP>)
 <TYP_YHT>Kurva kodu</TYP_YHT>
@@ -2964,7 +2964,7 @@ Kurva kodu
 <V>Kodu käivad kudrukse laevad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200440032">
+<ITEM nro="tem0200440032" y="1886">
 <META>
 <ID>TEM 2, 44 (32)</ID> &lt; <LOC>Pöide khk., Veere</LOC> &lt; <INF><NIMI>Mäe Mari</NIMI></INF> (<TMP>1886</TMP>)
 <TYP_YHT>Tore sõit + Naine Narvast</TYP_YHT>
@@ -3023,7 +3023,7 @@ Tore sõit
 <V>Ega liblet liikuma.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200440033">
+<ITEM nro="tem0200440033" y="1886">
 <META>
 <ID>TEM 2, 44/5 (33)</ID> &lt; <LOC>Pöide khk., Veere</LOC> &lt; <INF><NIMI>Mäe Mari</NIMI></INF> (<TMP>1886</TMP>)
 <TYP_YHT>Põll põrmune</TYP_YHT>
@@ -3086,7 +3086,7 @@ Põll põrmune
 <V>Siis saad ehted puhtaeksa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200450034">
+<ITEM nro="tem0200450034" y="1886">
 <META>
 <ID>TEM 2, 45 (34)</ID> &lt; <LOC>Pöide khk., Veere</LOC> &lt; <INF><NIMI>Mäe Mari</NIMI></INF> (<TMP>1886</TMP>)
 <TYP_YHT>Sõnakera</TYP_YHT>
@@ -3127,7 +3127,7 @@ Sõnakera
 <V>Nadu kui Nautsi kirju koera.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200450035">
+<ITEM nro="tem0200450035" y="1886">
 <META>
 <ID>TEM 2, 45 (35)</ID> &lt; <LOC>Pöide khk., Veere</LOC> &lt; <INF><NIMI>Mäe Mari</NIMI></INF> (<TMP>1886</TMP>)
 <LLIIK>Pl</LLIIK>
@@ -3157,7 +3157,7 @@ Sõnakera
 <V>Naene süles narmakane.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200450036">
+<ITEM nro="tem0200450036" y="1886">
 <META>
 <ID>TEM 2, 45/6 (36)</ID> &lt; <LOC>Pöide khk., Veere</LOC> &lt; <INF><NIMI>Mäe Mari</NIMI></INF> (<TMP>1886</TMP>)
 <TYP_YHT>Hobune varastatud + Kosilased kodus</TYP_YHT><LLIIK_YHT>Lüroeepilised laulud (Laulud argielust) ; Laulud noorrahva elust (Kosjad)</LLIIK_YHT></META>
@@ -3207,7 +3207,7 @@ Sõnakera
 <V>Sirgub siidivoodiessa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200460037">
+<ITEM nro="tem0200460037" y="1886">
 <META>
 <ID>TEM 2, 46 (37)</ID> &lt; <LOC>Pöide khk., Veere</LOC> &lt; <INF><NIMI>Mäe Mari</NIMI></INF> (<TMP>1886</TMP>)
 <TYP_YHT>Lauliku sõim</TYP_YHT>
@@ -3228,7 +3228,7 @@ Halb laulik
 <V>Kael kui kurat koorekirn.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200460038">
+<ITEM nro="tem0200460038" y="1886">
 <META>
 <ID>TEM 2, 46 (38)</ID> &lt; <LOC>Pöide khk., Veere</LOC> &lt; <INF><NIMI>Mäe Mari</NIMI></INF> (<TMP>1886</TMP>)
 <TYP_YHT>Sõimamine</TYP_YHT>
@@ -3250,7 +3250,7 @@ Sõimulaul
 <V>Ühtepuhku püksid peos.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0200460039">
+<ITEM nro="tem0200460039" y="1886">
 <META>
 <ID>TEM 2, 46 (39)</ID> &lt; <LOC>Pöide khk., Veere</LOC> &lt; <INF><NIMI>Mäe Mari</NIMI></INF> (<TMP>1886</TMP>)
 </META>
@@ -3274,7 +3274,7 @@ Sõimulaul
 <V>Ristimata mulla alla.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0300010000">
+<ITEM nro="tem0300010000" y="1922">
 <META>
 <ID>TEM 3, 1/5</ID> &lt; <LOC>Tallinn &amp;lt; Ingeri</LOC> - <COL>Paul Berg</COL> &lt; <INF><NIMI>Mikko Pukonen</NIMI></INF> (<TMP>1922</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 15.</ANDMEVIIDE>
@@ -3417,7 +3417,7 @@ Kullervon jaksoa
 <V>Pani paimesen evääksi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0300050000">
+<ITEM nro="tem0300050000" y="1922">
 <META>
 <ID>TEM 3, 5/7</ID> &lt; <LOC>Tallinn &amp;lt; Ingeri</LOC> - <COL>Paul Berg</COL> &lt; <INF><NIMI>Mikko Pukonen</NIMI></INF> (<TMP>1922</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 15.</ANDMEVIIDE>
@@ -3532,7 +3532,7 @@ Laurinpoika lappalainen
 <V>Hiero henkiellessäsi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0300070000">
+<ITEM nro="tem0300070000" y="1922">
 <META>
 <ID>TEM 3, 7/9</ID> &lt; <LOC>Tallinn &amp;lt; Ingeri</LOC> - <COL>Paul Berg</COL> &lt; <INF><NIMI>Mikko Pukonen</NIMI></INF> (<TMP>1922</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 15.</ANDMEVIIDE>
@@ -3627,7 +3627,7 @@ Kyntaja vastaa:
 <V>Kansa kääntõvi käpälä.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0300110000">
+<ITEM nro="tem0300110000" y="1922">
 <META>
 <ID>TEM 3, 11</ID> &lt; <LOC>Tallinn &amp;lt; Ingeri</LOC> - <COL>Paul Berg</COL> &lt; <INF><NIMI>Mikko Pukonen</NIMI></INF> (<TMP>1922</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 15.</ANDMEVIIDE>
@@ -3712,7 +3712,7 @@ Vello vastaa:
 <V>Sissä vyotitsen emoni.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem030011000a">
+<ITEM nro="tem030011000a" y="1922">
 <META>
 <ID>TEM 3, 11/3</ID> &lt; <LOC>Tallinn &amp;lt; Ingeri</LOC> - <COL>Paul Berg</COL> &lt; <INF><NIMI>Mikko Pukonen</NIMI></INF> (<TMP>1922</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 15.</ANDMEVIIDE>
@@ -3777,7 +3777,7 @@ Vello vastaa:
 <V>Jokavuosi ois uusi turkki.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0300130000">
+<ITEM nro="tem0300130000" y="1922">
 <META>
 <ID>TEM 3, 13/5</ID> &lt; <LOC>Tallinn &amp;lt; Ingeri</LOC> - <COL>Paul Berg</COL> &lt; <INF><NIMI>Mikko Pukonen</NIMI></INF> (<TMP>1922</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 15.</ANDMEVIIDE>
@@ -3835,7 +3835,7 @@ Kanteleen synty
 <V>Laski kuin lapikka'alla.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0300150000">
+<ITEM nro="tem0300150000" y="1922">
 <META>
 <ID>TEM 3, 15</ID> &lt; <LOC>Tallinn &amp;lt; Ingeri</LOC> - <COL>Paul Berg</COL> &lt; <INF><NIMI>Mikko Pukonen</NIMI></INF> (<TMP>1922</TMP>)
 <ANDMEVIIDE>Vt. lisaandmeid leheküljel 15.</ANDMEVIIDE>
@@ -3870,7 +3870,7 @@ Kanteleen synty
 <V>Torajoen pientaroja.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem030015000a">
+<ITEM nro="tem030015000a" y="0">
 <META>
 <ID>TEM 3, 15</ID> &lt; <LOC>Tallinn</LOC> - <COL>Paul Berg</COL>
 <ZANR>andmed</ZANR>
@@ -3886,7 +3886,7 @@ Omas oskamatuses kirjutaja on &amp;quot;normeerind&amp;quot; laulude keelt.
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400010001">
+<ITEM nro="tem0400010001" y="1921">
 <META>
 <ID>TEM 4, 1/4 (1)</ID> &lt; <LOC>Tallinn</LOC> - <COL>August Pulst</COL> &lt; <INF><NIMI>Ärakiri: Ehstnisches aus der Jugendzeit von Louise und Julius Moritz</NIMI></INF> (<TMP>1921</TMP>)
 <ZANR>ul</ZANR>
@@ -4066,7 +4066,7 @@ pag. 4 14. Jaan ütleb:
 <V>Asi taga naha pärast.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400070003">
+<ITEM nro="tem0400070003" y="0">
 <META>
 <ID>TEM 4, 7 (3)</ID> &lt; <LOC>Tallinn</LOC> - <COL>August Pulst</COL> &lt; <INF><NIMI>Ärakiri: Ehstnisches aus aer Jugendzeit von Loaise und Julius Moritz</NIMI></INF>
 <ZANR>ul</ZANR>
@@ -4083,7 +4083,7 @@ pag. 4 14. Jaan ütleb:
 <V>Kasikile kaputis.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400080004">
+<ITEM nro="tem0400080004" y="0">
 <META>
 <ID>TEM 4, 8 (4)</ID> &lt; <LOC>Tallinn</LOC> - <COL>August Pulst</COL> &lt; <INF><NIMI>Ärakiri: Ehstnisches aus Aer Jugendzeit von Louise und Julius Moritz</NIMI></INF>
 <ZANR>ul</ZANR>
@@ -4097,7 +4097,7 @@ pag. 4 14. Jaan ütleb:
 <V>Pane junkro juurde.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400080005">
+<ITEM nro="tem0400080005" y="1921">
 <META>
 <ID>TEM 4, 8 (5)</ID> &lt; <LOC>Tallinn</LOC> - <COL>August Pulst</COL> &lt; <INF><NIMI>Ärakiri: Ehstnisches aus der Jugendzeit von Louise und Julius Moritz</NIMI></INF> (<TMP>1921</TMP>)
 <ZANR>ul</ZANR>
@@ -4112,7 +4112,7 @@ pag. 4 14. Jaan ütleb:
 <V>Vana mees varsaga.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400080006">
+<ITEM nro="tem0400080006" y="1921">
 <META>
 <ID>TEM 4, 8/10 (6)</ID> &lt; <LOC>Tallinn</LOC> - <COL>August Pulst</COL> &lt; <INF><NIMI>Ärakiri: Ehstnisches aus der Jugendzeit von Louise und Julius Moritz</NIMI></INF> (<TMP>1921</TMP>)
 <ZANR>ul</ZANR>
@@ -4173,7 +4173,7 @@ pag. 4 14. Jaan ütleb:
 <V>Kiigu-liigu hällikene! <REFR>kiigo hälle!</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400100007">
+<ITEM nro="tem0400100007" y="1921">
 <META>
 <ID>TEM 4, 10/2 (7)</ID> &lt; <LOC>Tallinn</LOC> - <COL>August Pulst</COL> &lt; <INF><NIMI>Ärakiri: Ehstnisches aus der Jugendzeit von Louise und Julius Moritz</NIMI></INF> (<TMP>1921</TMP>)
 <ZANR>ul</ZANR>
@@ -4232,7 +4232,7 @@ pag. 4 14. Jaan ütleb:
 <V>Kui me nüüd maadleme.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400150009">
+<ITEM nro="tem0400150009" y="0">
 <META>
 <ID>TEM 4, 15/7 (9)</ID> &lt; <LOC>Tallinn</LOC> - <COL>August Pulst</COL> &lt; <INF><NIMI>Ärakiri: Ehstnisches aus der Jugendzeit von Louise und Julias Moritz</NIMI></INF>
 <ZANR>ul</ZANR>
@@ -4336,7 +4336,7 @@ Hulk:
 <V>Läkem nüüd kodo pool'.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400230015">
+<ITEM nro="tem0400230015" y="1921">
 <META>
 <ID>TEM 4, 23/4 (15)</ID> &lt; <LOC>Tallinn</LOC> - <COL>August Pulst</COL> &lt; <INF><NIMI>Ärakiri: Ehstnisches aus der Jugendzeit von Louise und Julius Moritz</NIMI></INF> (<TMP>1921</TMP>)
 <ZANR>ul</ZANR>
@@ -4397,7 +4397,7 @@ pag. 24 5)
 <V>Enda armole meid vesinid!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400240016">
+<ITEM nro="tem0400240016" y="1921">
 <META>
 <ID>TEM 4, 24/5 (16)</ID> &lt; <LOC>Tallinn</LOC> - <COL>August Pulst</COL> &lt; <INF><NIMI>Ärakiri: Ehstnisches aus der Jugendzeit von Louise und Julius Moritz</NIMI></INF> (<TMP>1921</TMP>)
 <ZANR>ul</ZANR>
@@ -4427,7 +4427,7 @@ pag. 24 5)
 <V>Meid kodo endale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400270019">
+<ITEM nro="tem0400270019" y="1921">
 <META>
 <ID>TEM 4, 27/8 (19)</ID> &lt; <LOC>Tallinn</LOC> - <COL>August Pulst</COL> &lt; <INF><NIMI>Ärakiri: Ehstnisches aus der Jugendzeit von Louise und Julius Moritz</NIMI></INF> (<TMP>1921</TMP>)
 <ZANR>ul</ZANR>
@@ -4508,7 +4508,7 @@ pag. 28 +
 <V>Ei kossi üteke!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400290022">
+<ITEM nro="tem0400290022" y="1921">
 <META>
 <ID>TEM 4, 29 (22)</ID> &lt; <LOC>Tallinn</LOC> - <COL>August Pulst</COL> &lt; <INF><NIMI>Ärakiri: Ehstnisches aus der Jugendzeit von Louise und Julius Moritz</NIMI></INF> (<TMP>1921</TMP>)
 <ZANR>ul</ZANR>
@@ -4527,7 +4527,7 @@ pag. 28 +
 <V>Oli tema perse tagan.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400310001">
+<ITEM nro="tem0400310001" y="1921">
 <META>
 <ID>TEM 4, 31/2 (1)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Põlatud laps + Neiu linn</TYP_YHT>
@@ -4597,7 +4597,7 @@ Põlatud laps
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem0400320002">
+<ITEM nro="tem0400320002" y="1921">
 <META>
 <ID>TEM 4, 32/4 (2)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Ori taevas</TYP_YHT>
@@ -4697,7 +4697,7 @@ Ori taevas
 <V>Katsi kästi kolmi panni.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400340003">
+<ITEM nro="tem0400340003" y="1921">
 <META>
 <ID>TEM 4, 34/5 (3)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP>
@@ -4743,7 +4743,7 @@ Ostet orjad
 <V>Kirjuts vallal' vanadusta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400360004">
+<ITEM nro="tem0400360004" y="1921">
 <META>
 <ID>TEM 4, 36 (4)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 </META>
@@ -4771,7 +4771,7 @@ Ostet orjad
 <V>Aanu askeli perani.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400380006">
+<ITEM nro="tem0400380006" y="1921">
 <META>
 <ID>TEM 4, 38 (6)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 </META>
@@ -4811,7 +4811,7 @@ Ostet orjad
 <V>Ega liivan liigutegi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400390007">
+<ITEM nro="tem0400390007" y="1921">
 <META>
 <ID>TEM 4, 39/40 (7)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Kolm kosilast</TYP_YHT>
@@ -4876,7 +4876,7 @@ Kolm kosilast
 <V>See oli kerge kistuteme.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400400002">
+<ITEM nro="tem0400400002" y="1921">
 <META>
 <ID>TEM 4, 40/1 (2)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Arg kosilane + Neid pole püssil püütav</TYP_YHT>
@@ -4940,7 +4940,7 @@ Arg kosilane
 <V>Ega kaia kaokesta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400420003">
+<ITEM nro="tem0400420003" y="1921">
 <META>
 <ID>TEM 4, 42/3 (3)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Miks ei mullu tulnud + Meri õue all</TYP_YHT>
@@ -5011,7 +5011,7 @@ Miks ei mullu tulnud
 <V>Es ole ütte aidakesta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400430004">
+<ITEM nro="tem0400430004" y="1921">
 <META>
 <ID>TEM 4, 43/4 (4)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Suisa suud</TYP_YHT>
@@ -5061,7 +5061,7 @@ Suisa suud
 <V>Kuue sõtsi kotte'ella.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400440008">
+<ITEM nro="tem0400440008" y="1921">
 <META>
 <ID>TEM 4, 44/5 (8)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 </META>
@@ -5107,7 +5107,7 @@ Suisa suud
 <V>Põltsamaa põllu peräle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400460009">
+<ITEM nro="tem0400460009" y="1921">
 <META>
 <ID>TEM 4, 46 (9)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Unenägu</TYP_YHT>
@@ -5152,7 +5152,7 @@ Unenägu
 <V>Sarapuust saa saunanaine.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400470010">
+<ITEM nro="tem0400470010" y="1921">
 <META>
 <ID>TEM 4, 47/8 (10)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Tütar vette!</TYP_YHT>
@@ -5215,7 +5215,7 @@ Ema ei viind vesile
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem0400480011">
+<ITEM nro="tem0400480011" y="1921">
 <META>
 <ID>TEM 4, 48/9 (11)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Kolm metsa + Ehted kadunud</TYP_YHT>
@@ -5282,7 +5282,7 @@ Kolm metsa
 <V>Ku sa kasvad katad kaala.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400490012">
+<ITEM nro="tem0400490012" y="1921">
 <META>
 <ID>TEM 4, 49/51 (12)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>_ + Naine Narvast</TYP_YHT>
@@ -5358,7 +5358,7 @@ Kolm metsa
 <V>Suure nurmest sütünegi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400510013">
+<ITEM nro="tem0400510013" y="1921">
 <META>
 <ID>TEM 4, 51/2 (13)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Puud pole ühesugused</TYP_YHT>
@@ -5389,7 +5389,7 @@ Metsapuud ei ole ühepikkused
 <V>Kuuse musta nii kumere.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400520014">
+<ITEM nro="tem0400520014" y="1921">
 <META>
 <ID>TEM 4, 52/3 (14)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Ema haual</TYP_YHT>
@@ -5438,7 +5438,7 @@ Ema haual
 <V>Maari kikas kõõrutelle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400530015">
+<ITEM nro="tem0400530015" y="1921">
 <META>
 <ID>TEM 4, 53 (15)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 </META>
@@ -5467,7 +5467,7 @@ Ema haual
 <V>Leinä lennäs' rüppe'esse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400540016">
+<ITEM nro="tem0400540016" y="1921">
 <META>
 <ID>TEM 4, 54 (16)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Müüdud neiu</TYP_YHT>
@@ -5510,7 +5510,7 @@ Müüdud neiu
 <V>Kahre heinakaare'elle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400550017">
+<ITEM nro="tem0400550017" y="1921">
 <META>
 <ID>TEM 4, 55/6 (17)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP>
@@ -5557,7 +5557,7 @@ Tehke tinane kirst
 <V>Kirikhärra kirjuteve.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400560018">
+<ITEM nro="tem0400560018" y="1921">
 <META>
 <ID>TEM 4, 56 (18)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP>
@@ -5594,7 +5594,7 @@ Kust tunnen kodu
 <V>Hõbetsesta õuestegi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400570019">
+<ITEM nro="tem0400570019" y="1921">
 <META>
 <ID>TEM 4, 57 (19)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 </META>
@@ -5613,7 +5613,7 @@ Kust tunnen kodu
 <V>Pets ta tähti taevaesse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400570020">
+<ITEM nro="tem0400570020" y="1921">
 <META>
 <ID>TEM 4, 57 (20)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Tunnen tuima neiu</TYP_YHT>
@@ -5635,7 +5635,7 @@ Tunnen tuima
 <V>Kurjal musta silmakulmu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400570021">
+<ITEM nro="tem0400570021" y="1921">
 <META>
 <ID>TEM 4, 57/8 (21)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Venna otsija</TYP_YHT>
@@ -5691,7 +5691,7 @@ Või sa lõõtsud lõhnakene
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem0400590022">
+<ITEM nro="tem0400590022" y="1921">
 <META>
 <ID>TEM 4, 59 (22)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP>
@@ -5726,7 +5726,7 @@ Emal palju tütreid
 <V>Sääl sul kaldus õllekannu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400590023">
+<ITEM nro="tem0400590023" y="1921">
 <META>
 <ID>TEM 4, 59/60 (23)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Kosjalaul - ÜLD</TYP_YHT>
@@ -5774,7 +5774,7 @@ Kosjalaul
 <V>Käsi ammu muile antu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400600024">
+<ITEM nro="tem0400600024" y="1921">
 <META>
 <ID>TEM 4, 60/2 (24)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>_ + Tore sõit</TYP_YHT>
@@ -5839,7 +5839,7 @@ Venna kosja ehtimine
 <V>Linna paiga palle'esse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400620025">
+<ITEM nro="tem0400620025" y="1921">
 <META>
 <ID>TEM 4, 62/5 (25)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Venna otsija</TYP_YHT>
@@ -5968,7 +5968,7 @@ Uppunud vend
 <V>Süamesta haige'esse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400650026">
+<ITEM nro="tem0400650026" y="1921">
 <META>
 <ID>TEM 4, 65/7 (26)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Ei ole lauljat hulgas + Suude sulg + Palju sõnu + Kust laulud saadud</TYP_YHT>
@@ -6068,7 +6068,7 @@ Ei ole lauljat hulgas
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem0400680027">
+<ITEM nro="tem0400680027" y="1921">
 <META>
 <ID>TEM 4, 68/9 (27)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 </META>
@@ -6150,7 +6150,7 @@ Ei ole lauljat hulgas
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem0400700028">
+<ITEM nro="tem0400700028" y="1921">
 <META>
 <ID>TEM 4, 70 (28)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Veere venna juurde</TYP_YHT>
@@ -6180,7 +6180,7 @@ Veere, päev!
 <V>Saunast sangavitsa suitsu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400700029">
+<ITEM nro="tem0400700029" y="1921">
 <META>
 <ID>TEM 4, 70/1 (29)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Harja otsimine</TYP_YHT>
@@ -6242,7 +6242,7 @@ Harja otsimine
 <V>Suise surma otsimaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400720030">
+<ITEM nro="tem0400720030" y="1921">
 <META>
 <ID>TEM 4, 72 (30)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Neiu linn</TYP_YHT>
@@ -6270,7 +6270,7 @@ Imelik maja
 <V>Sinna käänäm' me kälüsse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem040072030a">
+<ITEM nro="tem040072030a" y="1921">
 <META>
 <ID>TEM 4, 72 (30a)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 </META>
@@ -6292,7 +6292,7 @@ Imelik maja
 <V>Ärä naol' näitä sõrme.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400730031">
+<ITEM nro="tem0400730031" y="1921">
 <META>
 <ID>TEM 4, 73 (31)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 </META>
@@ -6307,7 +6307,7 @@ Imelik maja
 <V>Tasa õnne õige'ebe.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400730032">
+<ITEM nro="tem0400730032" y="1921">
 <META>
 <ID>TEM 4, 73 (32)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Ori tahab süüa</TYP_YHT>
@@ -6333,7 +6333,7 @@ Veere, päev!
 <V>Tanguleemi tahtis süäda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400730033">
+<ITEM nro="tem0400730033" y="1921">
 <META>
 <ID>TEM 4, 73/5 (33)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP>
@@ -6398,7 +6398,7 @@ Perenaine, anna orjale süüa
 <V>Söödile süli ojume.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400750034">
+<ITEM nro="tem0400750034" y="1921">
 <META>
 <ID>TEM 4, 75/9 (34)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Ei jõua sugu sööta + Venna sõjalugu</TYP_YHT>
@@ -6560,7 +6560,7 @@ Ei jõua sugu sööta
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem0400790035">
+<ITEM nro="tem0400790035" y="1921">
 <META>
 <ID>TEM 4, 79/80 (35)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <LLIIK>Pl</LLIIK>
@@ -6599,7 +6599,7 @@ Ei jõua sugu sööta
 <V>Piinderes peenar pidäsi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400800036">
+<ITEM nro="tem0400800036" y="1921">
 <META>
 <ID>TEM 4, 80 (36)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Talgulaul</TYP_YHT>
@@ -6623,7 +6623,7 @@ Talgulaul
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem0400800037">
+<ITEM nro="tem0400800037" y="1921">
 <META>
 <ID>TEM 4, 80/1 (37)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP>
@@ -6652,7 +6652,7 @@ Miks on norus noored mehed
 <V>Torku ui torukübäre.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400810038">
+<ITEM nro="tem0400810038" y="1921">
 <META>
 <ID>TEM 4, 81/2 (38)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 </META>
@@ -6698,7 +6698,7 @@ Miks on norus noored mehed
 <V>Laia vällä ma väsüde.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400820039">
+<ITEM nro="tem0400820039" y="1921">
 <META>
 <ID>TEM 4, 82/3 (39)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>_ + Kosjahobu söötmine</TYP_YHT>
@@ -6761,7 +6761,7 @@ Nii kaua lõbu kuni tütred kodus
 <V>Päevä veere valge'ebe.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400830040">
+<ITEM nro="tem0400830040" y="1921">
 <META>
 <ID>TEM 4, 83/4 (40)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP>
@@ -6800,7 +6800,7 @@ Taevas pilvine et sugulased riidlevad
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem0400840041">
+<ITEM nro="tem0400840041" y="1921">
 <META>
 <ID>TEM 4, 84/5 (41)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <LLIIK>Pl</LLIIK>
@@ -6837,7 +6837,7 @@ Taevas pilvine et sugulased riidlevad
 <V>Sõsar konna sõõrutelle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400850042">
+<ITEM nro="tem0400850042" y="1921">
 <META>
 <ID>TEM 4, 85 (42)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <LLIIK>Pl</LLIIK>
@@ -6860,7 +6860,7 @@ Taevas pilvine et sugulased riidlevad
 <V>Pilvin na esi eläve.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400860043">
+<ITEM nro="tem0400860043" y="1921">
 <META>
 <ID>TEM 4, 86 (43)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 </META>
@@ -6875,7 +6875,7 @@ Taevas pilvine et sugulased riidlevad
 <V>Vähike lammaste lauta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400860044">
+<ITEM nro="tem0400860044" y="1921">
 <META>
 <ID>TEM 4, 86/7 (44)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP>
@@ -6912,7 +6912,7 @@ Laimajale
 <V>Liigus liia laideteve.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400870045">
+<ITEM nro="tem0400870045" y="1921">
 <META>
 <ID>TEM 4, 87 (45)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP>
@@ -6933,7 +6933,7 @@ Lüpsilaul
 <V>Neljast nisast neitsi piima.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem040087044a">
+<ITEM nro="tem040087044a" y="1921">
 <META>
 <ID>TEM 4, 87 (44a)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP>
@@ -6952,7 +6952,7 @@ Laulge paremaid laule
 <V>Läbi mu pale parebe.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400880046">
+<ITEM nro="tem0400880046" y="1921">
 <META>
 <ID>TEM 4, 88 (46)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Kägu kukub + Kägu kukub puile + Käokiri</TYP_YHT>
@@ -7002,7 +7002,7 @@ Kuku, kägu!
 <V>Käomärgi mäntelenna.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400880047">
+<ITEM nro="tem0400880047" y="1921">
 <META>
 <ID>TEM 4, 88/9 (47)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Lauliku lapsepõlv</TYP_YHT>
@@ -7028,7 +7028,7 @@ Lauliku lapsepõlv
 <V>Laulu võti leelu löusi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400890048">
+<ITEM nro="tem0400890048" y="1921">
 <META>
 <ID>TEM 4, 89/90 (48)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 </META>
@@ -7054,7 +7054,7 @@ Lauliku lapsepõlv
 <V>Tarka tapuväänusesta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem040089047a">
+<ITEM nro="tem040089047a" y="1921">
 <META>
 <ID>TEM 4, 89 (47a)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Kitse krapp</TYP_YHT>
@@ -7077,7 +7077,7 @@ Rikas ristiema - kits
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem0400910050">
+<ITEM nro="tem0400910050" y="1921">
 <META>
 <ID>TEM 4, 91/2 (50)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Tore neiu</TYP_YHT>
@@ -7117,7 +7117,7 @@ Tore neiu
 <V>Enne kui lendä lindi pääle</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400920051">
+<ITEM nro="tem0400920051" y="1921">
 <META>
 <ID>TEM 4, 92/3 (51)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 </META>
@@ -7172,7 +7172,7 @@ Tore neiu
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem0400930052">
+<ITEM nro="tem0400930052" y="1921">
 <META>
 <ID>TEM 4, 93 (52)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 </META>
@@ -7198,7 +7198,7 @@ Tore neiu
 <V>Egä ei meelü meie meele.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400940053">
+<ITEM nro="tem0400940053" y="1921">
 <META>
 <ID>TEM 4, 94 (53)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP>
@@ -7233,7 +7233,7 @@ Kannel
 <V>Kargame kui kare kadak.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400940054">
+<ITEM nro="tem0400940054" y="1921">
 <META>
 <ID>TEM 4, 94/5 (54)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Kaevul kosija</TYP_YHT>
@@ -7277,7 +7277,7 @@ Kaevul kosija
 <V>Söö esi sööda hobune.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0400950055">
+<ITEM nro="tem0400950055" y="1921">
 <META>
 <ID>TEM 4, 95/6 (55)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Karske neiu</TYP_YHT>
@@ -7331,7 +7331,7 @@ Karske neiu
 <V>Kirik härrä kirjuteve.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0500010001">
+<ITEM nro="tem0500010001" y="1924">
 <META>
 <ID>TEM 5, 1/3 (1)</ID> &lt; <LOC>Pärnu-Jaagupi khk., Pärivere</LOC> &lt; <INF><NIMI>mees, 1904. aastal üle 70 a. vana</NIMI></INF> (<TMP>1924</TMP>)
 <TYP_YHT>Ema haual</TYP_YHT>
@@ -7394,7 +7394,7 @@ Ema haual
 <V>"Kinnitage kimbukesed."</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0500040002">
+<ITEM nro="tem0500040002" y="1924">
 <META>
 <ID>TEM 5, 4/5 (2)</ID> &lt; <LOC>Pärnu-Jaagupi khk., Pärivere</LOC> &lt; <INF><NIMI>mees, 1904. aastal üle 70 a. vana</NIMI></INF> (<TMP>1924</TMP>)
 <TYP_YHT>Arg kosilane + Neid pole püssil püütav</TYP_YHT>
@@ -7439,7 +7439,7 @@ Arg kosilane
 <V>"Enne kui meida vaestalasta."</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0500060003">
+<ITEM nro="tem0500060003" y="1924">
 <META>
 <ID>TEM 5, 6/8 (3)</ID> &lt; <LOC>Pärnu-Jaagupi khk., Pärivere</LOC> &lt; <INF><NIMI>mees, 1904. aastal üle 70 a. vana</NIMI></INF> (<TMP>1924</TMP>)
 <TYP_YHT>Tütarde tapja</TYP_YHT>
@@ -7496,7 +7496,7 @@ Tütarde tapja
 <V>"Abi kala argilesed."</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0500080004">
+<ITEM nro="tem0500080004" y="1924">
 <META>
 <ID>TEM 5, 8/9 (4)</ID> &lt; <LOC>Pärnu-Jaagupi khk., Pärivere</LOC> &lt; <INF><NIMI>mees, 1904. aastal üle 70 a. vana</NIMI></INF> (<TMP>1924</TMP>)
 <LLIIK>Pl</LLIIK>
@@ -7533,7 +7533,7 @@ Tütarde tapja
 <V>"Siis tuleb jälle tütar meelde."</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0500100000">
+<ITEM nro="tem0500100000" y="1924">
 <META>
 <ID>TEM 5, 10/2</ID> &lt; <LOC>Pärnu-Jaagupi khk., Pärivere</LOC> &lt; <INF><NIMI>mees, 1904. aastal üle 70 a. vana</NIMI></INF> (<TMP>1924</TMP>)
 <TYP_YHT>Hobune kadunud</TYP_YHT>
@@ -7593,7 +7593,7 @@ Hobune kadunud
 <V>Ja karisid kangeid päitsida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0500130006">
+<ITEM nro="tem0500130006" y="1924">
 <META>
 <ID>TEM 5, 13/4 (6)</ID> &lt; <LOC>Pärnu-Jaagupi khk., Pärivere</LOC> &lt; <INF><NIMI>mees, 1904. aastal üle 70 a. vana</NIMI></INF> (<TMP>1924</TMP>)
 <TYP>
@@ -7635,7 +7635,7 @@ Miks ei mullu mulle tulnud
 <V>Olla elu otsani.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0500150007">
+<ITEM nro="tem0500150007" y="1924">
 <META>
 <ID>TEM 5, 15/6 (7)</ID> &lt; <LOC>Pärnu-Jaagupi khk., Pärivere</LOC> &lt; <INF><NIMI>mees, 1904. aastal üle 70 a. vana</NIMI></INF> (<TMP>1924</TMP>)
 <LLIIK>Mardilaul</LLIIK>
@@ -7675,7 +7675,7 @@ Tänab:
 <V>Siia tõusku tõmmud härjad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0500170008">
+<ITEM nro="tem0500170008" y="1924">
 <META>
 <ID>TEM 5, 17 (8)</ID> &lt; <LOC>Pärnu-Jaagupi khk., Pärivere</LOC> &lt; <INF><NIMI>mees, 1904. aastal üle 70 a. vana</NIMI></INF> (<TMP>1924</TMP>)
 <TYP_YHT>Talgulaul</TYP_YHT>
@@ -7703,7 +7703,7 @@ Talgulaul
 <V>Tondikirstu kinnitagu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0500180009">
+<ITEM nro="tem0500180009" y="1924">
 <META>
 <ID>TEM 5, 18 (9)</ID> &lt; <LOC>Pärnu-Jaagupi khk., Pärivere</LOC> &lt; <INF><NIMI>mees, 1904. aastal üle 70 a. vana</NIMI></INF> (<TMP>1924</TMP>)
 <TYP_YHT>Lõpe, põld!</TYP_YHT>
@@ -7726,7 +7726,7 @@ Lõpe, põld!
 <V>Kanapoege kaapida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0500190010">
+<ITEM nro="tem0500190010" y="1924">
 <META>
 <ID>TEM 5, 19/24 (10)</ID> &lt; <LOC>Pärnu-Jaagupi khk., Pärivere</LOC> &lt; <INF><NIMI>mees, 1904. aastal üle 70 a. vana</NIMI></INF> (<TMP>1924</TMP>)
 <LLIIK>Pl</LLIIK>
@@ -7843,7 +7843,7 @@ Nooriku poolt pulmalised.
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0500240000">
+<ITEM nro="tem0500240000" y="1924">
 <META>
 <ID>TEM 5, 24/5</ID> &lt; <LOC>Pärnu-Jaagupi khk., Pärivere</LOC> &lt; <INF><NIMI>mees, 1904. aastal üle 70 a. vana</NIMI></INF> (<TMP>1924</TMP>)
 <LLIIK>Pl</LLIIK>
@@ -7863,7 +7863,7 @@ Nooriku poolt pulmalised.
 <V>Mis see taat tal eila pani.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0500250000">
+<ITEM nro="tem0500250000" y="1924">
 <META>
 <ID>TEM 5, 25/6</ID> &lt; <LOC>Pärnu-Jaagupi khk., Pärivere</LOC> &lt; <INF><NIMI>mees, 1904. aastal üle 70 a. vana</NIMI></INF> (<TMP>1924</TMP>)
 <LLIIK>Pl</LLIIK>
@@ -7890,7 +7890,7 @@ Nooriku poolt pulmalised.
 <V>Salatida saksa keelta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0500260000">
+<ITEM nro="tem0500260000" y="1924">
 <META>
 <ID>TEM 5, 26</ID> &lt; <LOC>Pärnu-Jaagupi khk., Pärivere</LOC> &lt; <INF><NIMI>mees, 1904. aastal üle 70 a. vana</NIMI></INF> (<TMP>1924</TMP>)
 <TYP>
@@ -7917,7 +7917,7 @@ Nooriku õpetus
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem0500270000">
+<ITEM nro="tem0500270000" y="1924">
 <META>
 <ID>TEM 5, 27</ID> &lt; <LOC>Pärnu-Jaagupi khk., Pärivere</LOC> &lt; <INF><NIMI>mees, 1904. aastal üle 70 a. vana</NIMI></INF> (<TMP>1924</TMP>)
 <LLIIK>Pl</LLIIK>
@@ -7937,7 +7937,7 @@ Nooriku õpetus
 <V>Armsad peegu isad ja emad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0500280000">
+<ITEM nro="tem0500280000" y="1924">
 <META>
 <ID>TEM 5, 28/30</ID> &lt; <LOC>Pärnu-Jaagupi khk., Pärivere</LOC> &lt; <INF><NIMI>mees, 1904. aastal üle 70 a. vana</NIMI></INF> (<TMP>1924</TMP>)
 <TYP_YHT>Kosjahobu söötmine + Miks ei mullu tulnud</TYP_YHT>
@@ -7996,7 +7996,7 @@ Kosjahobu söötmine
 <V>Looga löön ma kalaluusta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0600010001">
+<ITEM nro="tem0600010001" y="1924">
 <META>
 <ID>TEM 6, 1/2 (1)</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi)</NIMI></INF> (<TMP>1924</TMP>)
 <TYP_YHT>Neiu linn</TYP_YHT>
@@ -8040,7 +8040,7 @@ Imelik linn
 <V>Sii om näiu laululinna.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0600020002">
+<ITEM nro="tem0600020002" y="1924">
 <META>
 <ID>TEM 6, 2/5 (2)</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi)</NIMI></INF> (<TMP>1924</TMP>)
 <TYP_YHT>Venna sõjalugu</TYP_YHT>
@@ -8124,7 +8124,7 @@ Sõjalaul
 <V>Linapää mul laulis lippu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0600050003">
+<ITEM nro="tem0600050003" y="1924">
 <META>
 <ID>TEM 6, 5/6 (3)</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi)</NIMI></INF> (<TMP>1924</TMP>)
 <TYP>
@@ -8154,7 +8154,7 @@ Jaanilaul
 <V>Kaasa ikeb kammerinna. <REFR>nuke</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0600060000">
+<ITEM nro="tem0600060000" y="1924">
 <META>
 <ID>TEM 6, 6/7</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi)</NIMI></INF> (<TMP>1924</TMP>)
 <ZANR>ul</ZANR>
@@ -8185,7 +8185,7 @@ Jaanilaul
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem0600070004">
+<ITEM nro="tem0600070004" y="1924">
 <META>
 <ID>TEM 6, 7 (4)</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi)</NIMI></INF> (<TMP>1924</TMP>)
 <ZANR>rl/mngl</ZANR><TYP_YHT>Pajamäng</TYP_YHT>
@@ -8234,7 +8234,7 @@ poe isand vaste.
 <V>Seda keeda keitelenna.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0600080005">
+<ITEM nro="tem0600080005" y="1924">
 <META>
 <ID>TEM 6, 8/9 (5)</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi)</NIMI></INF> (<TMP>1924</TMP>)
 <TYP_YHT>Väravamäng</TYP_YHT>
@@ -8284,7 +8284,7 @@ tõstavad käed ülesse ja lasevad näiud mis seni kõrval seisnud läbi ja jä�
 <V>Keset talli keerutelle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0600090006">
+<ITEM nro="tem0600090006" y="1924">
 <META>
 <ID>TEM 6, 9/10 (6)</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi)</NIMI></INF> (<TMP>1924</TMP>)
 <TYP_YHT>Jõulu ettevalmistused</TYP_YHT>
@@ -8325,7 +8325,7 @@ Jõululaul
 <V>Jalatallan tatreseemen. <REFR>pühi</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0600100007">
+<ITEM nro="tem0600100007" y="1924">
 <META>
 <ID>TEM 6, 10/1 (7)</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi)</NIMI></INF> (<TMP>1924</TMP>)
 <TYP_YHT>Lauliku lapsepõlv</TYP_YHT>
@@ -8359,7 +8359,7 @@ Lauliku lapsepõlv
 <V>Eida keeli helgib mõtsa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0600110008">
+<ITEM nro="tem0600110008" y="1924">
 <META>
 <ID>TEM 6, 11/3 (8)</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi)</NIMI></INF> (<TMP>1924</TMP>)
 <TYP_YHT>Haned kadunud</TYP_YHT>
@@ -8423,7 +8423,7 @@ Haned kadunud
 <V>Minge must mööda mündi saksa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0600130009">
+<ITEM nro="tem0600130009" y="1924">
 <META>
 <ID>TEM 6, 13/5 (9)</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi)</NIMI></INF> (<TMP>1924</TMP>)
 <TYP_YHT>Kägu kukub</TYP_YHT>
@@ -8493,7 +8493,7 @@ Kägu
 <V>Labi lae lasti rokka. <REFR>kaske</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0600160010">
+<ITEM nro="tem0600160010" y="1924">
 <META>
 <ID>TEM 6, 16 (10)</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi)</NIMI></INF> (<TMP>1924</TMP>)
 <TYP_YHT>Unenägu</TYP_YHT>
@@ -8528,7 +8528,7 @@ Unenägu
 <V>Aavast tulev' asjulese. <REFR>kaske</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0600170000">
+<ITEM nro="tem0600170000" y="1924">
 <META>
 <ID>TEM 6, 17</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi)</NIMI></INF> (<TMP>1924</TMP>)
 <TYP>
@@ -8546,7 +8546,7 @@ Kodu tunnusmärgid
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0600170011">
+<ITEM nro="tem0600170011" y="1924">
 <META>
 <ID>TEM 6, 17/8 (11)</ID> &lt; <LOC>Paistu khk., Loodi v., Ähvardi t.</LOC> &lt; <INF><NIMI>Reet Roosi, 57 a.</NIMI></INF> (<TMP>1924</TMP>)
 <LLIIK>Kadrilaul</LLIIK>
@@ -8588,7 +8588,7 @@ Kodu tunnusmärgid
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0600180013">
+<ITEM nro="tem0600180013" y="1924">
 <META>
 <ID>TEM 6, 18/20 (13)</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi)</NIMI></INF> (<TMP>1924</TMP>)
 <ZANR>ul</ZANR><TYP_YHT>Määramata</TYP_YHT>
@@ -8655,7 +8655,7 @@ Omalooming
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0600210015">
+<ITEM nro="tem0600210015" y="1924">
 <META>
 <ID>TEM 6, 21 (15)</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi)</NIMI></INF> (<TMP>1924</TMP>)
 <ZANR>ul</ZANR>
@@ -8686,7 +8686,7 @@ Omalooming
 <V>Nüüd ma olen kõrtsimamma.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0600220000">
+<ITEM nro="tem0600220000" y="1924">
 <META>
 <ID>TEM 6, 22/4</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi)</NIMI></INF> (<TMP>1924</TMP>)
 <ZANR>ul</ZANR>
@@ -8748,7 +8748,7 @@ Omalooming
 <V>Nii kui vaaluoja härjad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0600240017">
+<ITEM nro="tem0600240017" y="1924">
 <META>
 <ID>TEM 6, 24/7 (17)</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi)</NIMI></INF> (<TMP>1924</TMP>)
 <ZANR>ul</ZANR>
@@ -8828,7 +8828,7 @@ Omalooming
 <V>Nüüd neil hea elu käes.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0600270000">
+<ITEM nro="tem0600270000" y="1924">
 <META>
 <ID>TEM 6, 27/8</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi)</NIMI></INF> (<TMP>1924</TMP>)
 </META>
@@ -8863,7 +8863,7 @@ Omalooming
 <V>Akikese Harjumaale. <REFR>ees lees lees</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0600280019">
+<ITEM nro="tem0600280019" y="1924">
 <META>
 <ID>TEM 6, 28/9 (19)</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi)</NIMI></INF> (<TMP>1924</TMP>)
 </META>
@@ -8897,7 +8897,7 @@ Omalooming
 <V>Küll ma teie küla vaati.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0600290020">
+<ITEM nro="tem0600290020" y="1924">
 <META>
 <ID>TEM 6, 29/30 (20)</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi)</NIMI></INF> (<TMP>1924</TMP>)
 <TYP_YHT>Anna hästi orjale süüa!</TYP_YHT>
@@ -8931,7 +8931,7 @@ Anna orjale hästi süüa
 <V>Anna hästi orjal' süüva.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0600300021">
+<ITEM nro="tem0600300021" y="1924">
 <META>
 <ID>TEM 6, 30/1 (21)</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi)</NIMI></INF> (<TMP>1924</TMP>)
 <ZANR></ZANR>
@@ -8958,7 +8958,7 @@ Anna orjale hästi süüa
 <V>Vanaemal' meesta ots'ma. <REFR>et vedi roodu puri leri marugu</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0600310000">
+<ITEM nro="tem0600310000" y="1924">
 <META>
 <ID>TEM 6, 31/2</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi)</NIMI></INF> (<TMP>1924</TMP>)
 </META>
@@ -9002,7 +9002,7 @@ Pühade ajal lauledasse istudes kusjuures liigu liigu meie linna ise kuigutavad.
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0600320023">
+<ITEM nro="tem0600320023" y="1924">
 <META>
 <ID>TEM 6, 32/5 (23)</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi)</NIMI></INF> (<TMP>1924</TMP>)
 </META>
@@ -9078,7 +9078,7 @@ Pühade ajal lauledasse istudes kusjuures liigu liigu meie linna ise kuigutavad.
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0600350024">
+<ITEM nro="tem0600350024" y="1924">
 <META>
 <ID>TEM 6, 35/6 (24)</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi)</NIMI></INF> (<TMP>1924</TMP>)
 <TYP_YHT>Vihm mujale maale + Vihm, üle vaeslapsest + Ilm udune</TYP_YHT>
@@ -9113,7 +9113,7 @@ Pühade ajal lauledasse istudes kusjuures liigu liigu meie linna ise kuigutavad.
 <V>Paista ei päeva pilve alta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0600360025">
+<ITEM nro="tem0600360025" y="1924">
 <META>
 <ID>TEM 6, 36/7(25)</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi)</NIMI></INF> (<TMP>1924</TMP>)
 <ZANR>ul</ZANR>
@@ -9155,7 +9155,7 @@ Pühade ajal lauledasse istudes kusjuures liigu liigu meie linna ise kuigutavad.
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0600370026">
+<ITEM nro="tem0600370026" y="1924">
 <META>
 <ID>TEM 6, 37/40 (26)</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi)</NIMI></INF> (<TMP>1924</TMP>)
 <TYP_YHT>_ + Võidulaulmine</TYP_YHT>
@@ -9222,7 +9222,7 @@ Laimajale
 <V>Rasva raimede vahelta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0600400000">
+<ITEM nro="tem0600400000" y="1924">
 <META>
 <ID>TEM 6, 40/7</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi)</NIMI></INF> (<TMP>1924</TMP>)
 <TYP_YHT>Memme vaev + _ + _ + Sulasele</TYP_YHT>
@@ -9420,7 +9420,7 @@ Memme vaev
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0600470000">
+<ITEM nro="tem0600470000" y="1924">
 <META>
 <ID>TEM 6, 47/8 &amp; 69/70</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi)</NIMI></INF> (<TMP>1924</TMP>)
 <TYP_YHT>Kohus koju minna + Kus istun - seal itken</TYP_YHT>
@@ -9498,7 +9498,7 @@ read vaheldumisi 47/8. ja 69/70. leheküljel
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="tem0600480000">
+<ITEM nro="tem0600480000" y="1924">
 <META>
 <ID>TEM 6, 48/9 &amp; 70</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi)</NIMI></INF> (<TMP>1924</TMP>)
 <TYP_YHT>Joodik - AJUTINE</TYP_YHT>
@@ -9542,7 +9542,7 @@ read vaheldumisi 48/9. ja 70. leheküljel
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="tem0600490000">
+<ITEM nro="tem0600490000" y="1924">
 <META>
 <ID>TEM 6, 49/52</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi)</NIMI></INF> (<TMP>1924</TMP>)
 <TYP>
@@ -9633,7 +9633,7 @@ Kutsuti: hill till mää: tulivad ja kargasivad roovikust üle, mis keset tare �
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0600520000">
+<ITEM nro="tem0600520000" y="1924">
 <META>
 <ID>TEM 6, 52/5</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi)</NIMI></INF> (<TMP>1924</TMP>)
 <TYP_YHT>Suisa suud</TYP_YHT>
@@ -9719,7 +9719,7 @@ Suisa suud
 <V>Ega ei lehi lepikmõtsa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0600550000">
+<ITEM nro="tem0600550000" y="1924">
 <META>
 <ID>TEM 6, 55/7</ID> &lt; <LOC>Paistu khk., Holstre jm.</LOC> &lt; <INF><NIMI>Puru Liisu (Liisa Mägi) jt.</NIMI></INF> (<TMP>1924?</TMP>)
 </META>
@@ -9777,7 +9777,7 @@ Suisa suud
 <V>Harva haaba astumaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0600570000">
+<ITEM nro="tem0600570000" y="1924">
 <META>
 <ID>TEM 6, 57 ja 71</ID> &lt; <LOC>Paistu khk.</LOC> &lt; <INF><NIMI>Mari Nessler, 51 a.</NIMI></INF> (<TMP>1924</TMP>)
 <TYP_YHT>Kurb laulik</TYP_YHT>
@@ -9813,7 +9813,7 @@ read vaheldumisi 57. ja 71. leheküljel
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="tem060057000a">
+<ITEM nro="tem060057000a" y="1924">
 <META>
 <ID>TEM 6, 57/8 ja 71</ID> &lt; <LOC>Paistu khk.</LOC> &lt; <INF><NIMI>Mari Nessler, 51 a.</NIMI></INF> (<TMP>1924</TMP>)
 <TYP_YHT>Suude sulg + Palju sõnu</TYP_YHT>
@@ -9848,7 +9848,7 @@ read vaheldumisi 57/8. ja 71. leheküljel
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="tem0600580000">
+<ITEM nro="tem0600580000" y="1924">
 <META>
 <ID>TEM 6, 58 ja 72</ID> &lt; <LOC>Paistu khk.</LOC> &lt; <INF><NIMI>Mari Nessler, 51 a.</NIMI></INF> (<TMP>1924</TMP>)
 <TYP_YHT>Must naine</TYP_YHT>
@@ -9886,7 +9886,7 @@ read vaheldumisi 58. ja 72. leheküljel
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="tem060058000a">
+<ITEM nro="tem060058000a" y="1924">
 <META>
 <ID>TEM 6, 58/61 ja 72/3</ID> &lt; <LOC>Paistu khk.</LOC> &lt; <INF><NIMI>Mari Nessler, 51 a.</NIMI></INF> (<TMP>1924</TMP>)
 <ZANR>ul</ZANR>
@@ -9925,7 +9925,7 @@ read vaheldumisi 58/61. ja 72/3. leheküljel
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="tem0600610000">
+<ITEM nro="tem0600610000" y="1924">
 <META>
 <ID>TEM 6, 61/2 ja 73/4</ID> &lt; <LOC>Paistu khk.</LOC> &lt; <INF><NIMI>Mari Nessler, 51 a.</NIMI></INF> (<TMP>1924</TMP>)
 <TYP_YHT>Laevasõit</TYP_YHT>
@@ -9988,7 +9988,7 @@ read vaheldumisi 61/2. ja 73/4. leheküljel
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="tem0600620000">
+<ITEM nro="tem0600620000" y="1924">
 <META>
 <ID>TEM 6, 62/3 ja 74/5</ID> &lt; <LOC>Paistu khk.</LOC> &lt; <INF><NIMI>Mari Nessler, 51 a.</NIMI></INF> (<TMP>1924</TMP>)
 <TYP_YHT>Imed</TYP_YHT>
@@ -10049,7 +10049,7 @@ read vaheldumisi 62/3. ja 74/5. leheküljel
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="tem0600630000">
+<ITEM nro="tem0600630000" y="1924">
 <META>
 <ID>TEM 6, 63/4 ja 75</ID> &lt; <LOC>Paistu khk.</LOC> &lt; <INF><NIMI>Mari Nessler, 51 a.</NIMI></INF> (<TMP>1924</TMP>)
 <TYP_YHT>Kupja kolm tütart</TYP_YHT>
@@ -10095,7 +10095,7 @@ vaheldumise read lehekülgedelt 63/4 ja 75
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="tem0600640000">
+<ITEM nro="tem0600640000" y="1924">
 <META>
 <ID>TEM 6, 64 ja 75/6</ID> &lt; <LOC>Paistu khk., Oisu v.</LOC> &lt; <INF><NIMI>Jaan Anilene, 37 a.</NIMI></INF> (<TMP>1924</TMP>)
 <LLIIK>Mardilaul</LLIIK>
@@ -10151,7 +10151,7 @@ vaheldumise read lehekülgedelt 64 ja 75/6
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="tem0600650000">
+<ITEM nro="tem0600650000" y="1924">
 <META>
 <ID>TEM 6, 65 ja 76/7</ID> &lt; <LOC>Paistu khk., Oisu v.</LOC> &lt; <INF><NIMI>Jaan Anilene, 37 a.</NIMI></INF> (<TMP>1924</TMP>)
 <ZANR>ul</ZANR>
@@ -10191,7 +10191,7 @@ vaheldumise read lehekülgedelt 65 ja 76/7
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="tem0600660000">
+<ITEM nro="tem0600660000" y="1924">
 <META>
 <ID>TEM 6, 66</ID> &lt; <LOC>Paistu khk.</LOC> (<TMP>1924</TMP>)
 <ZANR>ul</ZANR>
@@ -10202,7 +10202,7 @@ vaheldumise read lehekülgedelt 65 ja 76/7
 <V>Kooris värske piimapüti.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0700010001">
+<ITEM nro="tem0700010001" y="0">
 <META>
 <ID>TEM 7, 1/2 (1)</ID> &lt; <LOC>Kose khk., Ravila v.</LOC> - <COL>G. Rosenbaum</COL>
 <TYP_YHT>Härjad murtud</TYP_YHT>
@@ -10240,7 +10240,7 @@ Härjad murtud
 <V>Meil on kodus kolmi härga.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0700030002">
+<ITEM nro="tem0700030002" y="0">
 <META>
 <ID>TEM 7, 3/4 (2)</ID> &lt; <LOC>Kose khk., Ravila v.</LOC> - <COL>G. Rosenbaum</COL>
 <TYP_YHT>Põlvist põdema</TYP_YHT>
@@ -10285,7 +10285,7 @@ Tõbine naine
 <V>Varrud peale vakumasa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0700050003">
+<ITEM nro="tem0700050003" y="0">
 <META>
 <ID>TEM 7, 5/7 (3)</ID> &lt; <LOC>Kose khk., Ravila v.</LOC> - <COL>G. Rosenbaum</COL>
 <TYP>
@@ -10342,7 +10342,7 @@ Ori tahab palka
 <V>Olgu nõnda jäegu jälle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0700070004">
+<ITEM nro="tem0700070004" y="0">
 <META>
 <ID>TEM 7, 7 (4)</ID> &lt; <LOC>Kose khk., Ravila v.</LOC> - <COL>G. Rosenbaum</COL>
 <TYP_YHT>Saunanaine palub paja-aset</TYP_YHT>
@@ -10371,7 +10371,7 @@ lopp.
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0700080005">
+<ITEM nro="tem0700080005" y="0">
 <META>
 <ID>TEM 7, 8 (5)</ID> &lt; <LOC>Kose khk., Ravila v.</LOC> - <COL>G. Rosenbaum</COL>
 <TYP>
@@ -10397,7 +10397,7 @@ Laisk talu
 <V>Leivaraasud raamatusa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0700090006">
+<ITEM nro="tem0700090006" y="0">
 <META>
 <ID>TEM 7, 9 (6)</ID> &lt; <LOC>Kose khk., Ravila v.</LOC> - <COL>G. Rosenbaum</COL>
 <TYP_YHT>Neiud kaklevad + Imed</TYP_YHT>
@@ -10425,7 +10425,7 @@ Neiu küla
 <V>Kana tõi kaksikud talled.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0700110007">
+<ITEM nro="tem0700110007" y="0">
 <META>
 <ID>TEM 7, 11 (7)</ID> &lt; <LOC>Kose khk., Ravila v.</LOC> - <COL>G. Rosenbaum</COL>
 <TYP>
@@ -10454,7 +10454,7 @@ Miks sa tõrgud mulle tulles
 <V>Nina neljanurgeline.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0700120008">
+<ITEM nro="tem0700120008" y="0">
 <META>
 <ID>TEM 7, 12 (8)</ID> &lt; <LOC>Kose khk., Ravila v.</LOC> - <COL>G. Rosenbaum</COL>
 <TYP_YHT>Lauliku sõim + Arg laulik</TYP_YHT>
@@ -10486,7 +10486,7 @@ Halb laulik
 <V>Taad oli kuri taplemaie</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0700130009">
+<ITEM nro="tem0700130009" y="0">
 <META>
 <ID>TEM 7, 13 (9)</ID> &lt; <LOC>Kose khk., Ravila v.</LOC> - <COL>G. Rosenbaum</COL>
 <TYP_YHT>Kättemaks sakstele</TYP_YHT>
@@ -10508,7 +10508,7 @@ Kättemaks sakstele
 <V>Siis mina taga trai-trai-trai.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0700130010">
+<ITEM nro="tem0700130010" y="0">
 <META>
 <ID>TEM 7, 13/4 (10)</ID> &lt; <LOC>Kose khk., Ravila v.</LOC> - <COL>G. Rosenbaum</COL>
 <TYP_YHT>Nooriku lahkuse õpetus</TYP_YHT><LLIIK_YHT>Pulmalaulud (Õpetused ja manitsused mõrsjale)</LLIIK_YHT></META>
@@ -10533,7 +10533,7 @@ Kättemaks sakstele
 <V>Silita sealihaga.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0700140011">
+<ITEM nro="tem0700140011" y="0">
 <META>
 <ID>TEM 7, 14/5 (11)</ID> &lt; <LOC>Kose khk., Ravila v.</LOC> - <COL>G. Rosenbaum</COL>
 <LLIIK>Pl</LLIIK>
@@ -10555,7 +10555,7 @@ Kättemaks sakstele
 <V>Kokka ise kolme' meeles.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0700150012">
+<ITEM nro="tem0700150012" y="0">
 <META>
 <ID>TEM 7, 15/6 (12)</ID> &lt; <LOC>Kose khk., Ravila v.</LOC> - <COL>G. Rosenbaum</COL>
 <TYP_YHT>Orja palk</TYP_YHT>
@@ -10593,7 +10593,7 @@ lisatud noot
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="tem0700160000">
+<ITEM nro="tem0700160000" y="0">
 <META>
 <ID>TEM 7, 16/7</ID> &lt; <LOC>Kose khk., Ravila v.</LOC> - <COL>G. Rosenbaum</COL>
 <ZANR>ul</ZANR>
@@ -10624,7 +10624,7 @@ lisatud noot
 <V>------</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0700180000">
+<ITEM nro="tem0700180000" y="0">
 <META>
 <ID>TEM 7, 18</ID> &lt; <LOC>Kose khk., Ravila v.</LOC> - <COL>G. Rosenbaum</COL>
 <ZANR>ul</ZANR>
@@ -10657,7 +10657,7 @@ Teil
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0700190000">
+<ITEM nro="tem0700190000" y="0">
 <META>
 <ID>TEM 7, 19</ID> &lt; <LOC>Kose khk., Ravila v.</LOC> - <COL>G. Rosenbaum</COL>
 <TYP_YHT>Kõrtsinaise tütar</TYP_YHT>
@@ -10689,7 +10689,7 @@ Kõrtsinaise ilus tütar
 <V>Talle viiul pilli lüüa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0700200000">
+<ITEM nro="tem0700200000" y="0">
 <META>
 <ID>TEM 7, 20</ID> &lt; <LOC>Kose khk., Ravila v.</LOC> - <COL>G. Rosenbaum</COL>
 <TYP>
@@ -10726,7 +10726,7 @@ Laupa õhtu teise karaka
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem0700210000">
+<ITEM nro="tem0700210000" y="0">
 <META>
 <ID>TEM 7, 21/2</ID> &lt; <LOC>Kose khk., Ravila v.</LOC> - <COL>G. Rosenbaum</COL>
 <ZANR>ul</ZANR>
@@ -10756,7 +10756,7 @@ Laupa õhtu teise karaka
 <V>Külavainul tantsima.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0700260015">
+<ITEM nro="tem0700260015" y="0">
 <META>
 <ID>TEM 7, 26/7 (15)</ID> &lt; <LOC>Kose khk., Ravila v.</LOC> - <COL>G. Rosenbaum</COL>
 <ZANR>ul</ZANR>
@@ -10808,7 +10808,7 @@ Laupa õhtu teise karaka
 <V>See vang peab kuulama ja Taevariiki saama</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0700270016">
+<ITEM nro="tem0700270016" y="0">
 <META>
 <ID>TEM 7, 27 (16)</ID> &lt; <LOC>Kose khk., Ravila v.</LOC> - <COL>G. Rosenbaum</COL>
 <ZANR>ul</ZANR>
@@ -10833,7 +10833,7 @@ Laupa õhtu teise karaka
 <V>Teist armast pruudikest.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0700280000">
+<ITEM nro="tem0700280000" y="0">
 <META>
 <ID>TEM 7, 28</ID> &lt; <LOC>Kose khk., Ravila v.</LOC> - <COL>G. Rosenbaum</COL>
 <ZANR>ul</ZANR>
@@ -10858,7 +10858,7 @@ Laupa õhtu teise karaka
 <V>Siin hardas' kolm korda nutame.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0700280017">
+<ITEM nro="tem0700280017" y="0">
 <META>
 <ID>TEM 7, 28/9 (17)</ID> &lt; <LOC>Kose khk., Ravila v.</LOC> - <COL>G. Rosenbaum</COL>
 <ZANR>ul</ZANR>
@@ -10907,7 +10907,7 @@ Laupa õhtu teise karaka
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="tem0700290018">
+<ITEM nro="tem0700290018" y="0">
 <META>
 <ID>TEM 7, 29/30 (18)</ID> &lt; <LOC>Kose khk., Ravila v.</LOC> - <COL>G. Rosenbaum</COL>
 <ZANR>ul</ZANR>
@@ -10937,7 +10937,7 @@ Laupa õhtu teise karaka
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="tem0700300019">
+<ITEM nro="tem0700300019" y="0">
 <META>
 <ID>TEM 7, 30/1 (19)</ID> &lt; <LOC>Kose khk., Ravila v.</LOC> - <COL>G. Rosenbaum</COL>
 <TYP_YHT>Ema haual</TYP_YHT>
@@ -10964,7 +10964,7 @@ Ema haual
 <V>Muud jumalaga jäägu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0700310020">
+<ITEM nro="tem0700310020" y="0">
 <META>
 <ID>TEM 7, 31/2 (20)</ID> &lt; <LOC>Kose khk., Ravila v.</LOC> - <COL>G. Rosenbaum</COL>
 <ZANR>ul</ZANR>
@@ -10994,7 +10994,7 @@ Ema haual
 <V>Mis neitsit tapsivad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0l00150005">
+<ITEM nro="tem0l00150005" y="0">
 <META>
 <ID>TEM l, 15 (5)</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -11017,7 +11017,7 @@ Ema haual
 <V>Sügise sealihaga.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0l00150006">
+<ITEM nro="tem0l00150006" y="0">
 <META>
 <ID>TEM l, 15/a (6)</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>Johan Piilberg</COL>
 </META>
@@ -11035,7 +11035,7 @@ Ema haual
 <V>Läbi akeni ilusa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00010000">
+<ITEM nro="tem0X00010000" y="0">
 <META>
 <ID>TEM X, 1/2</ID> &lt; <LOC>Jüri khk.</LOC> - <COL>?</COL>
 <TYP>
@@ -11078,7 +11078,7 @@ Keegi tuleb väljast hundina lambaid viima, karjane näeb viib ennem lambad ära
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00030000">
+<ITEM nro="tem0X00030000" y="0">
 <META>
 <ID>TEM X, 3</ID> &lt; <LOC>Pühalepa khk.</LOC> - <COL>?</COL>
 </META>
@@ -11096,7 +11096,7 @@ Keegi tuleb väljast hundina lambaid viima, karjane näeb viib ennem lambad ära
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00040000">
+<ITEM nro="tem0X00040000" y="0">
 <META>
 <ID>TEM X, 4</ID> &lt; <LOC>Pühalepa khk.</LOC> - <COL>?</COL>
 <TYP_YHT>Palve sakstele</TYP_YHT>
@@ -11120,7 +11120,7 @@ Palve sakstele
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00050000">
+<ITEM nro="tem0X00050000" y="0">
 <META>
 <ID>TEM X, 5/6</ID> &lt; <LOC>Pühalepa khk.</LOC> - <COL>?</COL>
 <TYP>
@@ -11157,7 +11157,7 @@ Palju kosilasi
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00070000">
+<ITEM nro="tem0X00070000" y="0">
 <META>
 <ID>TEM X, 7/8</ID> &lt; <LOC>Pühalepa khk.</LOC> - <COL>?</COL>
 <TYP_YHT>Liiri-lõõri!</TYP_YHT>
@@ -11196,7 +11196,7 @@ Liiri-lõõri
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00090000">
+<ITEM nro="tem0X00090000" y="0">
 <META>
 <ID>TEM X, 9/10</ID> &lt; <LOC>Karuse khk., Paatsalu</LOC> - <COL>?</COL>
 <TYP_YHT>Suur härg</TYP_YHT>
@@ -11242,7 +11242,7 @@ Pukk
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00110000">
+<ITEM nro="tem0X00110000" y="0">
 <META>
 <ID>TEM X, 11</ID> &lt; <LOC>Karuse khk., Paatsalu</LOC> - <COL>?</COL>
 <TYP_YHT>_ + Laulu võim</TYP_YHT>
@@ -11273,7 +11273,7 @@ Kahekesi
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00120000">
+<ITEM nro="tem0X00120000" y="0">
 <META>
 <ID>TEM X, 12/3</ID> &lt; <LOC>Hageri khk.</LOC> - <COL>?</COL>
 <TYP_YHT>Hollandi sulane</TYP_YHT>
@@ -11310,7 +11310,7 @@ Hollandi sulane
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00140000">
+<ITEM nro="tem0X00140000" y="0">
 <META>
 <ID>TEM X, 14</ID> &lt; <LOC>Hageri khk.</LOC> - <COL>?</COL>
 <TYP_YHT>Hollandi sulane</TYP_YHT>
@@ -11339,7 +11339,7 @@ Hollandi sulane
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00150000">
+<ITEM nro="tem0X00150000" y="0">
 <META>
 <ID>TEM X, 15</ID> &lt; <LOC>Hageri khk.</LOC> - <COL>?</COL> &lt; <INF><NIMI>M. Veinmann</NIMI></INF>
 <TYP_YHT>Arg kosilane</TYP_YHT>
@@ -11367,7 +11367,7 @@ Arg kosilane
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00160000">
+<ITEM nro="tem0X00160000" y="0">
 <META>
 <ID>TEM X, 16/7</ID> &lt; <LOC>Hageri khk.</LOC> - <COL>?</COL>
 <TYP_YHT>Neiu linn</TYP_YHT>
@@ -11408,7 +11408,7 @@ Imelik linn
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00180000">
+<ITEM nro="tem0X00180000" y="0">
 <META>
 <ID>TEM X, 18</ID> &lt; <LOC>Hageri khk.</LOC> - <COL>?</COL> &lt; <INF><NIMI>M. Veinmann</NIMI></INF>
 <TYP>
@@ -11428,7 +11428,7 @@ Ilus neiu
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00190000">
+<ITEM nro="tem0X00190000" y="0">
 <META>
 <ID>TEM X, 19</ID> &lt; <LOC>Hageri khk.</LOC> - <COL>?</COL> &lt; <INF><NIMI>A. Starkopf</NIMI></INF>
 <TYP_YHT>Ori taevas</TYP_YHT>
@@ -11460,7 +11460,7 @@ Ori taevas
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00200000">
+<ITEM nro="tem0X00200000" y="0">
 <META>
 <ID>TEM X, 20/1</ID> &lt; <LOC>Hageri khk., Rabivere, Nonni</LOC> - <COL>?</COL> &lt; <INF><NIMI>K. Teller</NIMI></INF>
 <TYP>
@@ -11499,7 +11499,7 @@ Kuri kubjas
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00220000">
+<ITEM nro="tem0X00220000" y="0">
 <META>
 <ID>TEM X, 22</ID> &lt; <LOC>Hageri khk.</LOC> - <COL>?</COL>
 <TYP_YHT>Imetegija</TYP_YHT>
@@ -11524,7 +11524,7 @@ Imetegija
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00230000">
+<ITEM nro="tem0X00230000" y="0">
 <META>
 <ID>TEM X, 23</ID> &lt; <LOC>Simuna khk.</LOC> - <COL>?</COL>
 <TYP_YHT>Joodik - AJUTINE</TYP_YHT>
@@ -11557,7 +11557,7 @@ Joodikulaul
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00240000">
+<ITEM nro="tem0X00240000" y="0">
 <META>
 <ID>TEM X, 24</ID> &lt; <LOC>Simuna khk.</LOC> - <COL>?</COL>
 <TYP_YHT>Kättemaks sakstele</TYP_YHT>
@@ -11583,7 +11583,7 @@ Kättemaks sakstele
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00250000">
+<ITEM nro="tem0X00250000" y="0">
 <META>
 <ID>TEM X, 25</ID> &lt; <LOC>Simuna khk.</LOC> - <COL>?</COL>
 <LLIIK>Pl</LLIIK>
@@ -11618,7 +11618,7 @@ Pruudi vastus:
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem0X00260000">
+<ITEM nro="tem0X00260000" y="0">
 <META>
 <ID>TEM X, 26</ID> &lt; <LOC>Simuna khk.</LOC> - <COL>?</COL>
 <TYP_YHT>Must naine</TYP_YHT>
@@ -11647,7 +11647,7 @@ Must naine
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00270000">
+<ITEM nro="tem0X00270000" y="0">
 <META>
 <ID>TEM X, 27</ID> &lt; <LOC>Simuna khk.</LOC> - <COL>?</COL>
 <LLIIK>Pl</LLIIK>
@@ -11677,7 +11677,7 @@ Pruudi poolt (ämm) lauldi peigmehele pulma ajal, kiute laul, kui peigmehel pruu
 <V>(Eiseni koopias: N 25, L. 10, 20 T.E.M. Simunast).</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00280000">
+<ITEM nro="tem0X00280000" y="0">
 <META>
 <ID>TEM X, 28/32</ID> &lt; <LOC>Muhu khk.</LOC> - <COL>?</COL>
 <TYP_YHT>Kosjahobu söötmine + Kaevul kosija</TYP_YHT>
@@ -11788,7 +11788,7 @@ Kosjahobu söötmine
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00330000">
+<ITEM nro="tem0X00330000" y="0">
 <META>
 <ID>TEM X, 33/8</ID> &lt; <LOC>Muhu khk.</LOC> - <COL>?</COL>
 <TYP_YHT>Venna sõjalugu</TYP_YHT>
@@ -11937,7 +11937,7 @@ Sõjalaul
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00390000">
+<ITEM nro="tem0X00390000" y="0">
 <META>
 <ID>TEM X, 39/40</ID> &lt; <LOC>Muhu khk.</LOC> - <COL>?</COL>
 <TYP>
@@ -11972,7 +11972,7 @@ Mängu seletus: seistakse üks teise selja <PAG>pag. 40</PAG> taga, esimene on "
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00410000">
+<ITEM nro="tem0X00410000" y="0">
 <META>
 <ID>TEM X, 41/2</ID> &lt; <LOC>Muhu khk.</LOC> - <COL>?</COL>
 <LLIIK>Pl</LLIIK>
@@ -12010,7 +12010,7 @@ Pruut ulatab laulikule õlut see vastab:
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00430000">
+<ITEM nro="tem0X00430000" y="0">
 <META>
 <ID>TEM X, 43/5</ID> &lt; <LOC>Muhu khk.</LOC> - <COL>?</COL>
 <TYP_YHT>Mehetapja</TYP_YHT>
@@ -12081,7 +12081,7 @@ Mehetapja Mai
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00460000">
+<ITEM nro="tem0X00460000" y="0">
 <META>
 <ID>TEM X, 46</ID> &lt; <LOC>Muhu khk.</LOC> - <COL>?</COL>
 <TYP_YHT>Kaugele mehele</TYP_YHT>
@@ -12108,7 +12108,7 @@ Kaugele mehele
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00470000">
+<ITEM nro="tem0X00470000" y="0">
 <META>
 <ID>TEM X, 47</ID> &lt; <LOC>Muhu khk.</LOC> - <COL>?</COL>
 <TYP_YHT>Õde seisab sõjas</TYP_YHT>
@@ -12131,7 +12131,7 @@ Sõjalaul
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00480000">
+<ITEM nro="tem0X00480000" y="0">
 <META>
 <ID>TEM X, 48</ID> &lt; <LOC>Muhu khk.</LOC> - <COL>?</COL>
 <TYP_YHT>Õlu</TYP_YHT>
@@ -12156,7 +12156,7 @@ Sõjalaul
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00490000">
+<ITEM nro="tem0X00490000" y="0">
 <META>
 <ID>TEM X, 49/50</ID> &lt; <LOC>Muhu khk.</LOC> - <COL>?</COL>
 <TYP>
@@ -12207,7 +12207,7 @@ Must laul
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00510000">
+<ITEM nro="tem0X00510000" y="0">
 <META>
 <ID>TEM X, 51</ID> &lt; <LOC>Muhu khk.</LOC> - <COL>?</COL>
 <TYP>
@@ -12233,7 +12233,7 @@ Lori
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00520000">
+<ITEM nro="tem0X00520000" y="0">
 <META>
 <ID>TEM X, 52/3</ID> &lt; <LOC>Muhu khk.</LOC> - <COL>?</COL>
 <TYP_YHT>Kaevul kosija</TYP_YHT>
@@ -12268,7 +12268,7 @@ Kaevul kosija
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00540000">
+<ITEM nro="tem0X00540000" y="0">
 <META>
 <ID>TEM X, 54</ID> &lt; <LOC>Muhu khk.</LOC> - <COL>?</COL>
 <TYP>
@@ -12298,7 +12298,7 @@ Sõel
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00550000">
+<ITEM nro="tem0X00550000" y="0">
 <META>
 <ID>TEM X, 55/7</ID> &lt; <LOC>Muhu khk.</LOC> - <COL>?</COL>
 <TYP_YHT>Kass kaevus</TYP_YHT>
@@ -12366,7 +12366,7 @@ Kass kaevus
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00580000">
+<ITEM nro="tem0X00580000" y="0">
 <META>
 <ID>TEM X, 58/61</ID> &lt; <LOC>Muhu khk.</LOC> - <COL>?</COL>
 <TYP_YHT>Kass kaevus</TYP_YHT>
@@ -12449,7 +12449,7 @@ Kass kaevus
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00620000">
+<ITEM nro="tem0X00620000" y="0">
 <META>
 <ID>TEM X, 62/4</ID> &lt; <LOC>Muhu khk.</LOC> - <COL>?</COL>
 <ZANR/><TYP_YHT>Hobusemäng</TYP_YHT>
@@ -12510,7 +12510,7 @@ Jõulu laul-mäng.
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00650000">
+<ITEM nro="tem0X00650000" y="0">
 <META>
 <ID>TEM X, 65/7</ID> &lt; <LOC>Muhu khk.</LOC> - <COL>?</COL>
 <ZANR/>
@@ -12584,7 +12584,7 @@ Jõulu laul-mäng.
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00680000">
+<ITEM nro="tem0X00680000" y="0">
 <META>
 <ID>TEM X, 68/70</ID> &lt; <LOC>Muhu khk.</LOC> - <COL>?</COL>
 <TYP_YHT>Heinast hobune + Tore sõit + Imelik maja</TYP_YHT>
@@ -12658,7 +12658,7 @@ Heinast hobune
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem0X00710000">
+<ITEM nro="tem0X00710000" y="0">
 <META>
 <ID>TEM X, 71/4</ID> &lt; <LOC>Muhu khk.</LOC> - <COL>?</COL>
 <ZANR>kombekirjeldus/regilaul</ZANR><LLIIK>Pl</LLIIK>
@@ -12716,7 +12716,7 @@ Esmaspäe hommikul pani esteks valge tanu pähe ja rõhudud põll ette. Siis võ
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1000360005">
+<ITEM nro="tem1000360005" y="1921">
 <META>
 <ID>TEM 10, 36/7 (5)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Lauliku soost</TYP_YHT>
@@ -12766,7 +12766,7 @@ Lauliku soost
 <V>Terävita kirveita.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1000900049">
+<ITEM nro="tem1000900049" y="1921">
 <META>
 <ID>TEM 10, 90/1 (49)</ID> &lt; <LOC>Paldiski &amp;lt; Karksi khk., v.</LOC> - <COL>August Pulst &amp; H. Paju (kirj.)</COL> &lt; <INF><NIMI>Anna Jüri t. Pill</NIMI>, <ELUL>sünd Paju, 1854. a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Hiie noormees</TYP_YHT>
@@ -12813,7 +12813,7 @@ Hiie laul
 <V>Egä ei kastu kardakengä.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100010000">
+<ITEM nro="tem1100010000" y="1921">
 <META>
 <ID>TEM 11, 1</ID> &lt; <LOC>Simuna khk., Käru</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>M. Krikman</NIMI></INF> (<TMP>1921</TMP>)
 </META>
@@ -12844,7 +12844,7 @@ Hiie laul
 <V>Mere äärest allikasta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100010001">
+<ITEM nro="tem1100010001" y="1921">
 <META>
 <ID>TEM 11, 1 (1)</ID> &lt; <LOC>Simuna khk., Käru</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>M. Krikman</NIMI></INF> (<TMP>1921</TMP>)
 <TYP>
@@ -12891,7 +12891,7 @@ tagasi vaatus.
 <V>Jala alt seda mudada.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100010002">
+<ITEM nro="tem1100010002" y="1921">
 <META>
 <ID>TEM 11, 1 (2)</ID> &lt; <LOC>Simuna khk., Käru</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>M. Krikman</NIMI></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Nekrutilaul - ÜLD</TYP_YHT>
@@ -12936,7 +12936,7 @@ Nekrutilaul
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem1100020003">
+<ITEM nro="tem1100020003" y="1921">
 <META>
 <ID>TEM 11, 2 (3)</ID> &lt; <LOC>Simuna khk., Käru</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>M. Krikman</NIMI></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Tütar mõisas</TYP_YHT>
@@ -12987,7 +12987,7 @@ Tütar mõisas - ema mures
 <V>Minu vaese turja tarvis.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100020004">
+<ITEM nro="tem1100020004" y="1921">
 <META>
 <ID>TEM 11, 2 (4)</ID> &lt; <LOC>Simuna khk., Käru</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>M. Krikman</NIMI></INF> (<TMP>1921</TMP>)
 <LLIIK>Mardilaul</LLIIK>
@@ -13004,7 +13004,7 @@ Tütar mõisas - ema mures
 <V>Puhu see tuli tubaje.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100020005">
+<ITEM nro="tem1100020005" y="1921">
 <META>
 <ID>TEM 11, 2 (5)</ID> &lt; <LOC>Simuna khk., Käru</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>M. Krikman</NIMI></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Oma ema ja võõrasema ootavad koju</TYP_YHT>
@@ -13066,7 +13066,7 @@ Võõrasema ootab koju
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem1100030006">
+<ITEM nro="tem1100030006" y="1921">
 <META>
 <ID>TEM 11, 3 (6)</ID> &lt; <LOC>Simuna khk., Käru</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>M. Krikman</NIMI></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Laulu võim + Kust laulud saadud</TYP_YHT>
@@ -13122,7 +13122,7 @@ Laulu võim
 <V>Loo viisid vikeldasin.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100030007">
+<ITEM nro="tem1100030007" y="1921">
 <META>
 <ID>TEM 11, 3 (7)</ID> &lt; <LOC>Simuna khk., Seli</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>K. Wegermann</NIMI></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Must naine</TYP_YHT>
@@ -13147,7 +13147,7 @@ Must naine
 <V>Rumalaga ruttamaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100030008">
+<ITEM nro="tem1100030008" y="1921">
 <META>
 <ID>TEM 11, 3 (8)</ID> &lt; <LOC>Simuna khk., Seli</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>K. Wegermann</NIMI></INF> (<TMP>1921</TMP>)
 </META>
@@ -13166,7 +13166,7 @@ Must naine
 <V>Kohe kui koerakambrisse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100030009">
+<ITEM nro="tem1100030009" y="1921">
 <META>
 <ID>TEM 11, 3 (9)</ID> &lt; <LOC>Simuna khk., Lassinurme</LOC> - <COL>Otto Viedebaum</COL> (<TMP>1921</TMP>)
 <LLIIK>Pl</LLIIK>
@@ -13189,7 +13189,7 @@ Vastus:
 <V>Maamees tegi muidu joodud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100040010">
+<ITEM nro="tem1100040010" y="1921">
 <META>
 <ID>TEM 11, 4 (10)</ID> &lt; <LOC>Väike-Maarja khk., Eipre</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>Sein</NIMI></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Must naine</TYP_YHT>
@@ -13254,7 +13254,7 @@ Must naine
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem1100040011">
+<ITEM nro="tem1100040011" y="1921">
 <META>
 <ID>TEM 11, 4 (11)</ID> &lt; <LOC>Väike-Maarja khk., Eipre</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>Sein</NIMI></INF> (<TMP>1921</TMP>)
 <LLIIK>Lõikuselaul</LLIIK>
@@ -13280,7 +13280,7 @@ Must naine
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem1100040012">
+<ITEM nro="tem1100040012" y="1921">
 <META>
 <ID>TEM 11, 4 (12)</ID> &lt; <LOC>Väike-Maarja khk., Eipre</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>Sein</NIMI></INF> (<TMP>1921</TMP>)
 <TYP>
@@ -13301,7 +13301,7 @@ Naise kiitus
 <V>Niitis heina helkis metsa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100040013">
+<ITEM nro="tem1100040013" y="1921">
 <META>
 <ID>TEM 11, 4/5 (13)</ID> &lt; <LOC>Väike-Maarja khk., Eipre</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>Sein</NIMI></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Põlvist põdema</TYP_YHT>
@@ -13342,7 +13342,7 @@ vasta:
 <V>Siis saab naene terveksi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100050014">
+<ITEM nro="tem1100050014" y="1921">
 <META>
 <ID>TEM 11, 5 (14)</ID> &lt; <LOC>Väike-Maarja khk., Eipre</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>Sein</NIMI></INF> (<TMP>1921</TMP>)
 </META>
@@ -13359,7 +13359,7 @@ vasta:
 <V>Mõni sigade sekka.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100050015">
+<ITEM nro="tem1100050015" y="1921">
 <META>
 <ID>TEM 11, 5 (15)</ID> &lt; <LOC>Väike-Maarja khk., Eipre</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>Sein</NIMI></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Nurganaine</TYP_YHT>
@@ -13386,7 +13386,7 @@ Nurganaine
 <V>Kallas kinni kalmukaaned.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100050016">
+<ITEM nro="tem1100050016" y="1921">
 <META>
 <ID>TEM 11, 5 (16)</ID> &lt; <LOC>Väike-Maarja khk., Eipre</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>Sein</NIMI></INF> (<TMP>1921</TMP>)
 <TYP>
@@ -13414,7 +13414,7 @@ Karskuse õpetus neidudele
 <V>Teine nurme nurga vaht.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100050017">
+<ITEM nro="tem1100050017" y="1921">
 <META>
 <ID>TEM 11, 5 (17)</ID> &lt; <LOC>Väike-Maarja khk., Eipre</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>Sein</NIMI></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Pole isa olnudki + Vara vaeslapseks</TYP_YHT>
@@ -13444,7 +13444,7 @@ Vara vaeseks
 <V>Angervaksa haua peale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100060018">
+<ITEM nro="tem1100060018" y="1921">
 <META>
 <ID>TEM 11, 6 (18)</ID> &lt; <LOC>Väike-Maarja khk., Eipre</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>Sein</NIMI></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Tuul, vii vesi vilja pealt + Vihm, üle vaeslapsest</TYP_YHT>
@@ -13469,7 +13469,7 @@ Lõikuselaul
 <V>Kell' on kodu kuivataja.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100060019">
+<ITEM nro="tem1100060019" y="1921">
 <META>
 <ID>TEM 11, 6 (19)</ID> &lt; <LOC>Väike-Maarja khk., Eipre</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>Sein</NIMI></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Pane see tütar minule!</TYP_YHT>
@@ -13495,7 +13495,7 @@ Pane see tütar mehele
 <V>Kuusik silmakulmu peale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100060020">
+<ITEM nro="tem1100060020" y="1921">
 <META>
 <ID>TEM 11, 6 (20)</ID> &lt; <LOC>Väike-Maarja khk., Koome</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>Anna Schumann</NIMI>, <ELUL>68 a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Mitu mütsi</TYP_YHT>
@@ -13520,7 +13520,7 @@ Palju mütse
 <V>Kümnes küla käima mütsi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100060021">
+<ITEM nro="tem1100060021" y="1921">
 <META>
 <ID>TEM 11, 6 (21)</ID> &lt; <LOC>Väike-Maarja khk., Avispea</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>Pauline Pauker, 48 a.</NIMI></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Imemaa</TYP_YHT>
@@ -13550,7 +13550,7 @@ Orjade tee
 <V>Udu need uksed teinud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100060022">
+<ITEM nro="tem1100060022" y="1921">
 <META>
 <ID>TEM 11, 6/7 (22)</ID> &lt; <LOC>Kadrina khk., Saksi v. ja k., Matsi talu</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>Anna Veiderpass</NIMI>, <ELUL>45 a., kuulnud oma tädilt 30. a. eest Kadrina k.</ELUL></INF> (<TMP>1921</TMP>)
 <LLIIK>Pl</LLIIK>
@@ -13587,7 +13587,7 @@ pag. 7 Pruudi vastus:
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem1100070023">
+<ITEM nro="tem1100070023" y="1921">
 <META>
 <ID>TEM 11, 7 (23)</ID> &lt; <LOC>Kadrina khk., Neeruti</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>Liisa Mühlberg</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1921</TMP>)
 <LLIIK>Pl</LLIIK>
@@ -13600,7 +13600,7 @@ pag. 7 Pruudi vastus:
 <V>Nii kui roosilille vastu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100070024">
+<ITEM nro="tem1100070024" y="1921">
 <META>
 <ID>TEM 11, 7 (24)</ID> &lt; <LOC>Kadrina khk., Neeruti</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>Liisa Mühlberg</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1921</TMP>)
 <LLIIK>Pl</LLIIK>
@@ -13614,7 +13614,7 @@ pag. 7 Pruudi vastus:
 <V>Kui ei usu ent näitan.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100070025">
+<ITEM nro="tem1100070025" y="1921">
 <META>
 <ID>TEM 11, 7 (25)</ID> &lt; <LOC>Kadrina khk., Neeruti</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>Liisa Mühlberg</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1921</TMP>)
 <ZANR>mngl</ZANR>
@@ -13657,7 +13657,7 @@ Mainitud laul mängitud 50 a eest
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100070026">
+<ITEM nro="tem1100070026" y="1921">
 <META>
 <ID>TEM 11, 7/8 (26)</ID> &lt; <LOC>Kadrina khk., Vohnja Ohepalu (&quot;Otto&quot;)</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>Mari Venig</NIMI>, <ELUL>67 a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Kägu kukub + Kolm metsa</TYP_YHT>
@@ -13722,7 +13722,7 @@ Teised sõnad teise pidi)
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem1100080027">
+<ITEM nro="tem1100080027" y="1921">
 <META>
 <ID>TEM 11, 8 (27)</ID> &lt; <LOC>Kadrina khk., Vohnja Ohepalu (&quot;Otto&quot;)</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>Mari Venig</NIMI>, <ELUL>67 a.</ELUL></INF> (<TMP>1921</TMP>)
 <LLIIK>Pl</LLIIK>
@@ -13739,7 +13739,7 @@ Teised sõnad teise pidi)
 <V>Raha korra kinkind seia.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100080028">
+<ITEM nro="tem1100080028" y="1921">
 <META>
 <ID>TEM 11, 8 (28)</ID> &lt; <LOC>Kadrina khk., Vohnja Ohepalu (&quot;Otto&quot;)</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>Mari Venig</NIMI>, <ELUL>67 a.</ELUL></INF> (<TMP>1921</TMP>)
 <LLIIK>Pl</LLIIK>
@@ -13761,7 +13761,7 @@ Teised sõnad teise pidi)
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100080029">
+<ITEM nro="tem1100080029" y="1921">
 <META>
 <ID>TEM 11, 8 (29)</ID> &lt; <LOC>Kadrina khk., Vohnja Ohepalu (&quot;Otto&quot;)</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>Mari Venig</NIMI>, <ELUL>67 a.</ELUL></INF> (<TMP>1921</TMP>)
 <LLIIK>Pl</LLIIK>
@@ -13785,7 +13785,7 @@ Peiu vastus:
 <V>Ootab pelgusid tulema.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100090030">
+<ITEM nro="tem1100090030" y="1921">
 <META>
 <ID>TEM 11, 9 (30)</ID> &lt; <LOC>Kadrina khk., Vohnja Ohepalu (&quot;Otto&quot;)</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>Mari Venig</NIMI>, <ELUL>67 a.</ELUL></INF> (<TMP>1921</TMP>)
 </META>
@@ -13815,7 +13815,7 @@ Peiu vastus:
 <V>Nahkasarve saani juurde.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100090031">
+<ITEM nro="tem1100090031" y="1921">
 <META>
 <ID>TEM 11, 9 (31)</ID> &lt; <LOC>Kadrina khk., Vohnja Ohepalu (&quot;Otto&quot;)</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>Mari Venig</NIMI>, <ELUL>67 a.</ELUL></INF> (<TMP>1921</TMP>)
 <LLIIK>Pl</LLIIK>
@@ -13834,7 +13834,7 @@ Peiu vastus:
 <V>Kasukanikad kauvad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100100001">
+<ITEM nro="tem1100100001" y="1921">
 <META>
 <ID>TEM 11, 10 (1)</ID> &lt; <LOC>Väike-Maarja khk., Avispea k.</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>Pauline Pauker</NIMI>, <ELUL>48 a.</ELUL></INF> (<TMP>1921</TMP>)
 <ZANR>ul</ZANR>
@@ -13915,7 +13915,7 @@ Pr.
 <V>Armas peiukene.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100100002">
+<ITEM nro="tem1100100002" y="1921">
 <META>
 <ID>TEM 11, 10 (2)</ID> &lt; <LOC>Väike-Maarja khk., Avispea k.</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>Pauline Pauker</NIMI>, <ELUL>48 a.</ELUL></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Mitu mütsi</TYP_YHT>
@@ -13940,7 +13940,7 @@ Palju mütse
 <V>Kümnes küla käima mütsi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100110003">
+<ITEM nro="tem1100110003" y="1921">
 <META>
 <ID>TEM 11, 11 (3)</ID> &lt; <LOC>Simuna khk., Käru k.</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>M. Krikman</NIMI></INF> (<TMP>1921</TMP>)
 <TYP_YHT>Isa- ja mehekodus + Joodikust mees</TYP_YHT>
@@ -13986,7 +13986,7 @@ Endine elu isakodus
 <V>Jala all seda mudada.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100110004">
+<ITEM nro="tem1100110004" y="1921">
 <META>
 <ID>TEM 11, 11 (4)</ID> &lt; <LOC>Peetri khk., Sargvere k.</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>Leenu Roosenbaum</NIMI></INF> (<TMP>1921</TMP>)
 <TYP>
@@ -14010,7 +14010,7 @@ Orjapõli
 <V>Hõbedase õllelagi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100120005">
+<ITEM nro="tem1100120005" y="1921">
 <META>
 <ID>TEM 11, 12 (5)</ID> &lt; <LOC>Peetri khk., Sargvere k.</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>Jaan Toimetaja</NIMI></INF> (<TMP>1921</TMP>)
 <ZANR>ul</ZANR>
@@ -14081,7 +14081,7 @@ Orjapõli
 <V>Ega trahvida üht tundi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100120006">
+<ITEM nro="tem1100120006" y="0">
 <META>
 <ID>TEM 11, 12 (6)</ID> &lt; <LOC>Väike-Maarja khk., Avispea k.</LOC> - <COL>Otto Viedebaum</COL> &lt; <INF><NIMI>Pauline Pauker</NIMI>, <ELUL>48 a. (1921)</ELUL></INF> (<TMP>?</TMP>)
 <TYP_YHT>Imemaa</TYP_YHT>
@@ -14117,7 +14117,7 @@ Vanarahva laul lauldi 20 aasta eest Arispea külas Väike Maarjas. Laul on õige
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1100120007">
+<ITEM nro="tem1100120007" y="1921">
 <META>
 <ID>TEM 11, 12 (7)</ID> &lt; <LOC>?</LOC> - <COL>Otto Viedebaum</COL> (<TMP>1921</TMP>)
 <TYP_YHT>Lauliku sõim + Võidulaulmine</TYP_YHT>
@@ -14140,7 +14140,7 @@ teine vastab
 <V>Mis sa hääleta ägised</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1200050000">
+<ITEM nro="tem1200050000" y="0">
 <META>
 <ID>TEM 12, 5</ID> &lt; <LOC>Simuna khk., Käru, Peetsu</LOC> - <COL>M. Kriikmann</COL>
 <LLIIK>Pl</LLIIK>
@@ -14153,7 +14153,7 @@ teine vastab
 <V>Armid aiaroika'ase. <REFR>Kaasike kanike</REFR>.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1200050003">
+<ITEM nro="tem1200050003" y="0">
 <META>
 <ID>TEM 12, 5 (3)</ID> &lt; <LOC>Simuna khk., Käru, Peetsu</LOC> - <COL>M. Kriikmann</COL>
 <LLIIK>Pl</LLIIK>
@@ -14181,7 +14181,7 @@ teine vastab
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem1200050004">
+<ITEM nro="tem1200050004" y="0">
 <META>
 <ID>TEM 12, 5/6 (4)</ID> &lt; <LOC>Simuna khk., Käru, Peetsu</LOC> - <COL>M. Kriikmann</COL>
 <TYP_YHT>Venna otsija</TYP_YHT>
@@ -14303,7 +14303,7 @@ Neju leinab:
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1200070000">
+<ITEM nro="tem1200070000" y="0">
 <META>
 <ID>TEM 12, 7</ID> &lt; <LOC>Simuna khk., Käru, Peetsu</LOC> - <COL>M. Kriikmann</COL>
 <LLIIK>Pl</LLIIK>
@@ -14314,7 +14314,7 @@ Neju leinab:
 <V>Minu vaese turja tarvis.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1200070007">
+<ITEM nro="tem1200070007" y="0">
 <META>
 <ID>TEM 12, 7 (7)</ID> &lt; <LOC>Simuna khk., Käru, Peetsu</LOC> - <COL>M. Kriikmann</COL>
 <LLIIK>Pl</LLIIK>
@@ -14345,7 +14345,7 @@ Siis läksid laulud edasi kunni kodu läheb ja hakkati siis kodu rahvale laulma:
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem1200070008">
+<ITEM nro="tem1200070008" y="0">
 <META>
 <ID>TEM 12, 7 (8)</ID> &lt; <LOC>Simuna khk., Käru, Peetsu</LOC> - <COL>M. Kriikmann</COL>
 <TYP_YHT>Oma ema ja võõrasema ootavad koju</TYP_YHT>
@@ -14382,7 +14382,7 @@ Nüüd õlu liva vanemate kohta laulda
 <V>Mina mõistsin vasta kostsin:</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1200080000">
+<ITEM nro="tem1200080000" y="0">
 <META>
 <ID>TEM 12, 8</ID> &lt; <LOC>Simuna khk., Käru, Peetsu</LOC> - <COL>M. Kriikmann</COL>
 <TYP_YHT>Tütar mõisas + _ + _</TYP_YHT>
@@ -14457,7 +14457,7 @@ Tütat vastab
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem1200090009">
+<ITEM nro="tem1200090009" y="0">
 <META>
 <ID>TEM 12, 9 (9)</ID> &lt; <LOC>Simuna khk., Käru, Peetsu</LOC> - <COL>M. Kriikmann</COL>
 <TYP_YHT>Ori taevas</TYP_YHT>
@@ -14494,7 +14494,7 @@ Ori taevas
 <V>Maksa sina Mariale. -</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1200090010">
+<ITEM nro="tem1200090010" y="0">
 <META>
 <ID>TEM 12, 9/10 (10)</ID> &lt; <LOC>Simuna khk., Käru, Peetsu</LOC> - <COL>M. Kriikmann</COL>
 <TYP_YHT>Laulu võim + Kust laulud saadud</TYP_YHT>
@@ -14557,7 +14557,7 @@ Kuulajad:
 <V>Luoviisid vikeldasin.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1200110004">
+<ITEM nro="tem1200110004" y="0">
 <META>
 <ID>TEM 12, 11 (4)</ID> &lt; <LOC>Simuna khk., Käru, Peetsu</LOC> - <COL>M. Kriikmann</COL>
 <TYP_YHT>Kiige katsumine</TYP_YHT>
@@ -14588,7 +14588,7 @@ Kiige katsumine
 <V>Kiigessepad hellad vennad</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1200120005">
+<ITEM nro="tem1200120005" y="0">
 <META>
 <ID>TEM 12, 12 (5)</ID> &lt; <LOC>Simuna khk., Käru, Peetsu</LOC> - <COL>M. Kriikmann</COL>
 <TYP_YHT>Lõikuselaul - ÜLD</TYP_YHT>
@@ -14620,7 +14620,7 @@ vastakute.
 <V>Küünar külvi keskela.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1200130000">
+<ITEM nro="tem1200130000" y="0">
 <META>
 <ID>TEM 12, 13/4</ID> &lt; <LOC>Simuna khk., Käru, Peetsu</LOC> - <COL>M. Kriikmann</COL>
 <TYP_YHT>Lunastatav neiu</TYP_YHT>
@@ -14692,7 +14692,7 @@ salm vahele -------
 <V>Andis ainek tüterista.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1200190014">
+<ITEM nro="tem1200190014" y="0">
 <META>
 <ID>TEM 12, 19/20 (14)</ID> &lt; <LOC>Simuna khk., Käru, Peetsu</LOC> - <COL>M. Kriikmann</COL>
 <TYP>
@@ -14740,7 +14740,7 @@ mees ei tuld enne koju kui kõik oli otsas mis vaadis oli et tõi kranid kaasa.
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1200200015">
+<ITEM nro="tem1200200015" y="0">
 <META>
 <ID>TEM 12, 20/2 (15)</ID> &lt; <LOC>Simuna khk., Käru, Peetsu</LOC> - <COL>M. Kriikmann</COL>
 <TYP_YHT>Nekrutilaul - ÜLD + Venna sõjalugu</TYP_YHT>
@@ -14814,7 +14814,7 @@ Nejud laulavad vastu:
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1300010001">
+<ITEM nro="tem1300010001" y="1920">
 <META>
 <ID>TEM 13, 1/2 (1)</ID> &lt; <LOC>Lüganuse khk., Erra v., Erra m.</LOC> - <COL>J. Lemendik, koolij.</COL> &lt; <INF><NIMI>Madli Sander</NIMI>, <ELUL>72 a.</ELUL></INF> (<TMP>1920</TMP>)
 <TYP_YHT>Arg laulik + _ + Lauliku sõim + Võidulaulmine + Laulu võim</TYP_YHT>
@@ -14894,7 +14894,7 @@ vt. ka TEM 13, 4/5
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="tem1300040000">
+<ITEM nro="tem1300040000" y="1920">
 <META>
 <ID>TEM 13, 4/5</ID> &lt; <LOC>Lüganuse khk., Erra v., Erra m.</LOC> - <COL>J. Lemendik, koolij.</COL> &lt; <INF><NIMI>Madli Sander</NIMI>, <ELUL>72 a.</ELUL></INF> (<TMP>1920</TMP>)
 <TYP_YHT>Arg laulik + _ + Lauliku sõim + Laulu võim</TYP_YHT>
@@ -14969,7 +14969,7 @@ vt. ka TEM 13, 1/2 (1)
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="tem1300070001">
+<ITEM nro="tem1300070001" y="0">
 <META>
 <ID>TEM 13, 7/8 (1)</ID> &lt; <LOC>Ambla khk., Roosna</LOC> - <COL>Aleksander Greenberg, kooliõpetaja</COL>
 <TYP_YHT>Kubjas mõõtis suure tüki + Kubjas põrgu!</TYP_YHT>
@@ -15018,7 +15018,7 @@ Kubjas mõõtis suure tüki
 <V>Sest sai kuradile koorekern!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1300080002">
+<ITEM nro="tem1300080002" y="0">
 <META>
 <ID>TEM 13, 8/9 (2)</ID> &lt; <LOC>Ambla khk., Roosna</LOC> - <COL>Aleksander Greenberg, kooliõpetaja</COL>
 <TYP_YHT>Mõisarehelt varastamas</TYP_YHT>
@@ -15053,7 +15053,7 @@ Rehe varas
 <V>Viiburi sõjas ei sõditud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1300090003">
+<ITEM nro="tem1300090003" y="0">
 <META>
 <ID>TEM 13, 9 (3)</ID> &lt; <LOC>Ambla khk., Roosna</LOC> - <COL>Aleksander Greenberg, kooliõpetaja</COL>
 <TYP>
@@ -15082,7 +15082,7 @@ Kuri naine
 <V>Siiski kurat kukub maha.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1300100004">
+<ITEM nro="tem1300100004" y="0">
 <META>
 <ID>TEM 13, 10 (4)</ID> &lt; <LOC>Ambla khk., Roosna</LOC> - <COL>Aleksander Greenberg, kooliõpetaja</COL>
 <TYP>
@@ -15104,7 +15104,7 @@ Peremees, otsi uusi orje
 <V>Natukese heeringid.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1300100005">
+<ITEM nro="tem1300100005" y="0">
 <META>
 <ID>TEM 13, 10/1 (5)</ID> &lt; <LOC>Ambla khk., Roosna</LOC> - <COL>Aleksander Greenberg, kooliõpetaja</COL>
 <TYP_YHT>Viljapull ja aganapull + _</TYP_YHT>
@@ -15136,7 +15136,7 @@ Virulaste ja harjukate pilge
 <V>Järva pulli poisikene.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1300110006">
+<ITEM nro="tem1300110006" y="0">
 <META>
 <ID>TEM 13, 11 (6)</ID> &lt; <LOC>Ambla khk., Roosna</LOC> - <COL>Aleksander Greenberg, kooliõpetaja</COL>
 <TYP_YHT>Laulu võim + Kust laulud saadud</TYP_YHT>
@@ -15168,7 +15168,7 @@ Laulu võim
 <V>Mäe alla mängides.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1300120007">
+<ITEM nro="tem1300120007" y="0">
 <META>
 <ID>TEM 13, 12 (7)</ID> &lt; <LOC>Ambla khk., Roosna</LOC> - <COL>Aleksander Greenberg, kooliõpetaja</COL>
 <TYP>
@@ -15186,7 +15186,7 @@ Peretütar ja vaenelaps
 <V>Ise ju taga higine.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1300120008">
+<ITEM nro="tem1300120008" y="0">
 <META>
 <ID>TEM 13, 12/3 (8)</ID> &lt; <LOC>Ambla khk., Roosna</LOC> - <COL>Aleksander Greenberg, kooliõpetaja</COL>
 <TYP>
@@ -15230,7 +15230,7 @@ Mis sa tõrgud meile tulles
 <V>Meeste mäng on keske'el.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1300130009">
+<ITEM nro="tem1300130009" y="0">
 <META>
 <ID>TEM 13, 13/4 (9)</ID> &lt; <LOC>Ambla khk., Roosna</LOC> - <COL>Aleksander Greenberg, kooliõpetaja</COL>
 <TYP_YHT>Odav neiukaup</TYP_YHT>
@@ -15279,7 +15279,7 @@ Halb neiu kaup
 <V>Rotermannil lõuad laial'.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1300150010">
+<ITEM nro="tem1300150010" y="0">
 <META>
 <ID>TEM 13, 15/6 (10)</ID> &lt; <LOC>Ambla khk., Roosna</LOC> - <COL>Aleksander Greenberg, kooliõpetaja</COL>
 <LLIIK>mardilaul</LLIIK>
@@ -15323,7 +15323,7 @@ Halb neiu kaup
 <V>Vea välja värske'eda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1300160011">
+<ITEM nro="tem1300160011" y="0">
 <META>
 <ID>TEM 13, 16 (11)</ID> &lt; <LOC>Ambla khk., Roosna</LOC> - <COL>Aleksander Greenberg, kooliõpetaja</COL>
 <TYP>
@@ -15339,7 +15339,7 @@ Vanatüdruku pilge
 <V>Pletin vana tüdrukut.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1300160012">
+<ITEM nro="tem1300160012" y="0">
 <META>
 <ID>TEM 13, 16/7 (12)</ID> &lt; <LOC>Ambla khk., Roosna</LOC> - <COL>Aleksander Greenberg, kooliõpetaja</COL>
 <LLIIK>Pl</LLIIK>
@@ -15362,7 +15362,7 @@ Vanatüdruku pilge
 <V>Otsin uue kuue põued.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1300170013">
+<ITEM nro="tem1300170013" y="0">
 <META>
 <ID>TEM 13, 17 (13)</ID> &lt; <LOC>Ambla khk., Roosna</LOC> - <COL>Aleksander Greenberg, kooliõpetaja</COL>
 </META>
@@ -15378,7 +15378,7 @@ Vanatüdruku pilge
 <V>Margal maksivad rabada.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1300170014">
+<ITEM nro="tem1300170014" y="0">
 <META>
 <ID>TEM 13, 17/20 (14)</ID> &lt; <LOC>Ambla khk., Roosna</LOC> - <COL>Aleksander Greenberg, kooliõpetaja</COL>
 <TYP_YHT>Hobune varastatud + Kosjahobu söötmine + Kupja kolm tütart + Kosilane laisas talus</TYP_YHT>
@@ -15460,7 +15460,7 @@ Hobune varastet
 <V>Loputab lusikavarssi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1300200015">
+<ITEM nro="tem1300200015" y="0">
 <META>
 <ID>TEM 13, 20/1 (15)</ID> &lt; <LOC>Ambla khk., Roosna</LOC> - <COL>Aleksander Greenberg, kooliõpetaja</COL>
 <TYP_YHT>Talgute tänu</TYP_YHT>
@@ -15503,7 +15503,7 @@ Talguliste tänu
 <V>Kudujalle kuldamõõka.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1300230001">
+<ITEM nro="tem1300230001" y="0">
 <META>
 <ID>TEM 13, 23/5 (1)</ID> &lt; <LOC>Pühalepa khk.</LOC> - <COL>?</COL> &lt; <INF><NIMI>Siim Muda</NIMI></INF>
 <ZANR>ul</ZANR>
@@ -15561,7 +15561,7 @@ Talguliste tänu
 <V>Pärast sööma voodi puge.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1300250002">
+<ITEM nro="tem1300250002" y="0">
 <META>
 <ID>TEM 13, 25/6 (2)</ID> &lt; <LOC>Emmaste khk.</LOC> - <COL>?</COL> &lt; <INF><NIMI>Heinrich Sarapuu</NIMI></INF>
 <ZANR>ul</ZANR>
@@ -15587,7 +15587,7 @@ Talguliste tänu
 <V>Heinu sööb ja vahel õhkab. -</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1300260003">
+<ITEM nro="tem1300260003" y="0">
 <META>
 <ID>TEM 13, 26 (3)</ID> &lt; <LOC>Emmaste khk.</LOC> - <COL>?</COL> &lt; <INF><NIMI>Meinhardt Sarapuu</NIMI></INF>
 <ZANR>ul</ZANR>
@@ -15604,7 +15604,7 @@ Talguliste tänu
 <V>Pill hüüab ja piiga tantsib.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1300260004">
+<ITEM nro="tem1300260004" y="0">
 <META>
 <ID>TEM 13, 26/7 (4)</ID> &lt; <LOC>Pühalepa khk.</LOC> - <COL>?</COL> &lt; <INF><NIMI>Siim Muda</NIMI></INF>
 <ZANR>ul</ZANR>
@@ -15635,7 +15635,7 @@ Talguliste tänu
 <V>Vana lambal lõppevad.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1300270005">
+<ITEM nro="tem1300270005" y="0">
 <META>
 <ID>TEM 13, 27 (5)</ID> &lt; <LOC>Emmaste khk.</LOC> - <COL>?</COL> &lt; <INF><NIMI>Joh. Sarapuu</NIMI></INF>
 <ZANR>ul</ZANR>
@@ -15659,7 +15659,7 @@ Talguliste tänu
 <V>Tutu-lutu-lutu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1300280006">
+<ITEM nro="tem1300280006" y="0">
 <META>
 <ID>TEM 13, 28 (6)</ID> &lt; <LOC>Pühalepa khk., Heltermaa</LOC> - <COL>?</COL> &lt; <INF><NIMI>J. Dampf</NIMI>, <ELUL>70 a</ELUL></INF>
 <ZANR>ul</ZANR>
@@ -15676,7 +15676,7 @@ Talguliste tänu
 <V>Veevale, vale, voovale,</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1300280007">
+<ITEM nro="tem1300280007" y="0">
 <META>
 <ID>TEM 13, 28/9 (7)</ID> &lt; <LOC>Pühalepa khk., Heltermaa</LOC> - <COL>?</COL> &lt; <INF><NIMI>J. Dampf</NIMI>, <ELUL>70 a</ELUL></INF>
 <ZANR>ul</ZANR>
@@ -15700,7 +15700,7 @@ Talguliste tänu
 <V>Kust rahvale väga suurt kasu on tulnud.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1300290008">
+<ITEM nro="tem1300290008" y="0">
 <META>
 <ID>TEM 13, 29 (8)</ID> &lt; <LOC>Pühalepa khk., Heltermaa</LOC> - <COL>?</COL> &lt; <INF><NIMI>J. Dampf</NIMI>, <ELUL>70 a</ELUL></INF>
 <ZANR>ul</ZANR>
@@ -15716,7 +15716,7 @@ Talguliste tänu
 <V>Ennast temast eemal hoida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1300350001">
+<ITEM nro="tem1300350001" y="1920">
 <META>
 <ID>TEM 13, 35/6 (1)</ID> &lt; <LOC>Käina khk. &amp; v., Kaigutsi k.</LOC> - <COL>õp. M. Peedu</COL> &lt; <INF><NIMI>Paul Maivel &amp;lt; üleskirj. vend Julius Maivel &amp;lt; Toomas Jõekald (surn. 10 aastat varem)</NIMI></INF> (<TMP>1920</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -15759,7 +15759,7 @@ Talguliste tänu
 <V>Külm neid ka vahest võtab.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1300360002">
+<ITEM nro="tem1300360002" y="1920">
 <META>
 <ID>TEM 13, 36 (2)</ID> &lt; <LOC>Käina khk. &amp; v., Kaigutsi k.</LOC> - <COL>õp. M. Peedu</COL> &lt; <INF><NIMI>Paul Maivel &amp;lt; üleskirj. vend Julius Maivel &amp;lt; Toomas Jõekald (surn. 10 aastat varem)</NIMI></INF> (<TMP>1920</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -15777,7 +15777,7 @@ Talguliste tänu
 <V>Saab puruks tehtud jälle teal.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1300450000">
+<ITEM nro="tem1300450000" y="0">
 <META>
 <ID>TEM 13, 45/6</ID> &lt; <LOC>Emmaste khk., Õningu k.</LOC> - <COL>?</COL> &lt; <INF><NIMI>Kersti Hanslepp</NIMI>, <ELUL>80 a</ELUL></INF>
 <ZANR>ul</ZANR>
@@ -15823,7 +15823,7 @@ Talguliste tänu
 <V>Ja need kaarnad kokku ajab.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1300590000">
+<ITEM nro="tem1300590000" y="0">
 <META>
 <ID>TEM 13, 59</ID> &lt; <LOC>Emmaste khk., Kuriste k.</LOC> - <COL>?</COL> &lt; <INF><NIMI>Peeter Liiv</NIMI>, <ELUL>60 a</ELUL></INF>
 <ZANR>ul</ZANR>
@@ -15859,7 +15859,7 @@ Talguliste tänu
 <V>Ja kalvariiet valmis lööb.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1300600000">
+<ITEM nro="tem1300600000" y="0">
 <META>
 <ID>TEM 13, 60</ID> &lt; <LOC>Emmaste khk., Selja k.</LOC> - <COL>?</COL> &lt; <INF><NIMI>Timofei Padu</NIMI>, <ELUL>90 a.</ELUL></INF>
 <ZANR>ul</ZANR>
@@ -15903,7 +15903,7 @@ Talguliste tänu
 <V>hõbeõrred kuldaparred.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem130060000a">
+<ITEM nro="tem130060000a" y="0">
 <META>
 <ID>TEM 13, 60</ID> &lt; <LOC>Emmaste khk., Selja k.</LOC> - <COL>?</COL> &lt; <INF><NIMI>Timofei Padu</NIMI>, <ELUL>90 a</ELUL></INF>
 <TYP_YHT>Õlu</TYP_YHT>
@@ -15932,7 +15932,7 @@ Talguliste tänu
 <V>ja poisid poole põlveni.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1300730000">
+<ITEM nro="tem1300730000" y="1918">
 <META>
 <ID>TEM 13, 73</ID> &lt; <LOC>Tallinn</LOC> - <COL>?</COL> &lt; <INF><NIMI>T. Mutso</NIMI></INF> (<TMP>1918</TMP>)
 <TYP_YHT>Ennem kivi kui poisi juures</TYP_YHT><LLIIK_YHT>Laulud noorrahva elust (Neidude õpetamine)</LLIIK_YHT></META>
@@ -15961,7 +15961,7 @@ Talguliste tänu
 </REF>
 </TEXT>
 </ITEM>
-<ITEM nro="tem1300750000">
+<ITEM nro="tem1300750000" y="1920">
 <META>
 <ID>TEM 13, 75</ID> &lt; <LOC>Vormsi ?, Sviibi k., Aigini</LOC> - <COL>H. Halliste</COL> &lt; <INF><NIMI>Maali Tohver</NIMI></INF> (<TMP>1920</TMP>)
 <ZANR>ul</ZANR>
@@ -15986,7 +15986,7 @@ Algus ja lõpp puudub.
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem2200000000">
+<ITEM nro="tem2200000000" y="0">
 <META>
 <ID>TEM 22</ID> &lt; <LOC>Kihnu</LOC>
 <LLIIK>Pl</LLIIK>
@@ -16043,7 +16043,7 @@ jne.
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="tem220000000a">
+<ITEM nro="tem220000000a" y="0">
 <META>
 <ID>TEM 22</ID> &lt; <LOC>Kihnu</LOC>
 <LLIIK>Pl</LLIIK>
@@ -16085,7 +16085,7 @@ jne.
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="tem220000000b">
+<ITEM nro="tem220000000b" y="0">
 <META>
 <ID>TEM 22</ID> &lt; <LOC>Kihnu</LOC>
 <LLIIK>Pl</LLIIK>
@@ -16132,7 +16132,7 @@ Siis hakatakse pruuti ehtima. Võetakse tüdruku rätik peast ja viiakse nooriku
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="tem220000000c">
+<ITEM nro="tem220000000c" y="0">
 <META>
 <ID>TEM 22</ID> &lt; <LOC>Kihnu</LOC>
 <ZANR>kombekirjeldus/regilaul</ZANR><LLIIK>Pl</LLIIK>
@@ -16181,7 +16181,7 @@ Siis viiakse pruut laua takka õue, kus "raudkäe" vanker ukse ees, pruudi vend 
 </MRKS>
 </REFS>
 </ITEM>
-<ITEM nro="tem220000000d">
+<ITEM nro="tem220000000d" y="0">
 <META>
 <ID>TEM 22</ID> &lt; <LOC>Kihnu</LOC>
 <ZANR>kombekirjeldus/regilaul</ZANR><LLIIK>Pl</LLIIK>
@@ -16347,7 +16347,7 @@ P.S. Kirstu peiumajja jõudmisel laulab peiu pulmalised kirstu lahti:
 <V>Hakka nüüd kirstu kiputama</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00010056">
+<ITEM nro="tem4a00010056" y="1909">
 <META>
 <ID>TEM 4a, 1/2 (56)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Noorik kodu käimas</TYP_YHT>
@@ -16420,7 +16420,7 @@ Noorik kodu käimas
 <V>Liiger-laager lavva pääle</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00020057">
+<ITEM nro="tem4a00020057" y="1909">
 <META>
 <ID>TEM 4a, 2 (57)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Kalajõgi</TYP_YHT>
@@ -16449,7 +16449,7 @@ Kalajõgi
 <V>Vahja vällä kiskujata.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00030058">
+<ITEM nro="tem4a00030058" y="1909">
 <META>
 <ID>TEM 4a, 3 (58)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Kuldnaine</TYP_YHT>
@@ -16485,7 +16485,7 @@ Kuldnaine
 <V>Hõbesta nooriketa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00030059">
+<ITEM nro="tem4a00030059" y="1909">
 <META>
 <ID>TEM 4a, 3/4 (59)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 </META>
@@ -16523,7 +16523,7 @@ Kuldnaine
 <V>Teie kõrva kõndimaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00040060">
+<ITEM nro="tem4a00040060" y="1909">
 <META>
 <ID>TEM 4a, 4 (60)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 </META>
@@ -16545,7 +16545,7 @@ Kuldnaine
 <V>Kingi sulle kimmeliku.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00050061">
+<ITEM nro="tem4a00050061" y="1909">
 <META>
 <ID>TEM 4a, 5/6 (61)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Suude sulg + Arg laulik + _ + Hea hääl</TYP_YHT>
@@ -16605,7 +16605,7 @@ Küla ütel
 <V>Harju kantud kannelesse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00060062">
+<ITEM nro="tem4a00060062" y="1909">
 <META>
 <ID>TEM 4a, 6 (62)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Laulikule juua</TYP_YHT>
@@ -16624,7 +16624,7 @@ Laulikule juua
 <V>Tees ma hääli tedre muodi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00060063">
+<ITEM nro="tem4a00060063" y="1909">
 <META>
 <ID>TEM 4a, 6 (63)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 </META>
@@ -16651,7 +16651,7 @@ Laulikule juua
 <V>Kündäen kübäre pääle</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00070064">
+<ITEM nro="tem4a00070064" y="1909">
 <META>
 <ID>TEM 4a, 7 (64)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 </META>
@@ -16683,7 +16683,7 @@ Laulikule juua
 <V>Augulti ma arme kaasa.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00070065">
+<ITEM nro="tem4a00070065" y="1909">
 <META>
 <ID>TEM 4a, 7 (65)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Hiljuke</TYP_YHT>
@@ -16713,7 +16713,7 @@ Hiljuke
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem4a00080066">
+<ITEM nro="tem4a00080066" y="1909">
 <META>
 <ID>TEM 4a, 8/11 (66)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Lauliku sõim + Võidulaulmine</TYP_YHT>
@@ -16885,7 +16885,7 @@ Halb laulik
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem4a00110067">
+<ITEM nro="tem4a00110067" y="1909">
 <META>
 <ID>TEM 4a, 11/2 (67)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Õitsilaul</TYP_YHT>
@@ -16917,7 +16917,7 @@ Halb laulik
 <V>Valge vastu tõtajata.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00120068">
+<ITEM nro="tem4a00120068" y="1909">
 <META>
 <ID>TEM 4a, 12 (68)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Õitsilaul</TYP_YHT>
@@ -16938,7 +16938,7 @@ Halb laulik
 <V>Pärn o' päitse pääle panna.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00120069">
+<ITEM nro="tem4a00120069" y="1909">
 <META>
 <ID>TEM 4a, 12/3 (69)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 </META>
@@ -16960,7 +16960,7 @@ Halb laulik
 <V>Hõbelisel' hõlma heitä.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00130070">
+<ITEM nro="tem4a00130070" y="1909">
 <META>
 <ID>TEM 4a, 13/4 (70)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Hobune kadunud</TYP_YHT>
@@ -17010,7 +17010,7 @@ Hobune kadunud
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem4a00140071">
+<ITEM nro="tem4a00140071" y="1909">
 <META>
 <ID>TEM 4a, 14/5 (71)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 </META>
@@ -17049,7 +17049,7 @@ Hobune kadunud
 <V>Kimmelist saad kilingida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00150072">
+<ITEM nro="tem4a00150072" y="1909">
 <META>
 <ID>TEM 4a, 15 (72)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 </META>
@@ -17069,7 +17069,7 @@ Hobune kadunud
 <V>Harju maid äestamaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00150073">
+<ITEM nro="tem4a00150073" y="1909">
 <META>
 <ID>TEM 4a, 15/6 (73)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Ajage kari siia! + Neiu linn</TYP_YHT>
@@ -17113,7 +17113,7 @@ Aagem kari ühte
 <V>Onu otsa võtt ubine.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00160074">
+<ITEM nro="tem4a00160074" y="1909">
 <META>
 <ID>TEM 4a, 16/7 (74)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 </META>
@@ -17148,7 +17148,7 @@ Aagem kari ühte
 <V>Vasehammaste vahele.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00170075">
+<ITEM nro="tem4a00170075" y="1909">
 <META>
 <ID>TEM 4a, 17 (75)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP>
@@ -17179,7 +17179,7 @@ Karjuse laul
 <V>Rahaline rattasse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00170076">
+<ITEM nro="tem4a00170076" y="1909">
 <META>
 <ID>TEM 4a, 17/8 (76)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Haned kadunud</TYP_YHT>
@@ -17229,7 +17229,7 @@ Haned kadunud
 <V>Laager verda lastanesse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00180077">
+<ITEM nro="tem4a00180077" y="1909">
 <META>
 <ID>TEM 4a, 18/9 (77)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP>
@@ -17252,7 +17252,7 @@ Peiu ja neiu laul
 <V>Hellä lindu helkiveta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00190078">
+<ITEM nro="tem4a00190078" y="1909">
 <META>
 <ID>TEM 4a, 19 (78)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Söö, kari!</TYP_YHT>
@@ -17275,7 +17275,7 @@ Söö, kari!
 <V>Piimalilli pilliruogu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00190079">
+<ITEM nro="tem4a00190079" y="1909">
 <META>
 <ID>TEM 4a, 19/20 (79)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 </META>
@@ -17302,7 +17302,7 @@ Söö, kari!
 <V>Kahjut küla karja laiu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00200080">
+<ITEM nro="tem4a00200080" y="1909">
 <META>
 <ID>TEM 4a, 20/1 (80)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP>
@@ -17364,7 +17364,7 @@ Vanale mehele
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem4a00210081">
+<ITEM nro="tem4a00210081" y="1909">
 <META>
 <ID>TEM 4a, 21 (81)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 </META>
@@ -17385,7 +17385,7 @@ Vanale mehele
 <V>Aig' o' unda uinutelle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00210082">
+<ITEM nro="tem4a00210082" y="1909">
 <META>
 <ID>TEM 4a, 21/2 (82)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Karja koju oodatakse</TYP_YHT>
@@ -17409,7 +17409,7 @@ Kari koju
 <V>Suka varda veereteje.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00220083">
+<ITEM nro="tem4a00220083" y="1909">
 <META>
 <ID>TEM 4a, 22/3 (83)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Lõikuselaul - ÜLD</TYP_YHT>
@@ -17454,7 +17454,7 @@ Lõikuselaul
 <V>Nabrapäie pääle panna.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00230084">
+<ITEM nro="tem4a00230084" y="1909">
 <META>
 <ID>TEM 4a, 23 (84)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Lõikuselaul - ÜLD</TYP_YHT>
@@ -17498,7 +17498,7 @@ Lõikuselaul
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem4a00230085">
+<ITEM nro="tem4a00230085" y="1909">
 <META>
 <ID>TEM 4a, 23/4 (85)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 </META>
@@ -17516,7 +17516,7 @@ Lõikuselaul
 <V>Vana mees vao jälile.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00240086">
+<ITEM nro="tem4a00240086" y="1909">
 <META>
 <ID>TEM 4a, 24 (86)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Kaasa kaugel</TYP_YHT><LLIIK_YHT>Laulud noorrahva elust (Kosjad)</LLIIK_YHT></META>
@@ -17545,7 +17545,7 @@ Lõikuselaul
 <V>Lehe laia lennätennä.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00240087">
+<ITEM nro="tem4a00240087" y="1909">
 <META>
 <ID>TEM 4a, 24/5 (87)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Laisk kalamees</TYP_YHT>
@@ -17581,7 +17581,7 @@ Kalamehe naine
 <V>Kaisute end kammerenna.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00250088">
+<ITEM nro="tem4a00250088" y="1909">
 <META>
 <ID>TEM 4a, 25/6 (88)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 </META>
@@ -17611,7 +17611,7 @@ Kalamehe naine
 <V>Kurva pärgä meil pähänä.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00260089">
+<ITEM nro="tem4a00260089" y="1909">
 <META>
 <ID>TEM 4a, 26/7 (89)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP>
@@ -17669,7 +17669,7 @@ Kalamehe naine
 <V>Päe tõussi tõst ta päädä.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00270090">
+<ITEM nro="tem4a00270090" y="1909">
 <META>
 <ID>TEM 4a, 27 (90)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Hirnub selgaistujaid</TYP_YHT>
@@ -17690,7 +17690,7 @@ Hobuse kiitus
 <V>Karjus kuldakannuksida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00270091">
+<ITEM nro="tem4a00270091" y="1909">
 <META>
 <ID>TEM 4a, 27/8 (91)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP>
@@ -17717,7 +17717,7 @@ Peiu pilge
 <V>Pasandit paa-alutse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00280091">
+<ITEM nro="tem4a00280091" y="1909">
 <META>
 <ID>TEM 4a, 28 (91)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> (<TMP>1909</TMP>)
 <TYP_YHT>Kättemaks sakstele</TYP_YHT>
@@ -17743,7 +17743,7 @@ Kättemaks sakstele
 <V>Kutsert linu kolkimaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00280092">
+<ITEM nro="tem4a00280092" y="1909">
 <META>
 <ID>TEM 4a, 28/9 (92)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Vara vaeslapseks</TYP_YHT>
@@ -17767,7 +17767,7 @@ Vara vaeseks
 <V>Vald mul vana rööveida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00290093">
+<ITEM nro="tem4a00290093" y="1909">
 <META>
 <ID>TEM 4a, 29 (93)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Lindude õlu</TYP_YHT>
@@ -17799,7 +17799,7 @@ Kull (kubjas) kutsumata
 <V>Käre vastatse kasugu.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00290094">
+<ITEM nro="tem4a00290094" y="1909">
 <META>
 <ID>TEM 4a, 29/30 (94)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP>
@@ -17821,7 +17821,7 @@ Miks Miku mind ei võta
 <V>Vana varese jagave. <REFR>Mikku</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00300095">
+<ITEM nro="tem4a00300095" y="1909">
 <META>
 <ID>TEM 4a, 30 (95)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Võta väike naine!</TYP_YHT>
@@ -17857,7 +17857,7 @@ Hoiatus suurest naisest
 <V>Oli oma naisekene.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00310096">
+<ITEM nro="tem4a00310096" y="1909">
 <META>
 <ID>TEM 4a, 31 (96)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Kasvatus asjatu + Memme vaev</TYP_YHT>
@@ -17896,7 +17896,7 @@ Ema asjata kasvatand
 <V>Sülle võtsid süüalutse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00310097">
+<ITEM nro="tem4a00310097" y="1909">
 <META>
 <ID>TEM 4a, 31/2 (97)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Kiigele ehtimine</TYP_YHT>
@@ -17932,7 +17932,7 @@ Kiigele ehtimine
 <V>Meie hällu hää hällü.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00320098">
+<ITEM nro="tem4a00320098" y="1909">
 <META>
 <ID>TEM 4a, 32/3 (98)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Kiige katsumine + Kiik sobimatul kohal</TYP_YHT>
@@ -17980,7 +17980,7 @@ Kiige katsumine
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem4a00330099">
+<ITEM nro="tem4a00330099" y="1909">
 <META>
 <ID>TEM 4a, 33 (99)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Kingitused kiigesepale ja kiigutajale</TYP_YHT>
@@ -18004,7 +18004,7 @@ Kiigeliste tänu
 <V>Saiasööja mõdujooja.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00330100">
+<ITEM nro="tem4a00330100" y="1909">
 <META>
 <ID>TEM 4a, 33/4 (100)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <LLIIK>Kiigelaul</LLIIK>
@@ -18034,7 +18034,7 @@ Kiigeliste tänu
 <V>Tuhakotti tuulumenna.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00340101">
+<ITEM nro="tem4a00340101" y="1909">
 <META>
 <ID>TEM 4a, 34/5 (101)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP>
@@ -18097,7 +18097,7 @@ Saja, vihm!
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem4a00350102">
+<ITEM nro="tem4a00350102" y="1909">
 <META>
 <ID>TEM 4a, 35 (102)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 </META>
@@ -18115,7 +18115,7 @@ Saja, vihm!
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem4a00350103">
+<ITEM nro="tem4a00350103" y="1909">
 <META>
 <ID>TEM 4a, 35 (103)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Põlvist põdema</TYP_YHT>
@@ -18136,7 +18136,7 @@ Tõbine naine
 <V>Piibuga pere pidäsi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00360104">
+<ITEM nro="tem4a00360104" y="1909">
 <META>
 <ID>TEM 4a, 36 (104)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 </META>
@@ -18149,7 +18149,7 @@ Tõbine naine
 <V>Peni es heidä hengekesta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00360105">
+<ITEM nro="tem4a00360105" y="1909">
 <META>
 <ID>TEM 4a, 36 (105)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP>
@@ -18171,7 +18171,7 @@ Kurn
 <V>Valla põruts kõrtsiusse.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00360106">
+<ITEM nro="tem4a00360106" y="1909">
 <META>
 <ID>TEM 4a, 36/7 (106)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Millal ühte saame</TYP_YHT>
@@ -18219,7 +18219,7 @@ Kullad koos
 <V>Nellä ütte laulamaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00370107">
+<ITEM nro="tem4a00370107" y="1909">
 <META>
 <ID>TEM 4a, 37/8 (107)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Laulu võim</TYP_YHT>
@@ -18254,7 +18254,7 @@ N 27 siia alla.
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00380108">
+<ITEM nro="tem4a00380108" y="1909">
 <META>
 <ID>TEM 4a, 38/9 (108)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Tähemõrsja</TYP_YHT>
@@ -18334,7 +18334,7 @@ Salme
 <V>Täht o' erku villä-aale.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00390109">
+<ITEM nro="tem4a00390109" y="1909">
 <META>
 <ID>TEM 4a, 39/40 (109)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 </META>
@@ -18356,7 +18356,7 @@ Salme
 <V>Vaat's meid varsa joosakusta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00400110">
+<ITEM nro="tem4a00400110" y="1909">
 <META>
 <ID>TEM 4a, 40 (110)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <LLIIK>Pl</LLIIK>
@@ -18384,7 +18384,7 @@ Salme
 <V>Matsaku maha puduve. <REFR>kaske</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00410000">
+<ITEM nro="tem4a00410000" y="1909">
 <META>
 <ID>TEM 4a, 41/2</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 </META>
@@ -18434,7 +18434,7 @@ Salme
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem4a00410111">
+<ITEM nro="tem4a00410111" y="1909">
 <META>
 <ID>TEM 4a, 41 (111)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <LLIIK>Pl</LLIIK>
@@ -18459,7 +18459,7 @@ Salme
 <V>Tammepakk tarelävelta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00420112">
+<ITEM nro="tem4a00420112" y="1909">
 <META>
 <ID>TEM 4a, 42 (112)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 </META>
@@ -18480,7 +18480,7 @@ Salme
 <V>Au hapu taari eest.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00430113">
+<ITEM nro="tem4a00430113" y="1909">
 <META>
 <ID>TEM 4a, 43 (113)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 </META>
@@ -18502,7 +18502,7 @@ Salme
 <V>Hobu teeda kävve'enna.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00430114">
+<ITEM nro="tem4a00430114" y="1909">
 <META>
 <ID>TEM 4a, 43 (114)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 </META>
@@ -18526,7 +18526,7 @@ Salme
 <V>Vana kirju koerakonti.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00440115">
+<ITEM nro="tem4a00440115" y="1909">
 <META>
 <ID>TEM 4a, 44 (115)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 </META>
@@ -18540,7 +18540,7 @@ Salme
 <V>Kümme künnuruunakesta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00440116">
+<ITEM nro="tem4a00440116" y="1909">
 <META>
 <ID>TEM 4a, 44 (116)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <ZANR>ul</ZANR><TYP_YHT>Ants oli aus saunamees</TYP_YHT>
@@ -18562,7 +18562,7 @@ Saunamees Ants
 <V>Küläkubjas kohtumees.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00440117">
+<ITEM nro="tem4a00440117" y="1909">
 <META>
 <ID>TEM 4a, 44/7 (117)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <LLIIK>Mardilaul</LLIIK>
@@ -18676,7 +18676,7 @@ Saunamees Ants
 <V>Kas ei või ja. <REFR>Märti</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00470118">
+<ITEM nro="tem4a00470118" y="1909">
 <META>
 <ID>TEM 4a, 47 (118)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Lauliku vaev</TYP_YHT>
@@ -18694,7 +18694,7 @@ Lauliku vaev
 <V>Laulu lauli tõist muretsi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00470119">
+<ITEM nro="tem4a00470119" y="1909">
 <META>
 <ID>TEM 4a, 47 (119)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 </META>
@@ -18715,7 +18715,7 @@ Lauliku vaev
 <V>Võsik võile leväle.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00480120">
+<ITEM nro="tem4a00480120" y="1909">
 <META>
 <ID>TEM 4a, 48 (120)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP>
@@ -18750,7 +18750,7 @@ Miks neiud kurvad
 <V>Suitsul saadi saunalaval.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00480121">
+<ITEM nro="tem4a00480121" y="1909">
 <META>
 <ID>TEM 4a, 48/51 (121)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Kadrilaul</TYP_YHT>
@@ -18856,7 +18856,7 @@ Miks neiud kurvad
 <V>Siis pange katta kasugu. <REFR>Katri</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00510122">
+<ITEM nro="tem4a00510122" y="1909">
 <META>
 <ID>TEM 4a, 51 (122)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <LLIIK>Vastlalaul</LLIIK>
@@ -18876,7 +18876,7 @@ Miks neiud kurvad
 <V>Pistke puhu piimapütti. <REFR>liugu-laugu</REFR></V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00510123">
+<ITEM nro="tem4a00510123" y="1909">
 <META>
 <ID>TEM 4a, 51/2 (123)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 </META>
@@ -18893,7 +18893,7 @@ Miks neiud kurvad
 <V>Aa hullu latse kätte latse kätte.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00520124">
+<ITEM nro="tem4a00520124" y="1909">
 <META>
 <ID>TEM 4a, 52 (124)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Imed</TYP_YHT>
@@ -18912,7 +18912,7 @@ Imed
 <V>Lehm tõi pisi täkukese.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00520125">
+<ITEM nro="tem4a00520125" y="1909">
 <META>
 <ID>TEM 4a, 52 (125)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 </META>
@@ -18933,7 +18933,7 @@ Imed
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem4a00520126">
+<ITEM nro="tem4a00520126" y="1909">
 <META>
 <ID>TEM 4a, 52 (126)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 </META>
@@ -18949,7 +18949,7 @@ Imed
 <V>Teine annan ma aseme.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00530127">
+<ITEM nro="tem4a00530127" y="1909">
 <META>
 <ID>TEM 4a, 53/4 (127)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Heldi Ann</NIMI></INF> (<TMP>1909</TMP>)
 <TYP>
@@ -19005,7 +19005,7 @@ Heldi Ann Laulis selle laulu 40 a. tagasi ühe ainsa korra. Nii palju jäi mul s
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00540128">
+<ITEM nro="tem4a00540128" y="1909">
 <META>
 <ID>TEM 4a, 54/5 (128)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Leinamäng</TYP_YHT>
@@ -19064,7 +19064,7 @@ Nukumäng
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="tem4a00550129">
+<ITEM nro="tem4a00550129" y="1909">
 <META>
 <ID>TEM 4a, 55 (129)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Mardilaul</TYP_YHT>
@@ -19091,7 +19091,7 @@ Mardi sõim
 <V>Kümme kirpu kirja pääla.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00550130">
+<ITEM nro="tem4a00550130" y="1909">
 <META>
 <ID>TEM 4a, 55/6 (130)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 </META>
@@ -19132,7 +19132,7 @@ Mardi sõim
 <V>Kopsu all elukuradi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00560131">
+<ITEM nro="tem4a00560131" y="1909">
 <META>
 <ID>TEM 4a, 56 (131)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Täid kaladeks</TYP_YHT>
@@ -19151,7 +19151,7 @@ Täid kaladeks
 <V>Merre pillun peenembit.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00560132">
+<ITEM nro="tem4a00560132" y="1909">
 <META>
 <ID>TEM 4a, 56/7 (132)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Kiigu kõrgele!</TYP_YHT>
@@ -19180,7 +19180,7 @@ Kiik kõrgele
 <V>Kolmas aita kuldaharja.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00570133">
+<ITEM nro="tem4a00570133" y="1909">
 <META>
 <ID>TEM 4a, 57 (133)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP_YHT>Kass kaevus</TYP_YHT>
@@ -19206,7 +19206,7 @@ Kass kaevus
 <V>Veel änämp kajuveesta.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00570134">
+<ITEM nro="tem4a00570134" y="1909">
 <META>
 <ID>TEM 4a, 57/8 (134)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP>
@@ -19232,7 +19232,7 @@ Vanapoisi pilge
 <V>Kanaharjakust habeme.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="tem4a00580135">
+<ITEM nro="tem4a00580135" y="1909">
 <META>
 <ID>TEM 4a, 58 (135)</ID> &lt; <LOC>Karksi khk.</LOC> - <COL>H. Paju</COL> &lt; <INF><NIMI>Ann Pill</NIMI></INF> (<TMP>1909</TMP>)
 <TYP>

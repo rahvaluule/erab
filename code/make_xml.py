@@ -25,7 +25,7 @@ if __name__ == '__main__':
             if prefix not in xml:
                 xml[prefix] = ['<COLLECTION>']
                 xml_koll[prefix] = ['<COLLECTION>']
-            xml[prefix].append('<ITEM nro="{}">'.format(r['id']))
+            xml[prefix].append('<ITEM nro="{}" y="{}">'.format(r['id'], r['aasta']))
             xml[prefix].append(r['metaxml'].strip())
             xml[prefix].append(r['textxml'].strip())
             xml[prefix].append(r['refsxml'].strip())

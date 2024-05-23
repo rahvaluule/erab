@@ -1,5 +1,5 @@
 <COLLECTION>
-<ITEM nro="ekse00130001">
+<ITEM nro="ekse00130001" y="1923">
 <META>
 <ID>EKS e 13 (1)</ID> &lt; <LOC>Peetri khk., Roosna-Alliku (Esna) v., Kodasema m.</LOC> - <COL>Paul Havik</COL> &lt; <INF><NIMI>Tõnu Tiklat</NIMI>, <ELUL>69 a</ELUL></INF> (<TMP>1923</TMP>)
 <TYP>
@@ -28,7 +28,7 @@ Tema toodang on mitmekesine, osalt vanad lauldavad regivärsid, osalt aga uuema 
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="ekse00130002">
+<ITEM nro="ekse00130002" y="1923">
 <META>
 <ID>EKS e 13/4 (2)</ID> &lt; <LOC>Peetri khk., Roosna-Alliku (Esna) v., Kodasema m.</LOC> - <COL>Paul Havik</COL> &lt; <INF><NIMI>Tõnu Tiklat</NIMI>, <ELUL>69 a</ELUL></INF> (<TMP>1923</TMP>)
 </META>
@@ -47,7 +47,7 @@ Tema toodang on mitmekesine, osalt vanad lauldavad regivärsid, osalt aga uuema 
 <V>Salkas saksa välja teeda.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekse00140003">
+<ITEM nro="ekse00140003" y="1923">
 <META>
 <ID>EKS e 14 (3)</ID> &lt; <LOC>Peetri khk., Roosna-Alliku (Esna) v., Kodasema m.</LOC> - <COL>Paul Havik</COL> &lt; <INF><NIMI>Tõnu Tiklat</NIMI>, <ELUL>69 a</ELUL></INF> (<TMP>1923</TMP>)
 <TYP_YHT>Kased kasvama</TYP_YHT>
@@ -72,7 +72,7 @@ Kask kasvama
 <V>Urvad poegi tütterida.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekse00140004">
+<ITEM nro="ekse00140004" y="1923">
 <META>
 <ID>EKS e 14 (4)</ID> &lt; <LOC>Peetri khk., Roosna-Alliku (Esna) v., Kodasema m.</LOC> - <COL>Paul Havik</COL> &lt; <INF><NIMI>Tõnu Tiklat</NIMI>, <ELUL>69 a</ELUL></INF> (<TMP>1923</TMP>)
 <ZANR>ul</ZANR>
@@ -94,7 +94,7 @@ Kask kasvama
 <V>Paidest sa ei leia paika.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekse00150005">
+<ITEM nro="ekse00150005" y="1923">
 <META>
 <ID>EKS e 15 (5)</ID> &lt; <LOC>Peetri khk., Roosna-Alliku (Esna) v., Kodasema m.</LOC> - <COL>Paul Havik</COL> &lt; <INF><NIMI>Tõnu Tiklat</NIMI>, <ELUL>69 a</ELUL></INF> (<TMP>1923</TMP>)
 <ZANR>siirdevormiline laul</ZANR><TYP>
@@ -124,7 +124,7 @@ Kupja naine
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="ekse00150006">
+<ITEM nro="ekse00150006" y="1923">
 <META>
 <ID>EKS e 15/6 (6)</ID> &lt; <LOC>Peetri khk., Roosna-Alliku (Esna) v., Kodasema m.</LOC> - <COL>Paul Havik</COL> &lt; <INF><NIMI>Tõnu Tiklat</NIMI>, <ELUL>69 a</ELUL></INF> (<TMP>1923</TMP>)
 <ZANR>uuem rahvalaul</ZANR>
@@ -185,7 +185,7 @@ Kupja naine
 <V>Ja jälle ilma ümmer käin.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekse00170007">
+<ITEM nro="ekse00170007" y="1923">
 <META>
 <ID>EKS e 17/8 (7)</ID> &lt; <LOC>Peetri khk., Roosna-Alliku (Esna) v., Kodasema m.</LOC> - <COL>Paul Havik</COL> &lt; <INF><NIMI>Tõnu Tiklat</NIMI>, <ELUL>69 a</ELUL></INF> (<TMP>1923</TMP>)
 <ZANR>ul</ZANR>
@@ -246,7 +246,7 @@ Kupja naine
 <V>Kui lõpnud lammas koertele.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekse00180008">
+<ITEM nro="ekse00180008" y="1923">
 <META>
 <ID>EKS e 18/9 (8)</ID> &lt; <LOC>Peetri khk., Roosna-Alliku (Esna) v., Kodasema m.</LOC> - <COL>Paul Havik</COL> &lt; <INF><NIMI>Tõnu Tiklat</NIMI>, <ELUL>69 a</ELUL></INF> (<TMP>1923</TMP>)
 <ZANR>ul</ZANR>
@@ -291,7 +291,7 @@ Kupja naine
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="ekse00370004">
+<ITEM nro="ekse00370004" y="1923">
 <META>
 <ID>EKS e 37/8 (4)</ID> &lt; <LOC>Järva-Jaani khk., Järva-Jaani v., Kuksema m.</LOC> - <COL>Paul Havik</COL> &lt; <INF><NIMI>Sõber</NIMI>, <ELUL>88 a.</ELUL></INF> (<TMP>1923</TMP>)
 <TYP_YHT>Sepp teeb sarvest sadula + Vahelt vaene + Kupja kolm tütart</TYP_YHT>
@@ -337,7 +337,7 @@ Sarvest hobu
 </REF>
 </REFS>
 </ITEM>
-<ITEM nro="ekse00380000">
+<ITEM nro="ekse00380000" y="1923">
 <META>
 <ID>EKS e 38</ID> &lt; <LOC>Järva-Jaani khk., Järva-Jaani v., Kuksema m.</LOC> - <COL>Paul Havik</COL> &lt; <INF><NIMI>Mai Lill</NIMI></INF> (<TMP>1923</TMP>)
 <TYP>
@@ -361,7 +361,7 @@ Härrale lauldud pilkelaul.
 <V>Mäe taga märävorstid.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekse00390000">
+<ITEM nro="ekse00390000" y="1923">
 <META>
 <ID>EKS e 39</ID> &lt; <LOC>Väike-Maarja (Järva-Jaani) khk., Võhmetu vstm.</LOC> - <COL>Paul Havik</COL> &lt; <INF><NIMI>Mai Lill &amp;lt; Krõõt</NIMI>, <ELUL>90 a.</ELUL></INF> (<TMP>1923</TMP>)
 <TYP>
@@ -382,7 +382,7 @@ Need nimetatud mõisad asuvad kõik Järva-Jaani ümbruses. Kõneleja, kes Krõ�
 <TYHI/>
 </TEXT>
 </ITEM>
-<ITEM nro="ekse00400001">
+<ITEM nro="ekse00400001" y="1923">
 <META>
 <ID>EKS e 40/1 (1)</ID> &lt; <LOC>Järva-Jaani khk., (Võhmatu) v.</LOC> - <COL>Paul Havik</COL> &lt; <INF><NIMI>Jüri Lielenthal</NIMI>, <ELUL>69 a. rätsep</ELUL></INF> (<TMP>1923</TMP>)
 <TYP_YHT>Õlu</TYP_YHT>
@@ -413,7 +413,7 @@ Need nimetatud mõisad asuvad kõik Järva-Jaani ümbruses. Kõneleja, kes Krõ�
 <V>Kuue koidu keske'ella.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekse00410002">
+<ITEM nro="ekse00410002" y="1923">
 <META>
 <ID>EKS e 41/2 (2)</ID> &lt; <LOC>Järva-Jaani khk., (Võhmatu) v.</LOC> - <COL>Paul Havik</COL> &lt; <INF><NIMI>Jüri Lielenthal</NIMI>, <ELUL>69 a. rätsep</ELUL></INF> (<TMP>1923</TMP>)
 <TYP_YHT>Õlu + Joodiku nädal</TYP_YHT>
@@ -452,7 +452,7 @@ Need nimetatud mõisad asuvad kõik Järva-Jaani ümbruses. Kõneleja, kes Krõ�
 <V>Kantselid minu karata.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekse00420003">
+<ITEM nro="ekse00420003" y="1923">
 <META>
 <ID>EKS e 42 (3)</ID> &lt; <LOC>Järva-Jaani khk., (Võhmatu) v.</LOC> - <COL>Paul Havik</COL> &lt; <INF><NIMI>Jüri Lielenthal</NIMI>, <ELUL>69 a. rätsep</ELUL></INF> (<TMP>1923</TMP>)
 </META>
@@ -463,7 +463,7 @@ Need nimetatud mõisad asuvad kõik Järva-Jaani ümbruses. Kõneleja, kes Krõ�
 <V>Suitsu ajal sõrmkinnas.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekse00420004">
+<ITEM nro="ekse00420004" y="1923">
 <META>
 <ID>EKS e 42 (4)</ID> &lt; <LOC>Järva-Jaani khk., (Võhmatu) v.</LOC> - <COL>Paul Havik</COL> &lt; <INF><NIMI>Jüri Lielenthal</NIMI>, <ELUL>69 a. rätsep</ELUL></INF> (<TMP>1923</TMP>)
 <TYP_YHT>Sirbiviskamise laul</TYP_YHT>
@@ -479,7 +479,7 @@ Sirise, sirbikene!
 <V>Sellel peigmees mütsi ostab.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekse00420005">
+<ITEM nro="ekse00420005" y="1923">
 <META>
 <ID>EKS e 42/3 (5)</ID> &lt; <LOC>Järva-Jaani khk., (Võhmatu) v.</LOC> - <COL>Paul Havik</COL> &lt; <INF><NIMI>Jüri Lielenthal</NIMI>, <ELUL>69 a. rätsep</ELUL></INF> (<TMP>1923</TMP>)
 <TYP_YHT>Imed</TYP_YHT>
@@ -501,7 +501,7 @@ Imed
 <V>Leenul leemekulbikene.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekse00430001">
+<ITEM nro="ekse00430001" y="1923">
 <META>
 <ID>EKS e 43/5 (1)</ID> &lt; <LOC>Järva-Jaani khk. &amp;lt; Püha khk.</LOC> - <COL>Paul Havik</COL> &lt; <INF><NIMI>Aleksander Sander</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1923</TMP>)
 <ZANR>ul</ZANR>
@@ -545,7 +545,7 @@ Imed
 <V>Pole süia annud iva.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekse00430006">
+<ITEM nro="ekse00430006" y="1923">
 <META>
 <ID>EKS e 43 (6)</ID> &lt; <LOC>Järva-Jaani khk., (Võhmatu) v.</LOC> - <COL>Paul Havik</COL> &lt; <INF><NIMI>Jüri Lielenthal</NIMI>, <ELUL>69 a. rätsep</ELUL></INF> (<TMP>1923</TMP>)
 <TYP>
@@ -561,7 +561,7 @@ Mari magab maksu pärast
 <V>Iga ööse hinna pärast.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekse00430007">
+<ITEM nro="ekse00430007" y="1923">
 <META>
 <ID>EKS e 43 (7)</ID> &lt; <LOC>Järva-Jaani khk., (Võhmatu) v.</LOC> - <COL>Paul Havik</COL> &lt; <INF><NIMI>Jüri Lielenthal</NIMI>, <ELUL>69 a. rätsep</ELUL></INF> (<TMP>1923</TMP>)
 <ZANR>ul</ZANR>
@@ -576,7 +576,7 @@ Mari magab maksu pärast
 <V>Mina kamandan korralisi.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekse00450001">
+<ITEM nro="ekse00450001" y="1923">
 <META>
 <ID>EKS e 45 (1)</ID> &lt; <LOC>Järva-Jaani khk.</LOC> - <COL>Paul Havik</COL> &lt; <INF><NIMI>Ann Kübar</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1923</TMP>)
 <TYP_YHT>Pill ei toida + Hea hääl</TYP_YHT>
@@ -604,7 +604,7 @@ Pill
 <V>Sarve noore nuttemaie.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekse00460001">
+<ITEM nro="ekse00460001" y="1923">
 <META>
 <ID>EKS e 46/7 (1)</ID> &lt; <LOC>Tarvastu khk.</LOC> - <COL>Paul Havik</COL> &lt; <INF><NIMI>kooliõp. Pausk</NIMI></INF> (<TMP>1923</TMP>)
 <TYP_YHT>Mõistatus</TYP_YHT>
@@ -625,7 +625,7 @@ Pidavat olema mõistatus, kuid mis ta tähendab ei tea jutustaja ise ka mitte.
 <V>Seitse sõnni vastatikku</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekse00460002">
+<ITEM nro="ekse00460002" y="1923">
 <META>
 <ID>EKS e 46 (2)</ID> &lt; <LOC>Järva-Jaani khk., (Võhmatu) v.</LOC> - <COL>Paul Havik</COL> &lt; <INF><NIMI>Ann Kübar</NIMI>, <ELUL>60 a.</ELUL></INF> (<TMP>1923</TMP>)
 <ZANR>ul</ZANR>
@@ -647,7 +647,7 @@ Pidavat olema mõistatus, kuid mis ta tähendab ei tea jutustaja ise ka mitte.
 <V>Tagant selga, tagant selga, aiaroigast</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekse00470002">
+<ITEM nro="ekse00470002" y="1923">
 <META>
 <ID>EKS e 47 (2)</ID> &lt; <LOC>Tarvastu khk.</LOC> - <COL>Paul Havik</COL> &lt; <INF><NIMI>kooliõp. Pausk</NIMI></INF> (<TMP>1923</TMP>)
 <ZANR>ul</ZANR>
@@ -658,7 +658,7 @@ Pidavat olema mõistatus, kuid mis ta tähendab ei tea jutustaja ise ka mitte.
 <V>Mina väimees viie valla pääl.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="ekse00470003">
+<ITEM nro="ekse00470003" y="1923">
 <META>
 <ID>EKS e 47 (3)</ID> &lt; <LOC>Tarvastu khk.</LOC> - <COL>Paul Havik</COL> &lt; <INF><NIMI>kooliõp. Pausk</NIMI></INF> (<TMP>1923</TMP>)
 <ZANR>ul</ZANR>
